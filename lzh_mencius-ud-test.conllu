@@ -4610,9 +4610,9 @@
 
 # sent_id = KR1h0001_002_par3_97-100
 # text = 大哉言矣
-1	大	大	VERB	v,動詞,描写,量	Degree=Pos	3	dislocated	_	Gloss=big|SpaceAfter=No
+1	大	大	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=big|SpaceAfter=No
 2	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
-3	言	言	NOUN	n,名詞,可搬,伝達	_	0	root	_	Gloss=speech|SpaceAfter=No
+3	言	言	NOUN	n,名詞,可搬,伝達	_	1	dislocated	_	Gloss=speech|SpaceAfter=No
 4	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par3_101-104
@@ -4655,7 +4655,7 @@
 # sent_id = KR1h0001_002_par3_123-128
 # text = 彼惡敢當我哉
 1	彼	彼	PRON	n,代名詞,指示,*	PronType=Dem	4	nsubj	_	Gloss=that|SpaceAfter=No
-2	惡	惡	ADV	v,副詞,疑問,所在	_	4	amod	_	Gloss=how|SpaceAfter=No
+2	惡	惡	ADV	v,副詞,疑問,所在	_	4	advmod	_	Gloss=how|SpaceAfter=No
 3	敢	敢	AUX	v,助動詞,願望,*	Mood=Des	4	aux	_	Gloss=dare|SpaceAfter=No
 4	當	當	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=correspond-to|SpaceAfter=No
 5	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	4	obj	_	Gloss=[1PRON]|SpaceAfter=No
@@ -5066,7 +5066,7 @@
 1	善	善	NOUN	n,名詞,描写,態度	_	0	root	_	Gloss=good|SpaceAfter=No
 2	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 3	問	問	VERB	v,動詞,行為,伝達	_	1	dislocated	_	Gloss=ask|SpaceAfter=No
-4	也	也	PART	p,助詞,提示,*	_	3	case	_	Gloss=that-which|SpaceAfter=No
+4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par4_137-144
 # text = 天子適諸侯曰巡狩
@@ -7325,7 +7325,7 @@
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	殘	殘	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=injure|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
-7	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+7	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par12_100-102
 # text = 曾子曰
@@ -15440,10 +15440,11 @@
 
 # sent_id = KR1h0001_004_par12_5-9
 # text = 尹士語人曰
-1	尹士	尹士	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	語	語	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=tell|SpaceAfter=No
-3	人	人	NOUN	n,名詞,人,人	_	2	obj	_	Gloss=person|SpaceAfter=No
-4	曰	曰	VERB	v,動詞,行為,伝達	_	2	parataxis	_	Gloss=say|SpaceAfter=No
+1	尹	尹	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nsubj	_	Gloss=[surname]|SpaceAfter=No
+2	士	士	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
+3	語	語	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=tell|SpaceAfter=No
+4	人	人	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=person|SpaceAfter=No
+5	曰	曰	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par12_10-19
 # text = 不識王之不可以為湯武
@@ -15539,12 +15540,13 @@
 
 # sent_id = KR1h0001_004_par12_67-73
 # text = 夫尹士惡知予哉
-1	夫	夫	PART	p,助詞,句頭,*	_	4	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
-2	尹士	尹士	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-3	惡	惡	ADV	v,副詞,疑問,所在	_	4	advmod	_	Gloss=how|SpaceAfter=No
-4	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
-5	予	予	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	4	obj	_	Gloss=[1PRON]|SpaceAfter=No
-6	哉	哉	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
+1	夫	夫	PART	p,助詞,句頭,*	_	5	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
+2	尹	尹	PROPN	n,名詞,人,姓氏	NameType=Sur	5	nsubj	_	Gloss=[surname]|SpaceAfter=No
+3	士	士	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
+4	惡	惡	ADV	v,副詞,疑問,所在	_	5	advmod	_	Gloss=how|SpaceAfter=No
+5	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
+6	予	予	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	5	obj	_	Gloss=[1PRON]|SpaceAfter=No
+7	哉	哉	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par12_74-78
 # text = 千里而見王
@@ -15761,19 +15763,17 @@
 9	宿	宿	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=stay|SpaceAfter=No
 10	哉	哉	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
-# sent_id = KR1h0001_004_par12_214-217
-# text = 尹士聞之
-1	尹士	尹士	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
-3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
-
-# sent_id = KR1h0001_004_par12_218-218
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+# sent_id = KR1h0001_004_par12_214-218
+# text = 尹士聞之曰
+1	尹	尹	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nsubj	_	Gloss=[surname]|SpaceAfter=No
+2	士	士	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
+3	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
+4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
+5	曰	曰	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par12_219-223
 # text = 士誠小人也
-1	士	士	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=officer|SpaceAfter=No
+1	士	士	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos	4	advmod	_	Gloss=sincere|SpaceAfter=No
 3	小	小	VERB	v,動詞,描写,量	Degree=Pos	4	amod	_	Gloss=small|SpaceAfter=No
 4	人	人	NOUN	n,名詞,人,人	_	0	root	_	Gloss=person|SpaceAfter=No

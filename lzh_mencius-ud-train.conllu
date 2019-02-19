@@ -5949,7 +5949,7 @@
 
 # sent_id = KR1h0001_011_par8_183-198
 # text = 而以為未嘗有才焉者是豈人之情也哉
-1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
+1	而	而	CCONJ	p,助詞,接続,並列	_	14	advmod	_	Gloss=and|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	3	advmod	_	Gloss=use|SpaceAfter=No
 3	為	爲	VERB	v,動詞,行為,生産	_	9	acl	_	Gloss=make|SpaceAfter=No
 4	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	6	advmod	_	Gloss=not-yet|SpaceAfter=No
@@ -14704,9 +14704,9 @@
 
 # sent_id = KR1h0001_013_par36_23-26
 # text = 大哉居乎
-1	大	大	VERB	v,動詞,描写,量	Degree=Pos	3	dislocated	_	Gloss=big|SpaceAfter=No
+1	大	大	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=big|SpaceAfter=No
 2	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
-3	居	居	NOUN	n,名詞,固定物,建造物	Case=Loc	0	root	_	Gloss=residence|SpaceAfter=No
+3	居	居	NOUN	n,名詞,固定物,建造物	Case=Loc	1	dislocated	_	Gloss=residence|SpaceAfter=No
 4	乎	乎	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par36_27-33

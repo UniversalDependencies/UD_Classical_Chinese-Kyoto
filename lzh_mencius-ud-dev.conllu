@@ -2783,19 +2783,19 @@
 
 # sent_id = KR1h0001_005_par4_708-713
 # text = 大哉堯之為君
-1	大	大	VERB	v,動詞,描写,量	Degree=Pos	6	dislocated	_	Gloss=big|SpaceAfter=No
+1	大	大	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=big|SpaceAfter=No
 2	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 3	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	6	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
-6	君	君	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=ruler|SpaceAfter=No
+6	君	君	NOUN	n,名詞,人,役割	_	1	dislocated	_	Gloss=ruler|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par4_714-717
 # text = 惟天為大
 1	惟	惟	ADV	v,副詞,範囲,限定	_	4	advmod	_	Gloss=only|SpaceAfter=No
 2	天	天	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
-4	大	大	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=big|SpaceAfter=No
+4	大	大	NOUN	n,名詞,描写,形質	_	0	root	_	Gloss=big|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par4_718-721
 # text = 惟堯則之
@@ -2817,9 +2817,9 @@
 
 # sent_id = KR1h0001_005_par4_730-733
 # text = 君哉舜也
-1	君	君	NOUN	n,名詞,人,役割	_	3	dislocated	_	Gloss=ruler|SpaceAfter=No
+1	君	君	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=ruler|SpaceAfter=No
 2	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
-3	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	0	root	_	Gloss=[given-name]|SpaceAfter=No
+3	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	1	dislocated	_	Gloss=[given-name]|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par4_734-743
@@ -6825,20 +6825,20 @@
 # sent_id = KR1h0001_006_par9_235-240
 # text = 丕顯哉文王謨
 1	丕	丕	VERB	v,動詞,描写,態度	Degree=Pos	2	advmod	_	Gloss=great|SpaceAfter=No
-2	顯	顯	VERB	v,動詞,行為,動作	_	6	dislocated	_	Gloss=exposed|SpaceAfter=No
+2	顯	顯	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=exposed|SpaceAfter=No
 3	哉	哉	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 4	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Wen|SpaceAfter=No
 5	王	王	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=king|SpaceAfter=No
-6	謨	謨	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=plan|SpaceAfter=No
+6	謨	謨	VERB	v,動詞,行為,動作	_	2	dislocated	_	Gloss=plan|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par9_241-246
 # text = 丕承哉武王烈
 1	丕	丕	VERB	v,動詞,描写,態度	Degree=Pos	2	advmod	_	Gloss=great|SpaceAfter=No
-2	承	承	VERB	v,動詞,行為,伝達	_	6	dislocated	_	Gloss=receive|SpaceAfter=No
+2	承	承	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=receive|SpaceAfter=No
 3	哉	哉	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 4	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Wu|SpaceAfter=No
 5	王	王	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=king|SpaceAfter=No
-6	烈	烈	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=ardent|SpaceAfter=No
+6	烈	烈	VERB	v,動詞,描写,形質	Degree=Pos	2	dislocated	_	Gloss=ardent|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par9_247-251
 # text = 佑啟我後人
@@ -16584,7 +16584,7 @@
 3	此	此	PRON	n,代名詞,指示,*	PronType=Dem	4	det	_	Gloss=this|SpaceAfter=No
 4	語	語	NOUN	n,名詞,可搬,伝達	_	6	nsubj	_	Gloss=word|SpaceAfter=No
 5	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos	6	advmod	_	Gloss=sincere|SpaceAfter=No
-6	然	然	VERB	v,動詞,描写,態度	Degree=Pos	2	ccomp	_	Gloss=like-this|SpaceAfter=No
+6	然	然	VERB	v,動詞,描写,態度	Degree=Pos	2	parataxis	_	Gloss=like-this|SpaceAfter=No
 7	乎	乎	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 8	哉	哉	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
@@ -18266,27 +18266,24 @@
 6	聘	聘	VERB	v,動詞,行為,交流	_	2	xcomp	_	Gloss=invite|SpaceAfter=No
 7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
-# sent_id = KR1h0001_009_par7_89-91
-# text = 囂囂然
-1	囂	囂	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=clamour|SpaceAfter=No
+# sent_id = KR1h0001_009_par7_89-92
+# text = 囂囂然曰
+1	囂	囂	VERB	v,動詞,描写,態度	Degree=Pos	3	advmod	_	Gloss=clamour|SpaceAfter=No
 2	囂	囂	VERB	v,動詞,描写,態度	Degree=Pos	1	flat:vv	_	Gloss=clamour|SpaceAfter=No
-3	然	然	VERB	v,動詞,描写,態度	Degree=Pos	1	flat:vv	_	Gloss=like-this|SpaceAfter=No
-
-# sent_id = KR1h0001_009_par7_92-92
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+3	然	然	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=like-this|SpaceAfter=No
+4	曰	曰	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par7_93-101
 # text = 我何以湯之聘幣為哉
 1	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	3	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
 2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
-3	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
+3	以	以	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=use|SpaceAfter=No
 4	湯	湯	PROPN	n,名詞,人,名	NameType=Giv	7	nmod	_	Gloss=[given-name]|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	聘	聘	VERB	v,動詞,行為,交流	_	7	amod	_	Gloss=invite|SpaceAfter=No
 7	幣	幣	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=money|SpaceAfter=No
-8	為	爲	VERB	v,動詞,行為,生産	_	3	conj	_	Gloss=make|SpaceAfter=No
-9	哉	哉	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
+8	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
+9	哉	哉	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par7_102-109
 # text = 我豈若處畎畝之中
