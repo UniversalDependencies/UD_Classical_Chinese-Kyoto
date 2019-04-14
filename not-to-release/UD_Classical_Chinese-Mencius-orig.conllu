@@ -16155,7 +16155,7 @@
 117	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	118	det	_	Gloss=[3PRON]|SpaceAfter=No
 118	麗	麗	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=encounter|SpaceAfter=No
 119	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	120	advmod	_	Gloss=not|SpaceAfter=No
-120	億	億	NUM	n,数詞,数字,*	_	118	nummod	_	Gloss=hundred-million|SpaceAfter=No
+120	億	億	NUM	n,数詞,数字,*	_	118	nummod	_	Gloss=hundred-thousand|SpaceAfter=No
 121	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	122	compound	_	Gloss=up|SpaceAfter=No
 122	帝	帝	NOUN	n,名詞,人,役割	_	124	nsubj	_	Gloss=emperor|SpaceAfter=No
 123	既	既	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	124	advmod	_	Gloss=already|SpaceAfter=No
