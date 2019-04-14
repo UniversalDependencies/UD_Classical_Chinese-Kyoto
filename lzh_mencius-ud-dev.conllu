@@ -9072,7 +9072,7 @@
 
 # sent_id = KR1h0001_007_par7_119-122
 # text = 其麗不億
-1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	det	_	Gloss=[3PRON]|SpaceAfter=No
+1	其	其	PART	p,助詞,句頭,*	_	2	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
 2	麗	麗	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=encounter|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	億	億	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=hundred-thousand|SpaceAfter=No

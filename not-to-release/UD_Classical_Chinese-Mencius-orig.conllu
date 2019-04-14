@@ -16152,7 +16152,7 @@
 114	之	之	SCONJ	p,助詞,接続,属格	_	113	case	_	Gloss='s|SpaceAfter=No
 115	孫	孫	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=grandson|SpaceAfter=No
 116	子	子	NOUN	n,名詞,人,関係	_	115	flat	_	Gloss=child|SpaceAfter=No
-117	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	118	det	_	Gloss=[3PRON]|SpaceAfter=No
+117	其	其	PART	p,助詞,句頭,*	_	118	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
 118	麗	麗	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=encounter|SpaceAfter=No
 119	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	120	advmod	_	Gloss=not|SpaceAfter=No
 120	億	億	NUM	n,数詞,数字,*	_	118	nummod	_	Gloss=hundred-thousand|SpaceAfter=No
