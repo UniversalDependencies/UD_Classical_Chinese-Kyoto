@@ -13268,11 +13268,11 @@
 
 # sent_id = KR1h0001_013_par21_71-75
 # text = 睟然見於面
-1	睟	睟	VERB	v,動詞,描写,態度	Degree=Pos	3	advcl	_	Gloss=candid|SpaceAfter=No
+1	睟	睟	VERB	v,動詞,描写,態度	Degree=Pos	3	advmod	_	Gloss=candid|SpaceAfter=No
 2	然	然	PART	p,接尾辞,*,*	_	1	fixed	_	Gloss=[suffix]|SpaceAfter=No
 3	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	面	面	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=face|SpaceAfter=No
+5	面	面	NOUN	n,名詞,不可譲,身体	_	3	obl	_	Gloss=face|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par21_76-78
 # text = 盎於背
@@ -18506,7 +18506,7 @@
 1	而	而	CCONJ	p,助詞,接続,並列	_	5	advmod	_	Gloss=and|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	掩	掩	VERB	v,動詞,行為,動作	_	5	acl	_	Gloss=cover|SpaceAfter=No
-4	焉	焉	PART	p,接尾辞,*,*	_	3	fixed	_	Gloss=[suffix]|SpaceAfter=No
+4	焉	焉	PRON	n,代名詞,指示,*	PronType=Dem	3	obl	_	Gloss=there|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	0	root	_	Gloss=that-which|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
