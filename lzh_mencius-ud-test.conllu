@@ -1608,7 +1608,7 @@
 2	苗	苗	NOUN	n,名詞,固定物,樹木	_	5	nsubj	_	Gloss=seedling|SpaceAfter=No
 3	浡	浡	VERB	v,動詞,描写,形質	Degree=Pos	5	advmod	_	Gloss=burst-forth|SpaceAfter=No
 4	然	然	PART	p,接尾辞,*,*	_	3	fixed	_	Gloss=[suffix]|SpaceAfter=No
-5	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+5	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 6	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	5	obj	_	Gloss=[3PRON]|SpaceAfter=No
 7	矣	矣	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -2743,7 +2743,7 @@
 # text = 抑王興甲兵
 1	抑	抑	ADV	v,副詞,判断,逆接	_	3	advmod	_	Gloss=or|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
-3	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+3	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 4	甲	甲	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=shell|SpaceAfter=No
 5	兵	兵	NOUN	n,名詞,人,役割	_	4	conj	_	Gloss=soldier|SpaceAfter=No
 
@@ -5354,7 +5354,7 @@
 1	於	於	ADP	v,前置詞,基盤,*	_	2	case	_	Gloss=at|SpaceAfter=No
 2	是	是	PRON	n,代名詞,指示,*	PronType=Dem	4	obl	_	Gloss=this|SpaceAfter=No
 3	始	始	VERB	v,動詞,行為,動作	_	4	advmod	_	Gloss=begin|SpaceAfter=No
-4	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+4	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 5	發	發	VERB	v,動詞,行為,動作	_	4	flat:vv	_	Gloss=emit|SpaceAfter=No
 6	補	補	VERB	v,動詞,行為,動作	_	4	conj	_	Gloss=mend|SpaceAfter=No
 7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
@@ -15858,7 +15858,7 @@
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 5	王	王	NOUN	n,名詞,人,役割	_	6	nmod	_	Gloss=king|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
-7	興	興	VERB	v,動詞,行為,動作	_	4	ccomp	_	Gloss=interest|SpaceAfter=No
+7	興	興	VERB	v,動詞,行為,動作	_	4	ccomp	_	Gloss=rise|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par13_50-56
 # text = 其間必有名世者

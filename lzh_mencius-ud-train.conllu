@@ -4824,67 +4824,55 @@
 1	或	或	PRON	n,代名詞,人称,起格	PronType=Prs	2	nsubj	_	Gloss=someone|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
-# sent_id = KR1h0001_011_par6_17-21
-# text = 性可以為善
+# sent_id = KR1h0001_011_par6_17-26
+# text = 性可以為善可以為不善
 1	性	性	NOUN	n,名詞,不可譲,属性	_	4	nsubj	_	Gloss=nature|SpaceAfter=No
 2	可	可	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	Gloss=possible|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	2	advmod	_	Gloss=use|SpaceAfter=No
 4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 5	善	善	VERB	v,動詞,描写,態度	Degree=Pos	4	obj	_	Gloss=good|SpaceAfter=No
+6	可	可	AUX	v,助動詞,可能,*	Mood=Pot	8	aux	_	Gloss=possible|SpaceAfter=No
+7	以	以	VERB	v,動詞,行為,動作	_	6	advmod	_	Gloss=use|SpaceAfter=No
+8	為	爲	VERB	v,動詞,行為,生産	_	4	parataxis	_	Gloss=make|SpaceAfter=No
+9	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	10	advmod	_	Gloss=not|SpaceAfter=No
+10	善	善	VERB	v,動詞,描写,態度	Degree=Pos	8	ccomp	_	Gloss=good|SpaceAfter=No
 
-# sent_id = KR1h0001_011_par6_22-26
-# text = 可以為不善
-1	可	可	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=possible|SpaceAfter=No
-2	以	以	VERB	v,動詞,行為,動作	_	1	advmod	_	Gloss=use|SpaceAfter=No
-3	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-5	善	善	VERB	v,動詞,描写,態度	Degree=Pos	3	ccomp	_	Gloss=good|SpaceAfter=No
-
-# sent_id = KR1h0001_011_par6_27-31
-# text = 是故文武興
+# sent_id = KR1h0001_011_par6_27-35
+# text = 是故文武興則民好善
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	5	advmod	_	Gloss=reason|SpaceAfter=No
-3	文	文	VERB	v,動詞,描写,態度	Degree=Pos	5	nsubj	_	Gloss=civil|SpaceAfter=No
-4	武	武	VERB	v,動詞,描写,態度	Degree=Pos	3	flat:vv	_	Gloss=martial|SpaceAfter=No
-5	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,*	_	8	advmod	_	Gloss=reason|SpaceAfter=No
+3	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	nsubj	_	Gloss=Wen|SpaceAfter=No
+4	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	conj	_	Gloss=Wu|SpaceAfter=No
+5	興	興	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=rise|SpaceAfter=No
+6	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
+7	民	民	NOUN	n,名詞,人,人	_	8	nsubj	_	Gloss=people|SpaceAfter=No
+8	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
+9	善	善	VERB	v,動詞,描写,態度	Degree=Pos	8	obj	_	Gloss=good|SpaceAfter=No
 
-# sent_id = KR1h0001_011_par6_32-35
-# text = 則民好善
-1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
-2	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
-3	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
-4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	3	obj	_	Gloss=good|SpaceAfter=No
-
-# sent_id = KR1h0001_011_par6_36-38
-# text = 幽厲興
+# sent_id = KR1h0001_011_par6_36-42
+# text = 幽厲興則民好暴
 1	幽	幽	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	厲	厲	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-3	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
-
-# sent_id = KR1h0001_011_par6_39-42
-# text = 則民好暴
-1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
-2	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
-3	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
-4	暴	暴	VERB	v,動詞,描写,態度	Degree=Pos	3	obj	_	Gloss=expose|SpaceAfter=No
+3	興	興	VERB	v,動詞,行為,動作	_	6	advcl	_	Gloss=rise|SpaceAfter=No
+4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	Gloss=then|SpaceAfter=No
+5	民	民	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=people|SpaceAfter=No
+6	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
+7	暴	暴	VERB	v,動詞,描写,態度	Degree=Pos	6	obj	_	Gloss=expose|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par6_43-44
 # text = 或曰
 1	或	或	PRON	n,代名詞,人称,起格	PronType=Prs	2	advmod	_	Gloss=someone|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
-# sent_id = KR1h0001_011_par6_45-47
-# text = 有性善
+# sent_id = KR1h0001_011_par6_45-51
+# text = 有性善有性不善
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 2	性	性	NOUN	n,名詞,不可譲,属性	_	3	nsubj	_	Gloss=nature|SpaceAfter=No
 3	善	善	VERB	v,動詞,描写,態度	Degree=Pos	1	ccomp	_	Gloss=good|SpaceAfter=No
-
-# sent_id = KR1h0001_011_par6_48-51
-# text = 有性不善
-1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-2	性	性	NOUN	n,名詞,不可譲,属性	_	4	nsubj	_	Gloss=nature|SpaceAfter=No
-3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	1	ccomp	_	Gloss=good|SpaceAfter=No
+4	有	有	VERB	v,動詞,存在,存在	_	1	parataxis	_	Gloss=have|SpaceAfter=No
+5	性	性	NOUN	n,名詞,不可譲,属性	_	7	nsubj	_	Gloss=nature|SpaceAfter=No
+6	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
+7	善	善	VERB	v,動詞,描写,態度	Degree=Pos	4	ccomp	_	Gloss=good|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par6_52-60
 # text = 是故以堯為君而有象
@@ -12465,7 +12453,7 @@
 3	王	王	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=king|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 5	後	後	NOUN	n,名詞,時,*	Case=Tem	6	advmod	_	Gloss=after|SpaceAfter=No
-6	興	興	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=interest|SpaceAfter=No
+6	興	興	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=rise|SpaceAfter=No
 7	者	者	PART	p,助詞,提示,*	_	9	nsubj	_	Gloss=that-which|SpaceAfter=No
 8	凡	凡	VERB	v,動詞,描写,形質	Degree=Pos	9	amod	_	Gloss=ordinary|SpaceAfter=No
 9	民	民	NOUN	n,名詞,人,人	_	0	root	_	Gloss=people|SpaceAfter=No
@@ -12484,7 +12472,7 @@
 9	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	10	compound	_	Gloss=Wen|SpaceAfter=No
 10	王	王	NOUN	n,名詞,人,役割	_	8	obj	_	Gloss=king|SpaceAfter=No
 11	猶	猶	ADV	v,副詞,頻度,重複	_	12	advmod	_	Gloss=yet|SpaceAfter=No
-12	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpacesAfter=\n
+12	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpacesAfter=\n
 
 # newpar
 # sent_id = KR1h0001_013_par11_1-3
@@ -13322,7 +13310,7 @@
 2	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Wen|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=king|SpaceAfter=No
 4	作	作	VERB	v,動詞,行為,生産	_	1	ccomp	_	Gloss=make|SpaceAfter=No
-5	興	興	VERB	v,動詞,行為,動作	_	4	conj	_	Gloss=interest|SpaceAfter=No
+5	興	興	VERB	v,動詞,行為,動作	_	4	obj	_	Gloss=rise|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par22_18-18
 # text = 曰
@@ -13366,7 +13354,7 @@
 2	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Wen|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=king|SpaceAfter=No
 4	作	作	VERB	v,動詞,行為,生産	_	1	ccomp	_	Gloss=make|SpaceAfter=No
-5	興	興	VERB	v,動詞,行為,動作	_	4	conj	_	Gloss=interest|SpaceAfter=No
+5	興	興	VERB	v,動詞,行為,動作	_	4	obj	_	Gloss=rise|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par22_45-45
 # text = 曰
@@ -16549,7 +16537,7 @@
 6	者	者	PART	p,助詞,提示,*	_	9	nsubj	_	Gloss=that-which|SpaceAfter=No
 7	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	9	advmod	_	Gloss=none|SpaceAfter=No
 8	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	9	advmod	_	Gloss=not|SpaceAfter=No
-9	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+9	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 10	起	起	VERB	v,動詞,行為,動作	_	9	flat:vv	_	Gloss=arise|SpaceAfter=No
 11	也	也	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -18928,21 +18916,18 @@
 3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
 4	庶	庶	VERB	v,動詞,描写,量	Degree=Pos	5	amod	_	Gloss=common|SpaceAfter=No
 5	民	民	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=people|SpaceAfter=No
-6	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+6	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 
-# sent_id = KR1h0001_014_par37_396-398
-# text = 庶民興
+# sent_id = KR1h0001_014_par37_396-403
+# text = 庶民興斯無邪慝矣
 1	庶	庶	VERB	v,動詞,描写,量	Degree=Pos	2	amod	_	Gloss=common|SpaceAfter=No
 2	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
-3	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
-
-# sent_id = KR1h0001_014_par37_399-403
-# text = 斯無邪慝矣
-1	斯	斯	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
-2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-3	邪	邪	NOUN	n,名詞,描写,態度	_	2	obj	_	Gloss=evil|SpaceAfter=No
-4	慝	慝	NOUN	n,名詞,描写,態度	_	3	conj	_	Gloss=evil|SpaceAfter=No
-5	矣	矣	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
+3	興	興	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=rise|SpaceAfter=No
+4	斯	斯	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
+5	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+6	邪	邪	NOUN	n,名詞,描写,態度	_	5	obj	_	Gloss=evil|SpaceAfter=No
+7	慝	慝	NOUN	n,名詞,描写,態度	_	6	conj	_	Gloss=evil|SpaceAfter=No
+8	矣	矣	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
 
 # newpar
 # sent_id = KR1h0001_014_par38_1-3

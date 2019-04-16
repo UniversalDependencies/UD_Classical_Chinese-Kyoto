@@ -1073,7 +1073,7 @@
 90	苗	苗	NOUN	n,名詞,固定物,樹木	_	93	nsubj	_	Gloss=seedling|SpaceAfter=No
 91	浡	浡	VERB	v,動詞,描写,形質	Degree=Pos	93	advmod	_	Gloss=burst-forth|SpaceAfter=No
 92	然	然	PART	p,接尾辞,*,*	_	91	fixed	_	Gloss=[suffix]|SpaceAfter=No
-93	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+93	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 94	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	93	obj	_	Gloss=[3PRON]|SpaceAfter=No
 95	矣	矣	PART	p,助詞,句末,*	_	93	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 96	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	97	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -1820,7 +1820,7 @@
 680	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	679	obj	_	Gloss=[3PRON]|SpaceAfter=No
 681	抑	抑	ADV	v,副詞,判断,逆接	_	683	advmod	_	Gloss=or|SpaceAfter=No
 682	王	王	NOUN	n,名詞,人,役割	_	683	nsubj	_	Gloss=king|SpaceAfter=No
-683	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+683	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 684	甲	甲	NOUN	n,名詞,可搬,道具	_	683	obj	_	Gloss=shell|SpaceAfter=No
 685	兵	兵	NOUN	n,名詞,人,役割	_	684	conj	_	Gloss=soldier|SpaceAfter=No
 686	危	危	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=dangerous|SpaceAfter=No
@@ -3523,7 +3523,7 @@
 306	於	於	ADP	v,前置詞,基盤,*	_	307	case	_	Gloss=at|SpaceAfter=No
 307	是	是	PRON	n,代名詞,指示,*	PronType=Dem	309	obl	_	Gloss=this|SpaceAfter=No
 308	始	始	VERB	v,動詞,行為,動作	_	309	advmod	_	Gloss=begin|SpaceAfter=No
-309	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+309	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 310	發	發	VERB	v,動詞,行為,動作	_	309	flat:vv	_	Gloss=emit|SpaceAfter=No
 311	補	補	VERB	v,動詞,行為,動作	_	309	conj	_	Gloss=mend|SpaceAfter=No
 312	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	313	advmod	_	Gloss=not|SpaceAfter=No
@@ -10307,7 +10307,7 @@
 41	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 42	王	王	NOUN	n,名詞,人,役割	_	43	nmod	_	Gloss=king|SpaceAfter=No
 43	者	者	PART	p,助詞,提示,*	_	44	nsubj	_	Gloss=that-which|SpaceAfter=No
-44	興	興	VERB	v,動詞,行為,動作	_	41	ccomp	_	Gloss=interest|SpaceAfter=No
+44	興	興	VERB	v,動詞,行為,動作	_	41	ccomp	_	Gloss=rise|SpaceAfter=No
 45	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	46	det	_	Gloss=[3PRON]|SpaceAfter=No
 46	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	48	advmod	_	Gloss=between|SpaceAfter=No
 47	必	必	ADV	v,副詞,判断,確定	_	48	advmod	_	Gloss=necessarily|SpaceAfter=No
@@ -15631,7 +15631,7 @@
 283	學	學	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=study|SpaceAfter=No
 284	賊	賊	VERB	v,動詞,行為,動作	_	285	amod	_	Gloss=bandit|SpaceAfter=No
 285	民	民	NOUN	n,名詞,人,人	_	286	nsubj	_	Gloss=people|SpaceAfter=No
-286	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+286	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 287	喪	喪	NOUN	n,名詞,制度,儀礼	_	288	nsubj	_	Gloss=mourning|SpaceAfter=No
 288	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 289	日	日	NOUN	n,名詞,時,*	Case=Tem	288	obj	_	Gloss=day|SpaceAfter=No
@@ -15851,7 +15851,7 @@
 22	所	所	PART	p,助詞,接続,体言化	_	23	case	_	Gloss=that-which|SpaceAfter=No
 23	以	以	VERB	v,動詞,行為,動作	_	24	advmod	_	Gloss=use|SpaceAfter=No
 24	廢	廢	VERB	v,動詞,変化,制度	_	28	acl	_	Gloss=abolish|SpaceAfter=No
-25	興	興	VERB	v,動詞,行為,動作	_	24	conj	_	Gloss=interest|SpaceAfter=No
+25	興	興	VERB	v,動詞,行為,動作	_	24	conj	_	Gloss=rise|SpaceAfter=No
 26	存	存	VERB	v,動詞,存在,存在	_	24	conj	_	Gloss=exist|SpaceAfter=No
 27	亡	亡	VERB	v,動詞,変化,生物	_	24	conj	_	Gloss=be-lost|SpaceAfter=No
 28	者	者	PART	p,助詞,提示,*	_	30	nsubj	_	Gloss=that-which|SpaceAfter=No
@@ -16765,7 +16765,7 @@
 12	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	13	compound	_	Gloss=Wen|SpaceAfter=No
 13	王	王	NOUN	n,名詞,人,役割	_	14	nsubj	_	Gloss=king|SpaceAfter=No
 14	作	作	VERB	v,動詞,行為,生産	_	11	ccomp	_	Gloss=make|SpaceAfter=No
-15	興	興	VERB	v,動詞,行為,動作	_	16	advmod	_	Gloss=interest|SpaceAfter=No
+15	興	興	VERB	v,動詞,行為,動作	_	14	obj	_	Gloss=rise|SpaceAfter=No
 16	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 17	盍	盍	ADV	v,副詞,疑問,原因	AdvType=Cau	18	advmod	_	Gloss=why-not|SpaceAfter=No
 18	歸	歸	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=return|SpaceAfter=No
@@ -16791,7 +16791,7 @@
 38	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	39	compound	_	Gloss=Wen|SpaceAfter=No
 39	王	王	NOUN	n,名詞,人,役割	_	40	nsubj	_	Gloss=king|SpaceAfter=No
 40	作	作	VERB	v,動詞,行為,生産	_	37	ccomp	_	Gloss=make|SpaceAfter=No
-41	興	興	VERB	v,動詞,行為,動作	_	42	advmod	_	Gloss=interest|SpaceAfter=No
+41	興	興	VERB	v,動詞,行為,動作	_	40	obj	_	Gloss=rise|SpaceAfter=No
 42	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 43	盍	盍	ADV	v,副詞,疑問,原因	AdvType=Cau	44	advmod	_	Gloss=why-not|SpaceAfter=No
 44	歸	歸	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=return|SpaceAfter=No
@@ -25799,21 +25799,21 @@
 18	善	善	VERB	v,動詞,描写,態度	Degree=Pos	17	obj	_	Gloss=good|SpaceAfter=No
 19	可	可	AUX	v,助動詞,可能,*	Mood=Pot	21	aux	_	Gloss=possible|SpaceAfter=No
 20	以	以	VERB	v,動詞,行為,動作	_	19	advmod	_	Gloss=use|SpaceAfter=No
-21	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
+21	為	爲	VERB	v,動詞,行為,生産	_	17	parataxis	_	Gloss=make|SpaceAfter=No
 22	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	23	advmod	_	Gloss=not|SpaceAfter=No
 23	善	善	VERB	v,動詞,描写,態度	Degree=Pos	21	ccomp	_	Gloss=good|SpaceAfter=No
 24	是	是	PRON	n,代名詞,指示,*	PronType=Dem	25	det	_	Gloss=this|SpaceAfter=No
-25	故	故	NOUN	n,名詞,思考,*	_	28	advmod	_	Gloss=reason|SpaceAfter=No
-26	文	文	VERB	v,動詞,描写,態度	Degree=Pos	28	nsubj	_	Gloss=civil|SpaceAfter=No
-27	武	武	VERB	v,動詞,描写,態度	Degree=Pos	26	flat:vv	_	Gloss=martial|SpaceAfter=No
-28	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+25	故	故	NOUN	n,名詞,思考,*	_	31	advmod	_	Gloss=reason|SpaceAfter=No
+26	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	28	nsubj	_	Gloss=Wen|SpaceAfter=No
+27	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	26	conj	_	Gloss=Wu|SpaceAfter=No
+28	興	興	VERB	v,動詞,行為,動作	_	31	advcl	_	Gloss=rise|SpaceAfter=No
 29	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	30	advmod	_	Gloss=then|SpaceAfter=No
 30	民	民	NOUN	n,名詞,人,人	_	31	nsubj	_	Gloss=people|SpaceAfter=No
 31	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
 32	善	善	VERB	v,動詞,描写,態度	Degree=Pos	31	obj	_	Gloss=good|SpaceAfter=No
 33	幽	幽	PROPN	n,名詞,人,名	NameType=Giv	35	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 34	厲	厲	PROPN	n,名詞,人,名	NameType=Giv	33	conj	_	Gloss=[given-name]|SpaceAfter=No
-35	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+35	興	興	VERB	v,動詞,行為,動作	_	38	advcl	_	Gloss=rise|SpaceAfter=No
 36	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	38	advmod	_	Gloss=then|SpaceAfter=No
 37	民	民	NOUN	n,名詞,人,人	_	38	nsubj	_	Gloss=people|SpaceAfter=No
 38	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
@@ -25823,7 +25823,7 @@
 42	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 43	性	性	NOUN	n,名詞,不可譲,属性	_	44	nsubj	_	Gloss=nature|SpaceAfter=No
 44	善	善	VERB	v,動詞,描写,態度	Degree=Pos	42	ccomp	_	Gloss=good|SpaceAfter=No
-45	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
+45	有	有	VERB	v,動詞,存在,存在	_	42	parataxis	_	Gloss=have|SpaceAfter=No
 46	性	性	NOUN	n,名詞,不可譲,属性	_	48	nsubj	_	Gloss=nature|SpaceAfter=No
 47	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	48	advmod	_	Gloss=not|SpaceAfter=No
 48	善	善	VERB	v,動詞,描写,態度	Degree=Pos	45	ccomp	_	Gloss=good|SpaceAfter=No
@@ -30794,7 +30794,7 @@
 5	王	王	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=king|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	8	cc	_	Gloss=and|SpaceAfter=No
 7	後	後	NOUN	n,名詞,時,*	Case=Tem	8	advmod	_	Gloss=after|SpaceAfter=No
-8	興	興	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=interest|SpaceAfter=No
+8	興	興	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=rise|SpaceAfter=No
 9	者	者	PART	p,助詞,提示,*	_	11	nsubj	_	Gloss=that-which|SpaceAfter=No
 10	凡	凡	VERB	v,動詞,描写,形質	Degree=Pos	11	amod	_	Gloss=ordinary|SpaceAfter=No
 11	民	民	NOUN	n,名詞,人,人	_	0	root	_	Gloss=people|SpaceAfter=No
@@ -30810,7 +30810,7 @@
 21	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	22	compound	_	Gloss=Wen|SpaceAfter=No
 22	王	王	NOUN	n,名詞,人,役割	_	20	obj	_	Gloss=king|SpaceAfter=No
 23	猶	猶	ADV	v,副詞,頻度,重複	_	24	advmod	_	Gloss=yet|SpaceAfter=No
-24	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpacesAfter=\n
+24	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpacesAfter=\n
 
 # newpar
 # text = 孟子曰附之以韓魏之家如其自視欿然則過人遠矣
@@ -31372,7 +31372,7 @@
 12	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	13	compound	_	Gloss=Wen|SpaceAfter=No
 13	王	王	NOUN	n,名詞,人,役割	_	14	nsubj	_	Gloss=king|SpaceAfter=No
 14	作	作	VERB	v,動詞,行為,生産	_	11	ccomp	_	Gloss=make|SpaceAfter=No
-15	興	興	VERB	v,動詞,行為,動作	_	14	conj	_	Gloss=interest|SpaceAfter=No
+15	興	興	VERB	v,動詞,行為,動作	_	14	obj	_	Gloss=rise|SpaceAfter=No
 16	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 17	盍	盍	ADV	v,副詞,疑問,原因	AdvType=Cau	18	advmod	_	Gloss=why-not|SpaceAfter=No
 18	歸	歸	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=return|SpaceAfter=No
@@ -31398,7 +31398,7 @@
 38	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	39	compound	_	Gloss=Wen|SpaceAfter=No
 39	王	王	NOUN	n,名詞,人,役割	_	40	nsubj	_	Gloss=king|SpaceAfter=No
 40	作	作	VERB	v,動詞,行為,生産	_	37	ccomp	_	Gloss=make|SpaceAfter=No
-41	興	興	VERB	v,動詞,行為,動作	_	40	conj	_	Gloss=interest|SpaceAfter=No
+41	興	興	VERB	v,動詞,行為,動作	_	40	obj	_	Gloss=rise|SpaceAfter=No
 42	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 43	盍	盍	ADV	v,副詞,疑問,原因	AdvType=Cau	44	advmod	_	Gloss=why-not|SpaceAfter=No
 44	歸	歸	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=return|SpaceAfter=No
@@ -33488,7 +33488,7 @@
 52	者	者	PART	p,助詞,提示,*	_	55	nsubj	_	Gloss=that-which|SpaceAfter=No
 53	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	55	advmod	_	Gloss=none|SpaceAfter=No
 54	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	55	advmod	_	Gloss=not|SpaceAfter=No
-55	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+55	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 56	起	起	VERB	v,動詞,行為,動作	_	55	flat:vv	_	Gloss=arise|SpaceAfter=No
 57	也	也	PART	p,助詞,句末,*	_	55	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 58	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	60	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
@@ -35014,10 +35014,10 @@
 379	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	381	advmod	_	Gloss=then|SpaceAfter=No
 380	庶	庶	VERB	v,動詞,描写,量	Degree=Pos	381	amod	_	Gloss=common|SpaceAfter=No
 381	民	民	NOUN	n,名詞,人,人	_	382	nsubj	_	Gloss=people|SpaceAfter=No
-382	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+382	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rise|SpaceAfter=No
 383	庶	庶	VERB	v,動詞,描写,量	Degree=Pos	384	amod	_	Gloss=common|SpaceAfter=No
 384	民	民	NOUN	n,名詞,人,人	_	385	nsubj	_	Gloss=people|SpaceAfter=No
-385	興	興	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=interest|SpaceAfter=No
+385	興	興	VERB	v,動詞,行為,動作	_	387	advcl	_	Gloss=rise|SpaceAfter=No
 386	斯	斯	ADV	v,副詞,時相,緊接	AdvType=Tim	387	advmod	_	Gloss=then|SpaceAfter=No
 387	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 388	邪	邪	NOUN	n,名詞,描写,態度	_	387	obj	_	Gloss=evil|SpaceAfter=No
