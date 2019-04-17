@@ -17523,7 +17523,7 @@
 # sent_id = KR1h0001_009_par5_322-324
 # text = 是篡也
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	nsubj	_	Gloss=this|SpaceAfter=No
-2	篡	篡	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
+2	篡	簒	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
 3	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_325-328

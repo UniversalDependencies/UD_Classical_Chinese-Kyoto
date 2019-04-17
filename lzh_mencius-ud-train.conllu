@@ -2057,7 +2057,7 @@
 # text = 事道奚獵較也
 1	事	事	VERB	v,動詞,行為,交流	_	4	advcl	_	Gloss=serve|SpaceAfter=No
 2	道	道	NOUN	n,名詞,制度,儀礼	_	1	obj	_	Gloss=doctrine|SpaceAfter=No
-3	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	4	nsubj	_	Gloss=how|SpaceAfter=No
+3	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	4	advmod	_	Gloss=how|SpaceAfter=No
 4	獵	獵	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hunt|SpaceAfter=No
 5	較	較	VERB	v,動詞,行為,動作	_	4	flat:vv	_	Gloss=compare|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -11189,11 +11189,11 @@
 
 # sent_id = KR1h0001_012_par13_42-49
 # text = 然則奚為喜而不寐
-1	然	然	VERB	v,動詞,描写,態度	Degree=Pos	4	advmod	_	Gloss=like-this|SpaceAfter=No
-2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
-3	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	4	nsubj	_	Gloss=how|SpaceAfter=No
-4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-5	喜	喜	VERB	v,動詞,行為,動作	_	4	ccomp	_	Gloss=pleased|SpaceAfter=No
+1	然	然	VERB	v,動詞,描写,態度	Degree=Pos	5	advmod	_	Gloss=like-this|SpaceAfter=No
+2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
+3	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	5	obl	_	Gloss=how|SpaceAfter=No
+4	為	爲	ADP	v,前置詞,源泉,*	_	3	case	_	Gloss=for|SpaceAfter=No
+5	喜	喜	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pleased|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	8	cc	_	Gloss=and|SpaceAfter=No
 7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
 8	寐	寐	VERB	v,動詞,行為,動作	_	5	conj	_	Gloss=sleep|SpaceAfter=No
@@ -14243,7 +14243,7 @@
 4	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 5	志	志	NOUN	n,名詞,思考,*	_	1	obj	_	Gloss=aim|SpaceAfter=No
 6	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-7	篡	篡	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
+7	篡	簒	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
 8	也	也	PART	p,助詞,句末,*	_	7	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
 
 # newpar
@@ -15900,9 +15900,9 @@
 
 # sent_id = KR1h0001_014_par4_42-45
 # text = 奚為後我
-1	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	2	nsubj	_	Gloss=how|SpaceAfter=No
-2	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-3	後	後	VERB	v,動詞,行為,移動	_	2	ccomp	_	Gloss=back|SpaceAfter=No
+1	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	3	obl	_	Gloss=how|SpaceAfter=No
+2	為	爲	ADP	v,前置詞,源泉,*	_	1	case	_	Gloss=for|SpaceAfter=No
+3	後	後	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=back|SpaceAfter=No
 4	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	3	obj	_	Gloss=[1PRON]|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par4_46-51

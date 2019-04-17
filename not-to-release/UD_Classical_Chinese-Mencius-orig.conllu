@@ -21614,7 +21614,7 @@
 318	之	之	SCONJ	p,助詞,接続,属格	_	317	case	_	Gloss='s|SpaceAfter=No
 319	子	子	NOUN	n,名詞,人,関係	_	316	obj	_	Gloss=child|SpaceAfter=No
 320	是	是	PRON	n,代名詞,指示,*	PronType=Dem	321	nsubj	_	Gloss=this|SpaceAfter=No
-321	篡	篡	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
+321	篡	簒	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
 322	也	也	PART	p,助詞,句末,*	_	321	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 323	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	325	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
 324	天	天	NOUN	n,名詞,制度,場	_	325	nsubj	_	Gloss=heaven|SpaceAfter=No
@@ -24034,7 +24034,7 @@
 286	也	也	PART	p,助詞,句末,*	_	284	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 287	事	事	VERB	v,動詞,行為,交流	_	290	advcl	_	Gloss=serve|SpaceAfter=No
 288	道	道	NOUN	n,名詞,制度,儀礼	_	287	obj	_	Gloss=doctrine|SpaceAfter=No
-289	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	290	nsubj	_	Gloss=how|SpaceAfter=No
+289	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	290	advmod	_	Gloss=how|SpaceAfter=No
 290	獵	獵	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hunt|SpaceAfter=No
 291	較	較	VERB	v,動詞,行為,動作	_	290	flat:vv	_	Gloss=compare|SpaceAfter=No
 292	也	也	PART	p,助詞,句末,*	_	290	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -29967,11 +29967,11 @@
 33	乎	乎	PART	p,助詞,句末,*	_	30	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 34	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 35	否	否	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=not-so|SpaceAfter=No
-36	然	然	VERB	v,動詞,描写,態度	Degree=Pos	39	advmod	_	Gloss=like-this|SpaceAfter=No
-37	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	39	advmod	_	Gloss=then|SpaceAfter=No
-38	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	39	nsubj	_	Gloss=how|SpaceAfter=No
-39	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-40	喜	喜	VERB	v,動詞,行為,動作	_	39	ccomp	_	Gloss=pleased|SpaceAfter=No
+36	然	然	VERB	v,動詞,描写,態度	Degree=Pos	40	advmod	_	Gloss=like-this|SpaceAfter=No
+37	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	40	advmod	_	Gloss=then|SpaceAfter=No
+38	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	40	obl	_	Gloss=how|SpaceAfter=No
+39	為	爲	ADP	v,前置詞,源泉,*	_	38	case	_	Gloss=for|SpaceAfter=No
+40	喜	喜	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pleased|SpaceAfter=No
 41	而	而	CCONJ	p,助詞,接続,並列	_	43	cc	_	Gloss=and|SpaceAfter=No
 42	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	43	advmod	_	Gloss=not|SpaceAfter=No
 43	寐	寐	VERB	v,動詞,行為,動作	_	40	conj	_	Gloss=sleep|SpaceAfter=No
@@ -31993,7 +31993,7 @@
 56	之	之	SCONJ	p,助詞,接続,属格	_	54	case	_	Gloss='s|SpaceAfter=No
 57	志	志	NOUN	n,名詞,思考,*	_	53	obj	_	Gloss=aim|SpaceAfter=No
 58	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	59	advmod	_	Gloss=then|SpaceAfter=No
-59	篡	篡	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
+59	篡	簒	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=usurp|SpaceAfter=No
 60	也	也	PART	p,助詞,句末,*	_	59	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
 
 # newpar
@@ -33063,9 +33063,9 @@
 38	夷	夷	NOUN	n,名詞,主体,集団	_	39	nsubj	_	Gloss=barbarian|SpaceAfter=No
 39	怨	怨	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=resent|SpaceAfter=No
 40	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-41	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	42	nsubj	_	Gloss=how|SpaceAfter=No
-42	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-43	後	後	VERB	v,動詞,行為,移動	_	42	ccomp	_	Gloss=back|SpaceAfter=No
+41	奚	奚	PRON	n,代名詞,疑問,*	PronType=Int	43	obl	_	Gloss=how|SpaceAfter=No
+42	為	爲	ADP	v,前置詞,源泉,*	_	41	case	_	Gloss=for|SpaceAfter=No
+43	後	後	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=back|SpaceAfter=No
 44	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	43	obj	_	Gloss=[1PRON]|SpaceAfter=No
 45	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	46	compound	_	Gloss=Wu|SpaceAfter=No
 46	王	王	NOUN	n,名詞,人,役割	_	48	nsubj	_	Gloss=king|SpaceAfter=No
