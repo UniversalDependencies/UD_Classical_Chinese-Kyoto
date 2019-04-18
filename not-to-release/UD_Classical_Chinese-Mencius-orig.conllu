@@ -28398,8 +28398,8 @@
 8	於	於	ADP	v,前置詞,基盤,*	_	9	case	_	Gloss=at|SpaceAfter=No
 9	石丘	石丘	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	7	obl	_	Gloss=[place-name]|SpaceAfter=No
 10	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-11	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	12	nmod	_	Gloss=before|SpaceAfter=No
-12	生	生	NOUN	n,名詞,行為,*	_	15	nsubj	_	Gloss=life|SpaceAfter=No
+11	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	15	nsubj	_	Gloss=before|SpaceAfter=No
+12	生	生	NOUN	n,名詞,行為,*	_	11	flat	_	Gloss=life|SpaceAfter=No
 13	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	15	advmod	_	Gloss=about-to|SpaceAfter=No
 14	何	何	PRON	n,代名詞,疑問,*	PronType=Int	15	obj	_	Gloss=what|SpaceAfter=No
 15	之	之	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go|SpaceAfter=No

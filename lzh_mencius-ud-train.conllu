@@ -8753,8 +8753,8 @@
 
 # sent_id = KR1h0001_012_par4_13-17
 # text = 先生將何之
-1	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	2	nmod	_	Gloss=before|SpaceAfter=No
-2	生	生	NOUN	n,名詞,行為,*	_	5	nsubj	_	Gloss=life|SpaceAfter=No
+1	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=before|SpaceAfter=No
+2	生	生	NOUN	n,名詞,行為,*	_	1	flat	_	Gloss=life|SpaceAfter=No
 3	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	5	advmod	_	Gloss=about-to|SpaceAfter=No
 4	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	obj	_	Gloss=what|SpaceAfter=No
 5	之	之	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go|SpaceAfter=No
