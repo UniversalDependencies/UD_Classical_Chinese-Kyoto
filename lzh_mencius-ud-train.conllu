@@ -8982,11 +8982,11 @@
 # text = 是君臣父子兄弟終去仁義
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	9	nsubj	_	Gloss=this|SpaceAfter=No
 2	君	君	NOUN	n,名詞,人,役割	_	9	nsubj	_	Gloss=ruler|SpaceAfter=No
-3	臣	臣	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=vassal|SpaceAfter=No
+3	臣	臣	NOUN	n,名詞,人,役割	_	2	flat	_	Gloss=vassal|SpaceAfter=No
 4	父	父	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=father|SpaceAfter=No
-5	子	子	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=child|SpaceAfter=No
+5	子	子	NOUN	n,名詞,人,関係	_	4	flat	_	Gloss=child|SpaceAfter=No
 6	兄	兄	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=elder-brother|SpaceAfter=No
-7	弟	弟	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=younger-brother|SpaceAfter=No
+7	弟	弟	NOUN	n,名詞,人,関係	_	6	flat	_	Gloss=younger-brother|SpaceAfter=No
 8	終	終	VERB	v,動詞,変化,生物	_	9	advmod	_	Gloss=end|SpaceAfter=No
 9	去	去	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go-away|SpaceAfter=No
 10	仁	仁	NOUN	n,名詞,描写,態度	_	9	obj	_	Gloss=benevolence|SpaceAfter=No
@@ -9110,11 +9110,11 @@
 # text = 是君臣父子兄弟去利
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	8	nsubj	_	Gloss=this|SpaceAfter=No
 2	君	君	NOUN	n,名詞,人,役割	_	8	nsubj	_	Gloss=ruler|SpaceAfter=No
-3	臣	臣	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=vassal|SpaceAfter=No
+3	臣	臣	NOUN	n,名詞,人,役割	_	2	flat	_	Gloss=vassal|SpaceAfter=No
 4	父	父	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=father|SpaceAfter=No
-5	子	子	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=child|SpaceAfter=No
+5	子	子	NOUN	n,名詞,人,関係	_	4	flat	_	Gloss=child|SpaceAfter=No
 6	兄	兄	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=elder-brother|SpaceAfter=No
-7	弟	弟	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=younger-brother|SpaceAfter=No
+7	弟	弟	NOUN	n,名詞,人,関係	_	6	flat	_	Gloss=younger-brother|SpaceAfter=No
 8	去	去	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go-away|SpaceAfter=No
 9	利	利	NOUN	n,名詞,描写,形質	_	8	obj	_	Gloss=profit|SpaceAfter=No
 
@@ -17104,7 +17104,7 @@
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	於	於	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=go-into|SpaceAfter=No
 4	君	君	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=ruler|SpaceAfter=No
-5	臣	臣	NOUN	n,名詞,人,役割	_	4	conj	_	Gloss=vassal|SpaceAfter=No
+5	臣	臣	NOUN	n,名詞,人,役割	_	4	flat	_	Gloss=vassal|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par24_54-59
