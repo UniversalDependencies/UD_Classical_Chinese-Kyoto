@@ -7,8 +7,8 @@
 4	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	3	list	_	Gloss=up|SpacesAfter=\n
 
 # newpar
+# text = 孟子見梁惠王王曰叟不遠千里而來亦將有以利吾國乎孟子對曰王何必曰利亦有仁>義而已矣王曰何以利吾國大夫曰何以利吾家士庶人曰何以利吾身上下交征利而國危矣萬乘之國弒其君者必千乘之家千乘之國弒其君者必百乘之家萬取千焉千取百焉不為不多矣苟為後義而先利不奪不饜未有仁而遺其親者也未有義而後其君者也王亦曰仁義而已矣何必曰利
 # sent_id = KR1h0001_001_par1_1-6
-# text = 孟子見梁惠王
 1	孟子	孟子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Mencius|SpaceAfter=No
 2	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
 3	梁	梁	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	nmod	_	Gloss=[country-name]|SpaceAfter=No
@@ -16,12 +16,10 @@
 5	王	王	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=king|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_7-8
-# text = 王曰
 1	王	王	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=king|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_9-15
-# text = 叟不遠千里而來
 1	叟	叟	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=old-gentleman|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	遠	遠	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=distant|SpaceAfter=No
@@ -31,7 +29,6 @@
 7	來	來	VERB	v,動詞,行為,移動	_	3	conj	_	Gloss=come|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_16-23
-# text = 亦將有以利吾國乎
 1	亦	亦	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
 2	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	3	advmod	_	Gloss=about-to|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
@@ -42,13 +39,11 @@
 8	乎	乎	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_24-27
-# text = 孟子對曰
 1	孟子	孟子	PROPN	n,名詞,人,複合的人名	NameType=Prs	3	nsubj	_	Gloss=Mencius|SpaceAfter=No
 2	對	對	VERB	v,動詞,行為,伝達	_	3	advmod	_	Gloss=reply|SpaceAfter=No
 3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_28-32
-# text = 王何必曰利
 1	王	王	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=king|SpaceAfter=No
 2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	4	advmod	_	Gloss=what|SpaceAfter=No
 3	必	必	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=necessarily|SpaceAfter=No
@@ -56,7 +51,6 @@
 5	利	利	NOUN	n,名詞,描写,形質	_	4	obj	_	Gloss=profit|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_33-39
-# text = 亦有仁義而已矣
 1	亦	亦	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=also|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	仁	仁	NOUN	n,名詞,描写,態度	_	2	obj	_	Gloss=benevolence|SpaceAfter=No
@@ -66,12 +60,10 @@
 7	矣	矣	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_40-41
-# text = 王曰
 1	王	王	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=king|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_42-46
-# text = 何以利吾國
 1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	obj	_	Gloss=what|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
 3	利	利	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=profit|SpaceAfter=No
@@ -79,13 +71,11 @@
 5	國	國	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_47-49
-# text = 大夫曰
 1	大	大	VERB	v,動詞,描写,量	Degree=Pos	2	amod	_	Gloss=big|SpaceAfter=No
 2	夫	夫	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=male-person|SpaceAfter=No
 3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_50-54
-# text = 何以利吾家
 1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	obj	_	Gloss=what|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
 3	利	利	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=profit|SpaceAfter=No
@@ -93,14 +83,12 @@
 5	家	家	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=family|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_55-58
-# text = 士庶人曰
 1	士	士	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=officer|SpaceAfter=No
 2	庶	庶	VERB	v,動詞,描写,量	Degree=Pos	3	amod	_	Gloss=common|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=person|SpaceAfter=No
 4	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_59-63
-# text = 何以利吾身
 1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	obj	_	Gloss=what|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
 3	利	利	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=profit|SpaceAfter=No
@@ -108,7 +96,6 @@
 5	身	身	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=body|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_64-72
-# text = 上下交征利而國危矣
 1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=up|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	flat	_	Gloss=down|SpaceAfter=No
 3	交	交	ADV	v,副詞,範囲,共同	_	4	advmod	_	Gloss=reciprocal|SpaceAfter=No
@@ -120,7 +107,6 @@
 9	矣	矣	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_73-85
-# text = 萬乘之國弒其君者必千乘之家
 1	萬	萬	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=ten-thousand|SpaceAfter=No
 2	乘	乘	NOUN	n,名詞,可搬,乗り物	_	1	clf	_	Gloss=vehicle|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
@@ -136,7 +122,6 @@
 13	家	家	NOUN	n,名詞,主体,集団	_	0	root	_	Gloss=family|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_86-98
-# text = 千乘之國弒其君者必百乘之家
 1	千	千	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=thousand|SpaceAfter=No
 2	乘	乘	NOUN	n,名詞,可搬,乗り物	_	1	clf	_	Gloss=vehicle|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
@@ -152,21 +137,18 @@
 13	家	家	NOUN	n,名詞,主体,集団	_	0	root	_	Gloss=family|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_99-102
-# text = 萬取千焉
 1	萬	萬	NUM	n,数詞,数字,*	_	2	nsubj	_	Gloss=ten-thousand|SpaceAfter=No
 2	取	取	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=take|SpaceAfter=No
 3	千	千	NUM	n,数詞,数字,*	_	2	obj	_	Gloss=thousand|SpaceAfter=No
 4	焉	焉	PRON	n,代名詞,指示,*	PronType=Dem	2	obl	_	Gloss=there|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_103-106
-# text = 千取百焉
 1	千	千	NUM	n,数詞,数字,*	_	2	nsubj	_	Gloss=thousand|SpaceAfter=No
 2	取	取	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=take|SpaceAfter=No
 3	百	百	NUM	n,数詞,数字,*	_	2	obj	_	Gloss=hundred|SpaceAfter=No
 4	焉	焉	PRON	n,代名詞,指示,*	PronType=Dem	2	obl	_	Gloss=there|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_107-111
-# text = 不為不多矣
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
@@ -174,7 +156,6 @@
 5	矣	矣	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_112-118
-# text = 苟為後義而先利
 1	苟	苟	ADV	v,副詞,判断,推定	_	2	advmod	_	Gloss=careless|SpaceAfter=No
 2	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 3	後	後	NOUN	n,名詞,固定物,関係	Case=Loc	4	advmod	_	Gloss=back|SpaceAfter=No
@@ -184,14 +165,12 @@
 7	利	利	VERB	v,動詞,行為,得失	_	4	conj	_	Gloss=profit|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_119-122
-# text = 不奪不饜
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	奪	奪	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=deprive|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	饜	饜	VERB	v,動詞,描写,態度	Degree=Pos	2	parataxis	_	Gloss=satisfy|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_123-131
-# text = 未有仁而遺其親者也
 1	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	2	advmod	_	Gloss=not-yet|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	仁	仁	VERB	v,動詞,描写,態度	Degree=Pos	8	acl	_	Gloss=benevolent|SpaceAfter=No
@@ -203,7 +182,6 @@
 9	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_132-140
-# text = 未有義而後其君者也
 1	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	2	advmod	_	Gloss=not-yet|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	義	義	VERB	v,動詞,描写,態度	Degree=Pos	8	acl	_	Gloss=righteous|SpaceAfter=No
@@ -215,7 +193,6 @@
 9	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_141-148
-# text = 王亦曰仁義而已矣
 1	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
 2	亦	亦	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
 3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
@@ -226,7 +203,6 @@
 8	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par1_149-152
-# text = 何必曰利
 1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
 2	必	必	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=necessarily|SpaceAfter=No
 3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
