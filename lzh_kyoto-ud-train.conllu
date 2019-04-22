@@ -10778,7 +10778,7 @@
 # sent_id = KR1h0004_015_par6_13-19
 # text = 雖蠻貊之邦行矣
 1	雖	雖	ADV	v,副詞,判断,逆接	_	6	advmod	_	Gloss=although|SpaceAfter=No
-2	蠻	蠻	VERB	v,動詞,描写,形質	Degree=Pos	5	amod	_	SpaceAfter=No
+2	蠻	蠻	VERB	v,動詞,描写,形質	Degree=Pos	5	amod	_	Gloss=sing-with-beautiful-voice|SpaceAfter=No
 3	貊	貊	VERB	v,動詞,描写,形質	Degree=Pos	2	flat:vv	_	SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	邦	邦	NOUN	n,名詞,主体,集団	_	6	nsubj	_	Gloss=country|SpaceAfter=No
@@ -11165,34 +11165,28 @@
 1	子	子	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=master|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
-# sent_id = KR1h0004_015_par14_3-5
-# text = 臧文仲
-1	臧	臧	PROPN	n,名詞,人,姓氏	NameType=Sur	0	root	_	Gloss=[surname]|SpaceAfter=No
+# sent_id = KR1h0004_015_par14_3-10
+# text = 臧文仲其竊位者與
+1	臧	臧	PROPN	n,名詞,人,姓氏	NameType=Sur	6	nsubj	_	Gloss=[surname]|SpaceAfter=No
 2	文仲	文仲	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
+3	其	其	PART	p,助詞,句頭,*	_	6	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
+4	竊	竊	VERB	v,動詞,行為,動作	_	6	acl	_	Gloss=snatch|SpaceAfter=No
+5	位	位	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=rank|SpaceAfter=No
+6	者	者	PART	p,助詞,提示,*	_	0	root	_	Gloss=that-which|SpaceAfter=No
+7	與	與	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
-# sent_id = KR1h0004_015_par14_6-10
-# text = 其竊位者與
-1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
-2	竊	竊	VERB	v,動詞,行為,動作	_	4	acl	_	Gloss=snatch|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	2	obj	_	Gloss=rank|SpaceAfter=No
-4	者	者	PART	p,助詞,提示,*	_	0	root	_	Gloss=that-which|SpaceAfter=No
-5	與	與	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
-
-# sent_id = KR1h0004_015_par14_11-16
-# text = 知柳下惠之賢
+# sent_id = KR1h0004_015_par14_11-21
+# text = 知柳下惠之賢而不與立也
 1	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
-2	柳下	柳下	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	nsubj	_	Gloss=[place-name]|SpaceAfter=No
+2	柳下	柳下	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	nmod	_	Gloss=Liuxia|SpaceAfter=No
 3	惠	惠	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	flat	_	Gloss=Hui|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-5	賢	賢	VERB	v,動詞,描写,態度	Degree=Pos	1	ccomp	_	Gloss=worthy|SpaceAfter=No
-
-# sent_id = KR1h0004_015_par14_17-21
-# text = 而不與立也
-1	而	而	CCONJ	p,助詞,接続,並列	_	4	advmod	_	Gloss=and|SpaceAfter=No
-2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-3	與	與	VERB	v,動詞,行為,交流	_	4	advmod	_	Gloss=participate|SpaceAfter=No
-4	立	立	VERB	v,動詞,行為,姿勢	_	0	root	_	Gloss=stand|SpaceAfter=No
-5	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
+5	賢	賢	NOUN	n,名詞,描写,態度	_	1	obj	_	Gloss=wise|SpaceAfter=No
+6	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
+7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	9	advmod	_	Gloss=not|SpaceAfter=No
+8	與	與	VERB	v,動詞,行為,交流	_	9	advmod	_	Gloss=participate|SpaceAfter=No
+9	立	立	VERB	v,動詞,行為,姿勢	_	1	conj	_	Gloss=stand|SpaceAfter=No
+10	也	也	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
 
 # newpar text = 子曰躬自厚而薄責於人則遠怨矣
 # sent_id = KR1h0004_015_par15_1-2
@@ -15145,7 +15139,7 @@
 # sent_id = KR1h0004_017_par24_47-52
 # text = 惡徼以為知者
 1	惡	惡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hate|SpaceAfter=No
-2	徼	徼	VERB	v,動詞,行為,動作	_	6	acl	_	SpaceAfter=No
+2	徼	徼	VERB	v,動詞,行為,動作	_	6	acl	_	Gloss=seek|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	4	advmod	_	Gloss=use|SpaceAfter=No
 4	為	爲	VERB	v,動詞,行為,生産	_	2	conj	_	Gloss=make|SpaceAfter=No
 5	知	知	NOUN	n,名詞,不可譲,属性	_	4	obj	_	Gloss=knowledge|SpaceAfter=No
