@@ -10822,20 +10822,17 @@
 6	前	前	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl	_	Gloss=front|SpaceAfter=No
 7	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
-# sent_id = KR1h0004_015_par6_42-43
-# text = 在輿
-1	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
+# sent_id = KR1h0004_015_par6_42-50
+# text = 在輿則見其倚於衡也
+1	在	在	VERB	v,動詞,存在,存在	_	4	advcl	_	Gloss=be-present|SpaceAfter=No
 2	輿	輿	NOUN	n,名詞,可搬,乗り物	_	1	obj	_	Gloss=carriage|SpaceAfter=No
-
-# sent_id = KR1h0004_015_par6_44-50
-# text = 則見其倚於衡也
-1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
-2	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
-3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
-4	倚	倚	VERB	v,動詞,行為,態度	_	2	ccomp	_	SpaceAfter=No
-5	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-6	衡	衡	NOUN	n,名詞,可搬,道具	_	4	obl	_	SpaceAfter=No
-7	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
+4	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
+5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
+6	倚	倚	VERB	v,動詞,描写,態度	Degree=Pos	4	ccomp	_	Gloss=lean-on|SpaceAfter=No
+7	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
+8	衡	衡	NOUN	n,名詞,可搬,道具	_	6	obl	_	SpaceAfter=No
+9	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0004_015_par6_51-54
 # text = 夫然後行
@@ -10849,7 +10846,7 @@
 1	子張	子張	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	書	書	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=write|SpaceAfter=No
 3	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	2	iobj	_	Gloss=this|SpaceAfter=No
-4	紳	紳	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpacesAfter=\n
+4	紳	紳	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=sash|SpacesAfter=\n
 
 # newpar text = 子曰直哉史魚邦有道如矢邦無道如矢君子哉蘧伯玉邦有道則仕邦無道則可卷而懷之
 # sent_id = KR1h0004_015_par7_1-2
@@ -12720,60 +12717,42 @@
 1	孔子	孔子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Confucius|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
-# sent_id = KR1h0004_016_par4_4-7
-# text = 益者三友
+# sent_id = KR1h0004_016_par4_4-11
+# text = 益者三友損者三友
 1	益	益	VERB	v,動詞,行為,得失	_	2	amod	_	Gloss=increase|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
 3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-4	友	友	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=friend|SpaceAfter=No
+4	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
+5	損	損	VERB	v,動詞,行為,得失	_	6	amod	_	Gloss=decrease|SpaceAfter=No
+6	者	者	PART	p,助詞,提示,*	_	8	nsubj	_	Gloss=that-which|SpaceAfter=No
+7	三	三	NUM	n,数詞,数字,*	_	8	nummod	_	Gloss=three|SpaceAfter=No
+8	友	友	VERB	v,動詞,行為,交流	_	4	parataxis	_	Gloss=friend|SpaceAfter=No
 
-# sent_id = KR1h0004_016_par4_8-11
-# text = 損者三友
-1	損	損	VERB	v,動詞,行為,得失	_	2	amod	_	Gloss=decrease|SpaceAfter=No
-2	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
-3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-4	友	友	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=friend|SpaceAfter=No
-
-# sent_id = KR1h0004_016_par4_12-13
-# text = 友直
-1	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
+# sent_id = KR1h0004_016_par4_12-20
+# text = 友直友諒友多聞益矣
+1	友	友	VERB	v,動詞,行為,交流	_	8	csubj	_	Gloss=friend|SpaceAfter=No
 2	直	直	VERB	v,動詞,描写,形質	Degree=Pos	1	obj	_	Gloss=straight|SpaceAfter=No
+3	友	友	VERB	v,動詞,行為,交流	_	1	conj	_	Gloss=friend|SpaceAfter=No
+4	諒	諒	VERB	v,動詞,行為,態度	_	3	obj	_	Gloss=trust|SpaceAfter=No
+5	友	友	VERB	v,動詞,行為,交流	_	1	conj	_	Gloss=friend|SpaceAfter=No
+6	多	多	VERB	v,動詞,描写,量	Degree=Pos	7	advmod	_	Gloss=many|SpaceAfter=No
+7	聞	聞	VERB	v,動詞,行為,伝達	_	5	obj	_	Gloss=hear|SpaceAfter=No
+8	益	益	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=increase|SpaceAfter=No
+9	矣	矣	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
-# sent_id = KR1h0004_016_par4_14-15
-# text = 友諒
-1	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
-2	諒	諒	VERB	v,動詞,行為,動作	_	1	obj	_	SpaceAfter=No
-
-# sent_id = KR1h0004_016_par4_16-18
-# text = 友多聞
-1	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
-2	多	多	VERB	v,動詞,描写,量	Degree=Pos	3	advmod	_	Gloss=many|SpaceAfter=No
-3	聞	聞	VERB	v,動詞,行為,伝達	_	1	obj	_	Gloss=hear|SpaceAfter=No
-
-# sent_id = KR1h0004_016_par4_19-20
-# text = 益矣
-1	益	益	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=increase|SpaceAfter=No
-2	矣	矣	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
-
-# sent_id = KR1h0004_016_par4_21-23
-# text = 友便辟
-1	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
-2	便辟	便辟	VERB	v,動詞,描写,態度	Degree=Pos	1	obj	_	SpaceAfter=No
-
-# sent_id = KR1h0004_016_par4_24-26
-# text = 友善柔
-1	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
-2	善柔	善柔	VERB	v,動詞,描写,態度	Degree=Pos	1	obj	_	SpaceAfter=No
-
-# sent_id = KR1h0004_016_par4_27-29
-# text = 友便佞
-1	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
-2	便佞	便佞	VERB	v,動詞,描写,態度	Degree=Pos	1	obj	_	SpaceAfter=No
-
-# sent_id = KR1h0004_016_par4_30-31
-# text = 損矣
-1	損	損	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=decrease|SpaceAfter=No
-2	矣	矣	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
+# sent_id = KR1h0004_016_par4_21-31
+# text = 友便辟友善柔友便佞損矣
+1	友	友	VERB	v,動詞,行為,交流	_	10	csubj	_	Gloss=friend|SpaceAfter=No
+2	便	便	VERB	v,動詞,描写,形質	Degree=Pos	3	amod	_	Gloss=convenient|SpaceAfter=No
+3	辟	辟	NOUN	n,名詞,描写,態度	_	1	obj	_	Gloss=perversity|SpaceAfter=No
+4	友	友	VERB	v,動詞,行為,交流	_	1	conj	_	Gloss=friend|SpaceAfter=No
+5	善	善	VERB	v,動詞,描写,態度	Degree=Pos	4	obj	_	Gloss=good|SpaceAfter=No
+6	柔	柔	VERB	v,動詞,描写,形質	Degree=Pos	5	flat:vv	_	Gloss=soft|SpaceAfter=No
+7	友	友	VERB	v,動詞,行為,交流	_	1	conj	_	Gloss=friend|SpaceAfter=No
+8	便	便	VERB	v,動詞,描写,形質	Degree=Pos	9	amod	_	Gloss=convenient|SpaceAfter=No
+9	佞	佞	NOUN	n,名詞,描写,態度	_	7	obj	_	Gloss=flattering|SpaceAfter=No
+10	損	損	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=decrease|SpaceAfter=No
+11	矣	矣	PART	p,助詞,句末,*	_	10	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
 
 # newpar text = 孔子曰益者三樂損者三樂樂節禮樂樂道人之善樂多賢友益矣樂驕樂樂佚遊樂宴樂損矣
 # sent_id = KR1h0004_016_par5_1-3
@@ -13236,7 +13215,7 @@
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 5	馬	馬	NOUN	n,名詞,主体,動物	_	4	obj	_	Gloss=horse|SpaceAfter=No
 6	千	千	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=thousand|SpaceAfter=No
-7	駟	駟	NOUN	n,名詞,度量衡,*	NounType=Class	6	clf	_	SpaceAfter=No
+7	駟	駟	NOUN	n,名詞,主体,動物	_	6	clf	_	Gloss=team-of-four-horses|SpaceAfter=No
 
 # sent_id = KR1h0004_016_par12_8-16
 # text = 死之日民無得而稱焉
@@ -13263,7 +13242,7 @@
 # sent_id = KR1h0004_016_par12_27-30
 # text = 民到于今
 1	民	民	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=people|SpaceAfter=No
-2	到	到	VERB	v,動詞,行為,移動	_	0	root	_	SpaceAfter=No
+2	到	到	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=reach|SpaceAfter=No
 3	于	于	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
 4	今	今	NOUN	n,名詞,時,*	Case=Tem	2	obl	_	Gloss=now|SpaceAfter=No
 
@@ -15291,15 +15270,16 @@
 # newpar text = 柳下惠為士師三黜人曰子未可以去乎曰直道而事人焉往而不三黜枉道而事人何必去父母之邦
 # sent_id = KR1h0004_018_par2_1-6
 # text = 柳下惠為士師
-1	柳下	柳下	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	nsubj	_	Gloss=Liuxia|SpaceAfter=No
+1	柳下	柳下	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	nsubj	_	Gloss=Liuxia|SpaceAfter=No
 2	惠	惠	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
-3	為	爲	VERB	v,動詞,行為,生産	_	4	cop	_	Gloss=make|SpaceAfter=No
-4	士師	士師	NOUN	n,名詞,人,役割	_	0	root	_	SpaceAfter=No
+3	為	爲	VERB	v,動詞,行為,生産	_	5	cop	_	Gloss=make|SpaceAfter=No
+4	士	士	NOUN	n,名詞,人,役割	_	5	compound	_	Gloss=officer|SpaceAfter=No
+5	師	師	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=teacher|SpaceAfter=No
 
 # sent_id = KR1h0004_018_par2_7-8
 # text = 三黜
 1	三	三	NUM	n,数詞,数字,*	_	2	advmod	_	Gloss=three|SpaceAfter=No
-2	黜	黜	VERB	v,動詞,行為,交流	_	0	root	_	SpaceAfter=No
+2	黜	黜	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=expel|SpaceAfter=No
 
 # sent_id = KR1h0004_018_par2_9-10
 # text = 人曰
@@ -15334,7 +15314,7 @@
 3	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
 5	三	三	NUM	n,数詞,数字,*	_	6	advmod	_	Gloss=three|SpaceAfter=No
-6	黜	黜	VERB	v,動詞,行為,交流	_	2	conj	_	SpaceAfter=No
+6	黜	黜	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=expel|SpaceAfter=No
 
 # sent_id = KR1h0004_018_par2_29-33
 # text = 枉道而事人
@@ -16158,16 +16138,14 @@
 9	海	海	NOUN	n,名詞,固定物,地形	Case=Loc	7	obl	_	Gloss=sea|SpacesAfter=\n
 
 # newpar text = 周公謂魯公曰君子不弛其親不使大臣怨乎不以故舊無大故則不棄也無求備於一人
-# sent_id = KR1h0004_018_par10_1-5
-# text = 周公謂魯公
-1	周公	周公	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	nsubj	_	SpaceAfter=No
-2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
-3	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-4	公	公	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=duke|SpaceAfter=No
-
-# sent_id = KR1h0004_018_par10_6-6
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+# sent_id = KR1h0004_018_par10_1-6
+# text = 周公謂魯公曰
+1	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	compound	_	Gloss=[country-name]|SpaceAfter=No
+2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
+3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
+4	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	nmod	_	Gloss=[country-name]|SpaceAfter=No
+5	公	公	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=duke|SpaceAfter=No
+6	曰	曰	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0004_018_par10_7-12
 # text = 君子不弛其親
@@ -16184,24 +16162,21 @@
 3	大	大	VERB	v,動詞,描写,量	Degree=Pos	4	amod	_	Gloss=big|SpaceAfter=No
 4	臣	臣	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=vassal|SpaceAfter=No
 5	怨	怨	VERB	v,動詞,行為,態度	_	2	xcomp	_	Gloss=resent|SpaceAfter=No
-6	乎	乎	PART	p,助詞,句末,*	_	5	mark	_	Gloss=[Q]|SpaceAfter=No
+6	乎	乎	PART	p,接尾辞,*,*	_	5	fixed	_	Gloss=[suffix]|SpaceAfter=No
 7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
 8	以	以	VERB	v,動詞,行為,動作	_	5	ccomp	_	Gloss=use|SpaceAfter=No
 
-# sent_id = KR1h0004_018_par10_21-25
-# text = 故舊無大故
+# sent_id = KR1h0004_018_par10_21-29
+# text = 故舊無大故則不棄也
 1	故	故	NOUN	n,名詞,時,*	Case=Tem	2	nmod	_	Gloss=former|SpaceAfter=No
 2	舊	舊	NOUN	n,名詞,時,*	Case=Tem	3	nsubj	_	Gloss=old|SpaceAfter=No
-3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	8	advcl	_	Gloss=not-have|SpaceAfter=No
 4	大	大	VERB	v,動詞,描写,量	Degree=Pos	5	amod	_	Gloss=big|SpaceAfter=No
 5	故	故	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=trouble|SpaceAfter=No
-
-# sent_id = KR1h0004_018_par10_26-29
-# text = 則不棄也
-1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
-2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
-3	棄	棄	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=abandon|SpaceAfter=No
-4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+6	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	8	advmod	_	Gloss=then|SpaceAfter=No
+7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
+8	棄	棄	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=abandon|SpaceAfter=No
+9	也	也	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0004_018_par10_30-35
 # text = 無求備於一人
@@ -16213,23 +16188,20 @@
 6	人	人	NOUN	n,名詞,人,人	_	2	obl	_	Gloss=person|SpacesAfter=\n
 
 # newpar text = 周有八士伯達伯适仲突仲忽叔夜叔夏季隨季騧
-# sent_id = KR1h0004_018_par11_1-4
-# text = 周有八士
+# sent_id = KR1h0004_018_par11_1-20
+# text = 周有八士伯達伯适仲突仲忽叔夜叔夏季隨季騧
 1	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nsubj	_	Gloss=[country-name]|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	八	八	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=eight|SpaceAfter=No
 4	士	士	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=officer|SpaceAfter=No
-
-# sent_id = KR1h0004_018_par11_5-20
-# text = 伯達伯适仲突仲忽叔夜叔夏季隨季騧
-1	伯達	伯達	PROPN	n,名詞,人,名	NameType=Giv	0	root	_	Gloss=[given-name]|SpaceAfter=No
-2	伯适	伯适	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-3	仲突	仲突	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-4	仲忽	仲忽	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-5	叔夜	叔夜	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-6	叔夏	叔夏	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-7	季隨	季隨	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-8	季騧	季騧	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpacesAfter=\n
+5	伯達	伯達	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
+6	伯适	伯适	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
+7	仲突	仲突	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
+8	仲忽	仲忽	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
+9	叔夜	叔夜	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
+10	叔夏	叔夏	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
+11	季隨	季隨	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpaceAfter=No
+12	季騧	季騧	PROPN	n,名詞,人,名	NameType=Giv	4	list	_	Gloss=[given-name]|SpacesAfter=\n
 
 # newdoc id = KR1h0004_019
 # sent_id = KR1h0004_019_title
@@ -16968,9 +16940,9 @@
 3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
 4	陽	陽	PROPN	n,名詞,人,姓氏	NameType=Sur	3	obj	_	Gloss=[surname]|SpaceAfter=No
 5	膚	膚	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
-6	為	爲	VERB	v,動詞,行為,生産	_	3	xcomp	_	Gloss=make|SpaceAfter=No
-7	士	士	NOUN	n,名詞,人,役割	_	8	nmod	_	Gloss=officer|SpaceAfter=No
-8	師	師	NOUN	n,名詞,人,役割	_	6	obj	_	Gloss=teacher|SpaceAfter=No
+6	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	8	cop	_	Gloss=be|SpaceAfter=No
+7	士	士	NOUN	n,名詞,人,役割	_	8	compound	_	Gloss=officer|SpaceAfter=No
+8	師	師	NOUN	n,名詞,人,役割	_	3	xcomp	_	Gloss=teacher|SpaceAfter=No
 
 # sent_id = KR1h0004_019_par19_9-12
 # text = 問於曾子
@@ -17008,7 +16980,7 @@
 # text = 則哀矜而勿喜
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
 2	哀	哀	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=mourn|SpaceAfter=No
-3	矜	矜	VERB	v,動詞,描写,態度	Degree=Pos	2	conj	_	Gloss=dignify|SpaceAfter=No
+3	矜	矜	VERB	v,動詞,描写,態度	Degree=Pos	2	flat:vv	_	Gloss=dignify|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 5	勿	勿	ADV	v,副詞,否定,禁止	Polarity=Neg	6	advmod	_	Gloss=don't|SpaceAfter=No
 6	喜	喜	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=pleased|SpacesAfter=\n
@@ -17856,7 +17828,7 @@
 2	惠	惠	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=benevolent|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-5	費	費	VERB	v,動詞,行為,動作	_	2	conj	_	SpaceAfter=No
+5	費	費	VERB	v,動詞,行為,態度	_	2	conj	_	Gloss=squander|SpaceAfter=No
 
 # sent_id = KR1h0004_020_par2_45-48
 # text = 勞而不怨
@@ -17898,7 +17870,7 @@
 3	惠	惠	VERB	v,動詞,描写,態度	Degree=Pos	2	ccomp	_	Gloss=benevolent|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
-6	費	費	VERB	v,動詞,行為,動作	_	3	conj	_	SpaceAfter=No
+6	費	費	VERB	v,動詞,行為,態度	_	3	conj	_	Gloss=squander|SpaceAfter=No
 
 # sent_id = KR1h0004_020_par2_70-71
 # text = 子曰
@@ -17924,7 +17896,7 @@
 4	惠	惠	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=benevolent|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 6	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
-7	費	費	VERB	v,動詞,行為,動作	_	4	conj	_	SpaceAfter=No
+7	費	費	VERB	v,動詞,行為,態度	_	4	conj	_	Gloss=squander|SpaceAfter=No
 8	乎	乎	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0004_020_par2_88-93
