@@ -5288,28 +5288,28 @@
 # text = 賢者辟世
 1	賢	賢	VERB	v,動詞,描写,態度	Degree=Pos	2	amod	_	Gloss=worthy|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	3	nsubj	_	Gloss=that-which|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 4	世	世	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=world|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par37_7-10
 # text = 其次辟地
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	det	_	Gloss=[3PRON]|SpaceAfter=No
 2	次	次	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=next|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 4	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	3	obj	_	Gloss=earth|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par37_11-14
 # text = 其次辟色
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	det	_	Gloss=[3PRON]|SpaceAfter=No
 2	次	次	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=next|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 4	色	色	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=colour|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par37_15-18
 # text = 其次辟言
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	det	_	Gloss=[3PRON]|SpaceAfter=No
 2	次	次	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=next|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 4	言	言	NOUN	n,名詞,可搬,伝達	_	3	obj	_	Gloss=speech|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par37_19-20
@@ -8312,7 +8312,7 @@
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	所	所	PART	p,助詞,接続,体言化	_	6	mark	_	Gloss=that-which|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	3	ccomp	_	Gloss=perverse|SpaceAfter=No
 7	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par10_92-112
@@ -8355,7 +8355,7 @@
 12	凡	凡	VERB	v,動詞,描写,形質	Degree=Pos	15	advmod	_	Gloss=ordinary|SpaceAfter=No
 13	可	可	AUX	v,助動詞,可能,*	Mood=Pot	15	aux	_	Gloss=possible|SpaceAfter=No
 14	以	以	VERB	v,動詞,行為,動作	_	13	advmod	_	Gloss=use|SpaceAfter=No
-15	辟	辟	VERB	v,動詞,行為,動作	_	17	acl	_	Gloss=rule|SpaceAfter=No
+15	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	17	acl	_	Gloss=perverse|SpaceAfter=No
 16	患	患	NOUN	n,名詞,描写,態度	_	15	obj	_	Gloss=trouble|SpaceAfter=No
 17	者	者	PART	p,助詞,提示,*	_	20	nsubj	_	Gloss=that-which|SpaceAfter=No
 18	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	20	advmod	_	Gloss=what|SpaceAfter=No
@@ -8385,7 +8385,7 @@
 3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	Gloss=then|SpaceAfter=No
 4	可	可	AUX	v,助動詞,可能,*	Mood=Pot	6	aux	_	Gloss=possible|SpaceAfter=No
 5	以	以	VERB	v,動詞,行為,動作	_	4	advmod	_	Gloss=use|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 7	患	患	VERB	v,動詞,行為,態度	_	6	obj	_	Gloss=trouble|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par10_150-154
@@ -11825,7 +11825,7 @@
 # text = 土地辟
 1	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	2	compound	_	Gloss=earth|SpaceAfter=No
 2	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	3	nsubj	_	Gloss=earth|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par7_72-74
 # text = 田野治
@@ -12573,7 +12573,7 @@
 2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=can|SpaceAfter=No
 3	為	爲	ADP	v,前置詞,源泉,*	_	4	case	_	Gloss=for|SpaceAfter=No
 4	君	君	NOUN	n,名詞,人,役割	_	5	obl	_	Gloss=ruler|SpaceAfter=No
-5	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+5	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 6	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	7	compound	_	Gloss=earth|SpaceAfter=No
 7	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	5	obj	_	Gloss=earth|SpaceAfter=No
 
@@ -14473,7 +14473,7 @@
 # text = 克明峻德
 1	克	克	VERB	v,動詞,行為,動作	_	2	advmod	_	Gloss=conquer|SpaceAfter=No
 2	明	明	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=bright|SpaceAfter=No
-3	峻	峻	VERB	v,動詞,描写,形質	Degree=Pos	4	amod	_	SpaceAfter=No
+3	峻	峻	VERB	v,動詞,描写,形質	Degree=Pos	4	amod	_	Gloss=high|SpaceAfter=No
 4	德	德	NOUN	n,名詞,描写,態度	_	2	obj	_	Gloss=virtue|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par1_481-484
@@ -14862,7 +14862,7 @@
 5	親	親	VERB	v,動詞,行為,態度	_	6	advmod	_	Gloss=intimate|SpaceAfter=No
 6	愛	愛	VERB	v,動詞,行為,交流	_	8	csubj	_	Gloss=love|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	8	advmod	_	Gloss=and|SpaceAfter=No
-8	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+8	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 9	焉	焉	PART	p,接尾辞,*,*	_	8	fixed	_	Gloss=[suffix]|SpaceAfter=No
 10	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	8	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -14873,7 +14873,7 @@
 3	賤	賤	VERB	v,動詞,描写,境遇	Degree=Pos	6	nsubj	_	Gloss=lowly|SpaceAfter=No
 4	惡	惡	VERB	v,動詞,行為,動作	_	3	flat:vv	_	Gloss=hate|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	advmod	_	Gloss=and|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 7	焉	焉	PART	p,接尾辞,*,*	_	6	fixed	_	Gloss=[suffix]|SpaceAfter=No
 8	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -14884,7 +14884,7 @@
 3	畏	畏	VERB	v,動詞,行為,態度	_	6	nsubj	_	Gloss=fear|SpaceAfter=No
 4	敬	敬	VERB	v,動詞,行為,態度	_	3	flat:vv	_	Gloss=respect|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	advmod	_	Gloss=and|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 7	焉	焉	PART	p,接尾辞,*,*	_	6	fixed	_	Gloss=[suffix]|SpaceAfter=No
 8	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -14895,7 +14895,7 @@
 3	哀	哀	VERB	v,動詞,描写,態度	Degree=Pos	6	nsubj	_	Gloss=mourn|SpaceAfter=No
 4	矜	矜	VERB	v,動詞,描写,態度	Degree=Pos	3	flat:vv	_	Gloss=dignify|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	advmod	_	Gloss=and|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 7	焉	焉	PART	p,接尾辞,*,*	_	6	fixed	_	Gloss=[suffix]|SpaceAfter=No
 8	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -14906,7 +14906,7 @@
 3	敖	敖	VERB	v,動詞,行為,動作	_	6	nsubj	_	Gloss=stroll|SpaceAfter=No
 4	惰	惰	VERB	v,動詞,描写,態度	Degree=Pos	3	flat:vv	_	Gloss=lazy|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	advmod	_	Gloss=and|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 7	焉	焉	PART	p,接尾辞,*,*	_	6	fixed	_	Gloss=[suffix]|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_154-159
@@ -15651,7 +15651,7 @@
 
 # sent_id = KR1d0052_043_par2_645-648
 # text = 峻命不易
-1	峻	峻	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	SpaceAfter=No
+1	峻	峻	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	Gloss=high|SpaceAfter=No
 2	命	命	NOUN	n,名詞,可搬,伝達	_	4	nsubj	_	Gloss=decree|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	易	易	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=easy|SpaceAfter=No

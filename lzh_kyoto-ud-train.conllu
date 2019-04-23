@@ -9541,7 +9541,7 @@
 # text = 師也辟
 1	師	師	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	也	也	PART	p,助詞,提示,*	_	1	case	_	Gloss=that-which|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 
 # sent_id = KR1h0004_011_par18_10-12
 # text = 由也喭
@@ -12309,7 +12309,7 @@
 
 # sent_id = KR1h0004_016_par1_120-125
 # text = 龜玉毀於櫝中
-1	龜	龜	NOUN	n,名詞,主体,動物	_	3	nsubj	_	SpaceAfter=No
+1	龜	龜	NOUN	n,名詞,主体,動物	_	3	nsubj	_	Gloss=tortoise|SpaceAfter=No
 2	玉	玉	NOUN	n,名詞,可搬,道具	_	1	conj	_	Gloss=jade|SpaceAfter=No
 3	毀	毀	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=destroy|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
@@ -15489,7 +15489,7 @@
 # text = 趨而辟之
 1	趨	趨	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=run|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	3	cc	_	Gloss=and|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	1	conj	_	Gloss=rule|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
 # sent_id = KR1h0004_018_par5_51-55
@@ -15663,7 +15663,7 @@
 3	與	與	ADP	v,前置詞,関係,*	_	5	mark	_	Gloss=associate-with|SpaceAfter=No
 4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 5	從	從	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	9	acl	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,行為,儀礼	_	9	acl	_	Gloss=rule|SpaceAfter=No
 7	人	人	NOUN	n,名詞,人,人	_	6	obj	_	Gloss=person|SpaceAfter=No
 8	之	之	SCONJ	p,助詞,接続,属格	_	7	case	_	Gloss='s|SpaceAfter=No
 9	士	士	NOUN	n,名詞,人,役割	_	5	obj	_	Gloss=officer|SpaceAfter=No
@@ -15674,7 +15674,7 @@
 1	豈	豈	ADV	v,副詞,疑問,反語	_	2	advmod	_	Gloss=[expect-negative-answer]|SpaceAfter=No
 2	若	若	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 3	從	從	VERB	v,動詞,行為,動作	_	2	ccomp	_	Gloss=follow|SpaceAfter=No
-4	辟	辟	VERB	v,動詞,行為,動作	_	7	acl	_	Gloss=rule|SpaceAfter=No
+4	辟	辟	VERB	v,動詞,行為,儀礼	_	7	acl	_	Gloss=rule|SpaceAfter=No
 5	世	世	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=world|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 7	士	士	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=officer|SpaceAfter=No
@@ -18709,7 +18709,7 @@
 1	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	3	nsubj	_	Gloss=earth|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	改	改	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=change|SpaceAfter=No
-4	辟	辟	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=rule|SpaceAfter=No
+4	辟	辟	VERB	v,動詞,行為,儀礼	_	3	flat:vv	_	Gloss=rule|SpaceAfter=No
 5	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par1_408-412
@@ -18717,7 +18717,7 @@
 1	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	改	改	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=change|SpaceAfter=No
-4	聚	聚	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=amass|SpaceAfter=No
+4	聚	聚	VERB	v,動詞,行為,動作	_	3	flat:vv	_	Gloss=amass|SpaceAfter=No
 5	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par1_413-417
@@ -32035,7 +32035,7 @@
 3	踰	踰	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=leap-over|SpaceAfter=No
 4	垣	垣	NOUN	n,名詞,固定物,建造物	Case=Loc	3	obj	_	Gloss=wall|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
-6	辟	辟	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=rule|SpaceAfter=No
+6	辟	辟	VERB	v,動詞,行為,儀礼	_	3	conj	_	Gloss=rule|SpaceAfter=No
 7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par7_30-36
@@ -33487,7 +33487,7 @@
 # sent_id = KR1h0001_006_par10_152-154
 # text = 妻辟纑
 1	妻	妻	NOUN	n,名詞,人,関係	_	2	nsubj	_	Gloss=wife|SpaceAfter=No
-2	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+2	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 3	纑	纑	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=bleached-hempen-threads|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par10_155-158
@@ -34116,7 +34116,7 @@
 1	田	田	NOUN	n,名詞,固定物,地形	Case=Loc	4	nsubj	_	Gloss=cultivated-field|SpaceAfter=No
 2	野	野	NOUN	n,名詞,固定物,地形	Case=Loc	1	conj	_	Gloss=uncultivated-land|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+4	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par1_275-278
 # text = 貨財不聚
@@ -35905,7 +35905,7 @@
 # sent_id = KR1h0001_007_par13_4-7
 # text = 伯夷辟紂
 1	伯夷	伯夷	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Boyi|SpaceAfter=No
-2	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+2	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 3	紂	紂	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par13_8-12
@@ -35949,7 +35949,7 @@
 # text = 太公辟紂
 1	太	太	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Tai|SpaceAfter=No
 2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 4	紂	紂	PROPN	n,名詞,人,名	NameType=Giv	3	obj	_	Gloss=[given-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par13_35-39
@@ -36226,7 +36226,7 @@
 
 # sent_id = KR1h0001_007_par14_108-110
 # text = 辟草萊
-1	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+1	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 2	草	草	NOUN	n,名詞,固定物,樹木	_	1	obj	_	Gloss=grasses|SpaceAfter=No
 3	萊	萊	NOUN	n,名詞,固定物,樹木	_	2	conj	_	Gloss=goosefoot|SpaceAfter=No
 
@@ -37631,7 +37631,7 @@
 # sent_id = KR1h0001_008_par2_49-53
 # text = 行辟人可也
 1	行	行	VERB	v,動詞,行為,動作	_	4	csubj	_	Gloss=behave|SpaceAfter=No
-2	辟	辟	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=rule|SpaceAfter=No
+2	辟	辟	VERB	v,動詞,行為,儀礼	_	1	ccomp	_	Gloss=rule|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	2	obj	_	Gloss=person|SpaceAfter=No
 4	可	可	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=permissible|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -50366,7 +50366,7 @@
 # sent_id = KR1h0001_013_par22_4-7
 # text = 伯夷辟紂
 1	伯夷	伯夷	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Boyi|SpaceAfter=No
-2	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+2	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 3	紂	紂	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par22_8-12
@@ -50410,7 +50410,7 @@
 # text = 太公辟紂
 1	太	太	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Tai|SpaceAfter=No
 2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
-3	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+3	辟	辟	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=rule|SpaceAfter=No
 4	紂	紂	PROPN	n,名詞,人,名	NameType=Giv	3	obj	_	Gloss=[given-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par22_35-39
@@ -51145,7 +51145,7 @@
 1	有	有	VERB	v,動詞,存在,存在	_	3	advcl	_	Gloss=have|SpaceAfter=No
 2	為	爲	VERB	v,動詞,行為,生産	_	1	obj	_	Gloss=make|SpaceAfter=No
 3	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
-4	辟	辟	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rule|SpaceAfter=No
+4	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=perverse|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par29_8-10
 # text = 若掘井
