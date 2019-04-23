@@ -12870,7 +12870,7 @@
 # sent_id = KR1d0052_032_par11_13-16
 # text = 尊為天子
 1	尊	尊	VERB	v,動詞,行為,態度	_	4	nsubj	_	Gloss=honour|SpaceAfter=No
-2	為	爲	VERB	v,動詞,行為,生産	_	4	cop	_	Gloss=make|SpaceAfter=No
+2	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
 3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 
