@@ -6647,9 +6647,9 @@
 1	子	子	PRON	n,代名詞,人称,他	Person=2|PronType=Prs	3	vocative	_	Gloss=[2PRON]|SpaceAfter=No
 2	亦	亦	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
 3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-4	在	在	VERB	v,動詞,存在,存在	_	6	csubj	_	Gloss=be-present|SpaceAfter=No
+4	在	在	VERB	v,動詞,存在,存在	_	6	acl	_	Gloss=be-present|SpaceAfter=No
 5	位	位	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=rank|SpaceAfter=No
-6	故	故	NOUN	n,名詞,思考,*	_	3	ccomp	_	Gloss=reason|SpaceAfter=No
+6	故	故	NOUN	n,名詞,思考,*	_	3	obj	_	Gloss=reason|SpaceAfter=No
 7	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par5_123-126
@@ -6668,15 +6668,12 @@
 5	鄉	郷	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=village|SpaceAfter=No
 6	人	人	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=person|SpaceAfter=No
 
-# sent_id = KR1h0001_011_par5_134-137
-# text = 季子聞之
+# sent_id = KR1h0001_011_par5_134-138
+# text = 季子聞之曰
 1	季子	季子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Jizi|SpaceAfter=No
 2	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
-
-# sent_id = KR1h0001_011_par5_138-138
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+4	曰	曰	VERB	v,動詞,行為,伝達	_	2	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par5_139-143
 # text = 敬叔父則敬
