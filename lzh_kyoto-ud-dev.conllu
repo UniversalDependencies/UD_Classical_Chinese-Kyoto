@@ -4470,7 +4470,7 @@
 # newpar text = 子言衛靈公之無道也康子曰夫如是奚而不喪孔子曰仲叔圉治賓客祝鮀治宗廟王孫賈治軍旅夫如是奚其喪
 # sent_id = KR1h0004_014_par19_1-9
 # text = 子言衛靈公之無道也
-1	子	子	NOUN	n,名詞,人,関係	_	2	nsubj	_	Gloss=child|SpaceAfter=No
+1	子	子	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=master|SpaceAfter=No
 2	言	言	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak|SpaceAfter=No
 3	衛	衞	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	nmod	_	Gloss=[country-name]|SpaceAfter=No
 4	靈	靈	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Ling|SpaceAfter=No
@@ -4482,9 +4482,8 @@
 
 # sent_id = KR1h0004_014_par19_10-12
 # text = 康子曰
-1	康	康	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	子	子	NOUN	n,名詞,人,関係	_	1	flat	_	Gloss=child|SpaceAfter=No
-3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+1	康子	康子	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
+2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par19_13-15
 # text = 夫如是
@@ -4506,8 +4505,8 @@
 
 # sent_id = KR1h0004_014_par19_23-28
 # text = 仲叔圉治賓客
-1	仲叔	仲叔	NOUN	n,名詞,人,関係	_	2	nmod	_	SpaceAfter=No
-2	圉	圉	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
+1	仲	仲	NOUN	n,名詞,人,関係	_	3	nsubj	_	Gloss=second-oldest-brother|SpaceAfter=No
+2	叔圉	叔圉	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
 3	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
 4	賓	賓	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=guest|SpaceAfter=No
 5	客	客	NOUN	n,名詞,人,関係	_	4	conj	_	Gloss=guest|SpaceAfter=No
