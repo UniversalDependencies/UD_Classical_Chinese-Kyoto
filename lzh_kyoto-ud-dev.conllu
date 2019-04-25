@@ -16037,7 +16037,7 @@
 # sent_id = KR1d0052_043_par2_893-897
 # text = 不與同中國
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
-2	與	與	ADP	v,前置詞,関係,*	_	3	advmod	_	Gloss=associate-with|SpaceAfter=No
+2	與	與	VERB	v,動詞,行為,交流	_	3	advcl	_	Gloss=participate|SpaceAfter=No
 3	同	同	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=same|SpaceAfter=No
 4	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=centre|SpaceAfter=No
 5	國	國	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No

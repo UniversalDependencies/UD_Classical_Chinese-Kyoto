@@ -12648,7 +12648,7 @@
 3	登	登	VERB	v,動詞,行為,移動	_	7	csubj	_	Gloss=ascend|SpaceAfter=No
 4	高	高	VERB	v,動詞,描写,量	Degree=Pos	3	obj	_	Gloss=high|SpaceAfter=No
 5	必	必	ADV	v,副詞,判断,確定	_	7	advmod	_	Gloss=necessarily|SpaceAfter=No
-6	自	自	ADP	v,前置詞,経由,*	_	7	advmod	_	Gloss=from|SpaceAfter=No
+6	自	自	ADP	v,前置詞,経由,*	_	7	mark	_	Gloss=from|SpaceAfter=No
 7	卑	卑	VERB	v,動詞,描写,境遇	Degree=Pos	2	ccomp	_	Gloss=humble|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par9_36-37

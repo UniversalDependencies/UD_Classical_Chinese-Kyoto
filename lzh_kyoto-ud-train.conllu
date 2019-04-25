@@ -15688,15 +15688,12 @@
 3	以	以	VERB	v,動詞,行為,動作	_	4	advcl	_	Gloss=use|SpaceAfter=No
 4	告	吿	VERB	v,動詞,行為,伝達	_	2	parataxis	_	Gloss=proclaim|SpaceAfter=No
 
-# sent_id = KR1h0004_018_par6_113-116
-# text = 夫子憮然
+# sent_id = KR1h0004_018_par6_113-117
+# text = 夫子憮然曰
 1	夫子	夫子	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=master|SpaceAfter=No
 2	憮	憮	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=startled|SpaceAfter=No
 3	然	然	PART	p,接尾辞,*,*	_	2	fixed	_	Gloss=[suffix]|SpaceAfter=No
-
-# sent_id = KR1h0004_018_par6_117-117
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+4	曰	曰	VERB	v,動詞,行為,伝達	_	2	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0004_018_par6_118-124
 # text = 鳥獸不可與同群
@@ -15704,7 +15701,7 @@
 2	獸	獸	NOUN	n,名詞,主体,動物	_	1	conj	_	Gloss=animal|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	可	可	AUX	v,助動詞,可能,*	Mood=Pot	6	aux	_	Gloss=possible|SpaceAfter=No
-5	與	與	ADP	v,前置詞,関係,*	_	6	advmod	_	Gloss=associate-with|SpaceAfter=No
+5	與	與	VERB	v,動詞,行為,交流	_	6	advcl	_	Gloss=participate|SpaceAfter=No
 6	同	同	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=same|SpaceAfter=No
 7	群	群	NOUN	n,名詞,描写,形質	_	6	obj	_	Gloss=flock|SpaceAfter=No
 
@@ -23885,7 +23882,7 @@
 3	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 4	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	7	advmod	_	Gloss=not-yet|SpaceAfter=No
 5	嘗	嘗	ADV	v,副詞,時相,過去	AdvType=Tim|Tense=Past	7	advmod	_	Gloss=once|SpaceAfter=No
-6	與	與	ADP	v,前置詞,関係,*	_	7	advmod	_	Gloss=associate-with|SpaceAfter=No
+6	與	與	VERB	v,動詞,行為,交流	_	7	advcl	_	Gloss=participate|SpaceAfter=No
 7	言	言	VERB	v,動詞,行為,伝達	_	1	conj	_	Gloss=speak|SpaceAfter=No
 8	行	行	VERB	v,動詞,行為,動作	_	7	ccomp	_	Gloss=behave|SpaceAfter=No
 9	事	事	NOUN	n,名詞,可搬,成果物	_	8	obj	_	Gloss=affair|SpaceAfter=No
@@ -40813,7 +40810,7 @@
 # text = 問其與飲食者
 1	問	問	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=ask|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
-3	與	與	ADP	v,前置詞,関係,*	_	4	advmod	_	Gloss=associate-with|SpaceAfter=No
+3	與	與	VERB	v,動詞,行為,交流	_	4	advcl	_	Gloss=participate|SpaceAfter=No
 4	飲	飲	VERB	v,動詞,行為,飲食	_	6	acl	_	Gloss=drink|SpaceAfter=No
 5	食	食	VERB	v,動詞,行為,飲食	_	4	flat:vv	_	Gloss=feed|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	1	obj	_	Gloss=that-which|SpaceAfter=No
@@ -40871,7 +40868,7 @@
 # sent_id = KR1h0001_008_par33_92-96
 # text = 無與立談者
 1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-2	與	與	ADP	v,前置詞,関係,*	_	3	advmod	_	Gloss=associate-with|SpaceAfter=No
+2	與	與	VERB	v,動詞,行為,交流	_	3	advcl	_	Gloss=participate|SpaceAfter=No
 3	立	立	VERB	v,動詞,行為,姿勢	_	5	acl	_	Gloss=stand|SpaceAfter=No
 4	談	談	VERB	v,動詞,行為,伝達	_	3	conj	_	Gloss=talk|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	1	obj	_	Gloss=that-which|SpaceAfter=No
