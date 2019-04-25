@@ -11668,8 +11668,8 @@
 # text = 吾嘗終日不食
 1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	6	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
 2	嘗	嘗	ADV	v,副詞,時相,過去	AdvType=Tim|Tense=Past	6	advmod	_	Gloss=once|SpaceAfter=No
-3	終	終	VERB	v,動詞,変化,生物	_	6	advmod	_	Gloss=end|SpaceAfter=No
-4	日	日	NOUN	n,名詞,時,*	Case=Tem	3	amod	_	Gloss=day|SpaceAfter=No
+3	終	終	VERB	v,動詞,変化,生物	_	4	amod	_	Gloss=end|SpaceAfter=No
+4	日	日	NOUN	n,名詞,時,*	Case=Tem	6	advmod	_	Gloss=day|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
 6	食	食	VERB	v,動詞,行為,飲食	_	0	root	_	Gloss=feed|SpaceAfter=No
 
@@ -25669,7 +25669,7 @@
 
 # sent_id = KR1h0001_004_par13_18-24
 # text = 前日虞聞諸夫子
-1	前	前	NOUN	n,名詞,時,*	Case=Tem	2	amod	_	Gloss=before|SpaceAfter=No
+1	前	前	NOUN	n,名詞,時,*	Case=Tem	2	nmod	_	Gloss=before|SpaceAfter=No
 2	日	日	NOUN	n,名詞,時,*	Case=Tem	4	advmod	_	Gloss=day|SpaceAfter=No
 3	虞	虞	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 4	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
@@ -27820,7 +27820,7 @@
 # sent_id = KR1h0001_005_par4_167-175
 # text = 許子必種粟而後食乎
 1	許子	許子	PROPN	n,名詞,人,複合的人名	NameType=Prs	3	nsubj	_	Gloss=Xuzi|SpaceAfter=No
-2	必	必	ADV	v,副詞,判断,確定	_	3	amod	_	Gloss=necessarily|SpaceAfter=No
+2	必	必	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=necessarily|SpaceAfter=No
 3	種	種	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=plant|SpaceAfter=No
 4	粟	粟	NOUN	n,名詞,可搬,糧食	_	3	obj	_	Gloss=unhusked-grain|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
@@ -38745,7 +38745,7 @@
 # text = 其事則齊桓晉文
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	det	_	Gloss=[3PRON]|SpaceAfter=No
 2	事	事	NOUN	n,名詞,可搬,成果物	_	5	nsubj	_	Gloss=affair|SpaceAfter=No
-3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	amod	_	Gloss=then|SpaceAfter=No
+3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
 4	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	nmod	_	Gloss=[country-name]|SpaceAfter=No
 5	桓	桓	PROPN	n,名詞,人,名	NameType=Giv	0	root	_	Gloss=[given-name]|SpaceAfter=No
 6	晉	晉	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	7	nmod	_	Gloss=[country-name]|SpaceAfter=No

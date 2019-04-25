@@ -8204,7 +8204,7 @@
 1	二	二	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=two|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	可	可	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=possible|SpaceAfter=No
+4	可	可	AUX	v,助動詞,可能,*	Mood=Pot	6	aux	_	Gloss=possible|SpaceAfter=No
 5	得	得	AUX	v,助動詞,可能,*	Mood=Pot	6	aux	_	Gloss=must|SpaceAfter=No
 6	兼	兼	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=combine|SpaceAfter=No
 
