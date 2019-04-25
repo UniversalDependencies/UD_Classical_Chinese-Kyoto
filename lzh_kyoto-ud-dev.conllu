@@ -4059,8 +4059,8 @@
 
 # sent_id = KR1h0004_014_par12_57-64
 # text = 久要不忘平生之言
-1	久	久	VERB	v,動詞,描写,量	Degree=Pos	2	amod	_	Gloss=for-a-long-time|SpaceAfter=No
-2	要	要	NOUN	n,名詞,可搬,伝達	_	4	nsubj	_	SpaceAfter=No
+1	久	久	VERB	v,動詞,描写,量	Degree=Pos	2	advmod	_	Gloss=for-a-long-time|SpaceAfter=No
+2	要	要	VERB	v,動詞,行為,動作	_	4	advcl	_	Gloss=demand|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	忘	忘	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=forget|SpaceAfter=No
 5	平	平	VERB	v,動詞,描写,形質	Degree=Pos	6	amod	_	Gloss=level|SpaceAfter=No
@@ -13786,7 +13786,7 @@
 1	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 2	止	止	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=stop|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-4	至	至	VERB	v,動詞,行為,移動	_	5	amod	_	Gloss=arrive|SpaceAfter=No
+4	至	至	NOUN	n,名詞,描写,形質	_	5	nmod	_	Gloss=utmost|SpaceAfter=No
 5	善	善	NOUN	n,名詞,描写,態度	_	2	obl	_	Gloss=good|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par1_17-22
@@ -14373,7 +14373,7 @@
 10	道	道	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=lead|SpaceAfter=No
 11	盛	盛	VERB	v,動詞,描写,形質	Degree=Pos	12	amod	_	Gloss=full|SpaceAfter=No
 12	德	德	NOUN	n,名詞,描写,態度	_	10	obj	_	Gloss=virtue|SpaceAfter=No
-13	至	至	VERB	v,動詞,行為,移動	_	14	amod	_	Gloss=arrive|SpaceAfter=No
+13	至	至	NOUN	n,名詞,描写,形質	_	14	nmod	_	Gloss=utmost|SpaceAfter=No
 14	善	善	NOUN	n,名詞,描写,態度	_	12	conj	_	Gloss=good|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par1_420-425

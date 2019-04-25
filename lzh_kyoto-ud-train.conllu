@@ -11081,7 +11081,7 @@
 # text = 樂則韶舞
 1	樂	樂	NOUN	n,名詞,制度,儀礼	_	4	advmod	_	Gloss=music|SpaceAfter=No
 2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
-3	韶	韶	NOUN	n,名詞,不可譲,属性	_	4	obj	_	SpaceAfter=No
+3	韶	韶	NOUN	n,名詞,制度,儀礼	_	4	obj	_	Gloss=[ancient-music]|SpaceAfter=No
 4	舞	舞	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=dance|SpaceAfter=No
 
 # sent_id = KR1h0004_015_par11_24-26
@@ -33151,7 +33151,7 @@
 # sent_id = KR1h0001_006_par9_505-510
 # text = 而亂臣賊子懼
 1	而	而	CCONJ	p,助詞,接続,並列	_	5	advmod	_	Gloss=and|SpaceAfter=No
-2	亂	亂	VERB	v,動詞,行為,動作	_	3	advmod	_	Gloss=disorder|SpaceAfter=No
+2	亂	亂	VERB	v,動詞,行為,動作	_	3	amod	_	Gloss=disorder|SpaceAfter=No
 3	臣	臣	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=vassal|SpaceAfter=No
 4	賊子	賊子	NOUN	n,名詞,主体,集団	_	3	conj	_	Gloss=bandit|SpaceAfter=No
 5	懼	懼	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=fear|SpaceAfter=No
