@@ -384,7 +384,7 @@
 1	君子	君子	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=lord|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	於	於	VERB	v,動詞,存在,存在	_	7	csubj	_	Gloss=go-into|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 6	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 7	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
@@ -506,7 +506,7 @@
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	患	患	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=trouble|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	2	ccomp	_	Gloss=not-have|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0004_004_par14_7-10
 # text = 患所以立
@@ -1270,7 +1270,7 @@
 4	帶	帶	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=belt|SpaceAfter=No
 5	立	立	VERB	v,動詞,行為,姿勢	_	3	parataxis	_	Gloss=stand|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-7	朝	朝	NOUN	n,名詞,制度,場	_	5	obl	_	Gloss=court|SpaceAfter=No
+7	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	5	obl:lmod	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0004_005_par8_75-81
 # text = 可使與賓客言也
@@ -1552,7 +1552,7 @@
 3	言	言	VERB	v,動詞,行為,伝達	_	10	csubj	_	Gloss=speak|SpaceAfter=No
 4	性	性	NOUN	n,名詞,不可譲,属性	_	3	obj	_	Gloss=nature|SpaceAfter=No
 5	與	與	ADP	v,前置詞,関係,*	_	7	cc	_	Gloss=associate-with|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	nmod	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	nmod	_	Gloss=heaven|SpaceAfter=No
 7	道	道	NOUN	n,名詞,制度,儀礼	_	4	conj	_	Gloss=doctrine|SpaceAfter=No
 8	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	9	advmod	_	Gloss=not|SpaceAfter=No
 9	可	可	AUX	v,助動詞,可能,*	Mood=Pot	10	aux	_	Gloss=possible|SpaceAfter=No
@@ -2611,7 +2611,7 @@
 3	爾	爾	PRON	n,代名詞,人称,止格	Person=2|PronType=Prs	5	det	_	Gloss=[2PRON]|SpaceAfter=No
 4	鄰	鄰	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=neighbour|SpaceAfter=No
 5	里	里	NOUN	n,名詞,固定物,地形	Case=Loc	2	obj	_	Gloss=village|SpaceAfter=No
-6	鄉	郷	NOUN	n,名詞,制度,場	_	7	nmod	_	Gloss=village|SpaceAfter=No
+6	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	7	nmod	_	Gloss=village|SpaceAfter=No
 7	黨	黨	NOUN	n,名詞,主体,集団	_	5	conj	_	Gloss=party|SpaceAfter=No
 8	乎	乎	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[Q]|SpacesAfter=\n
 
@@ -2906,7 +2906,7 @@
 2	簞	簞	NOUN	n,名詞,可搬,道具	_	3	nmod	_	Gloss=food-basket|SpaceAfter=No
 3	食	食	NOUN	n,名詞,可搬,糧食	_	7	nsubj	_	Gloss=food|SpaceAfter=No
 4	一	一	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=one|SpaceAfter=No
-5	瓢	瓢	NOUN	n,名詞,可搬,道具	_	6	advmod	_	Gloss=gourd|SpaceAfter=No
+5	瓢	瓢	NOUN	n,名詞,可搬,道具	_	6	nmod	_	Gloss=gourd|SpaceAfter=No
 6	飲	飲	NOUN	n,名詞,可搬,糧食	_	3	conj	_	Gloss=drink|SpaceAfter=No
 7	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 8	陋	陋	VERB	v,動詞,描写,量	Degree=Pos	9	amod	_	Gloss=low|SpaceAfter=No
@@ -3139,7 +3139,7 @@
 4	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
 5	今	今	NOUN	n,名詞,時,*	Case=Tem	7	nmod	_	Gloss=now|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
-7	世	世	NOUN	n,名詞,制度,場	_	3	obl	_	Gloss=world|SpaceAfter=No
+7	世	世	NOUN	n,名詞,制度,場	Case=Loc	3	obl:lmod	_	Gloss=world|SpaceAfter=No
 8	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
 
 # newpar text = 子曰誰能出不由戶何莫由斯道也
@@ -3576,13 +3576,13 @@
 2	所	所	PART	p,助詞,接続,体言化	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 3	否	否	VERB	v,動詞,描写,態度	Degree=Pos	4	acl	_	Gloss=not-so|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	6	obj	_	Gloss=that-which|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	nsubj	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	nsubj	_	Gloss=heaven|SpaceAfter=No
 6	厭	厭	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=satiated|SpaceAfter=No
 7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	expl	_	Gloss=[3PRON]|SpaceAfter=No
 
 # sent_id = KR1h0004_006_par28_21-23
 # text = 天厭之
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	厭	厭	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=satiated|SpaceAfter=No
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpacesAfter=\n
 
@@ -4526,7 +4526,7 @@
 
 # sent_id = KR1h0004_007_par23_3-7
 # text = 天生德於予
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	生	生	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=alive|SpaceAfter=No
 3	德	德	NOUN	n,名詞,描写,態度	_	2	obj	_	Gloss=virtue|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
@@ -5085,9 +5085,9 @@
 # newpar text = 子疾病子路請禱子曰有諸子路對曰有之誄曰禱爾于上下神祇子曰丘之禱久矣
 # sent_id = KR1h0004_007_par35_1-3
 # text = 子疾病
-1	子	子	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=master|SpaceAfter=No
-2	疾	疾	NOUN	n,名詞,不可譲,疾病	_	3	advmod	_	Gloss=illness|SpaceAfter=No
-3	病	病	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=ill|SpaceAfter=No
+1	子	子	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=master|SpaceAfter=No
+2	疾	疾	NOUN	n,名詞,不可譲,疾病	_	0	root	_	Gloss=illness|SpaceAfter=No
+3	病	病	NOUN	n,名詞,不可譲,疾病	_	2	flat	_	Gloss=disease|SpaceAfter=No
 
 # sent_id = KR1h0004_007_par35_4-7
 # text = 子路請禱
@@ -5125,7 +5125,7 @@
 # text = 禱爾于上下神祇
 1	禱	禱	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=seek-blessings|SpaceAfter=No
 2	爾	爾	PRON	n,代名詞,人称,止格	Person=2|PronType=Prs	1	obj	_	Gloss=[2PRON]|SpaceAfter=No
-3	于	于	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
+3	于	于	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
 4	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=up|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	flat	_	Gloss=down|SpaceAfter=No
 6	神	神	NOUN	n,名詞,人,役割	_	1	obl	_	Gloss=god|SpaceAfter=No
@@ -5245,7 +5245,7 @@
 # text = 三以天下讓
 1	三	三	NUM	n,数詞,数字,*	_	5	advmod	_	Gloss=three|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 5	讓	讓	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=reprimand|SpaceAfter=No
 
@@ -5491,7 +5491,7 @@
 1	籩	籩	NOUN	n,名詞,可搬,道具	_	4	nmod	_	Gloss=stand-for-sacrificial-offerings|SpaceAfter=No
 2	豆	豆	NOUN	n,名詞,可搬,糧食	_	1	conj	_	Gloss=bean|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-4	事	事	NOUN	n,名詞,可搬,成果物	_	8	advmod	_	Gloss=affair|SpaceAfter=No
+4	事	事	NOUN	n,名詞,可搬,成果物	_	8	dislocated	_	Gloss=affair|SpaceAfter=No
 5	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	8	advmod	_	Gloss=then|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	7	amod	_	Gloss=have|SpaceAfter=No
 7	司	司	NOUN	n,名詞,人,役割	_	8	nsubj	_	Gloss=controller|SpaceAfter=No
@@ -5827,7 +5827,7 @@
 
 # sent_id = KR1h0004_008_par13_19-24
 # text = 天下有道則見
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	6	advcl	_	Gloss=have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -5882,7 +5882,7 @@
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	det	_	Gloss=[3PRON]|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	2	obj	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	2	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0004_008_par14_7-10
 # text = 不謀其政
@@ -5984,7 +5984,7 @@
 5	禹	禹	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 7	有	有	VERB	v,動詞,存在,存在	_	1	dislocated	_	Gloss=have|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	9	compound	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	9	compound	_	Gloss=heaven|SpaceAfter=No
 9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	obj	_	Gloss=down|SpaceAfter=No
 10	也	也	PART	p,助詞,提示,*	_	7	mark	_	Gloss=that-which|SpaceAfter=No
 
@@ -6020,7 +6020,7 @@
 # sent_id = KR1h0004_008_par19_13-16
 # text = 唯天為大
 1	唯	唯	ADV	v,副詞,範囲,限定	_	3	advmod	_	Gloss=only|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 4	大	大	VERB	v,動詞,描写,量	Degree=Pos	3	obj	_	Gloss=big|SpaceAfter=No
 
@@ -6081,7 +6081,7 @@
 4	五	五	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=five|SpaceAfter=No
 5	人	人	NOUN	n,名詞,人,人	_	4	clf	_	Gloss=person|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	compound	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	compound	_	Gloss=heaven|SpaceAfter=No
 8	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	9	obj	_	Gloss=down|SpaceAfter=No
 9	治	治	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=govern|SpaceAfter=No
 
@@ -6146,7 +6146,7 @@
 # text = 三分天下
 1	三	三	NUM	n,数詞,数字,*	_	2	advmod	_	Gloss=three|SpaceAfter=No
 2	分	分	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=divide|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0004_008_par20_48-50
@@ -6426,7 +6426,7 @@
 
 # sent_id = KR1h0004_009_par5_15-21
 # text = 天之將喪斯文也
-1	天	天	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	4	advmod	_	Gloss=about-to|SpaceAfter=No
 4	喪	喪	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=lose|SpaceAfter=No
@@ -6449,7 +6449,7 @@
 
 # sent_id = KR1h0004_009_par5_32-38
 # text = 天之未喪斯文也
-1	天	天	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	4	advmod	_	Gloss=not-yet|SpaceAfter=No
 4	喪	喪	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=mourn|SpaceAfter=No
@@ -6499,7 +6499,7 @@
 # sent_id = KR1h0004_009_par6_21-26
 # text = 固天縱之將聖
 1	固	固	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=certainly|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	縱	縱	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=let-loose|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
 5	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	6	advmod	_	Gloss=about-to|SpaceAfter=No
@@ -6785,9 +6785,9 @@
 # newpar text = 子疾病子路使門人為臣病間曰久矣哉由之行詐也無臣而為有臣吾誰欺欺天乎且予與其死於臣之手也無寧死於二三子之手乎且予縱不得大葬予死於道路乎
 # sent_id = KR1h0004_009_par12_1-3
 # text = 子疾病
-1	子	子	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=master|SpaceAfter=No
-2	疾	疾	NOUN	n,名詞,不可譲,疾病	_	3	advmod	_	Gloss=illness|SpaceAfter=No
-3	病	病	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=ill|SpaceAfter=No
+1	子	子	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=master|SpaceAfter=No
+2	疾	疾	NOUN	n,名詞,不可譲,疾病	_	0	root	_	Gloss=illness|SpaceAfter=No
+3	病	病	NOUN	n,名詞,不可譲,疾病	_	2	flat	_	Gloss=disease|SpaceAfter=No
 
 # sent_id = KR1h0004_009_par12_4-10
 # text = 子路使門人為臣
@@ -6833,7 +6833,7 @@
 # sent_id = KR1h0004_009_par12_31-33
 # text = 欺天乎
 1	欺	欺	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=cheat|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=heaven|SpaceAfter=No
 3	乎	乎	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0004_009_par12_34-53
@@ -7001,7 +7001,7 @@
 3	各	各	ADV	v,副詞,範囲,限定	_	4	advmod	_	Gloss=each|SpaceAfter=No
 4	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
 5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
-6	所	所	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=place|SpacesAfter=\n
+6	所	所	NOUN	n,名詞,制度,場	Case=Loc	4	obj	_	Gloss=place|SpacesAfter=\n
 
 # newpar text = 子曰出則事公卿入則事父兄喪事不敢不勉不為酒困何有於我哉
 # sent_id = KR1h0004_009_par16_1-2
@@ -7596,7 +7596,7 @@
 # newdoc id = KR1h0004_010
 # sent_id = KR1h0004_010_title
 # text = 鄉黨篇第十
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	黨	黨	NOUN	n,名詞,主体,集団	_	3	nmod	_	Gloss=party|SpaceAfter=No
 3	篇	篇	NOUN	n,名詞,可搬,伝達	_	0	root	_	Gloss=section-of-a-book|SpaceAfter=No
 4	第	第	NOUN	n,名詞,数量,*	_	3	list	_	Gloss=order-in-a-sequence|SpaceAfter=No
@@ -7607,7 +7607,7 @@
 # text = 孔子於鄉黨
 1	孔子	孔子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Confucius|SpaceAfter=No
 2	於	於	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=go-into|SpaceAfter=No
-3	鄉	郷	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=village|SpaceAfter=No
+3	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=village|SpaceAfter=No
 4	黨	黨	NOUN	n,名詞,主体,集団	_	2	obj	_	Gloss=party|SpaceAfter=No
 
 # sent_id = KR1h0004_010_par1_6-9
@@ -7631,8 +7631,8 @@
 2	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 3	宗	宗	NOUN	n,名詞,人,関係	_	4	nmod	_	Gloss=ancestor|SpaceAfter=No
 4	廟	廟	NOUN	n,名詞,固定物,建造物	Case=Loc	2	obj	_	Gloss=ancestral-temple|SpaceAfter=No
-5	朝	朝	NOUN	n,名詞,制度,場	_	4	conj	_	Gloss=court|SpaceAfter=No
-6	廷	廷	NOUN	n,名詞,制度,場	_	5	flat	_	Gloss=court|SpaceAfter=No
+5	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	4	conj	_	Gloss=court|SpaceAfter=No
+6	廷	廷	NOUN	n,名詞,制度,場	Case=Loc	5	flat	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0004_010_par1_21-23
 # text = 便便言
@@ -7649,7 +7649,7 @@
 # newpar text = 朝與下大夫言侃侃如也與上大夫言誾誾如也君在踧踖如也與與如也
 # sent_id = KR1h0004_010_par2_1-10
 # text = 朝與下大夫言侃侃如也
-1	朝	朝	NOUN	n,名詞,制度,場	_	6	advmod	_	Gloss=court|SpaceAfter=No
+1	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	6	obl:lmod	_	Gloss=court|SpaceAfter=No
 2	與	與	ADP	v,前置詞,関係,*	_	5	case	_	Gloss=associate-with|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	大	大	VERB	v,動詞,描写,量	Degree=Pos	5	amod	_	Gloss=big|SpaceAfter=No
@@ -7799,7 +7799,7 @@
 # sent_id = KR1h0004_010_par4_19-20
 # text = 過位
 1	過	過	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=pass|SpaceAfter=No
-2	位	位	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=rank|SpaceAfter=No
+2	位	位	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0004_010_par4_21-24
 # text = 色勃如也
@@ -7884,7 +7884,7 @@
 # text = 復其位
 1	復	復	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=return|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=rank|SpaceAfter=No
+3	位	位	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0004_010_par4_70-73
 # text = 踧踖如也
@@ -8092,7 +8092,7 @@
 1	吉	吉	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	Gloss=auspicious|SpaceAfter=No
 2	月	月	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=month|SpaceAfter=No
 3	必	必	ADV	v,副詞,判断,確定	_	5	advmod	_	Gloss=necessarily|SpaceAfter=No
-4	朝	朝	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=court|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=court|SpaceAfter=No
 5	服	服	NOUN	n,名詞,可搬,道具	_	0	root	_	Gloss=clothing|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 7	朝	朝	VERB	v,動詞,行為,役割	_	5	conj	_	Gloss=go-to-court|SpacesAfter=\n
@@ -8337,7 +8337,7 @@
 # newpar text = 鄉人飲酒杖者出斯出矣
 # sent_id = KR1h0004_010_par13_1-4
 # text = 鄉人飲酒
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
 3	飲	飲	VERB	v,動詞,行為,飲食	_	0	root	_	Gloss=drink|SpaceAfter=No
 4	酒	酒	NOUN	n,名詞,可搬,糧食	_	3	obj	_	Gloss=alcoholic-drink|SpaceAfter=No
@@ -8354,13 +8354,13 @@
 # newpar text = 鄉人儺朝服而立於阼階
 # sent_id = KR1h0004_010_par14_1-3
 # text = 鄉人儺
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
 3	儺	儺	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=exorcise|SpaceAfter=No
 
 # sent_id = KR1h0004_010_par14_4-10
 # text = 朝服而立於阼階
-1	朝	朝	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=court|SpaceAfter=No
+1	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=court|SpaceAfter=No
 2	服	服	NOUN	n,名詞,可搬,道具	_	0	root	_	Gloss=clothing|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 4	立	立	VERB	v,動詞,行為,姿勢	_	2	conj	_	Gloss=stand|SpaceAfter=No
@@ -8426,7 +8426,7 @@
 # text = 子退朝
 1	子	子	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=master|SpaceAfter=No
 2	退	退	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=retreat|SpaceAfter=No
-3	朝	朝	NOUN	n,名詞,制度,場	_	2	obj	_	Gloss=court|SpaceAfter=No
+3	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	2	obj	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0004_010_par17_6-6
 # text = 曰
@@ -8519,7 +8519,7 @@
 # sent_id = KR1h0004_010_par19_7-9
 # text = 加朝服
 1	加	加	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=add|SpaceAfter=No
-2	朝	朝	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=court|SpaceAfter=No
+2	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=court|SpaceAfter=No
 3	服	服	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=clothing|SpaceAfter=No
 
 # sent_id = KR1h0004_010_par19_10-11
@@ -8671,11 +8671,11 @@
 # sent_id = KR1h0004_010_par25_37-42
 # text = 迅雷風烈必變
 1	迅	迅	VERB	v,動詞,描写,形質	Degree=Pos	2	amod	_	Gloss=rapid|SpaceAfter=No
-2	雷	雷	NOUN	n,名詞,天象,気象	_	6	advmod	_	Gloss=thunder|SpaceAfter=No
+2	雷	雷	NOUN	n,名詞,天象,気象	_	0	root	_	Gloss=thunder|SpaceAfter=No
 3	風	風	NOUN	n,名詞,天象,気象	_	4	nsubj	_	Gloss=wind|SpaceAfter=No
 4	烈	烈	VERB	v,動詞,描写,形質	Degree=Pos	2	conj	_	Gloss=ardent|SpaceAfter=No
 5	必	必	ADV	v,副詞,判断,確定	_	6	advmod	_	Gloss=necessarily|SpaceAfter=No
-6	變	變	VERB	v,動詞,変化,性質	_	0	root	_	Gloss=change|SpacesAfter=\n
+6	變	變	VERB	v,動詞,変化,性質	_	2	parataxis	_	Gloss=change|SpacesAfter=\n
 
 # newpar text = 升車必正立執綏車中不內顧不疾言不親指
 # sent_id = KR1h0004_010_par26_1-2
@@ -9089,13 +9089,13 @@
 
 # sent_id = KR1h0004_011_par9_7-9
 # text = 天喪予
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	喪	喪	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=lose|SpaceAfter=No
 3	予	予	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	2	obj	_	Gloss=[1PRON]|SpaceAfter=No
 
 # sent_id = KR1h0004_011_par9_10-12
 # text = 天喪予
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	喪	喪	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=lose|SpaceAfter=No
 3	予	予	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	2	obj	_	Gloss=[1PRON]|SpacesAfter=\n
 
@@ -10796,7 +10796,7 @@
 # sent_id = KR1h0004_015_par6_28-33
 # text = 雖州里行乎哉
 1	雖	雖	ADV	v,副詞,判断,逆接	_	4	advmod	_	Gloss=although|SpaceAfter=No
-2	州	州	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=region|SpaceAfter=No
+2	州	州	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=region|SpaceAfter=No
 3	里	里	NOUN	n,名詞,固定物,地形	Case=Loc	4	nsubj	_	Gloss=village|SpaceAfter=No
 4	行	行	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=behave|SpaceAfter=No
 5	乎	乎	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
@@ -11159,7 +11159,7 @@
 2	文仲	文仲	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
 3	其	其	PART	p,助詞,句頭,*	_	6	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
 4	竊	竊	VERB	v,動詞,行為,動作	_	6	acl	_	Gloss=snatch|SpaceAfter=No
-5	位	位	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=rank|SpaceAfter=No
+5	位	位	NOUN	n,名詞,制度,場	Case=Loc	4	obj	_	Gloss=rank|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	0	root	_	Gloss=that-which|SpaceAfter=No
 7	與	與	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
@@ -11347,7 +11347,7 @@
 1	君子	君子	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=lord|SpaceAfter=No
 2	疾	疾	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=hurried|SpaceAfter=No
 3	沒	沒	VERB	v,動詞,変化,生物	_	2	ccomp	_	Gloss=die|SpaceAfter=No
-4	世	世	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=world|SpaceAfter=No
+4	世	世	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=world|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	8	cc	_	Gloss=and|SpaceAfter=No
 6	名	名	NOUN	n,名詞,不可譲,属性	_	8	nsubj	_	Gloss=name|SpaceAfter=No
 7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
@@ -12186,7 +12186,7 @@
 1	且	且	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 3	邦	邦	NOUN	n,名詞,主体,集団	_	4	nmod	_	Gloss=country|SpaceAfter=No
-4	域	域	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=region|SpaceAfter=No
+4	域	域	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=region|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=centre|SpaceAfter=No
 7	矣	矣	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
@@ -12536,7 +12536,7 @@
 
 # sent_id = KR1h0004_016_par2_4-7
 # text = 天下有道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -12549,13 +12549,13 @@
 4	征	征	VERB	v,動詞,行為,交流	_	2	conj	_	Gloss=expedite|SpaceAfter=No
 5	伐	伐	VERB	v,動詞,行為,交流	_	4	conj	_	Gloss=hew|SpaceAfter=No
 6	自	自	ADP	v,前置詞,経由,*	_	8	case	_	Gloss=from|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	nmod	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	nmod	_	Gloss=heaven|SpaceAfter=No
 8	子	子	NOUN	n,名詞,人,関係	_	9	obl	_	Gloss=child|SpaceAfter=No
 9	出	出	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go-out|SpaceAfter=No
 
 # sent_id = KR1h0004_016_par2_17-20
 # text = 天下無道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -12624,7 +12624,7 @@
 
 # sent_id = KR1h0004_016_par2_62-65
 # text = 天下有道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -12640,7 +12640,7 @@
 
 # sent_id = KR1h0004_016_par2_72-75
 # text = 天下有道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -12954,7 +12954,7 @@
 # sent_id = KR1h0004_016_par8_9-11
 # text = 畏天命
 1	畏	畏	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=fear|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	命	命	NOUN	n,名詞,可搬,伝達	_	1	obj	_	Gloss=decree|SpaceAfter=No
 
 # sent_id = KR1h0004_016_par8_12-14
@@ -12977,7 +12977,7 @@
 2	人	人	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=person|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=heaven|SpaceAfter=No
 6	命	命	NOUN	n,名詞,可搬,伝達	_	4	obj	_	Gloss=decree|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
 8	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	9	advmod	_	Gloss=not|SpaceAfter=No
@@ -13899,7 +13899,7 @@
 3	五	五	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=five|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	2	obj	_	Gloss=that-which|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=down|SpaceAfter=No
 8	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	9	cop	_	Gloss=be|SpaceAfter=No
 9	仁	仁	NOUN	n,名詞,描写,態度	_	0	root	_	Gloss=benevolence|SpaceAfter=No
@@ -14405,7 +14405,7 @@
 
 # sent_id = KR1h0004_017_par13_3-8
 # text = 鄉原德之賊也
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	原	原	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=source|SpaceAfter=No
 3	德	德	NOUN	n,名詞,描写,態度	_	5	nmod	_	Gloss=virtue|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
@@ -14661,7 +14661,7 @@
 
 # sent_id = KR1h0004_017_par19_22-25
 # text = 天何言哉
-1	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	obj	_	Gloss=what|SpaceAfter=No
 3	言	言	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak|SpaceAfter=No
 4	哉	哉	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
@@ -14682,7 +14682,7 @@
 
 # sent_id = KR1h0004_017_par19_34-37
 # text = 天何言哉
-1	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	obj	_	Gloss=what|SpaceAfter=No
 3	言	言	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak|SpaceAfter=No
 4	哉	哉	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[exclamatory-particle]|SpacesAfter=\n
@@ -14794,7 +14794,7 @@
 
 # sent_id = KR1h0004_017_par21_42-45
 # text = 期可已矣
-1	期	期	NOUN	n,名詞,数量,*	_	3	advmod	_	Gloss=complete-cycle-of-time|SpaceAfter=No
+1	期	期	NOUN	n,名詞,数量,*	_	3	nsubj	_	Gloss=complete-cycle-of-time|SpaceAfter=No
 2	可	可	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=possible|SpaceAfter=No
 3	已	已	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=stop|SpaceAfter=No
 4	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
@@ -14934,7 +14934,7 @@
 3	年	年	NOUN	n,名詞,時,*	Case=Tem	2	clf	_	Gloss=year|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 5	喪	喪	NOUN	n,名詞,制度,儀礼	_	10	nsubj	_	Gloss=mourning|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	10	nmod	_	Gloss=down|SpaceAfter=No
 8	之	之	SCONJ	p,助詞,接続,属格	_	7	case	_	Gloss='s|SpaceAfter=No
 9	通	通	VERB	v,動詞,行為,移動	_	10	amod	_	Gloss=go-through|SpaceAfter=No
@@ -15636,7 +15636,7 @@
 1	滔	滔	VERB	v,動詞,描写,態度	Degree=Pos	3	amod	_	SpaceAfter=No
 2	滔	滔	VERB	v,動詞,描写,態度	Degree=Pos	1	compound:redup	_	SpaceAfter=No
 3	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	obl:lmod	_	Gloss=down|SpaceAfter=No
 6	皆	皆	ADV	v,副詞,範囲,総括	_	7	advmod	_	Gloss=all|SpaceAfter=No
 7	是	是	PRON	n,代名詞,指示,*	PronType=Dem	0	root	_	Gloss=this|SpaceAfter=No
@@ -15669,7 +15669,7 @@
 2	若	若	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 3	從	從	VERB	v,動詞,行為,動作	_	2	ccomp	_	Gloss=follow|SpaceAfter=No
 4	辟	辟	VERB	v,動詞,行為,態度	_	7	acl	_	Gloss=avoid|SpaceAfter=No
-5	世	世	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=world|SpaceAfter=No
+5	世	世	NOUN	n,名詞,制度,場	Case=Loc	4	obj	_	Gloss=world|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	4	mark	_	Gloss='s|SpaceAfter=No
 7	士	士	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=officer|SpaceAfter=No
 8	哉	哉	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
@@ -15723,7 +15723,7 @@
 
 # sent_id = KR1h0004_018_par6_135-138
 # text = 天下有道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -16995,7 +16995,7 @@
 
 # sent_id = KR1h0004_019_par20_22-28
 # text = 天下之惡皆歸焉
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	惡	惡	NOUN	n,名詞,描写,態度	_	6	nsubj	_	Gloss=bad|SpaceAfter=No
@@ -17131,7 +17131,7 @@
 4	大	大	VERB	v,動詞,描写,量	Degree=Pos	5	amod	_	Gloss=big|SpaceAfter=No
 5	夫	夫	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=male-person|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-7	朝	朝	NOUN	n,名詞,制度,場	_	3	obl	_	Gloss=court|SpaceAfter=No
+7	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	3	obl:lmod	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0004_019_par23_10-10
 # text = 曰
@@ -17390,7 +17390,7 @@
 5	及	及	VERB	v,動詞,行為,移動	_	7	csubj	_	Gloss=reach|SpaceAfter=No
 6	也	也	PART	p,助詞,提示,*	_	5	mark	_	Gloss=that-which|SpaceAfter=No
 7	猶	猶	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=similar|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	12	nsubj	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	12	nsubj	_	Gloss=heaven|SpaceAfter=No
 9	之	之	SCONJ	p,助詞,接続,属格	_	8	case	_	Gloss='s|SpaceAfter=No
 10	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	11	advmod	_	Gloss=not|SpaceAfter=No
 11	可	可	AUX	v,助動詞,可能,*	Mood=Pot	12	aux	_	Gloss=possible|SpaceAfter=No
@@ -17485,7 +17485,7 @@
 
 # sent_id = KR1h0004_020_par1_6-12
 # text = 天之厤數在爾躬
-1	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	厤	厤	NOUN	n,名詞,制度,儀礼	_	4	nmod	_	SpaceAfter=No
 4	數	數	NOUN	n,名詞,数量,*	_	5	nsubj	_	Gloss=number|SpaceAfter=No
@@ -17509,7 +17509,7 @@
 
 # sent_id = KR1h0004_020_par1_21-24
 # text = 天祿永終
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	祿	祿	NOUN	n,名詞,可搬,成果物	_	4	nsubj	_	Gloss=emolument|SpaceAfter=No
 3	永	永	VERB	v,動詞,描写,量	Degree=Pos	4	advmod	_	Gloss=perpetual|SpaceAfter=No
 4	終	終	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=end|SpaceAfter=No
@@ -17677,7 +17677,7 @@
 # text = 繼絕世
 1	繼	繼	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=continue|SpaceAfter=No
 2	絕	絶	VERB	v,動詞,行為,動作	_	3	amod	_	Gloss=cut-off|SpaceAfter=No
-3	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+3	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 
 # sent_id = KR1h0004_020_par1_121-123
 # text = 舉逸民
@@ -17687,7 +17687,7 @@
 
 # sent_id = KR1h0004_020_par1_124-130
 # text = 天下之民歸心焉
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	民	民	NOUN	n,名詞,人,人	_	5	nsubj	_	Gloss=people|SpaceAfter=No
@@ -18386,7 +18386,7 @@
 2	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	3	advmod	_	Gloss=not-yet|SpaceAfter=No
 3	洽	洽	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=permeate|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par1_194-199
@@ -18457,7 +18457,7 @@
 
 # sent_id = KR1h0001_003_par1_237-242
 # text = 天下歸殷久矣
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	歸	歸	VERB	v,動詞,行為,移動	_	5	csubj	_	Gloss=return|SpaceAfter=No
 4	殷	殷	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	obj	_	Gloss=[country-name]|SpaceAfter=No
@@ -18482,7 +18482,7 @@
 # sent_id = KR1h0001_003_par1_253-260
 # text = 有天下猶運之掌也
 1	有	有	VERB	v,動詞,存在,存在	_	4	csubj	_	Gloss=have|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 4	猶	猶	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=similar|SpaceAfter=No
 5	運	運	VERB	v,動詞,行為,移動	_	4	ccomp	_	Gloss=revolve|SpaceAfter=No
@@ -19009,7 +19009,7 @@
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 5	市	市	NOUN	n,名詞,固定物,建造物	Case=Loc	2	obl:lmod	_	Gloss=market|SpaceAfter=No
-6	朝	朝	NOUN	n,名詞,制度,場	_	5	conj	_	Gloss=court|SpaceAfter=No
+6	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	5	conj	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par2_99-104
 # text = 不受於褐寬博
@@ -19558,7 +19558,7 @@
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
 2	塞	塞	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=block-up|SpaceAfter=No
 3	于	于	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	7	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	nmod	_	Gloss=heaven|SpaceAfter=No
 5	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	4	flat	_	Gloss=earth|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 7	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=between|SpaceAfter=No
@@ -19732,7 +19732,7 @@
 
 # sent_id = KR1h0001_003_par2_558-567
 # text = 天下之不助苗長者寡矣
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
@@ -20286,7 +20286,7 @@
 5	諸	諸	NOUN	n,名詞,数量,*	_	6	nmod	_	Gloss=[plural]|SpaceAfter=No
 6	侯	侯	NOUN	n,名詞,人,役割	_	4	obj	_	Gloss=marquis|SpaceAfter=No
 7	有	有	VERB	v,動詞,存在,存在	_	4	parataxis	_	Gloss=have|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	9	compound	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	9	compound	_	Gloss=heaven|SpaceAfter=No
 9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par2_932-935
@@ -20307,7 +20307,7 @@
 # text = 而得天下
 1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par2_944-947
@@ -20423,7 +20423,7 @@
 5	後	後	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=after|SpaceAfter=No
 6	等	等	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=equal|SpaceAfter=No
 7	百	百	NUM	n,数詞,数字,*	_	8	nummod	_	Gloss=hundred|SpaceAfter=No
-8	世	世	NOUN	n,名詞,制度,場	_	10	nmod	_	Gloss=world|SpaceAfter=No
+8	世	世	NOUN	n,名詞,制度,場	Case=Loc	10	nmod	_	Gloss=world|SpaceAfter=No
 9	之	之	SCONJ	p,助詞,接続,属格	_	8	case	_	Gloss='s|SpaceAfter=No
 10	王	王	NOUN	n,名詞,人,役割	_	6	obj	_	Gloss=king|SpaceAfter=No
 
@@ -20733,7 +20733,7 @@
 1	賢	賢	VERB	v,動詞,描写,態度	Degree=Pos	2	amod	_	Gloss=worthy|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	3	nsubj	_	Gloss=that-which|SpaceAfter=No
 3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par4_40-43
 # text = 能者在職
@@ -20777,7 +20777,7 @@
 # sent_id = KR1h0001_003_par4_64-69
 # text = 迨天之未陰雨
 1	迨	迨	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=come-to|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	5	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	5	advmod	_	Gloss=not-yet|SpaceAfter=No
 5	陰	陰	VERB	v,動詞,描写,形質	Degree=Pos	1	ccomp	_	Gloss=shade|SpaceAfter=No
@@ -20903,7 +20903,7 @@
 
 # sent_id = KR1h0001_003_par4_145-147
 # text = 天作孽
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	作	作	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 3	孽	孽	NOUN	n,名詞,描写,形質	_	2	obj	_	Gloss=evil|SpaceAfter=No
 
@@ -20950,12 +20950,12 @@
 1	俊	俊	NOUN	n,名詞,描写,態度	_	3	nsubj	_	Gloss=outstanding-talent|SpaceAfter=No
 2	傑	傑	NOUN	n,名詞,描写,態度	_	1	conj	_	Gloss=hero|SpaceAfter=No
 3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par5_12-25
 # text = 則天下之士皆悅而願立於其朝矣
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	士	士	NOUN	n,名詞,人,役割	_	7	nsubj	_	Gloss=officer|SpaceAfter=No
@@ -20966,7 +20966,7 @@
 10	立	立	VERB	v,動詞,行為,姿勢	_	9	ccomp	_	Gloss=stand|SpaceAfter=No
 11	於	於	ADP	v,前置詞,基盤,*	_	13	case	_	Gloss=at|SpaceAfter=No
 12	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	13	det	_	Gloss=[3PRON]|SpaceAfter=No
-13	朝	朝	NOUN	n,名詞,制度,場	_	10	obl	_	Gloss=court|SpaceAfter=No
+13	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	10	obl:lmod	_	Gloss=court|SpaceAfter=No
 14	矣	矣	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par5_26-30
@@ -20987,7 +20987,7 @@
 # sent_id = KR1h0001_003_par5_35-48
 # text = 則天下之商皆悅而願藏於其市矣
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	商	商	NOUN	n,名詞,人,役割	_	7	nsubj	_	Gloss=merchant|SpaceAfter=No
@@ -21012,7 +21012,7 @@
 # sent_id = KR1h0001_003_par5_54-67
 # text = 則天下之旅皆悅而願出於其路矣
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	旅	旅	NOUN	n,名詞,人,人	_	7	nsubj	_	Gloss=troop|SpaceAfter=No
@@ -21038,7 +21038,7 @@
 # sent_id = KR1h0001_003_par5_74-87
 # text = 則天下之農皆悅而願耕於其野矣
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	農	農	NOUN	n,名詞,行為,*	_	7	nsubj	_	Gloss=agriculture|SpaceAfter=No
@@ -21064,7 +21064,7 @@
 # sent_id = KR1h0001_003_par5_94-106
 # text = 則天下之民皆悅而願為之氓矣
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	民	民	NOUN	n,名詞,人,人	_	7	nsubj	_	Gloss=people|SpaceAfter=No
@@ -21133,7 +21133,7 @@
 4	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 5	敵	敵	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=enemy|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	compound	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	compound	_	Gloss=heaven|SpaceAfter=No
 8	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par5_151-159
@@ -21141,10 +21141,10 @@
 1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	6	acl	_	Gloss=not-have|SpaceAfter=No
 2	敵	敵	NOUN	n,名詞,人,人	_	1	obj	_	Gloss=enemy|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obl:lmod	_	Gloss=down|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	8	nsubj	_	Gloss=that-which|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	nmod	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	nmod	_	Gloss=heaven|SpaceAfter=No
 8	吏	吏	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=clerk|SpaceAfter=No
 9	也	也	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -21217,7 +21217,7 @@
 # sent_id = KR1h0001_003_par6_40-47
 # text = 治天下可運之掌上
 1	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 4	可	可	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=possible|SpaceAfter=No
 5	運	運	VERB	v,動詞,行為,移動	_	1	parataxis	_	Gloss=revolve|SpaceAfter=No
@@ -21284,7 +21284,7 @@
 4	要	要	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=demand|SpaceAfter=No
 5	譽	譽	VERB	v,動詞,行為,交流	_	4	obj	_	Gloss=praise|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-7	鄉	郷	NOUN	n,名詞,制度,場	_	8	nmod	_	Gloss=village|SpaceAfter=No
+7	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	8	nmod	_	Gloss=village|SpaceAfter=No
 8	黨	黨	NOUN	n,名詞,主体,集団	_	4	obl	_	Gloss=party|SpaceAfter=No
 9	朋	朋	NOUN	n,名詞,人,関係	_	8	conj	_	Gloss=friend|SpaceAfter=No
 10	友	友	NOUN	n,名詞,人,関係	_	9	flat	_	Gloss=friend|SpaceAfter=No
@@ -21579,7 +21579,7 @@
 # text = 夫仁天之尊爵也
 1	夫	夫	PART	p,助詞,句頭,*	_	6	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
 2	仁	仁	NOUN	n,名詞,描写,態度	_	6	nsubj	_	Gloss=benevolence|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=heaven|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	尊	尊	VERB	v,動詞,行為,態度	_	6	amod	_	Gloss=honour|SpaceAfter=No
 6	爵	爵	NOUN	n,名詞,制度,儀礼	_	0	root	_	Gloss=[title-of-honour]|SpaceAfter=No
@@ -21849,7 +21849,7 @@
 4	惡	惡	NOUN	n,名詞,描写,態度	_	5	nmod	_	Gloss=bad|SpaceAfter=No
 5	人	人	NOUN	n,名詞,人,人	_	7	nmod	_	Gloss=person|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
-7	朝	朝	NOUN	n,名詞,制度,場	_	2	obl	_	Gloss=court|SpaceAfter=No
+7	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	2	obl:lmod	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par9_23-27
 # text = 不與惡人言
@@ -21866,7 +21866,7 @@
 3	惡	惡	NOUN	n,名詞,描写,態度	_	4	nmod	_	Gloss=bad|SpaceAfter=No
 4	人	人	NOUN	n,名詞,人,人	_	6	nmod	_	Gloss=person|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
-6	朝	朝	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=court|SpaceAfter=No
+6	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par9_34-37
 # text = 與惡人言
@@ -21879,9 +21879,9 @@
 # text = 如以朝衣朝冠坐於塗炭
 1	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=use|SpaceAfter=No
-3	朝	朝	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=court|SpaceAfter=No
+3	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=court|SpaceAfter=No
 4	衣	衣	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=cloth|SpaceAfter=No
-5	朝	朝	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=court|SpaceAfter=No
+5	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=court|SpaceAfter=No
 6	冠	冠	NOUN	n,名詞,可搬,道具	_	4	conj	_	Gloss=cap|SpaceAfter=No
 7	坐	坐	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=sit|SpaceAfter=No
 8	於	於	ADP	v,前置詞,基盤,*	_	9	case	_	Gloss=at|SpaceAfter=No
@@ -21900,7 +21900,7 @@
 # text = 思與鄉人立
 1	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
 2	與	與	ADP	v,前置詞,関係,*	_	4	case	_	Gloss=associate-with|SpaceAfter=No
-3	鄉	郷	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=village|SpaceAfter=No
+3	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=village|SpaceAfter=No
 4	人	人	NOUN	n,名詞,人,人	_	5	obl	_	Gloss=person|SpaceAfter=No
 5	立	立	VERB	v,動詞,行為,姿勢	_	1	ccomp	_	Gloss=stand|SpaceAfter=No
 
@@ -22127,7 +22127,7 @@
 
 # sent_id = KR1h0001_004_par1_4-9
 # text = 天時不如地利
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	時	時	NOUN	n,名詞,時,*	Case=Tem	4	nsubj	_	Gloss=time|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
@@ -22180,7 +22180,7 @@
 1	必	必	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=necessarily|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	得	得	VERB	v,動詞,行為,得失	_	6	acl	_	Gloss=get|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	時	時	NOUN	n,名詞,時,*	Case=Tem	3	obj	_	Gloss=time|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	2	obj	_	Gloss=that-which|SpaceAfter=No
 7	矣	矣	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
@@ -22193,7 +22193,7 @@
 4	勝	勝	VERB	v,動詞,行為,交流	_	5	acl	_	Gloss=conquer|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	10	nsubj	_	Gloss=that-which|SpaceAfter=No
 6	是	是	PRON	n,代名詞,指示,*	PronType=Dem	10	expl	_	Gloss=this|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	nmod	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	nmod	_	Gloss=heaven|SpaceAfter=No
 8	時	時	NOUN	n,名詞,時,*	Case=Tem	10	nsubj	_	Gloss=time|SpaceAfter=No
 9	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	10	advmod	_	Gloss=not|SpaceAfter=No
 10	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
@@ -22284,7 +22284,7 @@
 # sent_id = KR1h0001_004_par1_109-117
 # text = 威天下不以兵革之利
 1	威	威	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=overawe|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
 5	以	以	VERB	v,動詞,行為,動作	_	1	advcl	_	Gloss=use|SpaceAfter=No
@@ -22332,7 +22332,7 @@
 
 # sent_id = KR1h0001_004_par1_140-143
 # text = 天下順之
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	順	順	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=follow|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -22340,7 +22340,7 @@
 # sent_id = KR1h0001_004_par1_144-149
 # text = 以天下之所順
 1	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	所	所	PART	p,助詞,接続,体言化	_	6	mark	_	Gloss=that-which|SpaceAfter=No
@@ -22414,7 +22414,7 @@
 1	朝	朝	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=go-to-court|SpaceAfter=No
 2	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	3	advmod	_	Gloss=about-to|SpaceAfter=No
 3	視	視	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=look-at|SpaceAfter=No
-4	朝	朝	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=court|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par2_29-37
 # text = 不識可使寡人得見乎
@@ -22446,7 +22446,7 @@
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=can|SpaceAfter=No
 3	造	造	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=construct|SpaceAfter=No
-4	朝	朝	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=court|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par2_49-56
 # text = 明日出弔於東郭氏
@@ -22551,7 +22551,7 @@
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=can|SpaceAfter=No
 3	造	造	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=construct|SpaceAfter=No
-4	朝	朝	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=court|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par2_112-115
 # text = 今病小愈
@@ -22565,7 +22565,7 @@
 1	趨	趨	VERB	v,動詞,行為,移動	_	2	advmod	_	Gloss=run|SpaceAfter=No
 2	造	造	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=construct|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	朝	朝	NOUN	n,名詞,制度,場	_	2	obl	_	Gloss=court|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	2	obl:lmod	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par2_120-126
 # text = 我不識能至否乎
@@ -22602,7 +22602,7 @@
 1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	造	造	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=construct|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	朝	朝	NOUN	n,名詞,制度,場	_	2	obl	_	Gloss=court|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	2	obl:lmod	_	Gloss=court|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par2_142-149
 # text = 不得已而之景丑氏
@@ -22931,7 +22931,7 @@
 
 # sent_id = KR1h0001_004_par2_348-353
 # text = 天下有達尊三
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	達	達	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=extend-to|SpaceAfter=No
@@ -22955,15 +22955,15 @@
 
 # sent_id = KR1h0001_004_par2_360-364
 # text = 朝廷莫如爵
-1	朝	朝	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=court|SpaceAfter=No
-2	廷	廷	NOUN	n,名詞,制度,場	_	1	flat	_	Gloss=court|SpaceAfter=No
+1	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=court|SpaceAfter=No
+2	廷	廷	NOUN	n,名詞,制度,場	Case=Loc	1	flat	_	Gloss=court|SpaceAfter=No
 3	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	4	advmod	_	Gloss=none|SpaceAfter=No
 4	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 5	爵	爵	NOUN	n,名詞,制度,儀礼	_	4	obj	_	Gloss=[title-of-honour]|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par2_365-369
 # text = 鄉黨莫如齒
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	黨	黨	NOUN	n,名詞,主体,集団	_	4	nsubj	_	Gloss=party|SpaceAfter=No
 3	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	4	advmod	_	Gloss=none|SpaceAfter=No
 4	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
@@ -22972,7 +22972,7 @@
 # sent_id = KR1h0001_004_par2_370-376
 # text = 輔世長民莫如德
 1	輔	輔	VERB	v,動詞,行為,交流	_	6	csubj	_	Gloss=assist|SpaceAfter=No
-2	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+2	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 3	長	長	VERB	v,動詞,行為,役割	_	1	conj	_	Gloss=chief|SpaceAfter=No
 4	民	民	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=people|SpaceAfter=No
 5	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	6	advmod	_	Gloss=none|SpaceAfter=No
@@ -23088,7 +23088,7 @@
 # sent_id = KR1h0001_004_par2_456-462
 # text = 今天下地醜德齊
 1	今	今	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=now|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obl:lmod	_	Gloss=down|SpaceAfter=No
 4	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	5	nsubj	_	Gloss=earth|SpaceAfter=No
 5	醜	醜	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=ugly|SpaceAfter=No
@@ -23787,7 +23787,7 @@
 8	綽	綽	VERB	v,動詞,描写,形質	Degree=Pos	7	compound:redup	_	Gloss=ample|SpaceAfter=No
 9	然	然	PART	p,接尾辞,*,*	_	7	fixed	_	Gloss=[suffix]|SpaceAfter=No
 10	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-11	餘	餘	NOUN	n,名詞,数量,*	_	12	advmod	_	Gloss=surplus|SpaceAfter=No
+11	餘	餘	NOUN	n,名詞,数量,*	_	12	obl	_	Gloss=surplus|SpaceAfter=No
 12	裕	裕	VERB	v,動詞,描写,形質	Degree=Pos	10	ccomp	_	Gloss=abundant|SpaceAfter=No
 13	哉	哉	PART	p,助詞,句末,*	_	10	discourse:sp	_	Gloss=[exclamatory-particle]|SpacesAfter=\n
 
@@ -23858,7 +23858,7 @@
 1	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nmod	_	Gloss=[country-name]|SpaceAfter=No
 2	卿	卿	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=minister|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	7	nsubj	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	7	nsubj	_	Gloss=rank|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
 6	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
 7	小	小	NOUN	n,名詞,描写,形質	_	0	root	_	Gloss=small|SpaceAfter=No
@@ -24014,7 +24014,7 @@
 # sent_id = KR1h0001_004_par7_62-68
 # text = 自天子達於庶人
 1	自	自	ADP	v,前置詞,経由,*	_	3	case	_	Gloss=from|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	4	obl	_	Gloss=child|SpaceAfter=No
 4	達	達	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=extend-to|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
@@ -24124,7 +24124,7 @@
 1	君子	君子	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=lord|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	6	advcl	_	Gloss=use|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 6	儉	儉	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=thrifty|SpaceAfter=No
 7	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	8	det	_	Gloss=[3PRON]|SpaceAfter=No
@@ -24328,7 +24328,7 @@
 # sent_id = KR1h0001_004_par8_121-128
 # text = 為天吏則可以伐之
 1	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	3	cop	_	Gloss=be|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	吏	吏	NOUN	n,名詞,人,役割	_	7	advcl	_	Gloss=clerk|SpaceAfter=No
 4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
 5	可	可	AUX	v,助動詞,可能,*	Mood=Pot	7	aux	_	Gloss=possible|SpaceAfter=No
@@ -24788,7 +24788,7 @@
 1	得	得	AUX	v,助動詞,可能,*	Mood=Pot	2	aux	_	Gloss=must|SpaceAfter=No
 2	侍	侍	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=serve|SpaceAfter=No
 3	同	同	VERB	v,動詞,描写,形質	Degree=Pos	4	amod	_	Gloss=same|SpaceAfter=No
-4	朝	朝	NOUN	n,名詞,制度,場	_	2	obj	_	Gloss=court|SpaceAfter=No
+4	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	2	obj	_	Gloss=court|SpaceAfter=No
 5	甚	甚	VERB	v,動詞,描写,形質	Degree=Pos	6	advmod	_	Gloss=extreme|SpaceAfter=No
 6	喜	喜	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=pleased|SpaceAfter=No
 
@@ -25542,7 +25542,7 @@
 
 # sent_id = KR1h0001_004_par12_164-169
 # text = 天下之民舉安
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	民	民	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=people|SpaceAfter=No
@@ -25676,7 +25676,7 @@
 1	君子	君子	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=lord|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	怨	怨	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=resent|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=heaven|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par13_31-33
 # text = 不尤人
@@ -25759,12 +25759,12 @@
 # sent_id = KR1h0001_004_par13_81-89
 # text = 夫天未欲平治天下也
 1	夫	夫	PART	p,助詞,句頭,*	_	5	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	5	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	5	advmod	_	Gloss=not-yet|SpaceAfter=No
 4	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	5	aux	_	Gloss=wish|SpaceAfter=No
 5	平	平	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=level|SpaceAfter=No
 6	治	治	VERB	v,動詞,行為,動作	_	5	flat:vv	_	Gloss=govern|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	compound	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	compound	_	Gloss=heaven|SpaceAfter=No
 8	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 9	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -25774,7 +25774,7 @@
 2	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	3	aux	_	Gloss=wish|SpaceAfter=No
 3	平	平	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=level|SpaceAfter=No
 4	治	治	VERB	v,動詞,行為,動作	_	3	flat:vv	_	Gloss=govern|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_004_par13_96-104
@@ -25782,7 +25782,7 @@
 1	當	當	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=correspond-to|SpaceAfter=No
 2	今	今	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=now|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-4	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+4	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 5	舍	舍	VERB	v,動詞,行為,得失	_	8	advcl	_	Gloss=release|SpaceAfter=No
 6	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	5	obj	_	Gloss=[1PRON]|SpaceAfter=No
 7	其	其	PART	p,助詞,句頭,*	_	8	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
@@ -26283,7 +26283,7 @@
 # sent_id = KR1h0001_005_par2_117-127
 # text = 自天子達於庶人三代共之
 1	自	自	ADP	v,前置詞,経由,*	_	3	case	_	Gloss=from|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	4	obl	_	Gloss=child|SpaceAfter=No
 4	達	達	VERB	v,動詞,行為,動作	_	10	advcl	_	Gloss=extend-to|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
@@ -26509,7 +26509,7 @@
 # sent_id = KR1h0001_005_par2_263-266
 # text = 即位而哭
 1	即	即	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=go-up-to|SpaceAfter=No
-2	位	位	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=rank|SpaceAfter=No
+2	位	位	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=rank|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 4	哭	哭	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=cry|SpaceAfter=No
 
@@ -26780,7 +26780,7 @@
 3	仁	仁	NOUN	n,名詞,描写,態度	_	4	nmod	_	Gloss=benevolence|SpaceAfter=No
 4	人	人	NOUN	n,名詞,人,人	_	5	nsubj	_	Gloss=person|SpaceAfter=No
 5	在	在	VERB	v,動詞,存在,存在	_	2	ccomp	_	Gloss=be-present|SpaceAfter=No
-6	位	位	NOUN	n,名詞,制度,場	_	5	obj	_	Gloss=rank|SpaceAfter=No
+6	位	位	NOUN	n,名詞,制度,場	Case=Loc	5	obj	_	Gloss=rank|SpaceAfter=No
 7	罔	罔	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=catch|SpaceAfter=No
 8	民	民	NOUN	n,名詞,人,人	_	7	obj	_	Gloss=people|SpaceAfter=No
 9	而	而	CCONJ	p,助詞,接続,並列	_	11	cc	_	Gloss=and|SpaceAfter=No
@@ -26917,11 +26917,11 @@
 # sent_id = KR1h0001_005_par3_176-181
 # text = 樂歲粒米狼戾
 1	樂	樂	NOUN	n,名詞,描写,態度	_	2	nmod	_	Gloss=joy|SpaceAfter=No
-2	歲	歲	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=year|SpaceAfter=No
+2	歲	歲	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=year|SpaceAfter=No
 3	粒	粒	NOUN	n,名詞,描写,形質	_	4	nmod	_	Gloss=granule|SpaceAfter=No
-4	米	米	NOUN	n,名詞,可搬,糧食	_	6	nsubj	_	Gloss=rice|SpaceAfter=No
-5	狼	狼	NOUN	n,名詞,主体,動物	_	6	advmod	_	Gloss=wolf|SpaceAfter=No
-6	戾	戾	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=do-violence|SpaceAfter=No
+4	米	米	NOUN	n,名詞,可搬,糧食	_	5	nsubj	_	Gloss=rice|SpaceAfter=No
+5	狼	狼	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=caught-in-a-dilemma|SpaceAfter=No
+6	戾	戾	VERB	v,動詞,描写,態度	Degree=Pos	5	flat:vv	_	Gloss=do-violence|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par3_182-188
 # text = 多取之而不為虐
@@ -27432,11 +27432,11 @@
 2	徙	徙	VERB	v,動詞,行為,移動	_	1	conj	_	Gloss=move|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	4	advmod	_	Gloss=not-have|SpaceAfter=No
 4	出	出	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go-out|SpaceAfter=No
-5	鄉	郷	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=village|SpaceAfter=No
+5	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	4	obj	_	Gloss=village|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par3_508-511
 # text = 鄉田同井
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	田	田	NOUN	n,名詞,固定物,地形	Case=Loc	3	nsubj	_	Gloss=cultivated-field|SpaceAfter=No
 3	同	同	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=same|SpaceAfter=No
 4	井	井	NOUN	n,名詞,固定物,建造物	Case=Loc	3	obj	_	Gloss=well|SpaceAfter=No
@@ -27458,7 +27458,7 @@
 # sent_id = KR1h0001_005_par3_520-524
 # text = 疾病相扶持
 1	疾	疾	NOUN	n,名詞,不可譲,疾病	_	4	advmod	_	Gloss=illness|SpaceAfter=No
-2	病	病	NOUN	n,名詞,不可譲,疾病	_	1	conj	_	Gloss=disease|SpaceAfter=No
+2	病	病	NOUN	n,名詞,不可譲,疾病	_	1	flat	_	Gloss=disease|SpaceAfter=No
 3	相	相	ADV	v,副詞,範囲,共同	_	4	advmod	_	Gloss=each-other|SpaceAfter=No
 4	扶	扶	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=support|SpaceAfter=No
 5	持	持	VERB	v,動詞,行為,動作	_	4	flat:vv	_	Gloss=hold|SpaceAfter=No
@@ -28085,7 +28085,7 @@
 1	然	然	VERB	v,動詞,描写,態度	Degree=Pos	3	advmod	_	Gloss=like-this|SpaceAfter=No
 2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
 3	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par4_329-334
@@ -28143,7 +28143,7 @@
 # text = 是率天下而路也
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	nsubj	_	Gloss=this|SpaceAfter=No
 2	率	率	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=limit|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 6	路	路	VERB	v,動詞,行為,移動	_	2	conj	_	Gloss=go-road|SpaceAfter=No
@@ -28203,7 +28203,7 @@
 
 # sent_id = KR1h0001_005_par4_403-408
 # text = 天下之通義也
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	通	通	VERB	v,動詞,行為,移動	_	5	amod	_	Gloss=go-through|SpaceAfter=No
@@ -28219,7 +28219,7 @@
 
 # sent_id = KR1h0001_005_par4_413-417
 # text = 天下猶未平
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=down|SpaceAfter=No
 3	猶	猶	ADV	v,副詞,頻度,重複	_	5	advmod	_	Gloss=yet|SpaceAfter=No
 4	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	5	advmod	_	Gloss=not-yet|SpaceAfter=No
@@ -28237,7 +28237,7 @@
 1	氾	氾	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=overflow|SpaceAfter=No
 2	濫	濫	VERB	v,動詞,描写,形質	Degree=Pos	1	flat:vv	_	Gloss=overflowing|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par4_427-430
@@ -28645,7 +28645,7 @@
 # sent_id = KR1h0001_005_par4_682-690
 # text = 為天下得人者謂之仁
 1	為	爲	ADP	v,前置詞,源泉,*	_	3	case	_	Gloss=for|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl:lmod	_	Gloss=down|SpaceAfter=No
 4	得	得	VERB	v,動詞,行為,得失	_	6	acl	_	Gloss=get|SpaceAfter=No
 5	人	人	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=person|SpaceAfter=No
@@ -28659,7 +28659,7 @@
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
 2	故	故	NOUN	n,名詞,思考,*	_	8	advmod	_	Gloss=reason|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	6	advcl	_	Gloss=use|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 6	與	與	VERB	v,動詞,行為,交流	_	8	csubj	_	Gloss=participate|SpaceAfter=No
 7	人	人	NOUN	n,名詞,人,人	_	6	obj	_	Gloss=person|SpaceAfter=No
@@ -28668,7 +28668,7 @@
 # sent_id = KR1h0001_005_par4_699-704
 # text = 為天下得人難
 1	為	爲	ADP	v,前置詞,源泉,*	_	3	case	_	Gloss=for|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl:lmod	_	Gloss=down|SpaceAfter=No
 4	得	得	VERB	v,動詞,行為,得失	_	6	csubj	_	Gloss=get|SpaceAfter=No
 5	人	人	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=person|SpaceAfter=No
@@ -28691,7 +28691,7 @@
 # sent_id = KR1h0001_005_par4_714-717
 # text = 惟天為大
 1	惟	惟	ADV	v,副詞,範囲,限定	_	4	advmod	_	Gloss=only|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
 4	大	大	NOUN	n,名詞,描写,形質	_	0	root	_	Gloss=big|SpaceAfter=No
 
@@ -28726,7 +28726,7 @@
 2	巍	巍	VERB	v,動詞,描写,形質	Degree=Pos	1	compound:redup	_	Gloss=lofty|SpaceAfter=No
 3	乎	乎	PART	p,接尾辞,*,*	_	1	fixed	_	Gloss=[suffix]|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
 8	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	9	advmod	_	Gloss=not|SpaceAfter=No
@@ -28739,7 +28739,7 @@
 2	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 4	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par4_750-756
@@ -29356,7 +29356,7 @@
 2	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	4	advmod	_	Gloss=use|SpaceAfter=No
 4	易	易	VERB	v,動詞,行為,動作	_	2	ccomp	_	Gloss=change|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par5_85-93
@@ -29516,7 +29516,7 @@
 # sent_id = KR1h0001_005_par5_196-201
 # text = 且天之生物也
 1	且	且	ADV	v,副詞,頻度,重複	_	4	advmod	_	Gloss=and|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	生	生	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=alive|SpaceAfter=No
 5	物	物	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=thing|SpaceAfter=No
@@ -29905,7 +29905,7 @@
 
 # sent_id = KR1h0001_006_par1_140-145
 # text = 天下之賤工也
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	賤	賤	VERB	v,動詞,描写,境遇	Degree=Pos	5	amod	_	Gloss=lowly|SpaceAfter=No
@@ -29957,7 +29957,7 @@
 
 # sent_id = KR1h0001_006_par1_171-176
 # text = 天下之良工也
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	良	良	VERB	v,動詞,描写,形質	Degree=Pos	5	amod	_	Gloss=good|SpaceAfter=No
@@ -30159,7 +30159,7 @@
 1	安	安	VERB	v,動詞,行為,態度	_	2	amod	_	Gloss=peaceful|SpaceAfter=No
 2	居	居	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sit-down|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=down|SpaceAfter=No
 6	熄	熄	VERB	v,動詞,変化,性質	_	2	conj	_	Gloss=extinguish|SpaceAfter=No
 
@@ -30257,7 +30257,7 @@
 # sent_id = KR1h0001_006_par2_89-94
 # text = 居天下之廣居
 1	居	居	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sit-down|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	廣	廣	VERB	v,動詞,描写,量	Degree=Pos	6	amod	_	Gloss=wide|SpaceAfter=No
@@ -30266,16 +30266,16 @@
 # sent_id = KR1h0001_006_par2_95-100
 # text = 立天下之正位
 1	立	立	VERB	v,動詞,行為,姿勢	_	0	root	_	Gloss=stand|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	正	正	VERB	v,動詞,描写,形質	Degree=Pos	6	amod	_	Gloss=correct|SpaceAfter=No
-6	位	位	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=rank|SpaceAfter=No
+6	位	位	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par2_101-106
 # text = 行天下之大道
 1	行	行	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=behave|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	大	大	VERB	v,動詞,描写,量	Degree=Pos	6	amod	_	Gloss=big|SpaceAfter=No
@@ -30439,7 +30439,7 @@
 1	士	士	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=officer|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	失	失	VERB	v,動詞,行為,得失	_	6	csubj	_	Gloss=lose|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=rank|SpaceAfter=No
 5	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 6	猶	猶	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=similar|SpaceAfter=No
 7	諸	諸	NOUN	n,名詞,数量,*	_	8	nmod	_	Gloss=[plural]|SpaceAfter=No
@@ -30830,7 +30830,7 @@
 6	受	受	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=receive|SpaceAfter=No
 7	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	10	nmod	_	Gloss=[given-name]|SpaceAfter=No
 8	之	之	SCONJ	p,助詞,接続,属格	_	7	case	_	Gloss='s|SpaceAfter=No
-9	天	天	NOUN	n,名詞,制度,場	_	10	compound	_	Gloss=heaven|SpaceAfter=No
+9	天	天	NOUN	n,名詞,制度,場	Case=Loc	10	compound	_	Gloss=heaven|SpaceAfter=No
 10	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par4_50-53
@@ -31412,7 +31412,7 @@
 # text = 非富天下也
 1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	2	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
 2	富	富	VERB	v,動詞,描写,境遇	Degree=Pos	0	root	_	Gloss=rich|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=down|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -31447,7 +31447,7 @@
 4	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	2	conj	_	Gloss=not-have|SpaceAfter=No
 5	敵	敵	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=enemy|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	compound	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	compound	_	Gloss=heaven|SpaceAfter=No
 8	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par5_185-188
@@ -31922,14 +31922,14 @@
 3	居	居	VERB	v,動詞,行為,動作	_	1	xcomp	_	Gloss=sit-down|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
 5	王	王	NOUN	n,名詞,人,役割	_	6	nmod	_	Gloss=king|SpaceAfter=No
-6	所	所	NOUN	n,名詞,制度,場	_	3	obl	_	Gloss=place|SpaceAfter=No
+6	所	所	NOUN	n,名詞,制度,場	Case=Loc	3	obl:lmod	_	Gloss=place|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par6_109-122
 # text = 在於王所者長幼卑尊皆薛居州也
 1	在	在	VERB	v,動詞,存在,存在	_	5	advcl	_	Gloss=be-present|SpaceAfter=No
 2	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=king|SpaceAfter=No
-4	所	所	NOUN	n,名詞,制度,場	_	1	obl	_	Gloss=place|SpaceAfter=No
+4	所	所	NOUN	n,名詞,制度,場	Case=Loc	1	obl:lmod	_	Gloss=place|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	11	dislocated	_	Gloss=that-which|SpaceAfter=No
 6	長	長	VERB	v,動詞,変化,生物	_	11	nsubj	_	Gloss=long-last|SpaceAfter=No
 7	幼	幼	VERB	v,動詞,描写,形質	Degree=Pos	6	flat:vv	_	Gloss=young|SpaceAfter=No
@@ -31953,7 +31953,7 @@
 # text = 在王所者長幼卑尊皆非薛居州也
 1	在	在	VERB	v,動詞,存在,存在	_	4	advcl	_	Gloss=be-present|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=king|SpaceAfter=No
-3	所	所	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=place|SpaceAfter=No
+3	所	所	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=place|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	11	dislocated	_	Gloss=that-which|SpaceAfter=No
 5	長	長	VERB	v,動詞,変化,生物	_	11	nsubj	_	Gloss=long-last|SpaceAfter=No
 6	幼	幼	VERB	v,動詞,描写,形質	Degree=Pos	5	flat:vv	_	Gloss=young|SpaceAfter=No
@@ -32402,7 +32402,7 @@
 
 # sent_id = KR1h0001_006_par9_30-35
 # text = 天下之生久矣
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	生	生	NOUN	n,名詞,行為,*	_	5	nsubj	_	Gloss=life|SpaceAfter=No
@@ -32653,7 +32653,7 @@
 
 # sent_id = KR1h0001_006_par9_188-192
 # text = 天下又大亂
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=down|SpaceAfter=No
 3	又	又	ADV	v,副詞,頻度,重複	_	5	advmod	_	Gloss=also|SpaceAfter=No
 4	大	大	VERB	v,動詞,描写,量	Degree=Pos	5	advmod	_	Gloss=big|SpaceAfter=No
@@ -32710,7 +32710,7 @@
 
 # sent_id = KR1h0001_006_par9_229-232
 # text = 天下大悅
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=down|SpaceAfter=No
 3	大	大	VERB	v,動詞,描写,量	Degree=Pos	4	advmod	_	Gloss=big|SpaceAfter=No
 4	悅	悅	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=relaxed|SpaceAfter=No
@@ -32756,7 +32756,7 @@
 
 # sent_id = KR1h0001_006_par9_257-260
 # text = 世衰道微
-1	世	世	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=world|SpaceAfter=No
+1	世	世	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=world|SpaceAfter=No
 2	衰	衰	VERB	v,動詞,描写,境遇	Degree=Pos	0	root	_	Gloss=decline|SpaceAfter=No
 3	道	道	NOUN	n,名詞,制度,儀礼	_	4	nsubj	_	Gloss=doctrine|SpaceAfter=No
 4	微	微	VERB	v,動詞,存在,存在	Polarity=Neg	2	conj	_	Gloss=were-it-not-for|SpaceAfter=No
@@ -32803,7 +32803,7 @@
 # sent_id = KR1h0001_006_par9_287-293
 # text = 春秋天子之事也
 1	春秋	春秋	NOUN	n,名詞,主体,書物	_	5	nsubj	_	Gloss=[book-name]|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	5	nmod	_	Gloss=child|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	事	事	NOUN	n,名詞,可搬,成果物	_	0	root	_	Gloss=affair|SpaceAfter=No
@@ -32866,12 +32866,12 @@
 5	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 6	言	言	NOUN	n,名詞,可搬,伝達	_	7	nsubj	_	Gloss=speech|SpaceAfter=No
 7	盈	盈	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=full|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	9	compound	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	9	compound	_	Gloss=heaven|SpaceAfter=No
 9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par9_336-339
 # text = 天下之言
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	言	言	NOUN	n,名詞,可搬,伝達	_	0	root	_	Gloss=speech|SpaceAfter=No
@@ -33108,7 +33108,7 @@
 5	洪	洪	NOUN	n,名詞,天象,気象	_	6	nmod	_	Gloss=inundation|SpaceAfter=No
 6	水	水	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=water|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	10	cc	_	Gloss=and|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	9	compound	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	9	compound	_	Gloss=heaven|SpaceAfter=No
 9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	10	nsubj	_	Gloss=down|SpaceAfter=No
 10	平	平	VERB	v,動詞,描写,形質	Degree=Pos	4	conj	_	Gloss=level|SpaceAfter=No
 
@@ -33761,7 +33761,7 @@
 10	能	能	AUX	v,助動詞,可能,*	Mood=Pot	12	aux	_	Gloss=can|SpaceAfter=No
 11	平	平	VERB	v,動詞,描写,形質	Degree=Pos	12	advmod	_	Gloss=level|SpaceAfter=No
 12	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
-13	天	天	NOUN	n,名詞,制度,場	_	14	compound	_	Gloss=heaven|SpaceAfter=No
+13	天	天	NOUN	n,名詞,制度,場	Case=Loc	14	compound	_	Gloss=heaven|SpaceAfter=No
 14	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	12	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par1_49-54
@@ -33946,7 +33946,7 @@
 1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
 2	仁	仁	NOUN	n,名詞,描写,態度	_	3	nsubj	_	Gloss=benevolence|SpaceAfter=No
 3	覆	覆	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=cover-over|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 6	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -34001,7 +34001,7 @@
 6	宜	宜	AUX	v,助動詞,必要,*	Mood=Nec	7	aux	_	Gloss=fitting|SpaceAfter=No
 7	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 8	高	高	VERB	v,動詞,描写,量	Degree=Pos	9	amod	_	Gloss=high|SpaceAfter=No
-9	位	位	NOUN	n,名詞,制度,場	_	7	obj	_	Gloss=rank|SpaceAfter=No
+9	位	位	NOUN	n,名詞,制度,場	Case=Loc	7	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par1_210-215
 # text = 不仁而在高位
@@ -34010,7 +34010,7 @@
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 4	在	在	VERB	v,動詞,存在,存在	_	2	conj	_	Gloss=be-present|SpaceAfter=No
 5	高	高	VERB	v,動詞,描写,量	Degree=Pos	6	amod	_	Gloss=high|SpaceAfter=No
-6	位	位	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=rank|SpaceAfter=No
+6	位	位	NOUN	n,名詞,制度,場	Case=Loc	4	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par1_216-222
 # text = 是播其惡於眾也
@@ -34040,7 +34040,7 @@
 
 # sent_id = KR1h0001_007_par1_233-236
 # text = 朝不信道
-1	朝	朝	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=court|SpaceAfter=No
+1	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=court|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	信	信	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=believe|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -34156,7 +34156,7 @@
 
 # sent_id = KR1h0001_007_par1_299-306
 # text = 天之方蹶無然泄泄
-1	天	天	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	方	方	ADV	v,副詞,時相,現在	AdvType=Tim|Tense=Pres	4	advmod	_	Gloss=just-then|SpaceAfter=No
 4	蹶	蹶	VERB	v,動詞,行為,動作	_	5	csubj	_	Gloss=lose-one's-footing|SpaceAfter=No
@@ -34443,7 +34443,7 @@
 2	夏	夏	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nmod	_	Gloss=[country-name]|SpaceAfter=No
 3	后	后	NOUN	n,名詞,人,役割	_	5	nmod	_	Gloss=ruler|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
-5	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+5	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par2_125-128
 # text = 此之謂也
@@ -34464,7 +34464,7 @@
 2	代	代	NOUN	n,名詞,時,*	Case=Tem	4	nsubj	_	Gloss=generation|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	得	得	VERB	v,動詞,行為,得失	_	8	csubj	_	Gloss=get|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 7	也	也	PART	p,助詞,提示,*	_	4	mark	_	Gloss=that-which|SpaceAfter=No
 8	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
@@ -34474,7 +34474,7 @@
 # text = 其失天下也以不仁
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 2	失	失	VERB	v,動詞,行為,得失	_	6	csubj	_	Gloss=lose|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 5	也	也	PART	p,助詞,提示,*	_	2	mark	_	Gloss=that-which|SpaceAfter=No
 6	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
@@ -34497,7 +34497,7 @@
 
 # sent_id = KR1h0001_007_par3_32-35
 # text = 天子不仁
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=viscount|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	仁	仁	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=benevolent|SpaceAfter=No
@@ -34641,7 +34641,7 @@
 2	身	身	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	Gloss=body|SpaceAfter=No
 3	正	正	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=correct|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	nsubj	_	Gloss=down|SpaceAfter=No
 7	歸	歸	VERB	v,動詞,行為,移動	_	3	conj	_	Gloss=return|SpaceAfter=No
 8	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	7	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -34682,14 +34682,14 @@
 # text = 皆曰天下國家
 1	皆	皆	ADV	v,副詞,範囲,総括	_	2	advmod	_	Gloss=all|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 5	國	國	NOUN	n,名詞,主体,集団	_	4	conj	_	Gloss=country|SpaceAfter=No
 6	家	家	NOUN	n,名詞,主体,集団	_	5	flat	_	Gloss=family|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par5_14-19
 # text = 天下之本在國
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	本	本	NOUN	n,名詞,描写,形質	_	5	nsubj	_	Gloss=base|SpaceAfter=No
@@ -34759,7 +34759,7 @@
 
 # sent_id = KR1h0001_007_par6_28-31
 # text = 天下慕之
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	慕	慕	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=yearn-for|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -34787,7 +34787,7 @@
 
 # sent_id = KR1h0001_007_par7_4-7
 # text = 天下有道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -34810,7 +34810,7 @@
 
 # sent_id = KR1h0001_007_par7_18-21
 # text = 天下無道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -34832,20 +34832,20 @@
 1	斯	斯	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
 2	二	二	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=two|SpaceAfter=No
 3	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=heaven|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par7_33-36
 # text = 順天者存
 1	順	順	VERB	v,動詞,行為,交流	_	3	acl	_	Gloss=follow|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=heaven|SpaceAfter=No
 3	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
 4	存	存	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=exist|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par7_37-40
 # text = 逆天者亡
 1	逆	逆	VERB	v,動詞,行為,移動	_	3	acl	_	Gloss=go-up-stream|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=heaven|SpaceAfter=No
 3	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
 4	亡	亡	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=be-lost|SpaceAfter=No
 
@@ -34952,7 +34952,7 @@
 2	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	3	cop	_	Gloss=be|SpaceAfter=No
 3	政	政	NOUN	n,名詞,制度,儀礼	_	0	root	_	Gloss=government|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obl:lmod	_	Gloss=down|SpaceAfter=No
 7	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -34998,7 +34998,7 @@
 
 # sent_id = KR1h0001_007_par7_135-138
 # text = 天命靡常
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	命	命	NOUN	n,名詞,可搬,伝達	_	3	nsubj	_	Gloss=decree|SpaceAfter=No
 3	靡	靡	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-exist|SpaceAfter=No
 4	常	常	NOUN	n,名詞,描写,態度	_	3	obj	_	Gloss=usual|SpaceAfter=No
@@ -35007,7 +35007,7 @@
 # text = 殷士膚敏
 1	殷	殷	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nmod	_	Gloss=[country-name]|SpaceAfter=No
 2	士	士	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=officer|SpaceAfter=No
-3	膚	膚	NOUN	n,名詞,不可譲,身体	_	4	advmod	_	Gloss=skin|SpaceAfter=No
+3	膚	膚	VERB	v,動詞,描写,量	Degree=Pos	4	advmod	_	Gloss=great|SpaceAfter=No
 4	敏	敏	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=keen|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par7_143-146
@@ -35015,7 +35015,7 @@
 1	祼	祼	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=pour-a-libation|SpaceAfter=No
 2	將	將	VERB	v,動詞,行為,交流	_	1	conj	_	Gloss=undertake|SpaceAfter=No
 3	于	于	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	京	京	NOUN	n,名詞,制度,場	_	2	obl	_	Gloss=capital-city|SpaceAfter=No
+4	京	京	NOUN	n,名詞,制度,場	Case=Loc	2	obl:lmod	_	Gloss=capital-city|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par7_147-149
 # text = 孔子曰
@@ -35041,7 +35041,7 @@
 
 # sent_id = KR1h0001_007_par7_161-164
 # text = 天下無敵
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	敵	敵	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=enemy|SpaceAfter=No
@@ -35054,7 +35054,7 @@
 4	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 5	敵	敵	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=enemy|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	compound	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	compound	_	Gloss=heaven|SpaceAfter=No
 8	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl:lmod	_	Gloss=down|SpaceAfter=No
 9	而	而	CCONJ	p,助詞,接続,並列	_	11	cc	_	Gloss=and|SpaceAfter=No
 10	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	11	advmod	_	Gloss=not|SpaceAfter=No
@@ -35273,7 +35273,7 @@
 
 # sent_id = KR1h0001_007_par8_116-118
 # text = 天作孽
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	作	作	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 3	孽	孽	NOUN	n,名詞,描写,形質	_	2	obj	_	Gloss=evil|SpaceAfter=No
 
@@ -35314,7 +35314,7 @@
 2	紂	紂	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 4	失	失	VERB	v,動詞,行為,得失	_	8	csubj	_	Gloss=lose|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 7	也	也	PART	p,助詞,提示,*	_	4	mark	_	Gloss=that-which|SpaceAfter=No
 8	失	失	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=lose|SpaceAfter=No
@@ -35336,7 +35336,7 @@
 # sent_id = KR1h0001_007_par9_23-27
 # text = 得天下有道
 1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	1	conj	_	Gloss=have|SpaceAfter=No
 5	道	道	NOUN	n,名詞,制度,儀礼	_	4	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -35348,7 +35348,7 @@
 3	民	民	NOUN	n,名詞,人,人	_	1	obj	_	Gloss=people|SpaceAfter=No
 4	斯	斯	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
 5	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 8	矣	矣	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -35454,7 +35454,7 @@
 # sent_id = KR1h0001_007_par9_105-113
 # text = 今天下之君有好仁者
 1	今	今	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=now|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	君	君	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=ruler|SpaceAfter=No
@@ -35718,7 +35718,7 @@
 # sent_id = KR1h0001_007_par11_26-29
 # text = 而天下平
 1	而	而	CCONJ	p,助詞,接続,並列	_	4	advmod	_	Gloss=and|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=down|SpaceAfter=No
 4	平	平	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=level|SpacesAfter=\n
 
@@ -35732,7 +35732,7 @@
 # text = 居下位
 1	居	居	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sit-down|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nmod	_	Gloss=down|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=rank|SpaceAfter=No
+3	位	位	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_007_par12_7-11
 # text = 而不獲於上
@@ -35848,7 +35848,7 @@
 2	故	故	NOUN	n,名詞,思考,*	_	7	advmod	_	Gloss=reason|SpaceAfter=No
 3	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos	4	amod	_	Gloss=sincere|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	7	nmod	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	nmod	_	Gloss=heaven|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 7	道	道	NOUN	n,名詞,制度,儀礼	_	0	root	_	Gloss=doctrine|SpaceAfter=No
 8	也	也	PART	p,助詞,句末,*	_	7	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -35985,7 +35985,7 @@
 1	二	二	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=two|SpaceAfter=No
 2	老	老	VERB	v,動詞,変化,生物	_	3	acl	_	Gloss=old|SpaceAfter=No
 3	者	者	PART	p,助詞,提示,*	_	8	nsubj	_	Gloss=that-which|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	nmod	_	Gloss=down|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 7	大	大	VERB	v,動詞,描写,量	Degree=Pos	8	amod	_	Gloss=big|SpaceAfter=No
@@ -36001,7 +36001,7 @@
 # sent_id = KR1h0001_007_par13_70-77
 # text = 是天下之父歸之也
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	6	nsubj	_	Gloss=this|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	父	父	NOUN	n,名詞,人,関係	_	6	nsubj	_	Gloss=father|SpaceAfter=No
@@ -36011,7 +36011,7 @@
 
 # sent_id = KR1h0001_007_par13_78-83
 # text = 天下之父歸之
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	父	父	NOUN	n,名詞,人,関係	_	5	nsubj	_	Gloss=father|SpaceAfter=No
@@ -36047,7 +36047,7 @@
 6	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 7	政	政	NOUN	n,名詞,制度,儀礼	_	6	obj	_	Gloss=government|SpaceAfter=No
 8	於	於	ADP	v,前置詞,基盤,*	_	10	case	_	Gloss=at|SpaceAfter=No
-9	天	天	NOUN	n,名詞,制度,場	_	10	compound	_	Gloss=heaven|SpaceAfter=No
+9	天	天	NOUN	n,名詞,制度,場	Case=Loc	10	compound	_	Gloss=heaven|SpaceAfter=No
 10	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	obl:lmod	_	Gloss=down|SpaceAfter=No
 11	矣	矣	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
 
@@ -36457,7 +36457,7 @@
 # sent_id = KR1h0001_007_par17_54-58
 # text = 今天下溺矣
 1	今	今	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=now|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=down|SpaceAfter=No
 4	溺	溺	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sink|SpaceAfter=No
 5	矣	矣	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
@@ -36477,7 +36477,7 @@
 
 # sent_id = KR1h0001_007_par17_67-69
 # text = 天下溺
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	溺	溺	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sink|SpaceAfter=No
 
@@ -36506,7 +36506,7 @@
 2	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	4	aux	_	Gloss=wish|SpaceAfter=No
 3	手	手	NOUN	n,名詞,不可譲,身体	_	4	obl	_	Gloss=hand|SpaceAfter=No
 4	援	援	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pull-up|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 7	乎	乎	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpacesAfter=\n
 
@@ -37318,7 +37318,7 @@
 
 # sent_id = KR1h0001_007_par28_4-7
 # text = 天下大悅
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=down|SpaceAfter=No
 3	大	大	VERB	v,動詞,描写,量	Degree=Pos	4	advmod	_	Gloss=big|SpaceAfter=No
 4	悅	悅	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=relaxed|SpaceAfter=No
@@ -37333,7 +37333,7 @@
 # sent_id = KR1h0001_007_par28_12-18
 # text = 視天下悅而歸己
 1	視	視	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=look-at|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 4	悅	悅	VERB	v,動詞,行為,態度	_	1	ccomp	_	Gloss=relaxed|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
@@ -37406,7 +37406,7 @@
 2	厎	厎	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=reach|SpaceAfter=No
 3	豫	豫	VERB	v,動詞,行為,態度	_	2	obj	_	Gloss=enjoy|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	nsubj	_	Gloss=down|SpaceAfter=No
 7	化	化	VERB	v,動詞,変化,性質	_	2	conj	_	Gloss=transform|SpaceAfter=No
 
@@ -37416,7 +37416,7 @@
 2	厎	厎	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=reach|SpaceAfter=No
 3	豫	豫	VERB	v,動詞,行為,態度	_	2	obj	_	Gloss=enjoy|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	12	cc	_	Gloss=and|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	9	nsubj	_	Gloss=down|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
 8	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	9	cop	_	Gloss=be|SpaceAfter=No
@@ -37511,7 +37511,7 @@
 
 # sent_id = KR1h0001_008_par1_46-50
 # text = 世之相後也
-1	世	世	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=world|SpaceAfter=No
+1	世	世	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=world|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	相	相	ADV	v,副詞,範囲,共同	_	4	advmod	_	Gloss=each-other|SpaceAfter=No
 4	後	後	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=back|SpaceAfter=No
@@ -38337,12 +38337,12 @@
 2	後	後	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=after|SpaceAfter=No
 3	能	能	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	Gloss=can|SpaceAfter=No
 4	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_008_par16_26-37
 # text = 天下不心服而王者未之有也
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	11	obl:lmod	_	Gloss=down|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
 4	心	心	NOUN	n,名詞,不可譲,身体	_	5	advmod	_	Gloss=heart|SpaceAfter=No
@@ -38893,7 +38893,7 @@
 # sent_id = KR1h0001_008_par24_11-18
 # text = 思天下惟羿為愈己
 1	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	dislocated	_	Gloss=down|SpaceAfter=No
 4	惟	惟	ADV	v,副詞,範囲,限定	_	6	advmod	_	Gloss=only|SpaceAfter=No
 5	羿	羿	PROPN	n,名詞,人,名	NameType=Giv	6	nsubj	_	Gloss=[given-name]|SpaceAfter=No
@@ -39285,7 +39285,7 @@
 
 # sent_id = KR1h0001_008_par26_4-14
 # text = 天下之言性也則故而已矣
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	言	言	VERB	v,動詞,行為,伝達	_	7	csubj	_	Gloss=speak|SpaceAfter=No
@@ -39375,7 +39375,7 @@
 
 # sent_id = KR1h0001_008_par26_70-73
 # text = 天之高也
-1	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	高	高	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=high|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -39447,7 +39447,7 @@
 3	右	右	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=right-hand|SpaceAfter=No
 4	師	師	NOUN	n,名詞,人,役割	_	6	nmod	_	Gloss=teacher|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
-6	位	位	NOUN	n,名詞,制度,場	_	2	obj	_	Gloss=rank|SpaceAfter=No
+6	位	位	NOUN	n,名詞,制度,場	Case=Loc	2	obj	_	Gloss=rank|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	11	cc	_	Gloss=and|SpaceAfter=No
 8	與	與	ADP	v,前置詞,関係,*	_	10	case	_	Gloss=associate-with|SpaceAfter=No
 9	右	右	NOUN	n,名詞,固定物,関係	Case=Loc	10	nmod	_	Gloss=right-hand|SpaceAfter=No
@@ -39507,11 +39507,11 @@
 # sent_id = KR1h0001_008_par27_69-78
 # text = 禮朝廷不歷位而相與言
 1	禮	禮	NOUN	n,名詞,制度,儀礼	_	5	dislocated	_	Gloss=ceremony|SpaceAfter=No
-2	朝	朝	NOUN	n,名詞,制度,場	_	5	nsubj	_	Gloss=court|SpaceAfter=No
-3	廷	廷	NOUN	n,名詞,制度,場	_	2	flat	_	Gloss=court|SpaceAfter=No
+2	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	5	nsubj	_	Gloss=court|SpaceAfter=No
+3	廷	廷	NOUN	n,名詞,制度,場	Case=Loc	2	flat	_	Gloss=court|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
 5	歷	歷	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=pass-through-in-order|SpaceAfter=No
-6	位	位	NOUN	n,名詞,制度,場	_	5	obj	_	Gloss=rank|SpaceAfter=No
+6	位	位	NOUN	n,名詞,制度,場	Case=Loc	5	obj	_	Gloss=rank|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	10	cc	_	Gloss=and|SpaceAfter=No
 8	相	相	ADV	v,副詞,範囲,共同	_	10	advmod	_	Gloss=each-other|SpaceAfter=No
 9	與	與	VERB	v,動詞,行為,交流	_	10	advmod	_	Gloss=participate|SpaceAfter=No
@@ -39814,7 +39814,7 @@
 2	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 3	法	法	NOUN	n,名詞,制度,儀礼	_	2	obj	_	Gloss=law|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_008_par28_182-186
@@ -39832,7 +39832,7 @@
 3	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	4	advmod	_	Gloss=not-yet|SpaceAfter=No
 4	免	免	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=avoid|SpaceAfter=No
 5	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
-6	鄉	郷	NOUN	n,名詞,制度,場	_	7	nmod	_	Gloss=village|SpaceAfter=No
+6	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	7	nmod	_	Gloss=village|SpaceAfter=No
 7	人	人	NOUN	n,名詞,人,人	_	4	ccomp	_	Gloss=person|SpaceAfter=No
 8	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -39994,7 +39994,7 @@
 # text = 禹思天下有溺者
 1	禹	禹	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=down|SpaceAfter=No
 5	有	有	VERB	v,動詞,存在,存在	_	2	ccomp	_	Gloss=have|SpaceAfter=No
 6	溺	溺	VERB	v,動詞,行為,動作	_	7	amod	_	Gloss=sink|SpaceAfter=No
@@ -40012,7 +40012,7 @@
 # text = 稷思天下有飢者
 1	稷	稷	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=down|SpaceAfter=No
 5	有	有	VERB	v,動詞,存在,存在	_	2	ccomp	_	Gloss=have|SpaceAfter=No
 6	飢	飢	VERB	v,動詞,描写,境遇	Degree=Pos	7	amod	_	Gloss=hungry|SpaceAfter=No
@@ -40084,7 +40084,7 @@
 
 # sent_id = KR1h0001_008_par29_116-120
 # text = 鄉鄰有鬭者
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	鄰	鄰	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=neighbour|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	鬭	鬭	VERB	v,動詞,行為,交流	_	5	amod	_	Gloss=fight|SpaceAfter=No
@@ -40163,7 +40163,7 @@
 
 # sent_id = KR1h0001_008_par30_32-39
 # text = 世俗所謂不孝者五
-1	世	世	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=world|SpaceAfter=No
+1	世	世	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=world|SpaceAfter=No
 2	俗	俗	NOUN	n,名詞,描写,形質	_	4	nsubj	_	Gloss=vulgarness|SpaceAfter=No
 3	所	所	PART	p,助詞,接続,体言化	_	4	mark	_	Gloss=that-which|SpaceAfter=No
 4	謂	謂	VERB	v,動詞,行為,伝達	_	7	acl	_	Gloss=speak-to|SpaceAfter=No
@@ -41060,7 +41060,7 @@
 2	泣	泣	VERB	v,動詞,行為,動作	_	1	flat:vv	_	Gloss=weep|SpaceAfter=No
 3	于	于	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 4	旻	旻	NOUN	n,名詞,天象,気象	_	5	nmod	_	Gloss=autumnal-sky|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	1	obl	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par1_14-19
 # text = 何為其號泣也
@@ -41160,7 +41160,7 @@
 2	泣	泣	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=weep|SpaceAfter=No
 3	于	于	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 4	旻	旻	NOUN	n,名詞,天象,気象	_	5	nmod	_	Gloss=autumnal-sky|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	1	obl	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 6	于	于	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
 7	父	父	NOUN	n,名詞,人,関係	_	1	obl	_	Gloss=father|SpaceAfter=No
 8	母	母	NOUN	n,名詞,人,関係	_	7	flat	_	Gloss=mother|SpaceAfter=No
@@ -41272,7 +41272,7 @@
 
 # sent_id = KR1h0001_009_par1_152-159
 # text = 天下之士多就之者
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	士	士	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=officer|SpaceAfter=No
@@ -41286,7 +41286,7 @@
 1	帝	帝	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=emperor|SpaceAfter=No
 2	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	3	advmod	_	Gloss=about-to|SpaceAfter=No
 3	胥	胥	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=mutual|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 7	遷	遷	VERB	v,動詞,行為,移動	_	3	conj	_	Gloss=transfer|SpaceAfter=No
@@ -41313,7 +41313,7 @@
 
 # sent_id = KR1h0001_009_par1_181-186
 # text = 天下之士悅之
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	士	士	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=officer|SpaceAfter=No
@@ -41375,7 +41375,7 @@
 # text = 富有天下
 1	富	富	NOUN	n,名詞,可搬,成果物	_	2	nsubj	_	Gloss=wealth|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par1_224-229
@@ -41399,7 +41399,7 @@
 # text = 貴為天子
 1	貴	貴	NOUN	n,名詞,描写,態度	_	4	nsubj	_	Gloss=noble|SpaceAfter=No
 2	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par1_239-244
@@ -41941,14 +41941,14 @@
 # text = 得其所哉
 1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	所	所	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=place|SpaceAfter=No
+3	所	所	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=place|SpaceAfter=No
 4	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par2_266-269
 # text = 得其所哉
 1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	所	所	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=place|SpaceAfter=No
+3	所	所	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=place|SpaceAfter=No
 4	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par2_270-273
@@ -41982,14 +41982,14 @@
 # text = 得其所哉
 1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	所	所	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=place|SpaceAfter=No
+3	所	所	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=place|SpaceAfter=No
 4	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par2_290-293
 # text = 得其所哉
 1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	所	所	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=place|SpaceAfter=No
+3	所	所	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=place|SpaceAfter=No
 4	哉	哉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par2_294-301
@@ -42058,7 +42058,7 @@
 # text = 立為天子則放之何也
 1	立	立	VERB	v,動詞,行為,姿勢	_	6	advcl	_	Gloss=stand|SpaceAfter=No
 2	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	1	conj	_	Gloss=child|SpaceAfter=No
 5	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	Gloss=then|SpaceAfter=No
 6	放	放	VERB	v,動詞,行為,動作	_	8	csubj	_	Gloss=release|SpaceAfter=No
@@ -42097,7 +42097,7 @@
 3	共工	共工	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
 4	于	于	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
 5	幽	幽	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	6	compound	_	Gloss=[place-name]|SpaceAfter=No
-6	州	州	NOUN	n,名詞,制度,場	_	2	obl	_	Gloss=region|SpaceAfter=No
+6	州	州	NOUN	n,名詞,制度,場	Case=Loc	2	obl:lmod	_	Gloss=region|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par3_41-46
 # text = 放驩兜于崇山
@@ -42128,7 +42128,7 @@
 1	四	四	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=four|SpaceAfter=No
 2	罪	罪	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=guilty|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	nsubj	_	Gloss=down|SpaceAfter=No
 6	咸	咸	ADV	v,副詞,範囲,総括	_	7	advmod	_	Gloss=all|SpaceAfter=No
 7	服	服	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=submit|SpaceAfter=No
@@ -42253,7 +42253,7 @@
 # text = 身為天子
 1	身	身	NOUN	n,名詞,不可譲,身体	_	4	nsubj	_	Gloss=body|SpaceAfter=No
 2	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par3_146-149
@@ -42304,7 +42304,7 @@
 
 # sent_id = KR1h0001_009_par3_174-186
 # text = 天子使吏治其國而納其貢稅焉
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,関係	_	3	nsubj	_	Gloss=child|SpaceAfter=No
 3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
 4	吏	吏	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=clerk|SpaceAfter=No
@@ -42461,7 +42461,7 @@
 
 # sent_id = KR1h0001_009_par4_59-62
 # text = 天下殆哉
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	殆	殆	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=dangerous|SpaceAfter=No
 4	哉	哉	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[exclamatory-particle]|SpaceAfter=No
@@ -42562,7 +42562,7 @@
 
 # sent_id = KR1h0001_009_par4_127-130
 # text = 天無二日
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 3	二	二	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=two|SpaceAfter=No
 4	日	日	NOUN	n,名詞,天象,天文	_	2	obj	_	Gloss=sun|SpaceAfter=No
@@ -42579,7 +42579,7 @@
 1	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	5	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	既	既	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	5	advmod	_	Gloss=already|SpaceAfter=No
 3	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	5	cop	_	Gloss=be|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 6	矣	矣	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -42587,7 +42587,7 @@
 # text = 又帥天下諸侯
 1	又	又	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=also|SpaceAfter=No
 2	帥	帥	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=lead|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=down|SpaceAfter=No
 5	諸	諸	NOUN	n,名詞,数量,*	_	6	nmod	_	Gloss=[plural]|SpaceAfter=No
 6	侯	侯	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=marquis|SpaceAfter=No
@@ -42605,7 +42605,7 @@
 # text = 是二天子矣
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	4	nsubj	_	Gloss=this|SpaceAfter=No
 2	二	二	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=two|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 5	矣	矣	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -42638,7 +42638,7 @@
 # sent_id = KR1h0001_009_par4_176-179
 # text = 普天之下
 1	普	普	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=common|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 
@@ -42669,7 +42669,7 @@
 2	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	6	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 3	既	既	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	6	advmod	_	Gloss=already|SpaceAfter=No
 4	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=heaven|SpaceAfter=No
 6	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 7	矣	矣	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -42829,14 +42829,14 @@
 6	大	大	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=big|SpaceAfter=No
 7	乎	乎	ADP	v,前置詞,基盤,*	_	11	mark	_	Gloss=at|SpaceAfter=No
 8	以	以	VERB	v,動詞,行為,動作	_	11	advcl	_	Gloss=use|SpaceAfter=No
-9	天	天	NOUN	n,名詞,制度,場	_	10	compound	_	Gloss=heaven|SpaceAfter=No
+9	天	天	NOUN	n,名詞,制度,場	Case=Loc	10	compound	_	Gloss=heaven|SpaceAfter=No
 10	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	obj	_	Gloss=down|SpaceAfter=No
 11	養	養	VERB	v,動詞,行為,動作	_	6	advcl	_	Gloss=support|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par4_310-317
 # text = 為天子父尊之至也
 1	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	4	nmod	_	Gloss=child|SpaceAfter=No
 4	父	父	NOUN	n,名詞,人,関係	_	7	csubj	_	Gloss=father|SpaceAfter=No
 5	尊	尊	VERB	v,動詞,行為,態度	_	7	amod	_	Gloss=honour|SpaceAfter=No
@@ -42847,7 +42847,7 @@
 # sent_id = KR1h0001_009_par4_318-325
 # text = 以天下養養之至也
 1	以	以	VERB	v,動詞,行為,動作	_	4	advcl	_	Gloss=use|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 4	養	養	VERB	v,動詞,行為,動作	_	7	csubj	_	Gloss=support|SpaceAfter=No
 5	養	養	VERB	v,動詞,行為,動作	_	7	amod	_	Gloss=support|SpaceAfter=No
@@ -42929,7 +42929,7 @@
 # text = 堯以天下與舜
 1	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	5	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 5	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 6	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	5	obj	_	Gloss=[given-name]|SpaceAfter=No
@@ -42950,12 +42950,12 @@
 
 # sent_id = KR1h0001_009_par5_16-24
 # text = 天子不能以天下與人
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,関係	_	8	nsubj	_	Gloss=child|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	能	能	AUX	v,助動詞,可能,*	Mood=Pot	8	aux	_	Gloss=can|SpaceAfter=No
 5	以	以	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=use|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 8	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 9	人	人	NOUN	n,名詞,人,人	_	8	obj	_	Gloss=person|SpaceAfter=No
@@ -42966,7 +42966,7 @@
 2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
 3	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 7	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -42982,13 +42982,13 @@
 
 # sent_id = KR1h0001_009_par5_36-38
 # text = 天與之
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_39-48
 # text = 天與之者諄諄然命之乎
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	4	acl	_	Gloss=participate|SpaceAfter=No
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	8	nsubj	_	Gloss=that-which|SpaceAfter=No
@@ -43009,7 +43009,7 @@
 
 # sent_id = KR1h0001_009_par5_51-53
 # text = 天不言
-1	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	言	言	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak|SpaceAfter=No
 
@@ -43048,23 +43048,23 @@
 
 # sent_id = KR1h0001_009_par5_75-81
 # text = 天子能薦人於天
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,関係	_	4	nsubj	_	Gloss=child|SpaceAfter=No
 3	能	能	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	Gloss=can|SpaceAfter=No
 4	薦	薦	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=recommend|SpaceAfter=No
 5	人	人	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=person|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	4	obl	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_82-89
 # text = 不能使天與之天下
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=can|SpaceAfter=No
 3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=heaven|SpaceAfter=No
 5	與	與	VERB	v,動詞,行為,交流	_	3	xcomp	_	Gloss=participate|SpaceAfter=No
 6	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	5	iobj	_	Gloss=[3PRON]|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	compound	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	compound	_	Gloss=heaven|SpaceAfter=No
 8	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_90-97
@@ -43075,7 +43075,7 @@
 4	薦	薦	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=recommend|SpaceAfter=No
 5	人	人	NOUN	n,名詞,人,人	_	4	obj	_	Gloss=person|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	8	nmod	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	nmod	_	Gloss=heaven|SpaceAfter=No
 8	子	子	NOUN	n,名詞,人,関係	_	4	obl	_	Gloss=child|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_98-106
@@ -43083,7 +43083,7 @@
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=can|SpaceAfter=No
 3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	子	子	NOUN	n,名詞,人,関係	_	3	obj	_	Gloss=child|SpaceAfter=No
 6	與	與	VERB	v,動詞,行為,交流	_	3	xcomp	_	Gloss=participate|SpaceAfter=No
 7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	iobj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -43121,9 +43121,9 @@
 4	薦	薦	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=recommend|SpaceAfter=No
 5	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	4	obl	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 8	而	而	CCONJ	p,助詞,接続,並列	_	10	cc	_	Gloss=and|SpaceAfter=No
-9	天	天	NOUN	n,名詞,制度,場	_	10	nsubj	_	Gloss=heaven|SpaceAfter=No
+9	天	天	NOUN	n,名詞,制度,場	Case=Loc	10	nsubj	_	Gloss=heaven|SpaceAfter=No
 10	受	受	VERB	v,動詞,行為,得失	_	4	conj	_	Gloss=receive|SpaceAfter=No
 11	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	10	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -43145,7 +43145,7 @@
 
 # sent_id = KR1h0001_009_par5_145-147
 # text = 天不言
-1	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	言	言	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak|SpaceAfter=No
 
@@ -43175,9 +43175,9 @@
 1	薦	薦	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=recommend|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	1	obj	_	Gloss=[3PRON]|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	1	obl	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	nsubj	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	nsubj	_	Gloss=heaven|SpaceAfter=No
 7	受	受	VERB	v,動詞,行為,得失	_	1	conj	_	Gloss=receive|SpaceAfter=No
 8	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	7	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -43216,7 +43216,7 @@
 # sent_id = KR1h0001_009_par5_188-191
 # text = 是天受之
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	受	受	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=receive|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -43247,7 +43247,7 @@
 
 # sent_id = KR1h0001_009_par5_208-210
 # text = 天與之
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -43264,12 +43264,12 @@
 
 # sent_id = KR1h0001_009_par5_216-224
 # text = 天子不能以天下與人
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,関係	_	8	nsubj	_	Gloss=child|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	能	能	AUX	v,助動詞,可能,*	Mood=Pot	8	aux	_	Gloss=can|SpaceAfter=No
 5	以	以	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=use|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 8	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 9	人	人	NOUN	n,名詞,人,人	_	8	obj	_	Gloss=person|SpaceAfter=No
@@ -43299,7 +43299,7 @@
 
 # sent_id = KR1h0001_009_par5_240-241
 # text = 天也
-1	天	天	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=heaven|SpaceAfter=No
 2	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_242-243
@@ -43330,7 +43330,7 @@
 
 # sent_id = KR1h0001_009_par5_259-273
 # text = 天下諸侯朝覲者不之堯之子而之舜
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	諸	諸	NOUN	n,名詞,数量,*	_	4	nmod	_	Gloss=[plural]|SpaceAfter=No
 4	侯	侯	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=marquis|SpaceAfter=No
@@ -43383,7 +43383,7 @@
 
 # sent_id = KR1h0001_009_par5_300-301
 # text = 天也
-1	天	天	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=heaven|SpaceAfter=No
 2	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_302-307
@@ -43398,9 +43398,9 @@
 # sent_id = KR1h0001_009_par5_308-312
 # text = 踐天子位焉
 1	踐	踐	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=step-on|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	4	nmod	_	Gloss=child|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=rank|SpaceAfter=No
 5	焉	焉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_313-317
@@ -43427,7 +43427,7 @@
 # sent_id = KR1h0001_009_par5_325-328
 # text = 非天與也
 1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	3	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -43438,7 +43438,7 @@
 
 # sent_id = KR1h0001_009_par5_332-337
 # text = 天視自我民視
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	視	視	VERB	v,動詞,行為,動作	_	3	csubj	_	Gloss=look-at|SpaceAfter=No
 3	自	自	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
 4	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	5	det	_	Gloss=[1PRON]|SpaceAfter=No
@@ -43447,7 +43447,7 @@
 
 # sent_id = KR1h0001_009_par5_338-343
 # text = 天聽自我民聽
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	聽	聽	VERB	v,動詞,行為,伝達	_	3	csubj	_	Gloss=listen|SpaceAfter=No
 3	自	自	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
 4	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	5	det	_	Gloss=[1PRON]|SpaceAfter=No
@@ -43517,7 +43517,7 @@
 
 # sent_id = KR1h0001_009_par6_31-36
 # text = 天與賢則與賢
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	5	advcl	_	Gloss=participate|SpaceAfter=No
 3	賢	賢	NOUN	n,名詞,描写,態度	_	2	obj	_	Gloss=wise|SpaceAfter=No
 4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
@@ -43526,7 +43526,7 @@
 
 # sent_id = KR1h0001_009_par6_37-42
 # text = 天與子則與子
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	5	advcl	_	Gloss=participate|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	2	obj	_	Gloss=child|SpaceAfter=No
 4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
@@ -43541,7 +43541,7 @@
 4	薦	薦	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=recommend|SpaceAfter=No
 5	禹	禹	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	4	obl	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 8	十	十	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=ten|SpaceAfter=No
 9	有	有	VERB	v,動詞,存在,存在	_	10	cc	_	Gloss=have|SpaceAfter=No
 10	七	七	NUM	n,数詞,数字,*	_	8	conj	_	Gloss=seven|SpaceAfter=No
@@ -43572,7 +43572,7 @@
 
 # sent_id = KR1h0001_009_par6_69-88
 # text = 天下之民從之若堯崩之後不從堯之子而從舜也
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	民	民	NOUN	n,名詞,人,人	_	5	nsubj	_	Gloss=people|SpaceAfter=No
@@ -43599,7 +43599,7 @@
 2	薦	薦	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=recommend|SpaceAfter=No
 3	益	益	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	2	obl	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 6	七	七	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=seven|SpaceAfter=No
 7	年	年	NOUN	n,名詞,時,*	Case=Tem	6	clf	_	Gloss=year|SpaceAfter=No
 
@@ -43771,7 +43771,7 @@
 # sent_id = KR1h0001_009_par6_211-213
 # text = 皆天也
 1	皆	皆	ADV	v,副詞,範囲,総括	_	2	advmod	_	Gloss=all|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=heaven|SpaceAfter=No
 3	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_214-220
@@ -43792,7 +43792,7 @@
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	為	爲	VERB	v,動詞,行為,生産	_	3	conj	_	Gloss=make|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
-7	天	天	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=heaven|SpaceAfter=No
+7	天	天	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=heaven|SpaceAfter=No
 8	也	也	PART	p,助詞,句末,*	_	7	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_229-236
@@ -43812,7 +43812,7 @@
 2	夫	夫	NOUN	n,名詞,人,人	_	10	dislocated	_	Gloss=male-person|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	7	acl	_	Gloss=have|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 7	者	者	PART	p,助詞,提示,*	_	2	conj	_	Gloss=that-which|SpaceAfter=No
 8	德	德	NOUN	n,名詞,描写,態度	_	10	nsubj	_	Gloss=virtue|SpaceAfter=No
@@ -43826,7 +43826,7 @@
 1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
 2	又	又	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	子	子	NOUN	n,名詞,人,関係	_	6	nsubj	_	Gloss=child|SpaceAfter=No
 6	薦	薦	VERB	v,動詞,行為,交流	_	8	acl	_	Gloss=recommend|SpaceAfter=No
 7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -43838,21 +43838,21 @@
 2	仲尼	仲尼	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_264-269
 # text = 繼世而有天下
 1	繼	繼	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=continue|SpaceAfter=No
-2	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+2	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	1	conj	_	Gloss=have|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_270-279
 # text = 天之所廢必若桀紂者也
-1	天	天	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	所	所	PART	p,助詞,接続,体言化	_	4	mark	_	Gloss=that-which|SpaceAfter=No
 4	廢	廢	VERB	v,動詞,変化,制度	_	9	csubj	_	Gloss=abolish|SpaceAfter=No
@@ -43873,7 +43873,7 @@
 6	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
 7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
 8	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-9	天	天	NOUN	n,名詞,制度,場	_	10	compound	_	Gloss=heaven|SpaceAfter=No
+9	天	天	NOUN	n,名詞,制度,場	Case=Loc	10	compound	_	Gloss=heaven|SpaceAfter=No
 10	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_290-298
@@ -43885,7 +43885,7 @@
 5	以	以	VERB	v,動詞,行為,動作	_	6	advmod	_	Gloss=use|SpaceAfter=No
 6	王	王	VERB	v,動詞,行為,役割	_	3	parataxis	_	Gloss=king|SpaceAfter=No
 7	於	於	ADP	v,前置詞,基盤,*	_	9	case	_	Gloss=at|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	9	compound	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	9	compound	_	Gloss=heaven|SpaceAfter=No
 9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_299-300
@@ -43981,7 +43981,7 @@
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
 5	有	有	VERB	v,動詞,存在,存在	_	8	csubj	_	Gloss=have|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 8	猶	猶	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=similar|SpaceAfter=No
 9	益	益	PROPN	n,名詞,人,名	NameType=Giv	11	nsubj	_	Gloss=[given-name]|SpaceAfter=No
@@ -44102,7 +44102,7 @@
 1	祿	祿	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pay-emolument|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	1	obj	_	Gloss=[3PRON]|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	1	advcl	_	Gloss=use|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 6	弗	弗	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
 7	顧	顧	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=look-back|SpaceAfter=No
@@ -44287,7 +44287,7 @@
 
 # sent_id = KR1h0001_009_par7_180-198
 # text = 天之生此民也使先知覺後知使先覺覺後覺也
-1	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	生	生	VERB	v,動詞,変化,生物	_	7	csubj	_	Gloss=alive|SpaceAfter=No
 4	此	此	PRON	n,代名詞,指示,*	PronType=Dem	5	det	_	Gloss=this|SpaceAfter=No
@@ -44310,7 +44310,7 @@
 # sent_id = KR1h0001_009_par7_199-206
 # text = 予天民之先覺者也
 1	予	予	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	7	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	民	民	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=people|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	6	obl:lmod	_	Gloss=before|SpaceAfter=No
@@ -44343,7 +44343,7 @@
 # sent_id = KR1h0001_009_par7_223-239
 # text = 思天下之民匹夫匹婦有不被堯舜之澤者
 1	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	民	民	NOUN	n,名詞,人,人	_	10	nsubj	_	Gloss=people|SpaceAfter=No
@@ -44377,7 +44377,7 @@
 2	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	3	nsubj	_	Gloss=self|SpaceAfter=No
 3	任	任	VERB	v,動詞,行為,役割	_	9	csubj	_	Gloss=support|SpaceAfter=No
 4	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	nsubj	_	Gloss=down|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
 8	重	重	VERB	v,動詞,描写,量	Degree=Pos	4	ccomp	_	Gloss=heavy|SpaceAfter=No
@@ -44421,7 +44421,7 @@
 3	己	己	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	2	obj	_	Gloss=self|SpaceAfter=No
 4	以	以	VERB	v,動詞,行為,動作	_	5	advmod	_	Gloss=use|SpaceAfter=No
 5	正	正	VERB	v,動詞,描写,形質	Degree=Pos	2	conj	_	Gloss=correct|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 8	者	者	PART	p,助詞,提示,*	_	1	obj	_	Gloss=that-which|SpaceAfter=No
 9	乎	乎	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
@@ -44490,7 +44490,7 @@
 
 # sent_id = KR1h0001_009_par7_330-336
 # text = 天誅造攻自牧宮
-1	天	天	NOUN	n,名詞,制度,場	_	2	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	誅	誅	VERB	v,動詞,行為,交流	_	3	csubj	_	Gloss=execute|SpaceAfter=No
 3	造	造	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=construct|SpaceAfter=No
 4	攻	攻	VERB	v,動詞,行為,交流	_	3	conj	_	Gloss=attack|SpaceAfter=No
@@ -45011,7 +45011,7 @@
 5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
 6	君	君	NOUN	n,名詞,人,役割	_	4	obj	_	Gloss=ruler|SpaceAfter=No
 7	於	於	ADP	v,前置詞,基盤,*	_	9	case	_	Gloss=at|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	9	compound	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	9	compound	_	Gloss=heaven|SpaceAfter=No
 9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par9_167-171
@@ -45042,7 +45042,7 @@
 
 # sent_id = KR1h0001_009_par9_184-190
 # text = 鄉黨自好者不為
-1	鄉	郷	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=village|SpaceAfter=No
 2	黨	黨	NOUN	n,名詞,主体,集団	_	4	nsubj	_	Gloss=party|SpaceAfter=No
 3	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	4	obj	_	Gloss=self|SpaceAfter=No
 4	好	好	VERB	v,動詞,行為,態度	_	5	acl	_	Gloss=favour|SpaceAfter=No
@@ -45145,7 +45145,7 @@
 # text = 思與鄉人處
 1	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
 2	與	與	ADP	v,前置詞,関係,*	_	4	case	_	Gloss=associate-with|SpaceAfter=No
-3	鄉	郷	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=village|SpaceAfter=No
+3	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=village|SpaceAfter=No
 4	人	人	NOUN	n,名詞,人,人	_	5	obl	_	Gloss=person|SpaceAfter=No
 5	處	處	VERB	v,動詞,行為,設置	_	1	ccomp	_	Gloss=place|SpaceAfter=No
 
@@ -45153,9 +45153,9 @@
 # text = 如以朝衣朝冠坐於塗炭也
 1	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=use|SpaceAfter=No
-3	朝	朝	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=court|SpaceAfter=No
+3	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=court|SpaceAfter=No
 4	衣	衣	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=cloth|SpaceAfter=No
-5	朝	朝	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=court|SpaceAfter=No
+5	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=court|SpaceAfter=No
 6	冠	冠	NOUN	n,名詞,可搬,道具	_	4	conj	_	Gloss=cap|SpaceAfter=No
 7	坐	坐	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=sit|SpaceAfter=No
 8	於	於	ADP	v,前置詞,基盤,*	_	9	case	_	Gloss=at|SpaceAfter=No
@@ -45182,7 +45182,7 @@
 # text = 以待天下之清也
 1	以	以	VERB	v,動詞,行為,動作	_	2	advmod	_	Gloss=use|SpaceAfter=No
 2	待	待	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=wait-for|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=down|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	清	清	VERB	v,動詞,描写,形質	Degree=Pos	2	ccomp	_	Gloss=clear|SpaceAfter=No
@@ -45243,7 +45243,7 @@
 
 # sent_id = KR1h0001_010_par1_111-116
 # text = 天之生斯民也
-1	天	天	NOUN	n,名詞,制度,場	_	3	nsubj	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nsubj	_	Gloss=heaven|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	生	生	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=alive|SpaceAfter=No
 4	斯	斯	PRON	n,代名詞,指示,*	PronType=Dem	5	det	_	Gloss=this|SpaceAfter=No
@@ -45271,7 +45271,7 @@
 # sent_id = KR1h0001_010_par1_129-136
 # text = 予天民之先覺者也
 1	予	予	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	7	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	民	民	NOUN	n,名詞,人,人	_	7	nmod	_	Gloss=people|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	6	obl:lmod	_	Gloss=before|SpaceAfter=No
@@ -45294,7 +45294,7 @@
 # sent_id = KR1h0001_010_par1_146-163
 # text = 思天下之民匹夫匹婦有不與被堯舜之澤者
 1	思	思	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=think|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	民	民	NOUN	n,名詞,人,人	_	10	nsubj	_	Gloss=people|SpaceAfter=No
@@ -45329,7 +45329,7 @@
 2	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	3	nsubj	_	Gloss=self|SpaceAfter=No
 3	任	任	VERB	v,動詞,行為,役割	_	10	csubj	_	Gloss=support|SpaceAfter=No
 4	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	8	nsubj	_	Gloss=down|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
 8	重	重	VERB	v,動詞,描写,量	Degree=Pos	4	ccomp	_	Gloss=heavy|SpaceAfter=No
@@ -45386,7 +45386,7 @@
 # sent_id = KR1h0001_010_par1_212-215
 # text = 與鄉人處
 1	與	與	ADP	v,前置詞,関係,*	_	3	case	_	Gloss=associate-with|SpaceAfter=No
-2	鄉	郷	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=village|SpaceAfter=No
+2	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=village|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	4	obl	_	Gloss=person|SpaceAfter=No
 4	處	處	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
 
@@ -45752,28 +45752,28 @@
 
 # sent_id = KR1h0001_010_par2_46-49
 # text = 天子一位
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,関係	_	4	nsubj	_	Gloss=child|SpaceAfter=No
 3	一	一	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=one|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_50-52
 # text = 公一位
 1	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
 2	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=rank|SpaceAfter=No
+3	位	位	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_53-55
 # text = 侯一位
 1	侯	侯	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=marquis|SpaceAfter=No
 2	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=rank|SpaceAfter=No
+3	位	位	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_56-58
 # text = 伯一位
 1	伯	伯	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=earl|SpaceAfter=No
 2	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=rank|SpaceAfter=No
+3	位	位	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_59-63
 # text = 子男同一位
@@ -45781,7 +45781,7 @@
 2	男	男	NOUN	n,名詞,人,役割	_	1	conj	_	Gloss=baron|SpaceAfter=No
 3	同	同	ADV	v,副詞,範囲,共同	_	5	advmod	_	Gloss=together|SpaceAfter=No
 4	一	一	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=one|SpaceAfter=No
-5	位	位	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=rank|SpaceAfter=No
+5	位	位	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_64-67
 # text = 凡五等也
@@ -45794,41 +45794,41 @@
 # text = 君一位
 1	君	君	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=ruler|SpaceAfter=No
 2	一	一	NUM	n,数詞,数字,*	_	0	root	_	Gloss=one|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	2	clf	_	Gloss=rank|SpaceAfter=No
+3	位	位	NOUN	n,名詞,制度,場	Case=Loc	2	clf	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_71-73
 # text = 卿一位
 1	卿	卿	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=minister|SpaceAfter=No
 2	一	一	NUM	n,数詞,数字,*	_	0	root	_	Gloss=one|SpaceAfter=No
-3	位	位	NOUN	n,名詞,制度,場	_	2	clf	_	Gloss=rank|SpaceAfter=No
+3	位	位	NOUN	n,名詞,制度,場	Case=Loc	2	clf	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_74-77
 # text = 大夫一位
 1	大	大	VERB	v,動詞,描写,量	Degree=Pos	2	amod	_	Gloss=big|SpaceAfter=No
 2	夫	夫	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=male-person|SpaceAfter=No
 3	一	一	NUM	n,数詞,数字,*	_	0	root	_	Gloss=one|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	clf	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	clf	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_78-81
 # text = 上士一位
 1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	2	nmod	_	Gloss=up|SpaceAfter=No
 2	士	士	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=officer|SpaceAfter=No
 3	一	一	NUM	n,数詞,数字,*	_	0	root	_	Gloss=one|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	clf	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	clf	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_82-85
 # text = 中士一位
 1	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	2	nmod	_	Gloss=centre|SpaceAfter=No
 2	士	士	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=officer|SpaceAfter=No
 3	一	一	NUM	n,数詞,数字,*	_	0	root	_	Gloss=one|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	clf	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	clf	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_86-89
 # text = 下士一位
 1	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	nmod	_	Gloss=down|SpaceAfter=No
 2	士	士	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=officer|SpaceAfter=No
 3	一	一	NUM	n,数詞,数字,*	_	0	root	_	Gloss=one|SpaceAfter=No
-4	位	位	NOUN	n,名詞,制度,場	_	3	clf	_	Gloss=rank|SpaceAfter=No
+4	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	clf	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_90-92
 # text = 凡六等
@@ -45838,7 +45838,7 @@
 
 # sent_id = KR1h0001_010_par2_93-100
 # text = 天子之制地方千里
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,関係	_	4	nsubj	_	Gloss=child|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	制	制	VERB	v,動詞,行為,設置	_	7	advcl	_	Gloss=cut-out|SpaceAfter=No
@@ -45887,7 +45887,7 @@
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	達	達	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=extend-to|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	子	子	NOUN	n,名詞,人,関係	_	2	obj	_	Gloss=child|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par2_129-132
@@ -45905,7 +45905,7 @@
 
 # sent_id = KR1h0001_010_par2_136-143
 # text = 天子之卿受地視侯
-1	天	天	NOUN	n,名詞,制度,場	_	2	nmod	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	nmod	_	Gloss=heaven|SpaceAfter=No
 2	子	子	NOUN	n,名詞,人,関係	_	4	nmod	_	Gloss=child|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	卿	卿	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=minister|SpaceAfter=No
@@ -46507,8 +46507,8 @@
 1	弗	弗	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	3	advmod	_	Gloss=participate|SpaceAfter=No
 3	共	共	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=join-the-hands|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
-5	位	位	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=rank|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
+5	位	位	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=rank|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par3_206-211
@@ -46516,7 +46516,7 @@
 1	弗	弗	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	3	advmod	_	Gloss=participate|SpaceAfter=No
 3	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	職	職	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=responsibilities|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -46525,7 +46525,7 @@
 1	弗	弗	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	3	advmod	_	Gloss=participate|SpaceAfter=No
 3	食	食	VERB	v,動詞,行為,飲食	_	0	root	_	Gloss=feed|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	祿	祿	NOUN	n,名詞,可搬,成果物	_	3	obj	_	Gloss=emolument|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -46580,7 +46580,7 @@
 # sent_id = KR1h0001_010_par3_248-255
 # text = 是天子而友匹夫也
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	友	友	VERB	v,動詞,行為,交流	_	3	conj	_	Gloss=friend|SpaceAfter=No
@@ -47400,7 +47400,7 @@
 
 # sent_id = KR1h0001_010_par5_82-86
 # text = 位卑而言高
-1	位	位	NOUN	n,名詞,制度,場	_	2	obj	_	Gloss=rank|SpaceAfter=No
+1	位	位	NOUN	n,名詞,制度,場	Case=Loc	2	obj	_	Gloss=rank|SpaceAfter=No
 2	卑	卑	VERB	v,動詞,描写,境遇	Degree=Pos	0	root	_	Gloss=humble|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 4	言	言	NOUN	n,名詞,可搬,伝達	_	5	nsubj	_	Gloss=speech|SpaceAfter=No
@@ -47418,7 +47418,7 @@
 3	人	人	NOUN	n,名詞,人,人	_	6	nmod	_	Gloss=person|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	本	本	NOUN	n,名詞,描写,形質	_	6	nmod	_	Gloss=base|SpaceAfter=No
-6	朝	朝	NOUN	n,名詞,制度,場	_	1	obl	_	Gloss=court|SpaceAfter=No
+6	朝	朝	NOUN	n,名詞,制度,場	Case=Loc	1	obl:lmod	_	Gloss=court|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	10	cc	_	Gloss=and|SpaceAfter=No
 8	道	道	NOUN	n,名詞,制度,儀礼	_	10	nsubj	_	Gloss=doctrine|SpaceAfter=No
 9	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	10	advmod	_	Gloss=not|SpaceAfter=No
@@ -47913,7 +47913,7 @@
 4	加	加	VERB	v,動詞,行為,得失	_	2	conj	_	Gloss=add|SpaceAfter=No
 5	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	4	iobj	_	Gloss=this|SpaceAfter=No
 6	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	7	nmod	_	Gloss=up|SpaceAfter=No
-7	位	位	NOUN	n,名詞,制度,場	_	4	obj	_	Gloss=rank|SpaceAfter=No
+7	位	位	NOUN	n,名詞,制度,場	Case=Loc	4	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par6_306-307
 # text = 故曰
@@ -48111,7 +48111,7 @@
 # sent_id = KR1h0001_010_par7_110-115
 # text = 則天子不召師
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,関係	_	5	nsubj	_	Gloss=child|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
 5	召	召	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=summon|SpaceAfter=No
@@ -48230,7 +48230,7 @@
 # sent_id = KR1h0001_010_par7_184-189
 # text = 以位則子君也
 1	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
-2	位	位	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=rank|SpaceAfter=No
+2	位	位	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=rank|SpaceAfter=No
 3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,人	_	5	nsubj	_	Gloss=master|SpaceAfter=No
 5	君	君	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=ruler|SpaceAfter=No
@@ -48609,14 +48609,14 @@
 # sent_id = KR1h0001_010_par8_7-18
 # text = 一鄉之善士斯友一鄉之善士
 1	一	一	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=one|SpaceAfter=No
-2	鄉	郷	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=village|SpaceAfter=No
+2	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=village|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	5	amod	_	Gloss=good|SpaceAfter=No
 5	士	士	NOUN	n,名詞,人,役割	_	7	nsubj	_	Gloss=officer|SpaceAfter=No
 6	斯	斯	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
 7	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
 8	一	一	NUM	n,数詞,数字,*	_	9	nummod	_	Gloss=one|SpaceAfter=No
-9	鄉	郷	NOUN	n,名詞,制度,場	_	12	nmod	_	Gloss=village|SpaceAfter=No
+9	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	12	nmod	_	Gloss=village|SpaceAfter=No
 10	之	之	SCONJ	p,助詞,接続,属格	_	9	case	_	Gloss='s|SpaceAfter=No
 11	善	善	VERB	v,動詞,描写,態度	Degree=Pos	12	amod	_	Gloss=good|SpaceAfter=No
 12	士	士	NOUN	n,名詞,人,役割	_	7	obj	_	Gloss=officer|SpaceAfter=No
@@ -48638,14 +48638,14 @@
 
 # sent_id = KR1h0001_010_par8_31-42
 # text = 天下之善士斯友天下之善士
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	5	amod	_	Gloss=good|SpaceAfter=No
 5	士	士	NOUN	n,名詞,人,役割	_	7	nsubj	_	Gloss=officer|SpaceAfter=No
 6	斯	斯	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
 7	友	友	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=friend|SpaceAfter=No
-8	天	天	NOUN	n,名詞,制度,場	_	9	compound	_	Gloss=heaven|SpaceAfter=No
+8	天	天	NOUN	n,名詞,制度,場	Case=Loc	9	compound	_	Gloss=heaven|SpaceAfter=No
 9	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	12	nmod	_	Gloss=down|SpaceAfter=No
 10	之	之	SCONJ	p,助詞,接続,属格	_	9	case	_	Gloss='s|SpaceAfter=No
 11	善	善	VERB	v,動詞,描写,態度	Degree=Pos	12	amod	_	Gloss=good|SpaceAfter=No
@@ -48655,7 +48655,7 @@
 # text = 以友天下之善士為未足
 1	以	以	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=use|SpaceAfter=No
 2	友	友	VERB	v,動詞,行為,交流	_	1	ccomp	_	Gloss=friend|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	nmod	_	Gloss=down|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	善	善	VERB	v,動詞,描写,態度	Degree=Pos	7	amod	_	Gloss=good|SpaceAfter=No
@@ -48700,7 +48700,7 @@
 2	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
 3	論	論	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=discuss|SpaceAfter=No
 4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	Gloss=[3PRON]|SpaceAfter=No
-5	世	世	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=world|SpaceAfter=No
+5	世	世	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=world|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par8_77-80
@@ -48807,7 +48807,7 @@
 6	聽	聽	VERB	v,動詞,行為,伝達	_	2	conj	_	Gloss=listen|SpaceAfter=No
 7	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	8	advmod	_	Gloss=then|SpaceAfter=No
 8	易	易	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=change|SpaceAfter=No
-9	位	位	NOUN	n,名詞,制度,場	_	8	obj	_	Gloss=rank|SpaceAfter=No
+9	位	位	NOUN	n,名詞,制度,場	Case=Loc	8	obj	_	Gloss=rank|SpaceAfter=No
 
 # sent_id = KR1h0001_010_par9_58-63
 # text = 王勃然變乎色
@@ -48919,7 +48919,7 @@
 # text = 則知天矣
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
 2	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	2	obj	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	obj	_	Gloss=heaven|SpaceAfter=No
 4	矣	矣	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par1_19-21
@@ -48939,7 +48939,7 @@
 1	所	所	PART	p,助詞,接続,体言化	_	2	case	_	Gloss=that-which|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	3	advmod	_	Gloss=use|SpaceAfter=No
 3	事	事	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=serve|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=heaven|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par1_30-33
@@ -49484,7 +49484,7 @@
 2	身	身	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=body|SpaceAfter=No
 3	見	見	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=see|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	世	世	NOUN	n,名詞,制度,場	_	3	obl	_	Gloss=world|SpaceAfter=No
+5	世	世	NOUN	n,名詞,制度,場	Case=Loc	3	obl:lmod	_	Gloss=world|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par9_94-99
 # text = 窮則獨善其身
@@ -49501,7 +49501,7 @@
 2	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
 3	兼	兼	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=combine|SpaceAfter=No
 4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	3	conj	_	Gloss=good|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpacesAfter=\n
 
 # newpar text = 孟子曰待文王而後興者凡民也若夫豪傑之士雖無文王猶興
@@ -49690,7 +49690,7 @@
 1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=up|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	flat	_	Gloss=down|SpaceAfter=No
 3	與	與	ADP	v,前置詞,関係,*	_	4	cc	_	Gloss=associate-with|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	1	conj	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	conj	_	Gloss=heaven|SpaceAfter=No
 5	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	4	flat	_	Gloss=earth|SpaceAfter=No
 6	同	同	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=same|SpaceAfter=No
 7	流	流	VERB	v,動詞,行為,動作	_	6	obj	_	Gloss=flow|SpaceAfter=No
@@ -49857,7 +49857,7 @@
 # text = 達之天下也
 1	達	達	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=extend-to|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	1	iobj	_	Gloss=[3PRON]|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
 
@@ -50072,7 +50072,7 @@
 # sent_id = KR1h0001_013_par19_32-35
 # text = 有天民者
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	nmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	nmod	_	Gloss=heaven|SpaceAfter=No
 3	民	民	NOUN	n,名詞,人,人	_	4	nmod	_	Gloss=people|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	1	obj	_	Gloss=that-which|SpaceAfter=No
 
@@ -50082,7 +50082,7 @@
 2	可	可	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=possible|SpaceAfter=No
 3	行	行	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=behave|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par19_42-47
@@ -50128,7 +50128,7 @@
 # text = 而王天下不與存焉
 1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	王	王	VERB	v,動詞,行為,役割	_	6	csubj	_	Gloss=king|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
 6	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
@@ -50161,7 +50161,7 @@
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	愧	愧	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=ashamed|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	3	obl	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	obl:lmod	_	Gloss=heaven|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par20_33-37
 # text = 俯不怍於人
@@ -50180,7 +50180,7 @@
 # sent_id = KR1h0001_013_par20_41-45
 # text = 得天下英才
 1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=down|SpaceAfter=No
 4	英	英	NOUN	n,名詞,人,人	_	5	nmod	_	Gloss=hero|SpaceAfter=No
 5	才	才	NOUN	n,名詞,可搬,成果物	_	1	obj	_	Gloss=talent|SpaceAfter=No
@@ -50209,7 +50209,7 @@
 # text = 而王天下不與存焉
 1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	王	王	VERB	v,動詞,行為,役割	_	6	csubj	_	Gloss=king|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
 6	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
@@ -50243,7 +50243,7 @@
 # sent_id = KR1h0001_013_par21_17-21
 # text = 中天下而立
 1	中	中	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hit|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=down|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	立	立	VERB	v,動詞,行為,姿勢	_	1	conj	_	Gloss=stand|SpaceAfter=No
@@ -50443,7 +50443,7 @@
 
 # sent_id = KR1h0001_013_par22_58-63
 # text = 天下有善養老
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	善	善	VERB	v,動詞,描写,態度	Degree=Pos	5	advmod	_	Gloss=good|SpaceAfter=No
@@ -50715,7 +50715,7 @@
 1	聖	聖	NOUN	n,名詞,人,役割	_	2	nmod	_	Gloss=sage|SpaceAfter=No
 2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
 3	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par23_60-66
@@ -50767,7 +50767,7 @@
 3	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	1	obj	_	Gloss=mountain|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	小	小	VERB	v,動詞,描写,量	Degree=Pos	1	conj	_	Gloss=small|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par24_19-26
@@ -50945,7 +50945,7 @@
 3	毛	毛	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=hair|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	利	利	VERB	v,動詞,行為,得失	_	1	conj	_	Gloss=profit|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par26_16-18
@@ -50967,7 +50967,7 @@
 3	放	放	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=release|SpaceAfter=No
 4	踵	踵	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=heel|SpaceAfter=No
 5	利	利	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=profit|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par26_30-31
@@ -51594,7 +51594,7 @@
 # text = 舜為天子
 1	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par35_9-12
@@ -51679,7 +51679,7 @@
 1	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	視	視	VERB	v,動詞,行為,動作	_	3	advmod	_	Gloss=look-at|SpaceAfter=No
 3	棄	棄	VERB	v,動詞,行為,動作	_	6	csubj	_	Gloss=abandon|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
 6	猶	猶	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=similar|SpaceAfter=No
 7	棄	棄	VERB	v,動詞,行為,動作	_	6	ccomp	_	Gloss=abandon|SpaceAfter=No
@@ -51714,7 +51714,7 @@
 1	樂	樂	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=enjoy|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	3	cc	_	Gloss=and|SpaceAfter=No
 3	忘	忘	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=forget|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	compound	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpacesAfter=\n
 
 # newpar text = 孟子自范之齊望見齊王之子喟然嘆曰居移氣養移體大哉居乎夫非盡人之子與孟子曰王子宮室車馬衣服多與人同而王子若彼者其居使之然也況居天下之廣居者乎魯君之宋呼於垤澤之門守者曰此非吾君也何其聲之似我君也此無他居相似也
@@ -51810,7 +51810,7 @@
 # text = 況居天下之廣居者乎
 1	況	況	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=compare|SpaceAfter=No
 2	居	居	VERB	v,動詞,行為,動作	_	8	acl	_	Gloss=sit-down|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	compound	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	nmod	_	Gloss=down|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	廣	廣	VERB	v,動詞,描写,量	Degree=Pos	7	amod	_	Gloss=wide|SpaceAfter=No
@@ -51943,7 +51943,7 @@
 # text = 形色天性也
 1	形	形	NOUN	n,名詞,描写,形質	_	4	nsubj	_	Gloss=shape|SpaceAfter=No
 2	色	色	NOUN	n,名詞,描写,形質	_	1	conj	_	Gloss=colour|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	性	性	NOUN	n,名詞,不可譲,属性	_	0	root	_	Gloss=nature|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -52204,7 +52204,7 @@
 1	宜	宜	AUX	v,助動詞,必要,*	Mood=Nec	2	aux	_	Gloss=fitting|SpaceAfter=No
 2	若	若	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 3	登	登	VERB	v,動詞,行為,移動	_	2	ccomp	_	Gloss=ascend|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	3	obj	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	obj	_	Gloss=heaven|SpaceAfter=No
 5	然	然	VERB	v,動詞,描写,態度	Degree=Pos	2	xcomp	_	Gloss=like-this|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par41_16-20
@@ -52300,7 +52300,7 @@
 
 # sent_id = KR1h0001_013_par42_4-7
 # text = 天下有道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -52314,7 +52314,7 @@
 
 # sent_id = KR1h0001_013_par42_12-15
 # text = 天下無道
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -52861,7 +52861,7 @@
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	敵	敵	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=enemy|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-6	天	天	NOUN	n,名詞,制度,場	_	7	compound	_	Gloss=heaven|SpaceAfter=No
+6	天	天	NOUN	n,名詞,制度,場	Case=Loc	7	compound	_	Gloss=heaven|SpaceAfter=No
 7	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obl:lmod	_	Gloss=down|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par3_30-36
@@ -52926,7 +52926,7 @@
 
 # sent_id = KR1h0001_014_par4_22-26
 # text = 天下無敵焉
-1	天	天	NOUN	n,名詞,制度,場	_	2	compound	_	Gloss=heaven|SpaceAfter=No
+1	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	compound	_	Gloss=heaven|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	nsubj	_	Gloss=down|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	敵	敵	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=enemy|SpaceAfter=No
@@ -53103,7 +53103,7 @@
 1	及	及	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=reach|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 3	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	5	cop	_	Gloss=be|SpaceAfter=No
-4	天	天	NOUN	n,名詞,制度,場	_	5	nmod	_	Gloss=heaven|SpaceAfter=No
+4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
 5	子	子	NOUN	n,名詞,人,関係	_	1	ccomp	_	Gloss=child|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -53296,7 +53296,7 @@
 3	德	德	NOUN	n,名詞,描写,態度	_	1	obl	_	Gloss=virtue|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	9	nsubj	_	Gloss=that-which|SpaceAfter=No
 5	邪	邪	NOUN	n,名詞,描写,態度	_	6	nmod	_	Gloss=evil|SpaceAfter=No
-6	世	世	NOUN	n,名詞,制度,場	_	9	advmod	_	Gloss=world|SpaceAfter=No
+6	世	世	NOUN	n,名詞,制度,場	Case=Loc	9	obl:lmod	_	Gloss=world|SpaceAfter=No
 7	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	8	advmod	_	Gloss=not|SpaceAfter=No
 8	能	能	AUX	v,助動詞,可能,*	Mood=Pot	9	aux	_	Gloss=can|SpaceAfter=No
 9	亂	亂	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=disorder|SpacesAfter=\n
@@ -53399,7 +53399,7 @@
 2	仁	仁	VERB	v,動詞,描写,態度	Degree=Pos	7	acl	_	Gloss=benevolent|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 4	得	得	VERB	v,動詞,行為,得失	_	2	conj	_	Gloss=get|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	compound	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	compound	_	Gloss=heaven|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=down|SpaceAfter=No
 7	者	者	PART	p,助詞,提示,*	_	10	nsubj	_	Gloss=that-which|SpaceAfter=No
 8	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	10	advmod	_	Gloss=not-yet|SpaceAfter=No
@@ -53442,14 +53442,14 @@
 6	民	民	NOUN	n,名詞,人,人	_	3	obl	_	Gloss=people|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	10	cc	_	Gloss=and|SpaceAfter=No
 8	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	10	cop	_	Gloss=be|SpaceAfter=No
-9	天	天	NOUN	n,名詞,制度,場	_	10	nmod	_	Gloss=heaven|SpaceAfter=No
+9	天	天	NOUN	n,名詞,制度,場	Case=Loc	10	nmod	_	Gloss=heaven|SpaceAfter=No
 10	子	子	NOUN	n,名詞,人,関係	_	3	conj	_	Gloss=child|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par14_24-30
 # text = 得乎天子為諸侯
 1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
 2	乎	乎	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-3	天	天	NOUN	n,名詞,制度,場	_	4	nmod	_	Gloss=heaven|SpaceAfter=No
+3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	1	obl	_	Gloss=child|SpaceAfter=No
 5	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
 6	諸	諸	NOUN	n,名詞,数量,*	_	7	nmod	_	Gloss=[plural]|SpaceAfter=No
@@ -54195,7 +54195,7 @@
 2	人	人	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=person|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	於	於	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=go-into|SpaceAfter=No
-5	天	天	NOUN	n,名詞,制度,場	_	6	nmod	_	Gloss=heaven|SpaceAfter=No
+5	天	天	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=heaven|SpaceAfter=No
 6	道	道	NOUN	n,名詞,制度,儀礼	_	4	obj	_	Gloss=doctrine|SpaceAfter=No
 7	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -54916,7 +54916,7 @@
 # sent_id = KR1h0001_014_par32_41-44
 # text = 而天下平
 1	而	而	CCONJ	p,助詞,接続,並列	_	4	advmod	_	Gloss=and|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	_	3	compound	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	3	compound	_	Gloss=heaven|SpaceAfter=No
 3	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=down|SpaceAfter=No
 4	平	平	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=level|SpaceAfter=No
 
@@ -55624,13 +55624,13 @@
 5	者	者	PART	p,助詞,提示,*	_	8	dislocated	_	Gloss=that-which|SpaceAfter=No
 6	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	8	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 7	惟	惟	ADV	v,副詞,範囲,限定	_	8	advmod	_	Gloss=only|SpaceAfter=No
-8	鄉	郷	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=village|SpaceAfter=No
+8	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=village|SpaceAfter=No
 9	原	原	NOUN	n,名詞,固定物,関係	Case=Loc	8	flat	_	Gloss=source|SpaceAfter=No
 10	乎	乎	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par37_182-187
 # text = 鄉原德之賊也
-1	鄉	郷	NOUN	n,名詞,制度,場	_	5	nsubj	_	Gloss=village|SpaceAfter=No
+1	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	5	nsubj	_	Gloss=village|SpaceAfter=No
 2	原	原	NOUN	n,名詞,固定物,関係	Case=Loc	1	flat	_	Gloss=source|SpaceAfter=No
 3	德	德	NOUN	n,名詞,描写,態度	_	5	nmod	_	Gloss=virtue|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
@@ -55649,7 +55649,7 @@
 4	可	可	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=possible|SpaceAfter=No
 5	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 6	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	5	iobj	_	Gloss=[3PRON]|SpaceAfter=No
-7	鄉	郷	NOUN	n,名詞,制度,場	_	5	obj	_	Gloss=village|SpaceAfter=No
+7	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	5	obj	_	Gloss=village|SpaceAfter=No
 8	原	原	NOUN	n,名詞,固定物,関係	Case=Loc	7	flat	_	Gloss=source|SpaceAfter=No
 9	矣	矣	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
@@ -55711,14 +55711,14 @@
 # text = 生斯世也
 1	生	生	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=alive|SpaceAfter=No
 2	斯	斯	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=this|SpaceAfter=No
-3	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+3	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par37_232-235
 # text = 為斯世也
 1	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 2	斯	斯	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=this|SpaceAfter=No
-3	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+3	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par37_236-239
@@ -55734,11 +55734,11 @@
 2	然	然	PART	p,接尾辞,*,*	_	1	fixed	_	Gloss=[suffix]|SpaceAfter=No
 3	媚	媚	VERB	v,動詞,行為,態度	_	7	acl	_	Gloss=flatter|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	世	世	NOUN	n,名詞,制度,場	_	3	obl	_	Gloss=world|SpaceAfter=No
+5	世	世	NOUN	n,名詞,制度,場	Case=Loc	3	obl:lmod	_	Gloss=world|SpaceAfter=No
 6	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 7	者	者	PART	p,助詞,提示,*	_	9	nsubj	_	Gloss=that-which|SpaceAfter=No
 8	是	是	PRON	n,代名詞,指示,*	PronType=Dem	9	expl	_	Gloss=this|SpaceAfter=No
-9	鄉	郷	NOUN	n,名詞,制度,場	_	0	root	_	Gloss=village|SpaceAfter=No
+9	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	0	root	_	Gloss=village|SpaceAfter=No
 10	原	原	NOUN	n,名詞,固定物,関係	Case=Loc	9	flat	_	Gloss=source|SpaceAfter=No
 11	也	也	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -55750,7 +55750,7 @@
 # sent_id = KR1h0001_014_par37_254-260
 # text = 一鄉皆稱原人焉
 1	一	一	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=one|SpaceAfter=No
-2	鄉	郷	NOUN	n,名詞,制度,場	_	4	nsubj	_	Gloss=village|SpaceAfter=No
+2	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=village|SpaceAfter=No
 3	皆	皆	ADV	v,副詞,範囲,総括	_	4	advmod	_	Gloss=all|SpaceAfter=No
 4	稱	稱	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=weigh|SpaceAfter=No
 5	原	原	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=source|SpaceAfter=No
@@ -55814,7 +55814,7 @@
 1	合	合	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=fit|SpaceAfter=No
 2	乎	乎	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
 3	汙	汙	VERB	v,動詞,描写,形質	Degree=Pos	4	advmod	_	Gloss=low-lying|SpaceAfter=No
-4	世	世	NOUN	n,名詞,制度,場	_	1	obl	_	Gloss=world|SpaceAfter=No
+4	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obl:lmod	_	Gloss=world|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par37_297-301
 # text = 居之似忠信
@@ -55953,7 +55953,7 @@
 # sent_id = KR1h0001_014_par37_375-377
 # text = 惡鄉原
 1	惡	惡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hate|SpaceAfter=No
-2	鄉	郷	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=village|SpaceAfter=No
+2	鄉	郷	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=village|SpaceAfter=No
 3	原	原	NOUN	n,名詞,固定物,関係	Case=Loc	2	flat	_	Gloss=source|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par37_378-382
@@ -56139,7 +56139,7 @@
 2	聖	聖	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=sage|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	5	nmod	_	Gloss=person|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
-5	世	世	NOUN	n,名詞,制度,場	_	1	obj	_	Gloss=world|SpaceAfter=No
+5	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par38_109-114
 # text = 若此其未遠也
