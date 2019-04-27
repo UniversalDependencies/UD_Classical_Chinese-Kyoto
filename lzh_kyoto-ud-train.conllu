@@ -14814,7 +14814,7 @@
 # text = 衣夫錦
 1	衣	衣	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=wear|SpaceAfter=No
 2	夫	夫	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=that|SpaceAfter=No
-3	錦	錦	NOUN	n,名詞,可搬,道具	_	1	obj	_	SpaceAfter=No
+3	錦	錦	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=brocade|SpaceAfter=No
 
 # sent_id = KR1h0004_017_par21_54-57
 # text = 於女安乎

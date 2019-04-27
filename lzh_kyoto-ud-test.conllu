@@ -16501,7 +16501,7 @@
 11	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	14	nmod	_	Gloss=down|SpaceAfter=No
 12	之	之	SCONJ	p,助詞,接続,属格	_	11	case	_	Gloss='s|SpaceAfter=No
 13	大	大	VERB	v,動詞,描写,量	Degree=Pos	14	amod	_	Gloss=big|SpaceAfter=No
-14	經	經	NOUN	n,名詞,固定物,建造物	Case=Loc	8	obj	_	SpaceAfter=No
+14	經	經	NOUN	n,名詞,制度,儀礼	_	8	obj	_	Gloss=norm|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par28_227-232
 # text = 立天下之大本
@@ -16577,9 +16577,9 @@
 # sent_id = KR1d0052_032_par28_274-277
 # text = 衣錦尚絅
 1	衣	衣	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=wear|SpaceAfter=No
-2	錦	錦	NOUN	n,名詞,可搬,道具	_	1	obj	_	SpaceAfter=No
+2	錦	錦	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=brocade|SpaceAfter=No
 3	尚	尙	VERB	v,動詞,行為,態度	_	1	conj	_	Gloss=esteem|SpaceAfter=No
-4	絅	絅	NOUN	n,名詞,可搬,道具	_	3	obj	_	SpaceAfter=No
+4	絅	絅	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=unlined-garment-of-hemp|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par28_278-283
 # text = 惡其文之著也
@@ -16596,7 +16596,7 @@
 2	君子	君子	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=lord|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	道	道	NOUN	n,名詞,制度,儀礼	_	5	nsubj	_	Gloss=doctrine|SpaceAfter=No
-5	闇	闇	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	SpaceAfter=No
+5	闇	闇	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=dark|SpaceAfter=No
 6	然	然	PART	p,接尾辞,*,*	_	5	fixed	_	Gloss=[suffix]|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
 8	日	日	NOUN	n,名詞,時,*	Case=Tem	9	obl:tmod	_	Gloss=day|SpaceAfter=No
@@ -16619,7 +16619,7 @@
 1	君子	君子	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=lord|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	道	道	NOUN	n,名詞,制度,儀礼	_	4	nsubj	_	Gloss=doctrine|SpaceAfter=No
-4	淡	淡	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	SpaceAfter=No
+4	淡	淡	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=thin|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 6	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
 7	厭	厭	VERB	v,動詞,行為,態度	_	4	conj	_	Gloss=satiated|SpaceAfter=No
@@ -16876,7 +16876,7 @@
 # sent_id = KR1d0052_032_par29_14-17
 # text = 德輶如毛
 1	德	德	NOUN	n,名詞,描写,態度	_	2	nsubj	_	Gloss=virtue|SpaceAfter=No
-2	輶	輶	VERB	v,動詞,描写,量	Degree=Pos	3	csubj	_	SpaceAfter=No
+2	輶	輶	VERB	v,動詞,描写,量	Degree=Pos	3	csubj	_	Gloss=light|SpaceAfter=No
 3	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 4	毛	毛	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=hair|SpaceAfter=No
 
