@@ -160,7 +160,7 @@
 1	己	己	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	4	nsubj	_	Gloss=self|SpaceAfter=No
 2	所	所	PART	p,助詞,接続,体言化	_	4	mark	_	Gloss=that-which|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	6	csubj	_	Gloss=wish|SpaceAfter=No
+4	欲	欲	VERB	v,動詞,行為,動作	_	6	csubj	_	Gloss=desire|SpaceAfter=No
 5	勿	勿	ADV	v,副詞,否定,禁止	Polarity=Neg	6	advmod	_	Gloss=don't|SpaceAfter=No
 6	施	施	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=spread|SpaceAfter=No
 7	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
@@ -3839,7 +3839,7 @@
 1	東里	東里	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	nmod	_	Gloss=[place-name]|SpaceAfter=No
 2	子產	子產	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 3	潤	潤	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=moisten|SpaceAfter=No
-4	色	色	NOUN	n,名詞,描写,形質	_	3	advmod	_	Gloss=colour|SpaceAfter=No
+4	色	色	NOUN	n,名詞,描写,形質	_	3	iobj	_	Gloss=colour|SpaceAfter=No
 5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpacesAfter=\n
 
 # newpar text = 或問子產子曰惠人也問子西曰彼哉彼哉問管仲曰人也奪伯氏駢邑三百飯疏食沒齒無怨言
@@ -5365,7 +5365,7 @@
 2	知	知	VERB	v,動詞,行為,動作	_	9	acl	_	Gloss=know|SpaceAfter=No
 3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-5	可	可	AUX	v,助動詞,可能,*	Mood=Pot	2	ccomp	_	Gloss=possible|SpaceAfter=No
+5	可	可	VERB	v,動詞,描写,態度	Degree=Pos	2	ccomp	_	Gloss=permissible|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 7	為	爲	VERB	v,動詞,行為,生産	_	2	conj	_	Gloss=make|SpaceAfter=No
 8	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	7	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -6776,7 +6776,7 @@
 # sent_id = KR1h0001_011_par6_27-35
 # text = 是故文武興則民好善
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	8	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	8	advmod	_	Gloss=therefore|SpaceAfter=No
 3	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	nsubj	_	Gloss=Wen|SpaceAfter=No
 4	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	conj	_	Gloss=Wu|SpaceAfter=No
 5	興	興	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=rise|SpaceAfter=No
@@ -6813,7 +6813,7 @@
 # sent_id = KR1h0001_011_par6_52-60
 # text = 是故以堯為君而有象
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	5	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	5	advmod	_	Gloss=therefore|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
 4	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	3	obj	_	Gloss=[given-name]|SpaceAfter=No
 5	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
@@ -8395,7 +8395,7 @@
 # sent_id = KR1h0001_011_par10_155-163
 # text = 是故所欲有甚於生者
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	5	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	5	advmod	_	Gloss=therefore|SpaceAfter=No
 3	所	所	PART	p,助詞,接続,体言化	_	4	case	_	Gloss=that-which|SpaceAfter=No
 4	欲	欲	VERB	v,動詞,行為,動作	_	5	nsubj	_	Gloss=desire|SpaceAfter=No
 5	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
@@ -11614,7 +11614,7 @@
 # sent_id = KR1h0001_012_par6_227-232
 # text = 是故無賢者也
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	3	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=therefore|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	賢	賢	VERB	v,動詞,描写,態度	Degree=Pos	5	amod	_	Gloss=worthy|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	3	obj	_	Gloss=that-which|SpaceAfter=No
@@ -11922,7 +11922,7 @@
 # sent_id = KR1h0001_012_par7_129-136
 # text = 是故天子討而不伐
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	5	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	5	advmod	_	Gloss=therefore|SpaceAfter=No
 3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nmod	_	Gloss=heaven|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	5	nsubj	_	Gloss=child|SpaceAfter=No
 5	討	討	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=punish|SpaceAfter=No
@@ -12868,8 +12868,8 @@
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	1	expl	_	Gloss=[3PRON]|SpaceAfter=No
 3	何	何	PRON	n,代名詞,疑問,*	PronType=Int	1	xcomp	_	Gloss=what|SpaceAfter=No
 4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
-5	可	可	VERB	v,動詞,描写,態度	Degree=Pos	1	conj	_	Gloss=permissible|SpaceAfter=No
-6	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+5	可	可	VERB	v,動詞,描写,態度	Degree=Pos	1	ccomp	_	Gloss=permissible|SpaceAfter=No
+6	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par10_98-100
 # text = 陶以寡
@@ -12970,7 +12970,7 @@
 # sent_id = KR1h0001_012_par11_26-33
 # text = 是故禹以四海為壑
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	7	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	7	advmod	_	Gloss=therefore|SpaceAfter=No
 3	禹	禹	PROPN	n,名詞,人,名	NameType=Giv	7	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 4	以	以	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=use|SpaceAfter=No
 5	四	四	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=four|SpaceAfter=No
@@ -15209,7 +15209,7 @@
 # sent_id = KR1d0052_043_par2_349-355
 # text = 是故君子有諸己
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=therefore|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=lord|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 5	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	4	iobj	_	Gloss=this|SpaceAfter=No
@@ -15672,7 +15672,7 @@
 # sent_id = KR1d0052_043_par2_660-667
 # text = 是故君子先慎乎德
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	5	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	5	advmod	_	Gloss=therefore|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=lord|SpaceAfter=No
 4	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	5	obl:lmod	_	Gloss=before|SpaceAfter=No
 5	慎	愼	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=careful|SpaceAfter=No
@@ -15742,7 +15742,7 @@
 # sent_id = KR1d0052_043_par2_704-710
 # text = 是故財聚則民散
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=therefore|SpaceAfter=No
 3	財	財	NOUN	n,名詞,可搬,道具	_	4	nsubj	_	Gloss=goods|SpaceAfter=No
 4	聚	聚	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=amass|SpaceAfter=No
 5	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
@@ -15760,7 +15760,7 @@
 # sent_id = KR1d0052_043_par2_716-726
 # text = 是故言悖而出者亦悖而入
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=therefore|SpaceAfter=No
 3	言	言	NOUN	n,名詞,可搬,伝達	_	4	nsubj	_	Gloss=speech|SpaceAfter=No
 4	悖	悖	VERB	v,動詞,行為,交流	_	7	acl	_	SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
@@ -16132,7 +16132,7 @@
 # sent_id = KR1d0052_043_par2_958-964
 # text = 是故君子有大道
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	advmod	_	Gloss=reason|SpaceAfter=No
+2	故	故	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=therefore|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=lord|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 5	大	大	VERB	v,動詞,描写,量	Degree=Pos	6	amod	_	Gloss=big|SpaceAfter=No
