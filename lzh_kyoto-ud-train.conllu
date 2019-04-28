@@ -11945,7 +11945,7 @@
 2	貞	貞	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-5	諒	諒	VERB	v,動詞,描写,態度	Degree=Pos	2	conj	_	SpacesAfter=\n
+5	諒	諒	VERB	v,動詞,行為,態度	_	2	conj	_	Gloss=trust|SpacesAfter=\n
 
 # newpar text = 子曰事君敬其事而後其食
 # sent_id = KR1h0004_015_par38_1-2
@@ -12388,7 +12388,7 @@
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	患	患	VERB	v,動詞,行為,態度	_	2	conj	_	Gloss=trouble|SpaceAfter=No
 6	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
-7	均	均	VERB	v,動詞,描写,量	Degree=Pos	5	ccomp	_	SpaceAfter=No
+7	均	均	VERB	v,動詞,描写,形質	Degree=Pos	5	ccomp	_	Gloss=equal|SpaceAfter=No
 
 # sent_id = KR1h0004_016_par1_185-191
 # text = 不患貧而患不安
@@ -12403,7 +12403,7 @@
 # sent_id = KR1h0004_016_par1_192-195
 # text = 蓋均無貧
 1	蓋	蓋	PART	p,助詞,句頭,*	_	3	discourse	_	Gloss=why-not|SpaceAfter=No
-2	均	均	VERB	v,動詞,描写,量	Degree=Pos	3	advmod	_	SpaceAfter=No
+2	均	均	VERB	v,動詞,描写,形質	Degree=Pos	3	advmod	_	Gloss=equal|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 4	貧	貧	VERB	v,動詞,描写,境遇	Degree=Pos	3	obj	_	Gloss=poor|SpaceAfter=No
 
@@ -12417,7 +12417,7 @@
 # text = 安無傾
 1	安	安	VERB	v,動詞,行為,態度	_	2	advmod	_	Gloss=peaceful|SpaceAfter=No
 2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-3	傾	傾	VERB	v,動詞,描写,形質	Degree=Pos	2	obj	_	SpaceAfter=No
+3	傾	傾	VERB	v,動詞,行為,動作	_	2	obj	_	Gloss=overturn|SpaceAfter=No
 
 # sent_id = KR1h0004_016_par1_202-204
 # text = 夫如是
@@ -13795,7 +13795,7 @@
 # text = 前言戲之耳
 1	前	前	NOUN	n,名詞,時,*	Case=Tem	2	nmod	_	Gloss=before|SpaceAfter=No
 2	言	言	NOUN	n,名詞,可搬,伝達	_	3	nsubj	_	Gloss=speech|SpaceAfter=No
-3	戲	戲	VERB	v,動詞,行為,態度	_	0	root	_	SpaceAfter=No
+3	戲	戲	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sport|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
 5	耳	耳	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=only|SpacesAfter=\n
 
@@ -17821,7 +17821,7 @@
 1	欲	欲	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=desire|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	貪	貪	VERB	v,動詞,行為,動作	_	1	conj	_	SpaceAfter=No
+4	貪	貪	VERB	v,動詞,行為,態度	_	1	conj	_	Gloss=greedy|SpaceAfter=No
 
 # sent_id = KR1h0004_020_par2_53-56
 # text = 泰而不驕
