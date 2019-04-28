@@ -29876,7 +29876,7 @@
 1	昔	昔	NOUN	n,名詞,時,*	Case=Tem	2	nmod	_	Gloss=formerly|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	5	advmod	_	Gloss=that-which|SpaceAfter=No
 3	趙	趙	PROPN	n,名詞,人,姓氏	NameType=Sur	5	nsubj	_	Gloss=[surname]|SpaceAfter=No
-4	簡子	簡子	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	flat	_	Gloss=Jianzi|SpaceAfter=No
+4	簡子	簡子	PROPN	n,名詞,人,複合的人名	NameType=Prs	3	flat	_	Gloss=Jianzi|SpaceAfter=No
 5	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
 6	王	王	PROPN	n,名詞,人,姓氏	NameType=Sur	5	obj	_	Gloss=[surname]|SpaceAfter=No
 7	良	良	PROPN	n,名詞,人,名	NameType=Giv	6	flat	_	Gloss=[given-name]|SpaceAfter=No
@@ -29966,7 +29966,7 @@
 
 # sent_id = KR1h0001_006_par1_177-179
 # text = 簡子曰
-1	簡子	簡子	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	nsubj	_	Gloss=Jianzi|SpaceAfter=No
+1	簡子	簡子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Jianzi|SpaceAfter=No
 2	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par1_180-185
