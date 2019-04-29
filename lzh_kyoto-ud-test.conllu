@@ -1144,8 +1144,8 @@
 # text = 不敬何以別乎
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	敬	敬	VERB	v,動詞,行為,態度	_	5	advcl	_	Gloss=respect|SpaceAfter=No
-3	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	advmod	_	Gloss=what|SpaceAfter=No
-4	以	以	VERB	v,動詞,行為,動作	_	5	advmod	_	Gloss=use|SpaceAfter=No
+3	何	何	PRON	n,代名詞,疑問,*	PronType=Int	4	obj	_	Gloss=what|SpaceAfter=No
+4	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
 5	別	別	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=separate|SpaceAfter=No
 6	乎	乎	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[Q]|SpacesAfter=\n
 
