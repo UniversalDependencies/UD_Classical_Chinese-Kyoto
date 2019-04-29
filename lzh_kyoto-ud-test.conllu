@@ -1144,7 +1144,7 @@
 # text = 不敬何以別乎
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	敬	敬	VERB	v,動詞,行為,態度	_	5	advcl	_	Gloss=respect|SpaceAfter=No
-3	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	5	advmod	_	Gloss=what|SpaceAfter=No
+3	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	advmod	_	Gloss=what|SpaceAfter=No
 4	以	以	VERB	v,動詞,行為,動作	_	5	advmod	_	Gloss=use|SpaceAfter=No
 5	別	別	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=separate|SpaceAfter=No
 6	乎	乎	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[Q]|SpacesAfter=\n
@@ -3086,7 +3086,7 @@
 # sent_id = KR1h0001_001_par1_28-32
 # text = 王何必曰利
 1	王	王	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=king|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	4	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	4	advmod	_	Gloss=what|SpaceAfter=No
 3	必	必	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=necessarily|SpaceAfter=No
 4	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 5	利	利	NOUN	n,名詞,描写,形質	_	4	obj	_	Gloss=profit|SpaceAfter=No
@@ -3263,7 +3263,7 @@
 
 # sent_id = KR1h0001_001_par1_149-152
 # text = 何必曰利
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 2	必	必	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=necessarily|SpaceAfter=No
 3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 4	利	利	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=profit|SpacesAfter=\n
@@ -3996,7 +3996,7 @@
 # sent_id = KR1h0001_001_par3_334-342
 # text = 是何異於刺人而殺之
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=differ|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	mark	_	Gloss=at|SpaceAfter=No
 5	刺	刺	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=pierce|SpaceAfter=No
@@ -4911,7 +4911,7 @@
 # sent_id = KR1h0001_001_par7_111-113
 # text = 牛何之
 1	牛	牛	NOUN	n,名詞,主体,動物	_	3	nsubj	_	Gloss=cattle|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	之	之	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par7_114-115
@@ -4972,7 +4972,7 @@
 
 # sent_id = KR1h0001_001_par7_146-149
 # text = 何可廢也
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 2	可	可	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=possible|SpaceAfter=No
 3	廢	廢	VERB	v,動詞,変化,制度	_	0	root	_	Gloss=abolish|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -5060,7 +5060,7 @@
 4	褊	褊	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=narrow|SpaceAfter=No
 5	小	小	VERB	v,動詞,描写,量	Degree=Pos	4	flat:vv	_	Gloss=small|SpaceAfter=No
 6	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	8	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
-7	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	8	advmod	_	Gloss=what|SpaceAfter=No
+7	何	何	PRON	n,代名詞,疑問,*	PronType=Int	8	advmod	_	Gloss=what|SpaceAfter=No
 8	愛	愛	VERB	v,動詞,行為,交流	_	4	parataxis	_	Gloss=love|SpaceAfter=No
 9	一	一	NUM	n,数詞,数字,*	_	10	nummod	_	Gloss=one|SpaceAfter=No
 10	牛	牛	NOUN	n,名詞,主体,動物	_	8	obj	_	Gloss=cattle|SpaceAfter=No
@@ -5138,7 +5138,7 @@
 11	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	15	advmod	_	Gloss=then|SpaceAfter=No
 12	牛	牛	NOUN	n,名詞,主体,動物	_	15	nsubj	_	Gloss=cattle|SpaceAfter=No
 13	羊	羊	NOUN	n,名詞,主体,動物	_	12	flat	_	Gloss=sheep|SpaceAfter=No
-14	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	15	advmod	_	Gloss=what|SpaceAfter=No
+14	何	何	PRON	n,代名詞,疑問,*	PronType=Int	15	advmod	_	Gloss=what|SpaceAfter=No
 15	擇	擇	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pick-out|SpaceAfter=No
 16	焉	焉	PRON	n,代名詞,指示,*	PronType=Dem	15	obl	_	Gloss=there|SpaceAfter=No
 
@@ -5818,7 +5818,7 @@
 # sent_id = KR1h0001_001_par7_710-714
 # text = 吾何快於是
 1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	3	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	快	快	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=pleased|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 5	是	是	PRON	n,代名詞,指示,*	PronType=Dem	3	obl	_	Gloss=this|SpaceAfter=No
@@ -7005,7 +7005,7 @@
 # sent_id = KR1h0001_002_par1_176-184
 # text = 夫何使我至於此極也
 1	夫	夫	PART	p,助詞,句頭,*	_	3	advmod	_	Gloss=[modal-particle]|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
 4	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	3	obj	_	Gloss=[1PRON]|SpaceAfter=No
 5	至	至	VERB	v,動詞,行為,移動	_	3	xcomp	_	Gloss=arrive|SpaceAfter=No
@@ -7083,7 +7083,7 @@
 # sent_id = KR1h0001_002_par1_230-238
 # text = 夫何使我至於此極也
 1	夫	夫	PART	p,助詞,句頭,*	_	3	advmod	_	Gloss=[modal-particle]|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	使	使	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=[make-to-do]|SpaceAfter=No
 4	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	3	obj	_	Gloss=[1PRON]|SpaceAfter=No
 5	至	至	VERB	v,動詞,行為,移動	_	3	xcomp	_	Gloss=arrive|SpaceAfter=No
@@ -8079,7 +8079,7 @@
 # sent_id = KR1h0001_002_par4_117-128
 # text = 吾何脩而可以比於先王觀也
 1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	3	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	脩	脩	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=improve|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 5	可	可	AUX	v,助動詞,可能,*	Mood=Pot	7	aux	_	Gloss=possible|SpaceAfter=No
@@ -8433,7 +8433,7 @@
 # text = 畜君何尤
 1	畜	畜	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=raise-domestic-animals|SpaceAfter=No
 2	君	君	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=ruler|SpaceAfter=No
-3	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	4	advmod	_	Gloss=what|SpaceAfter=No
+3	何	何	PRON	n,代名詞,疑問,*	PronType=Int	4	advmod	_	Gloss=what|SpaceAfter=No
 4	尤	尤	VERB	v,動詞,行為,態度	_	1	conj	_	Gloss=blame|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par4_348-353
@@ -10828,7 +10828,7 @@
 1	二	二	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=two|SpaceAfter=No
 2	三	三	NUM	n,数詞,数字,*	_	1	conj	_	Gloss=three|SpaceAfter=No
 3	子	子	NOUN	n,名詞,人,人	_	5	vocative	_	Gloss=master|SpaceAfter=No
-4	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	5	advmod	_	Gloss=what|SpaceAfter=No
+4	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	advmod	_	Gloss=what|SpaceAfter=No
 5	患	患	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=trouble|SpaceAfter=No
 6	乎	乎	ADP	v,前置詞,基盤,*	_	7	mark	_	Gloss=at|SpaceAfter=No
 7	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	5	advcl	_	Gloss=not-have|SpaceAfter=No

@@ -405,7 +405,7 @@
 # sent_id = KR1h0004_012_par5_49-57
 # text = 君子何患乎無兄弟也
 1	君子	君子	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=lord|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	患	患	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=trouble|SpaceAfter=No
 4	乎	乎	PART	p,助詞,句末,*	_	5	mark	_	Gloss=[Q]|SpaceAfter=No
 5	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	3	ccomp	_	Gloss=not-have|SpaceAfter=No
@@ -609,7 +609,7 @@
 
 # sent_id = KR1h0004_012_par8_11-14
 # text = 何以文為
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	4	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	4	advmod	_	Gloss=what|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	4	advcl	_	Gloss=use|SpaceAfter=No
 3	文	文	NOUN	n,名詞,描写,形質	_	2	obj	_	Gloss=ornament|SpaceAfter=No
 4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
@@ -2307,7 +2307,7 @@
 # sent_id = KR1h0004_013_par9_18-21
 # text = 又何加焉
 1	又	又	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	加	加	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=add|SpaceAfter=No
 4	焉	焉	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -2337,7 +2337,7 @@
 # sent_id = KR1h0004_013_par9_30-33
 # text = 又何加焉
 1	又	又	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 3	加	加	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=add|SpaceAfter=No
 4	焉	焉	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -2467,7 +2467,7 @@
 1	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 2	正	正	VERB	v,動詞,描写,形質	Degree=Pos	3	amod	_	Gloss=correct|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	1	obj	_	Gloss=person|SpaceAfter=No
-4	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	1	conj	_	Gloss=what|SpacesAfter=\n
+4	何	何	PRON	n,代名詞,疑問,*	PronType=Int	1	xcomp	_	Gloss=what|SpacesAfter=\n
 
 # newpar text = 冉子退朝子曰何晏也對曰有政子曰其事也如有政雖不吾以吾其與聞之
 # sent_id = KR1h0004_013_par14_1-4
@@ -2483,7 +2483,7 @@
 
 # sent_id = KR1h0004_013_par14_7-9
 # text = 何晏也
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	2	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	advmod	_	Gloss=what|SpaceAfter=No
 2	晏	晏	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=late|SpaceAfter=No
 3	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -3052,7 +3052,7 @@
 
 # sent_id = KR1h0004_013_par20_87-90
 # text = 何足算也
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 2	足	足	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=enough|SpaceAfter=No
 3	算	算	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=count|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
@@ -4030,7 +4030,7 @@
 3	成	成	VERB	v,動詞,行為,生産	_	4	amod	_	Gloss=complete|SpaceAfter=No
 4	人	人	NOUN	n,名詞,人,人	_	5	nmod	_	Gloss=person|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	8	nsubj	_	Gloss=that-which|SpaceAfter=No
-6	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	8	advmod	_	Gloss=what|SpaceAfter=No
+6	何	何	PRON	n,代名詞,疑問,*	PronType=Int	8	advmod	_	Gloss=what|SpaceAfter=No
 7	必	必	ADV	v,副詞,判断,確定	_	8	advmod	_	Gloss=necessarily|SpaceAfter=No
 8	然	然	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=like-this|SpaceAfter=No
 
@@ -5021,7 +5021,7 @@
 # sent_id = KR1h0004_014_par32_8-15
 # text = 丘何為是栖栖者與
 1	丘	丘	PROPN	n,名詞,人,名	NameType=Giv	7	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	7	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	7	advmod	_	Gloss=what|SpaceAfter=No
 3	為	爲	VERB	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
 4	是	是	PRON	n,代名詞,指示,*	PronType=Dem	5	nsubj	_	Gloss=this|SpaceAfter=No
 5	栖	栖	VERB	v,動詞,描写,態度	Degree=Pos	7	acl	_	Gloss=restless|SpaceAfter=No
@@ -5102,7 +5102,7 @@
 
 # sent_id = KR1h0004_014_par34_11-14
 # text = 何以報德
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	3	advmod	_	Gloss=use|SpaceAfter=No
 3	報	報	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=report-back|SpaceAfter=No
 4	德	德	NOUN	n,名詞,描写,態度	_	3	obj	_	Gloss=virtue|SpaceAfter=No
@@ -5498,7 +5498,7 @@
 
 # sent_id = KR1h0004_014_par40_19-22
 # text = 何必高宗
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	4	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	4	advmod	_	Gloss=what|SpaceAfter=No
 2	必	必	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=necessarily|SpaceAfter=No
 3	高	高	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	Gloss=Gao|SpaceAfter=No
 4	宗	宗	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=ancestor|SpaceAfter=No
@@ -7268,7 +7268,7 @@
 
 # sent_id = KR1h0001_011_par7_92-99
 # text = 何獨至於人而疑之
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 2	獨	獨	VERB	v,動詞,描写,境遇	Degree=Pos	3	advmod	_	Gloss=alone|SpaceAfter=No
 3	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
@@ -8322,7 +8322,7 @@
 15	得	得	VERB	v,動詞,行為,得失	_	17	acl	_	Gloss=get|SpaceAfter=No
 16	生	生	NOUN	n,名詞,行為,*	_	15	obj	_	Gloss=life|SpaceAfter=No
 17	者	者	PART	p,助詞,提示,*	_	20	nsubj	_	Gloss=that-which|SpaceAfter=No
-18	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	20	advmod	_	Gloss=what|SpaceAfter=No
+18	何	何	PRON	n,代名詞,疑問,*	PronType=Int	20	advmod	_	Gloss=what|SpaceAfter=No
 19	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	20	advmod	_	Gloss=not|SpaceAfter=No
 20	用	用	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
 21	也	也	PART	p,助詞,句末,*	_	20	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -8346,7 +8346,7 @@
 15	辟	辟	VERB	v,動詞,行為,態度	_	17	acl	_	Gloss=avoid|SpaceAfter=No
 16	患	患	NOUN	n,名詞,描写,態度	_	15	obj	_	Gloss=trouble|SpaceAfter=No
 17	者	者	PART	p,助詞,提示,*	_	20	nsubj	_	Gloss=that-which|SpaceAfter=No
-18	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	20	advmod	_	Gloss=what|SpaceAfter=No
+18	何	何	PRON	n,代名詞,疑問,*	PronType=Int	20	advmod	_	Gloss=what|SpaceAfter=No
 19	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	20	advmod	_	Gloss=not|SpaceAfter=No
 20	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 21	也	也	PART	p,助詞,句末,*	_	20	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -9139,7 +9139,7 @@
 
 # sent_id = KR1h0001_011_par15_18-19
 # text = 何也
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	0	root	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	0	root	_	Gloss=what|SpaceAfter=No
 2	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par15_20-22
@@ -9196,7 +9196,7 @@
 
 # sent_id = KR1h0001_011_par15_52-53
 # text = 何也
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	0	root	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	0	root	_	Gloss=what|SpaceAfter=No
 2	也	也	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par15_54-54
@@ -9853,7 +9853,7 @@
 2	荅	答	VERB	v,動詞,行為,伝達	_	6	csubj	_	Gloss=answer|SpaceAfter=No
 3	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	obj	_	Gloss=this|SpaceAfter=No
 4	也	也	PART	p,助詞,提示,*	_	2	mark	_	Gloss=that-which|SpaceAfter=No
-5	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	6	advmod	_	Gloss=what|SpaceAfter=No
+5	何	何	PRON	n,代名詞,疑問,*	PronType=Int	6	advmod	_	Gloss=what|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par1_83-86
@@ -11070,7 +11070,7 @@
 
 # sent_id = KR1h0001_012_par4_279-282
 # text = 何必曰利
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 2	必	必	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=necessarily|SpaceAfter=No
 3	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 4	利	利	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=profit|SpacesAfter=\n
@@ -11433,7 +11433,7 @@
 
 # sent_id = KR1h0001_012_par6_105-107
 # text = 何必同
-1	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	3	advmod	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	advmod	_	Gloss=what|SpaceAfter=No
 2	必	必	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=necessarily|SpaceAfter=No
 3	同	同	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=same|SpaceAfter=No
 
@@ -11520,7 +11520,7 @@
 # sent_id = KR1h0001_012_par6_163-167
 # text = 削何可得歟
 1	削	削	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pare|SpaceAfter=No
-2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	4	advmod	_	Gloss=what|SpaceAfter=No
+2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	4	advmod	_	Gloss=what|SpaceAfter=No
 3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	Gloss=possible|SpaceAfter=No
 4	得	得	VERB	v,動詞,行為,得失	_	1	conj	_	Gloss=get|SpaceAfter=No
 5	歟	歟	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
