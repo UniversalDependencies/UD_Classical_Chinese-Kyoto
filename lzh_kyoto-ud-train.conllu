@@ -16678,15 +16678,12 @@
 6	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	5	expl	_	Gloss=[3PRON]|SpaceAfter=No
 7	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	xcomp	_	Gloss=what|SpaceAfter=No
 
-# sent_id = KR1h0004_019_par12_31-34
-# text = 子夏聞之
+# sent_id = KR1h0004_019_par12_31-35
+# text = 子夏聞之曰
 1	子夏	子夏	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
-
-# sent_id = KR1h0004_019_par12_35-35
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+4	曰	曰	VERB	v,動詞,行為,伝達	_	2	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0004_019_par12_36-40
 # text = 噫言游過矣
@@ -16719,9 +16716,9 @@
 2	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	1	obj	_	Gloss=this|SpaceAfter=No
 3	草	草	NOUN	n,名詞,固定物,樹木	_	5	nsubj	_	Gloss=grasses|SpaceAfter=No
 4	木	木	NOUN	n,名詞,固定物,樹木	_	3	conj	_	Gloss=tree|SpaceAfter=No
-5	區	區	VERB	v,動詞,行為,分類	Degree=Equ	1	ccomp	_	SpaceAfter=No
-6	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	7	advmod	_	Gloss=use|SpaceAfter=No
-7	別	別	VERB	v,動詞,行為,交流	_	5	conj	_	Gloss=separate|SpaceAfter=No
+5	區	區	VERB	v,動詞,行為,分類	Degree=Equ	1	ccomp	_	Gloss=classify|SpaceAfter=No
+6	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
+7	別	別	VERB	v,動詞,行為,交流	_	6	obj	_	Gloss=separate|SpaceAfter=No
 8	矣	矣	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0004_019_par12_61-68
@@ -17479,7 +17476,7 @@
 
 # sent_id = KR1h0004_020_par1_3-5
 # text = 咨爾舜
-1	咨	咨	INTJ	p,感嘆詞,*,*	_	2	discourse	_	SpaceAfter=No
+1	咨	咨	INTJ	p,感嘆詞,*,*	_	2	discourse	_	Gloss=sigh|SpaceAfter=No
 2	爾	爾	PRON	n,代名詞,人称,止格	Person=2|PronType=Prs	0	root	_	Gloss=[2PRON]|SpaceAfter=No
 3	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
 
