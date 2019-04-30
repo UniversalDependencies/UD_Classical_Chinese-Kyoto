@@ -17505,7 +17505,7 @@
 1	四	四	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=four|SpaceAfter=No
 2	海	海	NOUN	n,名詞,固定物,地形	Case=Loc	3	nsubj	_	Gloss=sea|SpaceAfter=No
 3	困	困	VERB	v,動詞,描写,境遇	Degree=Pos	0	root	_	Gloss=distressed|SpaceAfter=No
-4	窮	窮	VERB	v,動詞,描写,境遇	Degree=Pos	3	conj	_	Gloss=exhaust|SpaceAfter=No
+4	窮	窮	VERB	v,動詞,描写,境遇	Degree=Pos	3	flat:vv	_	Gloss=exhaust|SpaceAfter=No
 
 # sent_id = KR1h0004_020_par1_21-24
 # text = 天祿永終
@@ -17517,10 +17517,10 @@
 # sent_id = KR1h0004_020_par1_25-29
 # text = 舜亦以命禹
 1	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	亦	亦	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
+2	亦	亦	ADV	v,副詞,頻度,重複	_	4	advmod	_	Gloss=also|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	4	advmod	_	Gloss=use|SpaceAfter=No
 4	命	命	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=decree|SpaceAfter=No
-5	禹	禹	PROPN	n,名詞,人,名	NameType=Giv	4	conj	_	Gloss=[given-name]|SpaceAfter=No
+5	禹	禹	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
 
 # sent_id = KR1h0004_020_par1_30-30
 # text = 曰
