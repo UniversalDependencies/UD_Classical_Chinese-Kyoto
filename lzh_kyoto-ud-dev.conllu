@@ -5687,7 +5687,7 @@
 2	杖	杖	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=stick|SpaceAfter=No
 3	叩	叩	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=strike|SpaceAfter=No
 4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	Gloss=[3PRON]|SpaceAfter=No
-5	脛	脛	NOUN	n,名詞,不可譲,身体	_	3	obj	_	SpacesAfter=\n
+5	脛	脛	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=shin|SpacesAfter=\n
 
 # newpar text = 闕黨童子將命或問之曰益者與子曰吾見其居於位也見其與先生並行也非求益者也欲速成者也
 # sent_id = KR1h0004_014_par44_1-6
