@@ -504,8 +504,8 @@
 
 # sent_id = KR1h0004_001_par11_13-20
 # text = 三年無改於父之道
-1	三	三	NUM	n,数詞,数字,*	_	4	advmod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=year|SpaceAfter=No
 3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Conv	4	advmod	_	Gloss=not-have|SpaceAfter=No
 4	改	改	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=change|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
