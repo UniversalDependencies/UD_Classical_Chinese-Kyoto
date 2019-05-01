@@ -4695,7 +4695,7 @@
 12	民	民	NOUN	n,名詞,人,人	_	14	nsubj	_	Gloss=people|SpaceAfter=No
 13	皆	皆	ADV	v,副詞,範囲,総括	_	14	advmod	_	Gloss=all|SpaceAfter=No
 14	引	引	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=stretch|SpaceAfter=No
-15	領	領	NOUN	n,名詞,不可譲,身体	_	14	obj	_	Gloss=mountain-range|SpaceAfter=No
+15	領	領	NOUN	n,名詞,固定物,地形	Case=Loc	14	obj	_	Gloss=mountain-range|SpaceAfter=No
 16	而	而	CCONJ	p,助詞,接続,並列	_	17	cc	_	Gloss=and|SpaceAfter=No
 17	望	望	VERB	v,動詞,行為,動作	_	14	conj	_	Gloss=expect|SpaceAfter=No
 18	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	17	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -13249,9 +13249,9 @@
 
 # sent_id = KR1d0052_032_par12_146-153
 # text = 三年之喪達乎天子
-1	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=year|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	喪	喪	NOUN	n,名詞,制度,儀礼	_	5	nsubj	_	Gloss=mourning|SpaceAfter=No
 5	達	達	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=extend-to|SpaceAfter=No
 6	乎	乎	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No

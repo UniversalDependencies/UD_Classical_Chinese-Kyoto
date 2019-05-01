@@ -15754,7 +15754,7 @@
 # text = 以杖荷蓧
 1	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
 2	杖	杖	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=stick|SpaceAfter=No
-3	荷	荷	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+3	荷	荷	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=carry|SpaceAfter=No
 4	蓧	蓧	NOUN	n,名詞,可搬,道具	_	3	obj	_	SpaceAfter=No
 
 # sent_id = KR1h0004_018_par7_13-15
@@ -26258,9 +26258,9 @@
 
 # sent_id = KR1h0001_005_par2_105-108
 # text = 三年之喪
-1	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=year|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	喪	喪	NOUN	n,名詞,制度,儀礼	_	0	root	_	Gloss=mourning|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par2_109-112
@@ -26301,9 +26301,9 @@
 # text = 定為三年之喪
 1	定	定	VERB	v,動詞,行為,動作	VerbForm=Conv	2	advmod	_	Gloss=establish|SpaceAfter=No
 2	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-3	三	三	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=three|SpaceAfter=No
-4	年	年	NOUN	n,名詞,時,*	Case=Tem	3	clf	_	Gloss=year|SpaceAfter=No
-5	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
+3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
+4	年	年	NOUN	n,名詞,時,*	Case=Tem	6	nmod	_	Gloss=year|SpaceAfter=No
+5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	喪	喪	NOUN	n,名詞,制度,儀礼	_	2	obj	_	Gloss=mourning|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par2_138-145
@@ -28858,9 +28858,9 @@
 
 # sent_id = KR1h0001_005_par4_833-842
 # text = 三年之外門人治任將歸
-1	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=year|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	外	外	NOUN	n,名詞,固定物,関係	Case=Loc	7	obl:lmod	_	Gloss=outside|SpaceAfter=No
 5	門	門	NOUN	n,名詞,主体,集団	_	6	nmod	_	Gloss=sect|SpaceAfter=No
 6	人	人	NOUN	n,名詞,人,人	_	7	nsubj	_	Gloss=person|SpaceAfter=No
@@ -28911,8 +28911,8 @@
 # text = 獨居三年
 1	獨	獨	VERB	v,動詞,描写,境遇	Degree=Pos|VerbForm=Conv	2	advmod	_	Gloss=alone|SpaceAfter=No
 2	居	居	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=sit-down|SpaceAfter=No
-3	三	三	NUM	n,数詞,数字,*	_	2	advmod	_	Gloss=three|SpaceAfter=No
-4	年	年	NOUN	n,名詞,時,*	Case=Tem	3	clf	_	Gloss=year|SpaceAfter=No
+3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
+4	年	年	NOUN	n,名詞,時,*	Case=Tem	2	obl:tmod	_	Gloss=year|SpaceAfter=No
 
 # sent_id = KR1h0001_005_par4_869-871
 # text = 然後歸
@@ -30369,8 +30369,8 @@
 # sent_id = KR1h0001_006_par3_17-22
 # text = 孔子三月無君
 1	孔子	孔子	PROPN	n,名詞,人,複合的人名	NameType=Prs	4	nsubj	_	Gloss=Confucius|SpaceAfter=No
-2	三	三	NUM	n,数詞,数字,*	_	4	advmod	_	Gloss=three|SpaceAfter=No
-3	月	月	NOUN	n,名詞,時,*	Case=Tem	2	clf	_	Gloss=month|SpaceAfter=No
+2	三	三	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=three|SpaceAfter=No
+3	月	月	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=month|SpaceAfter=No
 4	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 5	君	君	NOUN	n,名詞,人,役割	_	4	obj	_	Gloss=ruler|SpaceAfter=No
 
@@ -30401,8 +30401,8 @@
 1	古	古	NOUN	n,名詞,時,*	Case=Tem	3	nmod	_	Gloss=olden-times|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=person|SpaceAfter=No
-4	三	三	NUM	n,数詞,数字,*	_	6	advmod	_	Gloss=three|SpaceAfter=No
-5	月	月	NOUN	n,名詞,時,*	Case=Tem	4	clf	_	Gloss=month|SpaceAfter=No
+4	三	三	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=three|SpaceAfter=No
+5	月	月	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=month|SpaceAfter=No
 6	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 7	君	君	NOUN	n,名詞,人,役割	_	6	obj	_	Gloss=ruler|SpaceAfter=No
 
@@ -30413,12 +30413,12 @@
 
 # sent_id = KR1h0001_006_par3_46-51
 # text = 三月無君則弔
-1	三	三	NUM	n,数詞,数字,*	_	3	advmod	_	Gloss=three|SpaceAfter=No
-2	月	月	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=month|SpaceAfter=No
-3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	月	月	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=month|SpaceAfter=No
+3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	6	advcl	_	Gloss=not-have|SpaceAfter=No
 4	君	君	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=ruler|SpaceAfter=No
 5	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	Gloss=then|SpaceAfter=No
-6	弔	弔	VERB	v,動詞,行為,儀礼	_	3	conj	_	Gloss=bring-condolences|SpaceAfter=No
+6	弔	弔	VERB	v,動詞,行為,儀礼	_	0	root	_	Gloss=bring-condolences|SpaceAfter=No
 
 # sent_id = KR1h0001_006_par3_52-55
 # text = 不以急乎
@@ -32670,8 +32670,8 @@
 # text = 伐奄三年討其君
 1	伐	伐	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=hew|SpaceAfter=No
 2	奄	奄	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	1	obj	_	Gloss=[country-name]|SpaceAfter=No
-3	三	三	NUM	n,数詞,数字,*	_	1	advmod	_	Gloss=three|SpaceAfter=No
-4	年	年	NOUN	n,名詞,時,*	Case=Tem	3	clf	_	Gloss=year|SpaceAfter=No
+3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
+4	年	年	NOUN	n,名詞,時,*	Case=Tem	1	obl:tmod	_	Gloss=year|SpaceAfter=No
 5	討	討	VERB	v,動詞,行為,交流	_	1	parataxis	_	Gloss=punish|SpaceAfter=No
 6	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	7	det	_	Gloss=[3PRON]|SpaceAfter=No
 7	君	君	NOUN	n,名詞,人,役割	_	5	obj	_	Gloss=ruler|SpaceAfter=No
@@ -35490,14 +35490,14 @@
 4	王	王	VERB	v,動詞,行為,役割	_	5	acl	_	Gloss=king|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
 6	猶	猶	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=similar|SpaceAfter=No
-7	七	七	NUM	n,数詞,数字,*	_	10	nummod	_	Gloss=seven|SpaceAfter=No
-8	年	年	NOUN	n,名詞,時,*	Case=Tem	7	clf	_	Gloss=year|SpaceAfter=No
-9	之	之	SCONJ	p,助詞,接続,属格	_	7	case	_	Gloss='s|SpaceAfter=No
+7	七	七	NUM	n,数詞,数字,*	_	8	nummod	_	Gloss=seven|SpaceAfter=No
+8	年	年	NOUN	n,名詞,時,*	Case=Tem	10	nmod	_	Gloss=year|SpaceAfter=No
+9	之	之	SCONJ	p,助詞,接続,属格	_	8	case	_	Gloss='s|SpaceAfter=No
 10	病	病	NOUN	n,名詞,不可譲,疾病	_	11	nsubj	_	Gloss=disease|SpaceAfter=No
 11	求	求	VERB	v,動詞,行為,動作	_	6	ccomp	_	Gloss=seek|SpaceAfter=No
-12	三	三	NUM	n,数詞,数字,*	_	15	nummod	_	Gloss=three|SpaceAfter=No
-13	年	年	NOUN	n,名詞,時,*	Case=Tem	12	clf	_	Gloss=year|SpaceAfter=No
-14	之	之	SCONJ	p,助詞,接続,属格	_	12	case	_	Gloss='s|SpaceAfter=No
+12	三	三	NUM	n,数詞,数字,*	_	13	nummod	_	Gloss=three|SpaceAfter=No
+13	年	年	NOUN	n,名詞,時,*	Case=Tem	15	nmod	_	Gloss=year|SpaceAfter=No
+14	之	之	SCONJ	p,助詞,接続,属格	_	13	case	_	Gloss='s|SpaceAfter=No
 15	艾	艾	NOUN	n,名詞,可搬,道具	_	11	obj	_	Gloss=mugwort|SpaceAfter=No
 16	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -37587,16 +37587,16 @@
 # sent_id = KR1h0001_008_par2_26-32
 # text = 歲十一月徒杠成
 1	歲	歲	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=year|SpaceAfter=No
-2	十一	十一	NUM	n,数詞,数,*	_	6	advmod	_	Gloss=eleven|SpaceAfter=No
-3	月	月	NOUN	n,名詞,時,*	Case=Tem	2	clf	_	Gloss=month|SpaceAfter=No
+2	十一	十一	NUM	n,数詞,数,*	_	3	nummod	_	Gloss=eleven|SpaceAfter=No
+3	月	月	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=month|SpaceAfter=No
 4	徒	徒	VERB	v,動詞,行為,移動	VerbForm=Part	5	amod	_	Gloss=go-on-foot|SpaceAfter=No
 5	杠	杠	NOUN	n,名詞,固定物,建造物	Case=Loc	6	nsubj	_	Gloss=single-plank-bridge|SpaceAfter=No
 6	成	成	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=complete|SpaceAfter=No
 
 # sent_id = KR1h0001_008_par2_33-38
 # text = 十二月輿梁成
-1	十二	十二	NUM	n,数詞,数,*	_	5	advmod	_	Gloss=twelve|SpaceAfter=No
-2	月	月	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=month|SpaceAfter=No
+1	十二	十二	NUM	n,数詞,数,*	_	2	nummod	_	Gloss=twelve|SpaceAfter=No
+2	月	月	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=month|SpaceAfter=No
 3	輿	輿	NOUN	n,名詞,可搬,乗り物	_	4	nmod	_	Gloss=carriage|SpaceAfter=No
 4	梁	梁	NOUN	n,名詞,固定物,地形	Case=Loc	5	nsubj	_	Gloss=bridge|SpaceAfter=No
 5	成	成	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=complete|SpaceAfter=No
@@ -37796,10 +37796,10 @@
 # sent_id = KR1h0001_008_par3_92-96
 # text = 去三年不反
 1	去	去	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go-away|SpaceAfter=No
-2	三	三	NUM	n,数詞,数字,*	_	5	advmod	_	Gloss=three|SpaceAfter=No
-3	年	年	NOUN	n,名詞,時,*	Case=Tem	2	clf	_	Gloss=year|SpaceAfter=No
+2	三	三	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=three|SpaceAfter=No
+3	年	年	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=year|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-5	反	反	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=turn-over|SpaceAfter=No
+5	反	反	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=turn-over|SpaceAfter=No
 
 # sent_id = KR1h0001_008_par3_97-102
 # text = 然後收其田里
@@ -38472,10 +38472,10 @@
 
 # sent_id = KR1h0001_008_par18_53-59
 # text = 七八月之間雨集
-1	七	七	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=seven|SpaceAfter=No
+1	七	七	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=seven|SpaceAfter=No
 2	八	八	NUM	n,数詞,数字,*	_	1	conj	_	Gloss=eight|SpaceAfter=No
-3	月	月	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=month|SpaceAfter=No
-4	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+3	月	月	NOUN	n,名詞,時,*	Case=Tem	5	nmod	_	Gloss=month|SpaceAfter=No
+4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	7	obl:lmod	_	Gloss=between|SpaceAfter=No
 6	雨	雨	NOUN	n,名詞,天象,気象	_	7	nsubj	_	Gloss=rain|SpaceAfter=No
 7	集	集	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=gather|SpaceAfter=No
@@ -42523,10 +42523,10 @@
 
 # sent_id = KR1h0001_009_par4_100-109
 # text = 二十有八載放勳乃徂落
-1	二十	二十	NUM	n,数詞,数,*	_	7	nummod	_	Gloss=twenty|SpaceAfter=No
+1	二十	二十	NUM	n,数詞,数,*	_	4	nummod	_	Gloss=twenty|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	3	cc	_	Gloss=have|SpaceAfter=No
 3	八	八	NUM	n,数詞,数字,*	_	1	conj	_	Gloss=eight|SpaceAfter=No
-4	載	載	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
+4	載	載	NOUN	n,名詞,時,*	Case=Tem	7	obl:tmod	_	Gloss=year|SpaceAfter=No
 5	放勳	放勳	PROPN	n,名詞,人,名	NameType=Giv	7	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 6	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
 7	徂	徂	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=pass-away|SpaceAfter=No
@@ -42540,8 +42540,8 @@
 4	喪	喪	VERB	v,動詞,行為,儀礼	_	3	ccomp	_	Gloss=mourn|SpaceAfter=No
 5	考	考	NOUN	n,名詞,人,関係	_	4	obj	_	Gloss=deceased-father|SpaceAfter=No
 6	妣	妣	NOUN	n,名詞,人,関係	_	5	flat	_	Gloss=deceased-mother|SpaceAfter=No
-7	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-8	年	年	NOUN	n,名詞,時,*	Case=Tem	7	clf	_	Gloss=year|SpaceAfter=No
+7	三	三	NUM	n,数詞,数字,*	_	8	nummod	_	Gloss=three|SpaceAfter=No
+8	年	年	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=year|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par4_118-123
 # text = 四海遏密八音
@@ -43271,18 +43271,15 @@
 8	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 9	人	人	NOUN	n,名詞,人,人	_	8	obj	_	Gloss=person|SpaceAfter=No
 
-# sent_id = KR1h0001_009_par5_225-227
-# text = 舜相堯
+# sent_id = KR1h0001_009_par5_225-232
+# text = 舜相堯二十有八載
 1	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	相	相	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=assist|SpaceAfter=No
 3	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
-
-# sent_id = KR1h0001_009_par5_228-232
-# text = 二十有八載
-1	二十	二十	NUM	n,数詞,数,*	_	0	root	_	Gloss=twenty|SpaceAfter=No
-2	有	有	VERB	v,動詞,存在,存在	_	3	cc	_	Gloss=have|SpaceAfter=No
-3	八	八	NUM	n,数詞,数字,*	_	1	conj	_	Gloss=eight|SpaceAfter=No
-4	載	載	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
+4	二十	二十	NUM	n,数詞,数,*	_	7	nummod	_	Gloss=twenty|SpaceAfter=No
+5	有	有	VERB	v,動詞,存在,存在	_	6	cc	_	Gloss=have|SpaceAfter=No
+6	八	八	NUM	n,数詞,数字,*	_	4	conj	_	Gloss=eight|SpaceAfter=No
+7	載	載	NOUN	n,名詞,時,*	Case=Tem	2	obl:tmod	_	Gloss=year|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par5_233-239
 # text = 非人之所能為也
@@ -43306,9 +43303,9 @@
 
 # sent_id = KR1h0001_009_par5_244-248
 # text = 三年之喪畢
-1	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=year|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	喪	喪	NOUN	n,名詞,制度,儀礼	_	5	nsubj	_	Gloss=mourning|SpaceAfter=No
 5	畢	畢	VERB	v,動詞,変化,性質	_	0	root	_	Gloss=finish|SpaceAfter=No
 
@@ -43539,10 +43536,10 @@
 5	禹	禹	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
 7	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	obl:lmod	_	Gloss=heaven|SpaceAfter=No
-8	十	十	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=ten|SpaceAfter=No
+8	十	十	NUM	n,数詞,数字,*	_	11	nummod	_	Gloss=ten|SpaceAfter=No
 9	有	有	VERB	v,動詞,存在,存在	_	10	cc	_	Gloss=have|SpaceAfter=No
 10	七	七	NUM	n,数詞,数字,*	_	8	conj	_	Gloss=seven|SpaceAfter=No
-11	年	年	NOUN	n,名詞,時,*	Case=Tem	8	clf	_	Gloss=year|SpaceAfter=No
+11	年	年	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=year|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_54-55
 # text = 舜崩
@@ -43551,9 +43548,9 @@
 
 # sent_id = KR1h0001_009_par6_56-60
 # text = 三年之喪畢
-1	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=year|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	喪	喪	NOUN	n,名詞,制度,儀礼	_	5	nsubj	_	Gloss=mourning|SpaceAfter=No
 5	畢	畢	VERB	v,動詞,変化,性質	_	0	root	_	Gloss=finish|SpaceAfter=No
 
@@ -43597,8 +43594,8 @@
 3	益	益	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 5	天	天	NOUN	n,名詞,制度,場	Case=Loc	2	obl:lmod	_	Gloss=heaven|SpaceAfter=No
-6	七	七	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=seven|SpaceAfter=No
-7	年	年	NOUN	n,名詞,時,*	Case=Tem	6	clf	_	Gloss=year|SpaceAfter=No
+6	七	七	NUM	n,数詞,数字,*	_	7	nummod	_	Gloss=seven|SpaceAfter=No
+7	年	年	NOUN	n,名詞,時,*	Case=Tem	2	obl:tmod	_	Gloss=year|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_96-97
 # text = 禹崩
@@ -43607,9 +43604,9 @@
 
 # sent_id = KR1h0001_009_par6_98-102
 # text = 三年之喪畢
-1	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
-3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=year|SpaceAfter=No
+3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	喪	喪	NOUN	n,名詞,制度,儀礼	_	5	nsubj	_	Gloss=mourning|SpaceAfter=No
 5	畢	畢	VERB	v,動詞,変化,性質	_	0	root	_	Gloss=finish|SpaceAfter=No
 
@@ -43929,8 +43926,8 @@
 
 # sent_id = KR1h0001_009_par6_327-332
 # text = 三年太甲悔過
-1	三	三	NUM	n,数詞,数字,*	_	4	advmod	_	Gloss=three|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=year|SpaceAfter=No
 3	太甲	太甲	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 4	悔	悔	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=regret|SpaceAfter=No
 5	過	過	NOUN	n,名詞,行為,*	_	4	obj	_	Gloss=error|SpaceAfter=No
@@ -43950,8 +43947,8 @@
 4	仁	仁	NOUN	n,名詞,描写,態度	_	3	obj	_	Gloss=benevolence|SpaceAfter=No
 5	遷	遷	VERB	v,動詞,行為,移動	_	3	conj	_	Gloss=transfer|SpaceAfter=No
 6	義	義	NOUN	n,名詞,描写,態度	_	5	obj	_	Gloss=righteousness|SpaceAfter=No
-7	三	三	NUM	n,数詞,数字,*	_	3	advmod	_	Gloss=three|SpaceAfter=No
-8	年	年	NOUN	n,名詞,時,*	Case=Tem	7	clf	_	Gloss=year|SpaceAfter=No
+7	三	三	NUM	n,数詞,数字,*	_	8	nummod	_	Gloss=three|SpaceAfter=No
+8	年	年	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=year|SpaceAfter=No
 
 # sent_id = KR1h0001_009_par6_345-352
 # text = 以聽伊尹之訓己也
@@ -47197,8 +47194,8 @@
 5	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 6	所	所	PART	p,助詞,接続,体言化	_	10	mark	_	Gloss=that-which|SpaceAfter=No
 7	終	終	VERB	v,動詞,変化,生物	_	10	advcl	_	Gloss=end|SpaceAfter=No
-8	三	三	NUM	n,数詞,数字,*	_	7	obj	_	Gloss=three|SpaceAfter=No
-9	年	年	NOUN	n,名詞,時,*	Case=Tem	8	clf	_	Gloss=year|SpaceAfter=No
+8	三	三	NUM	n,数詞,数字,*	_	9	nummod	_	Gloss=three|SpaceAfter=No
+9	年	年	NOUN	n,名詞,時,*	Case=Tem	7	obj	_	Gloss=year|SpaceAfter=No
 10	淹	淹	VERB	v,動詞,行為,動作	_	5	ccomp	_	Gloss=submerge|SpaceAfter=No
 11	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -52602,9 +52599,9 @@
 # text = 不能三年之喪
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	0	root	_	Gloss=can|SpaceAfter=No
-3	三	三	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=three|SpaceAfter=No
-4	年	年	NOUN	n,名詞,時,*	Case=Tem	3	clf	_	Gloss=year|SpaceAfter=No
-5	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
+3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
+4	年	年	NOUN	n,名詞,時,*	Case=Tem	6	nmod	_	Gloss=year|SpaceAfter=No
+5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	喪	喪	NOUN	n,名詞,制度,儀礼	_	2	obj	_	Gloss=mourning|SpaceAfter=No
 
 # sent_id = KR1h0001_013_par46_57-62
