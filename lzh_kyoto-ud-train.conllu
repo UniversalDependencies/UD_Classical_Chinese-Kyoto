@@ -18371,10 +18371,10 @@
 
 # sent_id = KR1h0001_003_par1_183-187
 # text = 百年而後崩
-1	百	百	NUM	n,数詞,数字,*	_	5	advmod	_	Gloss=hundred|SpaceAfter=No
-2	年	年	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=year|SpaceAfter=No
+1	百	百	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=hundred|SpaceAfter=No
+2	年	年	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=year|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
-4	後	後	NOUN	n,名詞,時,*	Case=Tem	1	conj	_	Gloss=after|SpaceAfter=No
+4	後	後	NOUN	n,名詞,時,*	Case=Tem	2	conj	_	Gloss=after|SpaceAfter=No
 5	崩	崩	VERB	v,動詞,変化,制度	_	0	root	_	Gloss=collapse|SpaceAfter=No
 
 # sent_id = KR1h0001_003_par1_188-193
@@ -33276,8 +33276,8 @@
 
 # sent_id = KR1h0001_006_par10_16-19
 # text = 三日不食
-1	三	三	NUM	n,数詞,数字,*	_	4	advmod	_	Gloss=three|SpaceAfter=No
-2	日	日	NOUN	n,名詞,時,*	Case=Tem	1	clf	_	Gloss=day|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	日	日	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=day|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	食	食	VERB	v,動詞,行為,飲食	_	0	root	_	Gloss=feed|SpaceAfter=No
 

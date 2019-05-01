@@ -2388,8 +2388,8 @@
 2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
 3	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 4	邦	邦	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No
-5	百	百	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=hundred|SpaceAfter=No
-6	年	年	NOUN	n,名詞,時,*	Case=Tem	5	clf	_	Gloss=year|SpaceAfter=No
+5	百	百	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=hundred|SpaceAfter=No
+6	年	年	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=year|SpaceAfter=No
 
 # sent_id = KR1h0004_013_par11_9-16
 # text = 亦可以勝殘去殺矣
