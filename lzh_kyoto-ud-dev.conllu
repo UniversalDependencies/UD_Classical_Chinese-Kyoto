@@ -4191,7 +4191,7 @@
 6	為	爲	VERB	v,動詞,行為,生産	_	5	ccomp	_	Gloss=make|SpaceAfter=No
 7	後	後	NOUN	n,名詞,人,関係	_	6	obj	_	Gloss=posterity|SpaceAfter=No
 8	於	於	ADP	v,前置詞,基盤,*	_	9	case	_	Gloss=at|SpaceAfter=No
-9	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	obl	_	Gloss=[country-name]|SpaceAfter=No
+9	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par14_13-17
 # text = 雖曰不要君
@@ -5366,7 +5366,7 @@
 2	擊	擊	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=strike|SpaceAfter=No
 3	磬	磬	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=lithophone|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	衛	衞	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl	_	Gloss=[place-name]|SpaceAfter=No
+5	衛	衞	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par39_6-15
 # text = 有荷蕢而過孔氏之門者
@@ -10665,7 +10665,7 @@
 1	孟子	孟子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Mencius|SpaceAfter=No
 2	遇	遇	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=encounter|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	石丘	石丘	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl	_	Gloss=[place-name]|SpaceAfter=No
+4	石丘	石丘	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par4_12-12
 # text = 曰
@@ -11100,7 +11100,7 @@
 # text = 處於平陸
 1	處	處	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
 2	於	於	ADP	v,前置詞,基盤,*	_	3	case	_	Gloss=at|SpaceAfter=No
-3	平陸	平陸	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	1	obl	_	Gloss=[place-name]|SpaceAfter=No
+3	平陸	平陸	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	1	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par5_23-26
 # text = 儲子為相
@@ -11127,7 +11127,7 @@
 1	他	他	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=other|SpaceAfter=No
 2	日	日	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=day|SpaceAfter=No
 3	由	由	ADP	v,前置詞,源泉,*	_	4	case	_	Gloss=from|SpaceAfter=No
-4	鄒	鄒	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	obl	_	Gloss=[place-name]|SpaceAfter=No
+4	鄒	鄒	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 5	之	之	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go|SpaceAfter=No
 6	任	任	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	obj	_	Gloss=[country-name]|SpaceAfter=No
 
@@ -11139,7 +11139,7 @@
 # sent_id = KR1h0001_012_par5_44-48
 # text = 由平陸之齊
 1	由	由	ADP	v,前置詞,源泉,*	_	2	case	_	Gloss=from|SpaceAfter=No
-2	平陸	平陸	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	3	obl	_	Gloss=[place-name]|SpaceAfter=No
+2	平陸	平陸	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	3	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 3	之	之	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go|SpaceAfter=No
 4	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	obj	_	Gloss=[country-name]|SpaceAfter=No
 
@@ -11529,7 +11529,7 @@
 4	豹	豹	PROPN	n,名詞,人,名	NameType=Giv	3	flat	_	Gloss=[given-name]|SpaceAfter=No
 5	處	處	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
 6	於	於	ADP	v,前置詞,基盤,*	_	7	case	_	Gloss=at|SpaceAfter=No
-7	淇	淇	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	obl	_	Gloss=[place-name]|SpaceAfter=No
+7	淇	淇	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 8	而	而	CCONJ	p,助詞,接続,並列	_	12	cc	_	Gloss=and|SpaceAfter=No
 9	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	10	nmod	_	Gloss=river|SpaceAfter=No
 10	西	西	NOUN	n,名詞,固定物,関係	Case=Loc	12	nsubj	_	Gloss=west|SpaceAfter=No
@@ -11541,7 +11541,7 @@
 1	緜駒	緜駒	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	處	處	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	高唐	高唐	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl	_	Gloss=[place-name]|SpaceAfter=No
+4	高唐	高唐	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
 6	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	7	nmod	_	Gloss=[country-name]|SpaceAfter=No
 7	右	右	NOUN	n,名詞,固定物,関係	Case=Loc	9	obl:lmod	_	Gloss=right-hand|SpaceAfter=No
@@ -12379,7 +12379,7 @@
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	封	封	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=enfief|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-6	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	obl	_	Gloss=[country-name]|SpaceAfter=No
+6	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par8_105-109
 # text = 為方百里也
@@ -12411,7 +12411,7 @@
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	封	封	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=enfief|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-6	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	obl	_	Gloss=[country-name]|SpaceAfter=No
+6	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 7	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par8_126-131

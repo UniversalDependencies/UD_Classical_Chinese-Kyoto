@@ -4272,7 +4272,7 @@
 1	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=east|SpaceAfter=No
 2	敗	敗	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=lose-out|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obl	_	Gloss=[country-name]|SpaceAfter=No
+4	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par5_26-29
 # text = 長子死焉
@@ -4287,7 +4287,7 @@
 2	喪	喪	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=lose|SpaceAfter=No
 3	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	2	obj	_	Gloss=earth|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	秦	秦	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obl	_	Gloss=[country-name]|SpaceAfter=No
+5	秦	秦	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 6	七百	七百	NUM	n,数詞,数,*	_	2	nummod	_	Gloss=seven-hundred|SpaceAfter=No
 7	里	里	NOUN	n,名詞,度量衡,*	NounType=Class	6	clf	_	Gloss=[distance-unit]|SpaceAfter=No
 
@@ -4296,7 +4296,7 @@
 1	南	南	NOUN	n,名詞,固定物,関係	Case=Loc	2	obl:lmod	_	Gloss=south|SpaceAfter=No
 2	辱	辱	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=shame|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	楚	楚	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obl	_	Gloss=[country-name]|SpaceAfter=No
+4	楚	楚	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par5_42-45
 # text = 寡人恥之
@@ -8060,7 +8060,7 @@
 2	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	3	aux	_	Gloss=wish|SpaceAfter=No
 3	觀	觀	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=view|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	轉附	轉附	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	3	obl	_	Gloss=[place-name]|SpaceAfter=No
+5	轉附	轉附	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	3	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 6	朝儛	朝儛	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	conj	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par4_109-112
@@ -8074,7 +8074,7 @@
 # text = 放於琅邪
 1	放	放	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=release|SpaceAfter=No
 2	於	於	ADP	v,前置詞,基盤,*	_	3	case	_	Gloss=at|SpaceAfter=No
-3	琅邪	琅邪	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	1	obl	_	Gloss=[place-name]|SpaceAfter=No
+3	琅邪	琅邪	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	1	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par4_117-128
 # text = 吾何脩而可以比於先王觀也
@@ -10229,7 +10229,7 @@
 # text = 鄒與魯鬨
 1	鄒	鄒	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	nsubj	_	Gloss=[place-name]|SpaceAfter=No
 2	與	與	ADP	v,前置詞,関係,*	_	3	case	_	Gloss=associate-with|SpaceAfter=No
-3	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	obl	_	Gloss=[country-name]|SpaceAfter=No
+3	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 4	鬨	鬨	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=wrangle|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par12_5-8
@@ -10451,7 +10451,7 @@
 # text = 間於齊楚
 1	間	間	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=intervene|SpaceAfter=No
 2	於	於	ADP	v,前置詞,基盤,*	_	3	case	_	Gloss=at|SpaceAfter=No
-3	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	1	obl	_	Gloss=[country-name]|SpaceAfter=No
+3	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	1	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 4	楚	楚	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	conj	_	Gloss=[country-name]|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par13_14-16
