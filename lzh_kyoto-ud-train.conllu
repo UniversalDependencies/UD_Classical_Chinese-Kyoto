@@ -25880,18 +25880,15 @@
 3	以	以	VERB	v,動詞,行為,動作	_	2	fixed	_	Gloss=use|SpaceAfter=No
 4	請	請	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=request|SpaceAfter=No
 
-# sent_id = KR1h0001_004_par14_51-53
-# text = 久於齊
-1	久	久	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=for-a-long-time|SpaceAfter=No
+# sent_id = KR1h0001_004_par14_51-57
+# text = 久於齊非我志也
+1	久	久	VERB	v,動詞,描写,量	Degree=Pos	6	csubj	_	Gloss=for-a-long-time|SpaceAfter=No
 2	於	於	ADP	v,前置詞,基盤,*	_	3	case	_	Gloss=at|SpaceAfter=No
 3	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	1	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
-
-# sent_id = KR1h0001_004_par14_54-57
-# text = 非我志也
-1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	3	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
-2	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	3	det	_	Gloss=[1PRON]|SpaceAfter=No
-3	志	志	NOUN	n,名詞,思考,*	_	0	root	_	Gloss=aim|SpaceAfter=No
-4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
+4	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	6	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
+5	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	6	det	_	Gloss=[1PRON]|SpaceAfter=No
+6	志	志	NOUN	n,名詞,思考,*	_	0	root	_	Gloss=aim|SpaceAfter=No
+7	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
 
 # newdoc id = KR1h0001_005
 # sent_id = KR1h0001_005_title
@@ -33785,7 +33782,7 @@
 2	可	可	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=possible|SpaceAfter=No
 3	法	法	VERB	v,動詞,行為,動作	_	7	acl	_	Gloss=pattern|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
-5	後	後	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=back|SpaceAfter=No
+5	後	後	NOUN	n,名詞,時,*	Case=Tem	6	nmod	_	Gloss=after|SpaceAfter=No
 6	世	世	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=generation|SpaceAfter=No
 7	者	者	PART	p,助詞,提示,*	_	9	nsubj	_	Gloss=that-which|SpaceAfter=No
 8	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	9	advmod	_	Gloss=not|SpaceAfter=No

@@ -9873,7 +9873,7 @@
 7	高	高	VERB	v,動詞,描写,量	Degree=Pos	6	ccomp	_	Gloss=high|SpaceAfter=No
 8	於	於	ADP	v,前置詞,基盤,*	_	10	case	_	Gloss=at|SpaceAfter=No
 9	岑	岑	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	10	amod	_	Gloss=small-and-high|SpaceAfter=No
-10	樓	樓	NOUN	n,名詞,固定物,建造物	Case=Loc	7	obl:lmod	_	Gloss=building|SpaceAfter=No
+10	樓	樓	NOUN	n,名詞,固定物,建造物	Case=Loc	7	obl	_	Gloss=building|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par1_101-105
 # text = 金重於羽者
@@ -13417,15 +13417,12 @@
 6	門	門	NOUN	n,名詞,固定物,建造物	Case=Loc	5	obj	_	Gloss=gate|SpaceAfter=No
 7	戶	戶	NOUN	n,名詞,固定物,建造物	Case=Loc	6	conj	_	Gloss=door|SpaceAfter=No
 
-# sent_id = KR1h0001_012_par14_87-89
-# text = 君聞之
+# sent_id = KR1h0001_012_par14_87-90
+# text = 君聞之曰
 1	君	君	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=ruler|SpaceAfter=No
 2	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
 3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
-
-# sent_id = KR1h0001_012_par14_90-90
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+4	曰	曰	VERB	v,動詞,行為,伝達	_	2	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par14_91-98
 # text = 吾大者不能行其道
