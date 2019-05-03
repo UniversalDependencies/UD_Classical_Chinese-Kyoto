@@ -6212,7 +6212,7 @@
 2	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
 3	發	發	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=emit|SpaceAfter=No
 4	政	政	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=government|SpaceAfter=No
-5	施	施	VERB	v,動詞,行為,交流	_	3	conj	_	Gloss=spread|SpaceAfter=No
+5	施	施	VERB	v,動詞,行為,交流	_	3	parataxis	_	Gloss=spread|SpaceAfter=No
 6	仁	仁	NOUN	n,名詞,描写,態度	_	5	obj	_	Gloss=benevolence|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par7_969-980
@@ -6245,7 +6245,7 @@
 # sent_id = KR1h0001_001_par7_990-998
 # text = 商賈皆欲藏於王之市
 1	商	商	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=merchant|SpaceAfter=No
-2	賈	賈	NOUN	n,名詞,人,役割	_	1	conj	_	Gloss=merchant|SpaceAfter=No
+2	賈	賈	NOUN	n,名詞,人,役割	_	1	flat	_	Gloss=merchant|SpaceAfter=No
 3	皆	皆	ADV	v,副詞,範囲,総括	_	5	advmod	_	Gloss=all|SpaceAfter=No
 4	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	5	aux	_	Gloss=wish|SpaceAfter=No
 5	藏	藏	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=conceal|SpaceAfter=No
@@ -8623,7 +8623,7 @@
 2	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
 3	發	發	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=emit|SpaceAfter=No
 4	政	政	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=government|SpaceAfter=No
-5	施	施	VERB	v,動詞,行為,交流	_	3	conj	_	Gloss=spread|SpaceAfter=No
+5	施	施	VERB	v,動詞,行為,交流	_	3	parataxis	_	Gloss=spread|SpaceAfter=No
 6	仁	仁	NOUN	n,名詞,描写,態度	_	5	obj	_	Gloss=benevolence|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par5_122-126
