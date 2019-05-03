@@ -3561,7 +3561,7 @@
 5	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
 
-# newpar text = 子曰士而懷居士不足以為士矣
+# newpar text = 子曰士而懷居不足以為士矣
 # sent_id = KR1h0004_014_par2_1-2
 # text = 子曰
 1	子	子	NOUN	n,名詞,人,人	_	2	nsubj	_	Gloss=master|SpaceAfter=No
@@ -3574,15 +3574,14 @@
 3	懷	懷	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=cherish|SpaceAfter=No
 4	居	居	VERB	v,動詞,行為,動作	_	3	obj	_	Gloss=sit-down|SpaceAfter=No
 
-# sent_id = KR1h0004_014_par2_7-13
-# text = 士不足以為士矣
-1	士	士	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=officer|SpaceAfter=No
-2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
-3	足	足	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=enough|SpaceAfter=No
-4	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
-5	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-6	士	士	NOUN	n,名詞,人,役割	_	5	obj	_	Gloss=officer|SpaceAfter=No
-7	矣	矣	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
+# sent_id = KR1h0004_014_par2_7-12
+# text = 不足以為士矣
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	足	足	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	Gloss=enough|SpaceAfter=No
+3	以	以	VERB	v,動詞,行為,動作	_	2	fixed	_	Gloss=use|SpaceAfter=No
+4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
+5	士	士	NOUN	n,名詞,人,役割	_	4	obj	_	Gloss=officer|SpaceAfter=No
+6	矣	矣	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
 
 # newpar text = 子曰邦有道危言危行邦無道危行言孫
 # sent_id = KR1h0004_014_par3_1-2
