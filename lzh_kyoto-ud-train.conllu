@@ -13468,7 +13468,7 @@
 # sent_id = KR1h0004_017_par1_15-20
 # text = 孔子時其亡也
 1	孔子	孔子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nsubj	_	Gloss=Confucius|SpaceAfter=No
-2	時	時	VERB	v,動詞,行為,交流	_	0	root	_	SpaceAfter=No
+2	時	時	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=take-chance|SpaceAfter=No
 3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 4	亡	亡	VERB	v,動詞,変化,生物	_	2	ccomp	_	Gloss=be-lost|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
@@ -13477,23 +13477,20 @@
 # text = 而往拜之
 1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	往	往	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go|SpaceAfter=No
-3	拜	拜	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=salute|SpaceAfter=No
+3	拜	拜	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=salute|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
 # sent_id = KR1h0004_017_par1_25-27
 # text = 遇諸塗
 1	遇	遇	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=encounter|SpaceAfter=No
-2	諸	諸	NOUN	n,名詞,数量,*	_	3	nmod	_	Gloss=[plural]|SpaceAfter=No
-3	塗	塗	NOUN	n,名詞,固定物,建造物	Case=Loc	1	obj	_	Gloss=road|SpaceAfter=No
+2	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	1	obj	_	Gloss=this|SpaceAfter=No
+3	塗	塗	NOUN	n,名詞,固定物,建造物	Case=Loc	1	obl:lmod	_	Gloss=road|SpaceAfter=No
 
-# sent_id = KR1h0004_017_par1_28-30
-# text = 謂孔子
+# sent_id = KR1h0004_017_par1_28-31
+# text = 謂孔子曰
 1	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 2	孔子	孔子	PROPN	n,名詞,人,複合的人名	NameType=Prs	1	obj	_	Gloss=Confucius|SpaceAfter=No
-
-# sent_id = KR1h0004_017_par1_31-31
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+3	曰	曰	VERB	v,動詞,行為,伝達	_	1	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1h0004_017_par1_32-32
 # text = 來
