@@ -30326,7 +30326,7 @@
 
 # sent_id = KR1h0001_006_par2_135-140
 # text = 此之謂大丈夫
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	iobj	_	Gloss=this|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	expl	_	Gloss=[3PRON]|SpaceAfter=No
 3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 4	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=big|SpaceAfter=No
@@ -37421,7 +37421,7 @@
 
 # sent_id = KR1h0001_007_par28_77-81
 # text = 此之謂大孝
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	iobj	_	Gloss=this|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	expl	_	Gloss=[3PRON]|SpaceAfter=No
 3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 4	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	5	amod	_	Gloss=big|SpaceAfter=No
@@ -37809,7 +37809,7 @@
 
 # sent_id = KR1h0001_008_par3_103-109
 # text = 此之謂三有禮焉
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	iobj	_	Gloss=this|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	expl	_	Gloss=[3PRON]|SpaceAfter=No
 3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 4	三	三	NUM	n,数詞,数字,*	_	5	nsubj	_	Gloss=three|SpaceAfter=No
@@ -37817,18 +37817,15 @@
 6	禮	禮	NOUN	n,名詞,制度,儀礼	_	5	obj	_	Gloss=ceremony|SpaceAfter=No
 7	焉	焉	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
-# sent_id = KR1h0001_008_par3_110-111
-# text = 如此
-1	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
+# sent_id = KR1h0001_008_par3_110-116
+# text = 如此則為之服矣
+1	如	如	VERB	v,動詞,行為,分類	Degree=Equ	6	advcl	_	Gloss=be-like|SpaceAfter=No
 2	此	此	PRON	n,代名詞,指示,*	PronType=Dem	1	obj	_	Gloss=this|SpaceAfter=No
-
-# sent_id = KR1h0001_008_par3_112-116
-# text = 則為之服矣
-1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
-2	為	爲	ADP	v,前置詞,源泉,*	_	3	case	_	Gloss=for|SpaceAfter=No
-3	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	obl	_	Gloss=[3PRON]|SpaceAfter=No
-4	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
-5	矣	矣	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
+3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	Gloss=then|SpaceAfter=No
+4	為	爲	ADP	v,前置詞,源泉,*	_	5	case	_	Gloss=for|SpaceAfter=No
+5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obl	_	Gloss=[3PRON]|SpaceAfter=No
+6	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+7	矣	矣	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0001_008_par3_117-120
 # text = 今也為臣
@@ -37898,7 +37895,7 @@
 
 # sent_id = KR1h0001_008_par3_159-163
 # text = 此之謂寇讎
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	iobj	_	Gloss=this|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	expl	_	Gloss=[3PRON]|SpaceAfter=No
 3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 4	寇	寇	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=robber|SpaceAfter=No
@@ -54240,13 +54237,13 @@
 
 # sent_id = KR1h0001_014_par25_22-24
 # text = 何謂善
-1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	iobj	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	nsubj	_	Gloss=what|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 3	善	善	VERB	v,動詞,描写,態度	Degree=Pos	2	obj	_	Gloss=good|SpaceAfter=No
 
 # sent_id = KR1h0001_014_par25_25-27
 # text = 何謂信
-1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	iobj	_	Gloss=what|SpaceAfter=No
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	nsubj	_	Gloss=what|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 3	信	信	VERB	v,動詞,行為,態度	_	2	obj	_	Gloss=believe|SpaceAfter=No
 
