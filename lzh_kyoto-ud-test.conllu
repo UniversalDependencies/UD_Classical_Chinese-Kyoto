@@ -15284,10 +15284,10 @@
 # newpar text = 今夫天斯昭昭之多及其無窮也日月星辰繫焉萬物覆焉今夫地一撮土之多及其廣厚載華嶽而不重振河海而不洩萬物載焉今夫山一拳石之多及其廣大草木生之禽獸居之寶藏興焉今夫水一勺之多及其不測黿鼉蛟龍魚鱉生焉貨財殖焉詩曰惟天之命於穆不已蓋曰天之所以為天也於乎不顯文王之德之純蓋曰文王之所以為文也純亦不已
 # sent_id = KR1d0052_032_par24_1-8
 # text = 今夫天斯昭昭之多
-1	今	今	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=now|SpaceAfter=No
-2	夫	夫	PART	p,助詞,句頭,*	_	3	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
+1	今	今	NOUN	n,名詞,時,*	Case=Tem	8	obl:tmod	_	Gloss=now|SpaceAfter=No
+2	夫	夫	PART	p,助詞,句頭,*	_	8	discourse	_	Gloss=[modal-particle]|SpaceAfter=No
 3	天	天	NOUN	n,名詞,制度,場	Case=Loc	8	nsubj	_	Gloss=heaven|SpaceAfter=No
-4	斯	斯	PRON	n,代名詞,指示,*	PronType=Dem	8	nsubj	_	Gloss=this|SpaceAfter=No
+4	斯	斯	ADV	v,副詞,時相,緊接	AdvType=Tim	8	advmod	_	Gloss=then|SpaceAfter=No
 5	昭	昭	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	8	advmod	_	Gloss=bright|SpaceAfter=No
 6	昭	昭	VERB	v,動詞,描写,形質	Degree=Pos	5	compound:redup	_	Gloss=bright|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
@@ -16890,9 +16890,9 @@
 # sent_id = KR1d0052_032_par29_22-29
 # text = 上天之載無聲無臭
 1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	2	nmod	_	Gloss=up|SpaceAfter=No
-2	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	obl:lmod	_	Gloss=heaven|SpaceAfter=No
+2	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
-4	載	載	VERB	v,動詞,行為,動作	_	5	nsubj	_	Gloss=load-a-carriage|SpaceAfter=No
+4	載	載	VERB	v,動詞,行為,動作	_	5	csubj	_	Gloss=load-a-carriage|SpaceAfter=No
 5	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 6	聲	聲	NOUN	n,名詞,不可譲,身体	_	5	obj	_	Gloss=voice|SpaceAfter=No
 7	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	5	conj	_	Gloss=not-have|SpaceAfter=No

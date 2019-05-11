@@ -4996,12 +4996,12 @@
 
 # sent_id = KR1h0004_014_par31_10-17
 # text = 抑亦先覺者是賢乎
-1	抑	抑	ADV	v,副詞,判断,逆接	_	4	advmod	_	Gloss=or|SpaceAfter=No
+1	抑	抑	ADV	v,副詞,判断,逆接	_	7	advmod	_	Gloss=or|SpaceAfter=No
 2	亦	亦	ADV	v,副詞,頻度,重複	_	4	advmod	_	Gloss=also|SpaceAfter=No
 3	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	4	obl:lmod	_	Gloss=before|SpaceAfter=No
-4	覺	覺	VERB	v,動詞,行為,動作	VerbForm=Part	5	amod	_	Gloss=realize|SpaceAfter=No
+4	覺	覺	VERB	v,動詞,行為,動作	_	5	acl	_	Gloss=realize|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
-6	是	是	PRON	n,代名詞,指示,*	PronType=Dem	7	nsubj	_	Gloss=this|SpaceAfter=No
+6	是	是	PRON	n,代名詞,指示,*	PronType=Dem	7	expl	_	Gloss=this|SpaceAfter=No
 7	賢	賢	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=worthy|SpaceAfter=No
 8	乎	乎	PART	p,助詞,句末,*	_	7	discourse:sp	_	Gloss=[Q]|SpacesAfter=\n
 
@@ -7208,7 +7208,7 @@
 2	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
 3	日	日	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=day|SpaceAfter=No
 4	至	至	VERB	v,動詞,行為,移動	_	6	acl	_	Gloss=arrive|SpaceAfter=No
-5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
+5	之	之	SCONJ	p,助詞,接続,属格	_	4	mark	_	Gloss='s|SpaceAfter=No
 6	時	時	NOUN	n,名詞,時,*	Case=Tem	1	obl:tmod	_	Gloss=time|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par7_61-63

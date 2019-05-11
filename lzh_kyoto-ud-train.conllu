@@ -13509,7 +13509,7 @@
 
 # sent_id = KR1h0004_017_par1_38-44
 # text = 懷其寶而迷其邦
-1	懷	懷	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=cherish|SpaceAfter=No
+1	懷	懷	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hold-in-the-bosom|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
 3	寶	寶	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=treasure|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
@@ -13535,12 +13535,12 @@
 
 # sent_id = KR1h0004_017_par1_52-58
 # text = 好從事而亟失時
-1	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
-2	從	從	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=follow|SpaceAfter=No
+1	好	好	VERB	v,動詞,行為,態度	VerbForm=Conv	2	advmod	_	Gloss=favour|SpaceAfter=No
+2	從	從	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
 3	事	事	NOUN	n,名詞,可搬,成果物	_	2	obj	_	Gloss=affair|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 5	亟	亟	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	6	advmod	_	Gloss=hasten|SpaceAfter=No
-6	失	失	VERB	v,動詞,行為,得失	_	1	conj	_	Gloss=lose|SpaceAfter=No
+6	失	失	VERB	v,動詞,行為,得失	_	2	conj	_	Gloss=lose|SpaceAfter=No
 7	時	時	NOUN	n,名詞,時,*	Case=Tem	6	obj	_	Gloss=time|SpaceAfter=No
 
 # sent_id = KR1h0004_017_par1_59-62
@@ -13568,7 +13568,7 @@
 
 # sent_id = KR1h0004_017_par1_70-73
 # text = 歲不我與
-1	歲	歲	NOUN	n,名詞,時,*	Case=Tem	4	nsubj	_	Gloss=year|SpaceAfter=No
+1	歲	歲	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=year|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 3	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	4	obj	_	Gloss=[1PRON]|SpaceAfter=No
 4	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
@@ -14465,7 +14465,7 @@
 # text = 古之狂也肆
 1	古	古	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=olden-times|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-3	狂	狂	VERB	v,動詞,描写,態度	Degree=Pos	5	nsubj	_	Gloss=wild|SpaceAfter=No
+3	狂	狂	VERB	v,動詞,描写,態度	Degree=Pos	5	csubj	_	Gloss=wild|SpaceAfter=No
 4	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 5	肆	肆	VERB	v,動詞,行為,態度	_	0	root	_	SpaceAfter=No
 
@@ -14473,7 +14473,7 @@
 # text = 今之狂也蕩
 1	今	今	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=now|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-3	狂	狂	VERB	v,動詞,描写,態度	Degree=Pos	5	nsubj	_	Gloss=wild|SpaceAfter=No
+3	狂	狂	VERB	v,動詞,描写,態度	Degree=Pos	5	csubj	_	Gloss=wild|SpaceAfter=No
 4	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 5	蕩	蕩	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=immense|SpaceAfter=No
 
@@ -14481,7 +14481,7 @@
 # text = 古之矜也廉
 1	古	古	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=olden-times|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-3	矜	矜	VERB	v,動詞,描写,態度	Degree=Pos	5	nsubj	_	Gloss=dignify|SpaceAfter=No
+3	矜	矜	VERB	v,動詞,描写,態度	Degree=Pos	5	csubj	_	Gloss=dignify|SpaceAfter=No
 4	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 5	廉	廉	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=incorruptible|SpaceAfter=No
 
@@ -14489,16 +14489,16 @@
 # text = 今之矜也忿戾
 1	今	今	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=now|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-3	矜	矜	VERB	v,動詞,描写,態度	Degree=Pos	5	nsubj	_	Gloss=dignify|SpaceAfter=No
+3	矜	矜	VERB	v,動詞,描写,態度	Degree=Pos	5	csubj	_	Gloss=dignify|SpaceAfter=No
 4	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 5	忿	忿	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=angry|SpaceAfter=No
-6	戾	戾	VERB	v,動詞,描写,態度	Degree=Pos	5	conj	_	Gloss=do-violence|SpaceAfter=No
+6	戾	戾	VERB	v,動詞,描写,態度	Degree=Pos	5	flat:vv	_	Gloss=do-violence|SpaceAfter=No
 
 # sent_id = KR1h0004_017_par16_37-41
 # text = 古之愚也直
 1	古	古	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=olden-times|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-3	愚	愚	VERB	v,動詞,描写,形質	Degree=Pos	5	nsubj	_	Gloss=stupid|SpaceAfter=No
+3	愚	愚	VERB	v,動詞,描写,形質	Degree=Pos	5	csubj	_	Gloss=stupid|SpaceAfter=No
 4	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 5	直	直	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=straight|SpaceAfter=No
 
@@ -14506,7 +14506,7 @@
 # text = 今之愚也詐而已矣
 1	今	今	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=now|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-3	愚	愚	VERB	v,動詞,描写,形質	Degree=Pos	5	nsubj	_	Gloss=stupid|SpaceAfter=No
+3	愚	愚	VERB	v,動詞,描写,形質	Degree=Pos	5	csubj	_	Gloss=stupid|SpaceAfter=No
 4	也	也	PART	p,助詞,提示,*	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 5	詐	詐	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=deceive|SpaceAfter=No
 6	而	而	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=and|SpaceAfter=No
@@ -16931,7 +16931,7 @@
 4	惡	惡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hate|SpaceAfter=No
 5	居	居	VERB	v,動詞,行為,動作	_	4	ccomp	_	Gloss=sit-down|SpaceAfter=No
 6	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	7	obl:lmod	_	Gloss=down|SpaceAfter=No
-7	流	流	VERB	v,動詞,行為,動作	_	5	obj	_	Gloss=flow|SpaceAfter=No
+7	流	流	VERB	v,動詞,行為,動作	_	5	ccomp	_	Gloss=flow|SpaceAfter=No
 
 # sent_id = KR1h0004_019_par20_22-28
 # text = 天下之惡皆歸焉
@@ -17115,12 +17115,12 @@
 
 # sent_id = KR1h0004_019_par23_38-43
 # text = 闚見室家之好
-1	闚	闚	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
-2	見	見	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=see|SpaceAfter=No
-3	室	室	NOUN	n,名詞,固定物,建造物	Case=Loc	6	obl:lmod	_	Gloss=room|SpaceAfter=No
+1	闚	闚	VERB	v,動詞,行為,動作	VerbForm=Conv	2	advmod	_	SpaceAfter=No
+2	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
+3	室	室	NOUN	n,名詞,固定物,建造物	Case=Loc	6	nsubj	_	Gloss=room|SpaceAfter=No
 4	家	家	NOUN	n,名詞,固定物,建造物	Case=Loc	3	conj	_	Gloss=house|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
-6	好	好	VERB	v,動詞,行為,態度	_	2	obj	_	Gloss=favour|SpaceAfter=No
+6	好	好	VERB	v,動詞,行為,態度	_	2	ccomp	_	Gloss=favour|SpaceAfter=No
 
 # sent_id = KR1h0004_019_par23_44-49
 # text = 夫子之牆數仞
