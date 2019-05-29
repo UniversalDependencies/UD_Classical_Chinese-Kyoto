@@ -11,7 +11,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, 20 volumes), 孟子
     - 梁惠王上 and 梁惠王下 from 孟子
     - 中庸 from 禮記
 
-* lzh_kyoto-ud-dev.conllu 
+* lzh_kyoto-ud-dev.conllu
     - 顏淵篇第十二 子路篇第十三 and 憲問篇第十四 from 論語
     - 告子上 and 告子下 from 孟子
     - 大學 from 禮記
@@ -19,6 +19,12 @@ This Treebank is taken under the full text of 論語 (Lunyu, 20 volumes), 孟子
 * lzh_kyoto-ud-train.conllu
     - 論語 (except for 學而篇第一 為政篇第二 八佾篇第三 顏淵篇第十二 子路篇第十三 憲問篇第十四)
     - 孟子 (except for 梁惠王上 梁惠王下 告子上 告子下)
+
+
+# Changelog
+
+* 2019-05-15 v2.4
+  * Initial release in Universal Dependencies.
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
