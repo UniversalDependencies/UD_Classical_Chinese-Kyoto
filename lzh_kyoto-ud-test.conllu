@@ -1174,7 +1174,7 @@
 # sent_id = KR1h0004_002_par8_11-15
 # text = 弟子服其勞
 1	弟子	弟子	NOUN	n,名詞,人,関係	_	2	nsubj	_	Gloss=disciple|SpaceAfter=No
-2	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+2	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	det	_	Gloss=[3PRON]|SpaceAfter=No
 4	勞	勞	NOUN	n,名詞,可搬,成果物	_	2	obj	_	Gloss=work|SpaceAfter=No
 
@@ -1535,7 +1535,7 @@
 2	為	爲	ADP	v,前置詞,源泉,*	_	1	case	_	Gloss=for|SpaceAfter=No
 3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
 4	民	民	NOUN	n,名詞,人,人	_	5	nsubj	_	Gloss=people|SpaceAfter=No
-5	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+5	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 
 # sent_id = KR1h0004_002_par19_10-13
 # text = 孔子對曰
@@ -1555,7 +1555,7 @@
 # text = 則民服
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
 2	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
-3	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+3	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 
 # sent_id = KR1h0004_002_par19_22-26
 # text = 舉枉錯諸直
@@ -1570,7 +1570,7 @@
 1	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
 2	民	民	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=people|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpacesAfter=\n
+4	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpacesAfter=\n
 
 # newpar text = 季康子問使民敬忠以勸如之何子曰臨之以莊則敬孝慈則忠舉善而教不能則勸
 # sent_id = KR1h0004_002_par20_1-4
@@ -6183,7 +6183,7 @@
 5	一	一	NUM	n,数詞,数字,*	_	3	obj	_	Gloss=one|SpaceAfter=No
 6	以	以	VERB	v,動詞,行為,動作	_	8	advcl	_	Gloss=use|SpaceAfter=No
 7	一	一	NUM	n,数詞,数字,*	_	6	obj	_	Gloss=one|SpaceAfter=No
-8	服	服	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=submit|SpaceAfter=No
+8	服	服	VERB	v,動詞,行為,交流	_	2	parataxis	_	Gloss=submit|SpaceAfter=No
 9	八	八	NUM	n,数詞,数字,*	_	8	obj	_	Gloss=eight|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par7_949-956
@@ -11750,7 +11750,7 @@
 4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
 5	拳	拳	NOUN	n,名詞,不可譲,身体	_	7	advmod	_	Gloss=fist|SpaceAfter=No
 6	拳	拳	NOUN	n,名詞,不可譲,身体	_	5	compound:redup	_	Gloss=fist|SpaceAfter=No
-7	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+7	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 8	膺	膺	VERB	v,動詞,行為,動作	_	7	flat:vv	_	Gloss=resist|SpaceAfter=No
 9	而	而	CCONJ	p,助詞,接続,並列	_	11	cc	_	Gloss=and|SpaceAfter=No
 10	弗	弗	ADV	v,副詞,否定,無界	Polarity=Neg	11	advmod	_	Gloss=not|SpaceAfter=No
@@ -12771,7 +12771,7 @@
 1	齊	齊	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=arrange|SpaceAfter=No
 2	明	明	VERB	v,動詞,描写,形質	Degree=Pos	1	conj	_	Gloss=bright|SpaceAfter=No
 3	盛	盛	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=full|SpaceAfter=No
-4	服	服	VERB	v,動詞,行為,動作	_	1	obj	_	Gloss=submit|SpaceAfter=No
+4	服	服	VERB	v,動詞,行為,交流	_	1	obj	_	Gloss=submit|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par10_37-40
 # text = 以承祭祀
@@ -14131,7 +14131,7 @@
 1	齊	齊	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=arrange|SpaceAfter=No
 2	明	明	VERB	v,動詞,描写,形質	Degree=Pos	1	flat:vv	_	Gloss=bright|SpaceAfter=No
 3	盛	盛	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	4	advmod	_	Gloss=full|SpaceAfter=No
-4	服	服	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=submit|SpaceAfter=No
+4	服	服	VERB	v,動詞,行為,交流	_	1	parataxis	_	Gloss=submit|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par16_5-8
 # text = 非禮不動

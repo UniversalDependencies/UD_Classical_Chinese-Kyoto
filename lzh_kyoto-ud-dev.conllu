@@ -2081,7 +2081,7 @@
 6	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	9	advmod	_	Gloss=none|SpaceAfter=No
 7	敢	敢	AUX	v,助動詞,願望,*	Mood=Des	9	aux	_	Gloss=dare|SpaceAfter=No
 8	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	9	advmod	_	Gloss=not|SpaceAfter=No
-9	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+9	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 
 # sent_id = KR1h0004_013_par4_52-61
 # text = 上好信則民莫敢不用情
@@ -10255,7 +10255,7 @@
 # sent_id = KR1h0001_012_par2_149-153
 # text = 子服堯之服
 1	子	子	PRON	n,代名詞,人称,他	Person=2|PronType=Prs	2	nsubj	_	Gloss=[2PRON]|SpaceAfter=No
-2	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+2	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 3	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	5	nmod	_	Gloss=[given-name]|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	服	服	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=clothing|SpaceAfter=No
@@ -10285,7 +10285,7 @@
 # sent_id = KR1h0001_012_par2_167-171
 # text = 子服桀之服
 1	子	子	PRON	n,代名詞,人称,他	Person=2|PronType=Prs	2	nsubj	_	Gloss=[2PRON]|SpaceAfter=No
-2	服	服	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=submit|SpaceAfter=No
+2	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 3	桀	桀	PROPN	n,名詞,人,名	NameType=Giv	5	nmod	_	Gloss=[given-name]|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 5	服	服	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=clothing|SpaceAfter=No
