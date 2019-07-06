@@ -14805,16 +14805,19 @@
 5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
 6	味	味	NOUN	n,名詞,描写,形質	_	4	obj	_	Gloss=taste|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_95-102
-# text = 此謂脩身在正其心
+# sent_id = KR1d0052_043_par2_95-96
+# text = 此謂
 1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	nsubj	_	Gloss=this|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
-3	脩	脩	VERB	v,動詞,行為,動作	_	5	csubj	_	Gloss=improve|SpaceAfter=No
-4	身	身	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=body|SpaceAfter=No
-5	在	在	VERB	v,動詞,存在,存在	_	2	ccomp	_	Gloss=be-present|SpaceAfter=No
-6	正	正	VERB	v,動詞,描写,形質	Degree=Pos	5	ccomp	_	Gloss=correct|SpaceAfter=No
-7	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	8	det	_	Gloss=[3PRON]|SpaceAfter=No
-8	心	心	NOUN	n,名詞,不可譲,身体	_	6	obj	_	Gloss=heart|SpaceAfter=No
+
+# sent_id = KR1d0052_043_par2_97-102
+# text = 脩身在正其心
+1	脩	脩	VERB	v,動詞,行為,動作	_	3	csubj	_	Gloss=improve|SpaceAfter=No
+2	身	身	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=body|SpaceAfter=No
+3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
+4	正	正	VERB	v,動詞,描写,形質	Degree=Pos	3	ccomp	_	Gloss=correct|SpaceAfter=No
+5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
+6	心	心	NOUN	n,名詞,不可譲,身体	_	4	obj	_	Gloss=heart|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_103-112
 # text = 所謂齊其家在脩其身者
@@ -15364,16 +15367,19 @@
 5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	obj	_	Gloss=[3PRON]|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_462-469
-# text = 此謂治國在齊其家
+# sent_id = KR1d0052_043_par2_462-463
+# text = 此謂
 1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	nsubj	_	Gloss=this|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
-3	治	治	VERB	v,動詞,行為,動作	_	5	csubj	_	Gloss=govern|SpaceAfter=No
-4	國	國	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No
-5	在	在	VERB	v,動詞,存在,存在	_	2	ccomp	_	Gloss=be-present|SpaceAfter=No
-6	齊	齊	VERB	v,動詞,行為,動作	_	5	ccomp	_	Gloss=arrange|SpaceAfter=No
-7	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	8	det	_	Gloss=[3PRON]|SpaceAfter=No
-8	家	家	NOUN	n,名詞,主体,集団	_	6	obj	_	Gloss=family|SpaceAfter=No
+
+# sent_id = KR1d0052_043_par2_464-469
+# text = 治國在齊其家
+1	治	治	VERB	v,動詞,行為,動作	_	3	csubj	_	Gloss=govern|SpaceAfter=No
+2	國	國	NOUN	n,名詞,主体,集団	_	1	obj	_	Gloss=country|SpaceAfter=No
+3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
+4	齊	齊	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=arrange|SpaceAfter=No
+5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
+6	家	家	NOUN	n,名詞,主体,集団	_	4	obj	_	Gloss=family|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_470-486
 # text = 所謂平天下在治其國者上老老而民興孝
@@ -16012,20 +16018,23 @@
 4	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=centre|SpaceAfter=No
 5	國	國	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_898-909
-# text = 此謂唯仁人為能愛人能惡人
+# sent_id = KR1d0052_043_par2_898-899
+# text = 此謂
 1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	nsubj	_	Gloss=this|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
-3	唯	唯	ADV	v,副詞,範囲,限定	_	6	advmod	_	Gloss=only|SpaceAfter=No
-4	仁	仁	VERB	v,動詞,描写,態度	Degree=Pos|VerbForm=Part	5	amod	_	Gloss=benevolent|SpaceAfter=No
-5	人	人	NOUN	n,名詞,人,人	_	6	nsubj	_	Gloss=person|SpaceAfter=No
-6	為	爲	VERB	v,動詞,行為,生産	_	2	ccomp	_	Gloss=make|SpaceAfter=No
-7	能	能	AUX	v,助動詞,可能,*	Mood=Pot	8	aux	_	Gloss=can|SpaceAfter=No
-8	愛	愛	VERB	v,動詞,行為,交流	_	6	ccomp	_	Gloss=love|SpaceAfter=No
-9	人	人	NOUN	n,名詞,人,人	_	8	obj	_	Gloss=person|SpaceAfter=No
-10	能	能	AUX	v,助動詞,可能,*	Mood=Pot	11	aux	_	Gloss=can|SpaceAfter=No
-11	惡	惡	VERB	v,動詞,行為,動作	_	8	conj	_	Gloss=hate|SpaceAfter=No
-12	人	人	NOUN	n,名詞,人,人	_	11	obj	_	Gloss=person|SpaceAfter=No
+
+# sent_id = KR1d0052_043_par2_900-909
+# text = 唯仁人為能愛人能惡人
+1	唯	唯	ADV	v,副詞,範囲,限定	_	4	advmod	_	Gloss=only|SpaceAfter=No
+2	仁	仁	VERB	v,動詞,描写,態度	Degree=Pos|VerbForm=Part	3	amod	_	Gloss=benevolent|SpaceAfter=No
+3	人	人	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=person|SpaceAfter=No
+4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
+5	能	能	AUX	v,助動詞,可能,*	Mood=Pot	6	aux	_	Gloss=can|SpaceAfter=No
+6	愛	愛	VERB	v,動詞,行為,交流	_	4	ccomp	_	Gloss=love|SpaceAfter=No
+7	人	人	NOUN	n,名詞,人,人	_	6	obj	_	Gloss=person|SpaceAfter=No
+8	能	能	AUX	v,助動詞,可能,*	Mood=Pot	9	aux	_	Gloss=can|SpaceAfter=No
+9	惡	惡	VERB	v,動詞,行為,動作	_	6	conj	_	Gloss=hate|SpaceAfter=No
+10	人	人	NOUN	n,名詞,人,人	_	9	obj	_	Gloss=person|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_910-915
 # text = 見賢而不能舉
@@ -16281,16 +16290,19 @@
 10	盜	盜	NOUN	n,名詞,人,役割	_	11	nmod	_	Gloss=steal|SpaceAfter=No
 11	臣	臣	NOUN	n,名詞,人,役割	_	9	obj	_	Gloss=vassal|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_1088-1095
-# text = 此謂國不以利為利
+# sent_id = KR1d0052_043_par2_1088-1089
+# text = 此謂
 1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	nsubj	_	Gloss=this|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
-3	國	國	NOUN	n,名詞,主体,集団	_	7	nsubj	_	Gloss=country|SpaceAfter=No
-4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
-5	以	以	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=use|SpaceAfter=No
+
+# sent_id = KR1d0052_043_par2_1090-1095
+# text = 國不以利為利
+1	國	國	NOUN	n,名詞,主体,集団	_	5	nsubj	_	Gloss=country|SpaceAfter=No
+2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
+3	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
+4	利	利	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=profit|SpaceAfter=No
+5	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 6	利	利	NOUN	n,名詞,描写,形質	_	5	obj	_	Gloss=profit|SpaceAfter=No
-7	為	爲	VERB	v,動詞,行為,生産	_	2	ccomp	_	Gloss=make|SpaceAfter=No
-8	利	利	NOUN	n,名詞,描写,形質	_	7	obj	_	Gloss=profit|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_1096-1100
 # text = 以義為利也
@@ -16356,16 +16368,19 @@
 5	何	何	PRON	n,代名詞,疑問,*	PronType=Int	3	xcomp	_	Gloss=what|SpaceAfter=No
 6	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_1139-1146
-# text = 此謂國不以利為利
+# sent_id = KR1d0052_043_par2_1139-1140
+# text = 此謂
 1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	2	nsubj	_	Gloss=this|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
-3	國	國	NOUN	n,名詞,主体,集団	_	5	nsubj	_	Gloss=country|SpaceAfter=No
-4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-5	以	以	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=use|SpaceAfter=No
+
+# sent_id = KR1d0052_043_par2_1141-1146
+# text = 國不以利為利
+1	國	國	NOUN	n,名詞,主体,集団	_	5	nsubj	_	Gloss=country|SpaceAfter=No
+2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
+3	以	以	VERB	v,動詞,行為,動作	_	5	advcl	_	Gloss=use|SpaceAfter=No
+4	利	利	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=profit|SpaceAfter=No
+5	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 6	利	利	NOUN	n,名詞,描写,形質	_	5	obj	_	Gloss=profit|SpaceAfter=No
-7	為	爲	VERB	v,動詞,行為,生産	_	2	ccomp	_	Gloss=make|SpaceAfter=No
-8	利	利	NOUN	n,名詞,描写,形質	_	7	obj	_	Gloss=profit|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_1147-1151
 # text = 以義為利也
