@@ -14942,36 +14942,30 @@
 8	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	9	det	_	Gloss=[3PRON]|SpaceAfter=No
 9	家	家	NOUN	n,名詞,固定物,建造物	Case=Loc	7	obj	_	Gloss=house|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_199-202
-# text = 所謂治國
+# sent_id = KR1d0052_043_par2_199-220
+# text = 所謂治國必先齊其家者其家不可教而能教人者無之
 1	所	所	PART	p,助詞,接続,体言化	_	2	mark	_	Gloss=that-which|SpaceAfter=No
-2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
-3	治	治	VERB	v,動詞,行為,動作	_	2	ccomp	_	Gloss=govern|SpaceAfter=No
+2	謂	謂	VERB	v,動詞,行為,伝達	_	10	acl	_	Gloss=speak-to|SpaceAfter=No
+3	治	治	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=govern|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_203-213
-# text = 必先齊其家者其家不可教
-1	必	必	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=necessarily|SpaceAfter=No
-2	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	3	obl:lmod	_	Gloss=before|SpaceAfter=No
-3	齊	齊	VERB	v,動詞,行為,動作	_	6	acl	_	Gloss=arrange|SpaceAfter=No
-4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	Gloss=[3PRON]|SpaceAfter=No
-5	家	家	NOUN	n,名詞,固定物,建造物	Case=Loc	3	obj	_	Gloss=house|SpaceAfter=No
-6	者	者	PART	p,助詞,提示,*	_	11	nsubj	_	Gloss=that-which|SpaceAfter=No
-7	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	8	det	_	Gloss=[3PRON]|SpaceAfter=No
-8	家	家	NOUN	n,名詞,固定物,建造物	Case=Loc	11	nsubj	_	Gloss=house|SpaceAfter=No
-9	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	10	advmod	_	Gloss=not|SpaceAfter=No
-10	可	可	AUX	v,助動詞,可能,*	Mood=Pot	11	aux	_	Gloss=possible|SpaceAfter=No
-11	教	敎	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=teach|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_214-220
-# text = 而能教人者無之
-1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
-2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=can|SpaceAfter=No
-3	教	敎	VERB	v,動詞,行為,伝達	_	5	acl	_	Gloss=teach|SpaceAfter=No
-4	人	人	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=person|SpaceAfter=No
-5	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
-6	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
+5	必	必	ADV	v,副詞,判断,確定	_	7	advmod	_	Gloss=necessarily|SpaceAfter=No
+6	先	先	NOUN	n,名詞,固定物,関係	Case=Loc	7	obl:lmod	_	Gloss=before|SpaceAfter=No
+7	齊	齊	VERB	v,動詞,行為,動作	_	2	ccomp	_	Gloss=arrange|SpaceAfter=No
+8	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	9	det	_	Gloss=[3PRON]|SpaceAfter=No
+9	家	家	NOUN	n,名詞,固定物,建造物	Case=Loc	7	obj	_	Gloss=house|SpaceAfter=No
+10	者	者	PART	p,助詞,提示,*	_	21	nsubj	_	Gloss=that-which|SpaceAfter=No
+11	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	12	det	_	Gloss=[3PRON]|SpaceAfter=No
+12	家	家	NOUN	n,名詞,固定物,建造物	Case=Loc	15	obj	_	Gloss=house|SpaceAfter=No
+13	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	14	advmod	_	Gloss=not|SpaceAfter=No
+14	可	可	AUX	v,助動詞,可能,*	Mood=Pot	15	aux	_	Gloss=possible|SpaceAfter=No
+15	教	敎	VERB	v,動詞,行為,伝達	_	20	acl	_	Gloss=teach|SpaceAfter=No
+16	而	而	CCONJ	p,助詞,接続,並列	_	18	cc	_	Gloss=and|SpaceAfter=No
+17	能	能	AUX	v,助動詞,可能,*	Mood=Pot	18	aux	_	Gloss=can|SpaceAfter=No
+18	教	敎	VERB	v,動詞,行為,伝達	_	15	conj	_	Gloss=teach|SpaceAfter=No
+19	人	人	NOUN	n,名詞,人,人	_	18	obj	_	Gloss=person|SpaceAfter=No
+20	者	者	PART	p,助詞,提示,*	_	21	obj	_	Gloss=that-which|SpaceAfter=No
+21	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+22	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	21	expl	_	Gloss=[3PRON]|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_221-231
 # text = 故君子不出家而成教於國
