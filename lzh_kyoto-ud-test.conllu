@@ -14218,7 +14218,7 @@
 # sent_id = KR1d0052_032_par16_54-57
 # text = 忠信重祿
 1	忠	忠	NOUN	n,名詞,描写,態度	_	3	nsubj	_	Gloss=loyal|SpaceAfter=No
-2	信	信	NOUN	n,名詞,描写,態度	_	1	flat	_	Gloss=trustworthy|SpaceAfter=No
+2	信	信	NOUN	n,名詞,描写,態度	_	1	conj	_	Gloss=trustworthy|SpaceAfter=No
 3	重	重	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=heavy|SpaceAfter=No
 4	祿	祿	NOUN	n,名詞,可搬,成果物	_	3	obj	_	Gloss=emolument|SpaceAfter=No
 
