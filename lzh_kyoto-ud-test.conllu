@@ -3071,7 +3071,7 @@
 1	亦	亦	ADV	v,副詞,頻度,重複	_	3	advmod	_	Gloss=also|SpaceAfter=No
 2	將	將	ADV	v,副詞,時相,将来	AdvType=Tim|Tense=Fut	3	advmod	_	Gloss=about-to|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-4	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
+4	以	以	VERB	v,動詞,行為,動作	_	3	fixed	_	Gloss=use|SpaceAfter=No
 5	利	利	VERB	v,動詞,行為,得失	_	3	ccomp	_	Gloss=profit|SpaceAfter=No
 6	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	7	det	_	Gloss=[1PRON]|SpaceAfter=No
 7	國	國	NOUN	n,名詞,主体,集団	_	5	obj	_	Gloss=country|SpaceAfter=No
@@ -4066,8 +4066,8 @@
 # sent_id = KR1h0001_001_par4_21-24
 # text = 有以異乎
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-2	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=use|SpaceAfter=No
-3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	1	ccomp	_	Gloss=differ|SpaceAfter=No
+2	以	以	VERB	v,動詞,行為,動作	_	1	fixed	_	Gloss=use|SpaceAfter=No
+3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	1	obj	_	Gloss=differ|SpaceAfter=No
 4	乎	乎	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par4_25-25
@@ -4077,7 +4077,7 @@
 # sent_id = KR1h0001_001_par4_26-29
 # text = 無以異也
 1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Conv	3	advmod	_	Gloss=not-have|SpaceAfter=No
-2	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=use|SpaceAfter=No
+2	以	以	VERB	v,動詞,行為,動作	_	1	fixed	_	Gloss=use|SpaceAfter=No
 3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=differ|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -4091,8 +4091,8 @@
 # sent_id = KR1h0001_001_par4_34-37
 # text = 有以異乎
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-2	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=use|SpaceAfter=No
-3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	1	ccomp	_	Gloss=differ|SpaceAfter=No
+2	以	以	VERB	v,動詞,行為,動作	_	1	fixed	_	Gloss=use|SpaceAfter=No
+3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	1	obj	_	Gloss=differ|SpaceAfter=No
 4	乎	乎	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par4_38-38
@@ -4102,7 +4102,7 @@
 # sent_id = KR1h0001_001_par4_39-42
 # text = 無以異也
 1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Conv	3	advmod	_	Gloss=not-have|SpaceAfter=No
-2	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=use|SpaceAfter=No
+2	以	以	VERB	v,動詞,行為,動作	_	1	fixed	_	Gloss=use|SpaceAfter=No
 3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=differ|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -6748,8 +6748,8 @@
 1	暴	暴	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	3	advmod	_	Gloss=not-yet|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-4	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
-5	對	對	VERB	v,動詞,行為,伝達	_	3	ccomp	_	Gloss=reply|SpaceAfter=No
+4	以	以	VERB	v,動詞,行為,動作	_	3	fixed	_	Gloss=use|SpaceAfter=No
+5	對	對	VERB	v,動詞,行為,伝達	_	3	obj	_	Gloss=reply|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par1_23-23

@@ -40615,7 +40615,7 @@
 # text = 果有以異於人乎
 1	果	果	VERB	v,動詞,行為,動作	VerbForm=Conv	2	advmod	_	Gloss=result|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-3	以	以	VERB	v,動詞,行為,動作	VerbForm=Conv	4	advmod	_	Gloss=use|SpaceAfter=No
+3	以	以	VERB	v,動詞,行為,動作	_	2	fixed	_	Gloss=use|SpaceAfter=No
 4	異	異	VERB	v,動詞,描写,形質	Degree=Pos	2	ccomp	_	Gloss=differ|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
 6	人	人	NOUN	n,名詞,人,人	_	4	obl	_	Gloss=person|SpaceAfter=No
