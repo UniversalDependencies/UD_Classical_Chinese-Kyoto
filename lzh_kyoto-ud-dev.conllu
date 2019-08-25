@@ -15117,42 +15117,36 @@
 3	定	定	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=establish|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=country|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_316-322
-# text = 堯舜率天下以仁
+# sent_id = KR1d0052_043_par2_316-326
+# text = 堯舜率天下以仁而民從之
 1	堯	堯	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	舜	舜	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-3	率	率	VERB	v,動詞,行為,動作	_	6	csubj	_	Gloss=limit|SpaceAfter=No
+3	率	率	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=limit|SpaceAfter=No
 4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
-6	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
+6	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
 7	仁	仁	NOUN	n,名詞,描写,態度	_	6	obj	_	Gloss=benevolence|SpaceAfter=No
+8	而	而	CCONJ	p,助詞,接続,並列	_	10	cc	_	Gloss=and|SpaceAfter=No
+9	民	民	NOUN	n,名詞,人,人	_	10	nsubj	_	Gloss=people|SpaceAfter=No
+10	從	從	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=follow|SpaceAfter=No
+11	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	10	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_323-326
-# text = 而民從之
-1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
-2	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
-3	從	從	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
-4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_327-333
-# text = 桀紂率天下以暴
+# sent_id = KR1d0052_043_par2_327-337
+# text = 桀紂率天下以暴而民從之
 1	桀	桀	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	紂	紂	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
-3	率	率	VERB	v,動詞,行為,動作	_	6	csubj	_	Gloss=limit|SpaceAfter=No
+3	率	率	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=limit|SpaceAfter=No
 4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	compound	_	Gloss=heaven|SpaceAfter=No
 5	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=down|SpaceAfter=No
-6	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
+6	以	以	VERB	v,動詞,行為,動作	_	3	advcl	_	Gloss=use|SpaceAfter=No
 7	暴	暴	VERB	v,動詞,描写,態度	Degree=Pos	6	obj	_	Gloss=expose|SpaceAfter=No
+8	而	而	CCONJ	p,助詞,接続,並列	_	10	cc	_	Gloss=and|SpaceAfter=No
+9	民	民	NOUN	n,名詞,人,人	_	10	nsubj	_	Gloss=people|SpaceAfter=No
+10	從	從	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=follow|SpaceAfter=No
+11	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	10	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_334-337
-# text = 而民從之
-1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
-2	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
-3	從	從	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
-4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_338-344
-# text = 其所令反其所好
+# sent_id = KR1d0052_043_par2_338-348
+# text = 其所令反其所好而民不從
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 2	所	所	PART	p,助詞,接続,体言化	_	3	mark	_	Gloss=that-which|SpaceAfter=No
 3	令	令	VERB	v,動詞,行為,使役	_	4	csubj	_	Gloss=order|SpaceAfter=No
@@ -15160,70 +15154,58 @@
 5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	7	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 6	所	所	PART	p,助詞,接続,体言化	_	7	mark	_	Gloss=that-which|SpaceAfter=No
 7	好	好	VERB	v,動詞,行為,態度	_	4	ccomp	_	Gloss=favour|SpaceAfter=No
+8	而	而	CCONJ	p,助詞,接続,並列	_	11	cc	_	Gloss=and|SpaceAfter=No
+9	民	民	NOUN	n,名詞,人,人	_	11	nsubj	_	Gloss=people|SpaceAfter=No
+10	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	11	advmod	_	Gloss=not|SpaceAfter=No
+11	從	從	VERB	v,動詞,行為,動作	_	4	conj	_	Gloss=follow|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_345-348
-# text = 而民不從
-1	而	而	CCONJ	p,助詞,接続,並列	_	4	advmod	_	Gloss=and|SpaceAfter=No
-2	民	民	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=people|SpaceAfter=No
-3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	從	從	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_349-355
-# text = 是故君子有諸己
+# sent_id = KR1d0052_043_par2_349-360
+# text = 是故君子有諸己而后求諸人
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
 2	故	故	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=therefore|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=lord|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 5	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	4	iobj	_	Gloss=this|SpaceAfter=No
 6	己	己	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	4	obj	_	Gloss=self|SpaceAfter=No
+7	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
+8	后	后	NOUN	n,名詞,時,*	Case=Tem	9	obl:tmod	_	Gloss=after|SpaceAfter=No
+9	求	求	VERB	v,動詞,行為,動作	_	4	conj	_	Gloss=seek|SpaceAfter=No
+10	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	9	iobj	_	Gloss=this|SpaceAfter=No
+11	人	人	NOUN	n,名詞,人,人	_	9	obj	_	Gloss=person|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_356-360
-# text = 而后求諸人
-1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
-2	后	后	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=after|SpaceAfter=No
-3	求	求	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=seek|SpaceAfter=No
-4	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	3	iobj	_	Gloss=this|SpaceAfter=No
-5	人	人	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=person|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_361-363
-# text = 無諸己
+# sent_id = KR1d0052_043_par2_361-368
+# text = 無諸己而后非諸人
 1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 2	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	1	iobj	_	Gloss=this|SpaceAfter=No
 3	己	己	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	1	obj	_	Gloss=self|SpaceAfter=No
+4	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
+5	后	后	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=after|SpaceAfter=No
+6	非	非	VERB	v,動詞,行為,交流	_	1	conj	_	Gloss=blame|SpaceAfter=No
+7	諸	諸	NOUN	n,名詞,数量,*	_	6	iobj	_	Gloss=[plural]|SpaceAfter=No
+8	人	人	NOUN	n,名詞,人,人	_	6	obj	_	Gloss=person|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_364-368
-# text = 而后非諸人
-1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
-2	后	后	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=after|SpaceAfter=No
-3	非	非	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=blame|SpaceAfter=No
-4	諸	諸	NOUN	n,名詞,数量,*	_	3	iobj	_	Gloss=[plural]|SpaceAfter=No
-5	人	人	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=person|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_369-374
-# text = 所藏乎身不恕
+# sent_id = KR1d0052_043_par2_369-384
+# text = 所藏乎身不恕而能喻諸人者未之有也
 1	所	所	PART	p,助詞,接続,体言化	_	2	mark	_	Gloss=that-which|SpaceAfter=No
 2	藏	藏	VERB	v,動詞,行為,設置	_	6	csubj	_	Gloss=conceal|SpaceAfter=No
 3	乎	乎	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
 4	身	身	NOUN	n,名詞,不可譲,身体	_	2	obl	_	Gloss=body|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
-6	恕	恕	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=forgiving|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_375-384
-# text = 而能喻諸人者未之有也
-1	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
-2	能	能	AUX	v,助動詞,可能,*	Mood=Pot	3	aux	_	Gloss=can|SpaceAfter=No
-3	喻	喩	VERB	v,動詞,行為,伝達	_	6	acl	_	Gloss=explain|SpaceAfter=No
-4	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	3	iobj	_	Gloss=this|SpaceAfter=No
-5	人	人	NOUN	n,名詞,人,人	_	3	obj	_	Gloss=person|SpaceAfter=No
-6	者	者	PART	p,助詞,提示,*	_	9	nsubj	_	Gloss=that-which|SpaceAfter=No
-7	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	9	advmod	_	Gloss=not-yet|SpaceAfter=No
-8	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	9	expl	_	Gloss=[3PRON]|SpaceAfter=No
-9	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-10	也	也	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+6	恕	恕	VERB	v,動詞,描写,態度	Degree=Pos	12	acl	_	Gloss=forgiving|SpaceAfter=No
+7	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
+8	能	能	AUX	v,助動詞,可能,*	Mood=Pot	9	aux	_	Gloss=can|SpaceAfter=No
+9	喻	喩	VERB	v,動詞,行為,伝達	_	6	conj	_	Gloss=explain|SpaceAfter=No
+10	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	9	iobj	_	Gloss=this|SpaceAfter=No
+11	人	人	NOUN	n,名詞,人,人	_	9	obj	_	Gloss=person|SpaceAfter=No
+12	者	者	PART	p,助詞,提示,*	_	15	nsubj	_	Gloss=that-which|SpaceAfter=No
+13	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	15	advmod	_	Gloss=not-yet|SpaceAfter=No
+14	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	15	expl	_	Gloss=[3PRON]|SpaceAfter=No
+15	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
+16	也	也	PART	p,助詞,句末,*	_	15	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_385-391
 # text = 故治國在齊其家
-1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+1	故	故	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=therefore|SpaceAfter=No
 2	治	治	VERB	v,動詞,行為,動作	_	4	csubj	_	Gloss=govern|SpaceAfter=No
 3	國	國	NOUN	n,名詞,主体,集団	_	2	obj	_	Gloss=country|SpaceAfter=No
 4	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
