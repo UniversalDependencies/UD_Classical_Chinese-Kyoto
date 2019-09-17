@@ -24,7 +24,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, 20 volumes), 孟子
 # Changelog
 
 * 2019-11-15 v2.5
-  * Five volumes from 禮記 added.
+  * 15 volumes from 禮記 added.
 
 * 2019-05-15 v2.4
   * Initial release in Universal Dependencies.
