@@ -16006,7 +16006,7 @@
 1	質	質	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=offer-hostage|SpaceAfter=No
 2	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	1	iobj	_	Gloss=this|SpaceAfter=No
 3	鬼	鬼	NOUN	n,名詞,天象,怪異	_	1	obj	_	Gloss=ghost|SpaceAfter=No
-4	神	神	NOUN	n,名詞,人,役割	_	3	flat	_	Gloss=god|SpaceAfter=No
+4	神	神	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=god|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 6	無	無	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Conv	7	advmod	_	Gloss=not-have|SpaceAfter=No
 7	疑	疑	VERB	v,動詞,行為,態度	_	1	conj	_	Gloss=suspect|SpaceAfter=No
@@ -16028,7 +16028,7 @@
 1	質	質	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=offer-hostage|SpaceAfter=No
 2	諸	諸	PRON	n,代名詞,人称,他	PronType=Prs	1	iobj	_	Gloss=this|SpaceAfter=No
 3	鬼	鬼	NOUN	n,名詞,天象,怪異	_	1	obj	_	Gloss=ghost|SpaceAfter=No
-4	神	神	NOUN	n,名詞,人,役割	_	3	flat	_	Gloss=god|SpaceAfter=No
+4	神	神	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=god|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 6	無	無	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Conv	7	advmod	_	Gloss=not-have|SpaceAfter=No
 7	疑	疑	VERB	v,動詞,行為,態度	_	1	conj	_	Gloss=suspect|SpaceAfter=No

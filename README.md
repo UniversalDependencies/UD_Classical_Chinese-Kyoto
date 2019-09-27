@@ -21,6 +21,10 @@ This Treebank is taken under the full text of 論語 (Lunyu, 20 volumes), 孟子
     - 孟子 (except for 梁惠王上 梁惠王下 告子上 告子下)
     - 經解 to 儒行 from 禮記 (except for 中庸)
 
+# References
+
+* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities (December 2019).
+
 # Changelog
 
 * 2019-11-15 v2.5

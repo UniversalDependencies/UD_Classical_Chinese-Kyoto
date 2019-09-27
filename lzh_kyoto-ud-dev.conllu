@@ -13815,21 +13815,21 @@
 1	物	物	NOUN	n,名詞,可搬,道具	_	2	nsubj	_	Gloss=thing|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	本	本	NOUN	n,名詞,描写,形質	_	2	obj	_	Gloss=base|SpaceAfter=No
-4	末	末	NOUN	n,名詞,固定物,関係	Case=Loc	3	conj	_	Gloss=end|SpaceAfter=No
+4	末	末	NOUN	n,名詞,固定物,関係	Case=Loc	3	flat	_	Gloss=end|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par1_47-50
 # text = 事有終始
 1	事	事	NOUN	n,名詞,可搬,成果物	_	2	nsubj	_	Gloss=affair|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	終	終	VERB	v,動詞,変化,生物	_	2	obj	_	Gloss=end|SpaceAfter=No
-4	始	始	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=begin|SpaceAfter=No
+4	始	始	VERB	v,動詞,行為,動作	_	3	flat:vv	_	Gloss=begin|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par1_51-58
 # text = 知所先後則近道矣
 1	知	知	VERB	v,動詞,行為,動作	_	6	advcl	_	Gloss=know|SpaceAfter=No
-2	所	所	PART	p,助詞,接続,体言化	_	3	case	_	Gloss=that-which|SpaceAfter=No
-3	先	先	VERB	v,動詞,行為,移動	_	1	obj	_	Gloss=precede|SpaceAfter=No
-4	後	後	VERB	v,動詞,行為,移動	_	3	conj	_	Gloss=back|SpaceAfter=No
+2	所	所	PART	p,助詞,接続,体言化	_	3	mark	_	Gloss=that-which|SpaceAfter=No
+3	先	先	VERB	v,動詞,行為,移動	_	1	ccomp	_	Gloss=precede|SpaceAfter=No
+4	後	後	VERB	v,動詞,行為,移動	_	3	flat:vv	_	Gloss=back|SpaceAfter=No
 5	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	Gloss=then|SpaceAfter=No
 6	近	近	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=near|SpaceAfter=No
 7	道	道	NOUN	n,名詞,固定物,建造物	Case=Loc	6	obj	_	Gloss=road|SpaceAfter=No
@@ -13837,7 +13837,7 @@
 
 # sent_id = KR1d0052_043_par1_59-72
 # text = 古之欲明明德於天下者先治其國
-1	古	古	NOUN	n,名詞,時,*	Case=Tem	4	nsubj	_	Gloss=olden-times|SpaceAfter=No
+1	古	古	NOUN	n,名詞,時,*	Case=Tem	10	nmod	_	Gloss=olden-times|SpaceAfter=No
 2	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 3	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	4	aux	_	Gloss=wish|SpaceAfter=No
 4	明	明	VERB	v,動詞,描写,形質	Degree=Pos	10	acl	_	Gloss=bright|SpaceAfter=No
