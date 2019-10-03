@@ -14895,16 +14895,13 @@
 9	鮮	鮮	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=rare|SpaceAfter=No
 10	矣	矣	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
-# sent_id = KR1d0052_043_par2_170-173
-# text = 故諺有之
+# sent_id = KR1d0052_043_par2_170-174
+# text = 故諺有之曰
 1	故	故	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=therefore|SpaceAfter=No
 2	諺	諺	NOUN	n,名詞,可搬,伝達	_	3	nsubj	_	Gloss=proverb|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
-
-# sent_id = KR1d0052_043_par2_174-174
-# text = 曰
-1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+5	曰	曰	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_175-181
 # text = 人莫知其子之惡
@@ -15657,15 +15654,15 @@
 
 # sent_id = KR1d0052_043_par2_688-691
 # text = 德者本也
-1	德	德	NOUN	n,名詞,描写,態度	_	2	nmod	_	Gloss=virtue|SpaceAfter=No
-2	者	者	PART	p,助詞,提示,*	_	3	nsubj	_	Gloss=that-which|SpaceAfter=No
+1	德	德	NOUN	n,名詞,描写,態度	_	3	nsubj	_	Gloss=virtue|SpaceAfter=No
+2	者	者	PART	p,助詞,提示,*	_	1	case	_	Gloss=that-which|SpaceAfter=No
 3	本	本	NOUN	n,名詞,描写,形質	_	0	root	_	Gloss=base|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_692-695
 # text = 財者末也
-1	財	財	NOUN	n,名詞,可搬,道具	_	2	nmod	_	Gloss=goods|SpaceAfter=No
-2	者	者	PART	p,助詞,提示,*	_	3	nsubj	_	Gloss=that-which|SpaceAfter=No
+1	財	財	NOUN	n,名詞,可搬,道具	_	3	nsubj	_	Gloss=goods|SpaceAfter=No
+2	者	者	PART	p,助詞,提示,*	_	1	case	_	Gloss=that-which|SpaceAfter=No
 3	末	末	NOUN	n,名詞,固定物,関係	Case=Loc	0	root	_	Gloss=end|SpaceAfter=No
 4	也	也	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -15673,14 +15670,14 @@
 # text = 外本內末
 1	外	外	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=exclude|SpaceAfter=No
 2	本	本	NOUN	n,名詞,描写,形質	_	1	obj	_	Gloss=base|SpaceAfter=No
-3	內	內	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=include|SpaceAfter=No
+3	內	內	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=include|SpaceAfter=No
 4	末	末	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=end|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_700-703
 # text = 爭民施奪
 1	爭	爭	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=quarrel|SpaceAfter=No
 2	民	民	NOUN	n,名詞,人,人	_	1	obj	_	Gloss=people|SpaceAfter=No
-3	施	施	VERB	v,動詞,行為,交流	_	1	conj	_	Gloss=spread|SpaceAfter=No
+3	施	施	VERB	v,動詞,行為,交流	_	1	parataxis	_	Gloss=spread|SpaceAfter=No
 4	奪	奪	VERB	v,動詞,行為,得失	_	3	obj	_	Gloss=deprive|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_704-710
