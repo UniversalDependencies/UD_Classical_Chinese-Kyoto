@@ -4629,7 +4629,7 @@
 # sent_id = KR1h0001_001_par6_81-89
 # text = 天油然作雲沛然下雨
 1	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=heaven|SpaceAfter=No
-2	油	油	NOUN	n,名詞,可搬,道具	_	4	advmod	_	Gloss=oil|SpaceAfter=No
+2	油	油	NOUN	n,名詞,可搬,道具	_	4	obl	_	Gloss=oil|SpaceAfter=No
 3	然	然	PART	p,接尾辞,*,*	_	2	fixed	_	Gloss=[suffix]|SpaceAfter=No
 4	作	作	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 5	雲	雲	NOUN	n,名詞,天象,気象	_	4	obj	_	Gloss=cloud|SpaceAfter=No
@@ -11748,7 +11748,7 @@
 2	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
 3	善	善	NOUN	n,名詞,描写,態度	_	1	obj	_	Gloss=good|SpaceAfter=No
 4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
-5	拳	拳	NOUN	n,名詞,不可譲,身体	_	7	advmod	_	Gloss=fist|SpaceAfter=No
+5	拳	拳	NOUN	n,名詞,不可譲,身体	_	7	obl	_	Gloss=fist|SpaceAfter=No
 6	拳	拳	NOUN	n,名詞,不可譲,身体	_	5	compound:redup	_	Gloss=fist|SpaceAfter=No
 7	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 8	膺	膺	VERB	v,動詞,行為,動作	_	7	flat:vv	_	Gloss=resist|SpaceAfter=No
@@ -12527,7 +12527,7 @@
 3	入	入	VERB	v,動詞,行為,移動	_	2	ccomp	_	Gloss=enter|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	7	advmod	_	Gloss=not|SpaceAfter=No
-6	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	7	advmod	_	Gloss=self|SpaceAfter=No
+6	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	7	obl	_	Gloss=self|SpaceAfter=No
 7	得	得	VERB	v,動詞,行為,得失	_	3	conj	_	Gloss=get|SpaceAfter=No
 8	焉	焉	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -15022,12 +15022,12 @@
 # text = 誠者自成也而道自道也
 1	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos|VerbForm=Part	2	amod	_	Gloss=sincere|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	4	nsubj	_	Gloss=that-which|SpaceAfter=No
-3	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	4	advmod	_	Gloss=self|SpaceAfter=No
+3	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	4	obl	_	Gloss=self|SpaceAfter=No
 4	成	成	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=complete|SpaceAfter=No
 5	也	也	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	9	cc	_	Gloss=and|SpaceAfter=No
 7	道	道	NOUN	n,名詞,制度,儀礼	_	9	nsubj	_	Gloss=doctrine|SpaceAfter=No
-8	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	9	advmod	_	Gloss=self|SpaceAfter=No
+8	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	9	obl	_	Gloss=self|SpaceAfter=No
 9	道	道	VERB	v,動詞,行為,伝達	_	4	conj	_	Gloss=lead|SpaceAfter=No
 10	也	也	PART	p,助詞,句末,*	_	9	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -15062,7 +15062,7 @@
 1	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos|VerbForm=Part	2	amod	_	Gloss=sincere|SpaceAfter=No
 2	者	者	PART	p,助詞,提示,*	_	5	nsubj	_	Gloss=that-which|SpaceAfter=No
 3	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	5	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
-4	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	5	advmod	_	Gloss=self|SpaceAfter=No
+4	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	5	obl	_	Gloss=self|SpaceAfter=No
 5	成	成	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=complete|SpaceAfter=No
 6	己	己	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	5	obj	_	Gloss=self|SpaceAfter=No
 7	而	而	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=and|SpaceAfter=No
