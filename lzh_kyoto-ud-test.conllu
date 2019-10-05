@@ -938,7 +938,7 @@
 # text = 吾十有五
 1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	2	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
 2	十	十	NUM	n,数詞,数字,*	_	0	root	_	Gloss=ten|SpaceAfter=No
-3	有	有	VERB	v,動詞,存在,存在	_	4	cc	_	Gloss=have|SpaceAfter=No
+3	有	有	ADP	v,動詞,存在,存在	_	4	cc	_	Gloss=have|SpaceAfter=No
 4	五	五	NUM	n,数詞,数字,*	_	2	conj	_	Gloss=five|SpaceAfter=No
 
 # sent_id = KR1h0004_002_par4_7-10
