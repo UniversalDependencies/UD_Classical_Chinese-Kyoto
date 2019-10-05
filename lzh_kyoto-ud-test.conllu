@@ -1,7 +1,7 @@
 # newdoc id = KR1h0004_001
 # sent_id = KR1h0004_001_title
 # text = 學而篇第一
-1	學	學	VERB	v,動詞,行為,動作	VerbForm=Part	3	amod	_	Gloss=study|SpaceAfter=No
+1	學	學	VERB	v,動詞,行為,動作	_	3	acl	_	Gloss=study|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	1	orphan	_	Gloss=and|SpaceAfter=No
 3	篇	篇	NOUN	n,名詞,可搬,伝達	_	0	root	_	Gloss=section-of-a-book|SpaceAfter=No
 4	第	第	NOUN	n,名詞,数量,*	_	3	list	_	Gloss=order-in-a-sequence|SpaceAfter=No
