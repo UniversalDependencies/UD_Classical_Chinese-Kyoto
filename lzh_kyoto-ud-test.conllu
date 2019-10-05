@@ -154,7 +154,7 @@
 # text = 吾日三省吾身
 1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	4	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
 2	日	日	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=day|SpaceAfter=No
-3	三	三	NUM	n,数詞,数字,*	_	4	advmod	_	Gloss=three|SpaceAfter=No
+3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
 4	省	省	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=reduce|SpaceAfter=No
 5	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	6	det	_	Gloss=[1PRON]|SpaceAfter=No
 6	身	身	NOUN	n,名詞,不可譲,身体	_	4	obj	_	Gloss=body|SpaceAfter=No
@@ -950,20 +950,20 @@
 
 # sent_id = KR1h0004_002_par4_11-14
 # text = 三十而立
-1	三十	三十	NUM	n,数詞,数,*	_	3	advmod	_	Gloss=thirty|SpaceAfter=No
+1	三十	三十	NUM	n,数詞,数,*	_	3	nummod	_	Gloss=thirty|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
 3	立	立	VERB	v,動詞,行為,姿勢	_	0	root	_	Gloss=stand|SpaceAfter=No
 
 # sent_id = KR1h0004_002_par4_15-19
 # text = 四十而不惑
-1	四十	四十	NUM	n,数詞,数,*	_	4	advmod	_	Gloss=forty|SpaceAfter=No
+1	四十	四十	NUM	n,数詞,数,*	_	4	nummod	_	Gloss=forty|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	4	advmod	_	Gloss=and|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	惑	惑	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=confused|SpaceAfter=No
 
 # sent_id = KR1h0004_002_par4_20-25
 # text = 五十而知天命
-1	五十	五十	NUM	n,数詞,数,*	_	3	advmod	_	Gloss=fifty|SpaceAfter=No
+1	五十	五十	NUM	n,数詞,数,*	_	3	nummod	_	Gloss=fifty|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
 3	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
 4	天	天	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=heaven|SpaceAfter=No
@@ -971,14 +971,14 @@
 
 # sent_id = KR1h0004_002_par4_26-30
 # text = 六十而耳順
-1	六十	六十	NUM	n,数詞,数,*	_	4	advmod	_	Gloss=sixty|SpaceAfter=No
+1	六十	六十	NUM	n,数詞,数,*	_	4	nummod	_	Gloss=sixty|SpaceAfter=No
 2	而	而	PART	p,助詞,句末,*	_	4	advmod	_	Gloss=and|SpaceAfter=No
 3	耳	耳	NOUN	n,名詞,不可譲,身体	_	4	nsubj	_	Gloss=ear|SpaceAfter=No
 4	順	順	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=follow|SpaceAfter=No
 
 # sent_id = KR1h0004_002_par4_31-40
 # text = 七十而從心所欲不踰矩
-1	七十	七十	NUM	n,数詞,数,*	_	3	advmod	_	Gloss=seventy|SpaceAfter=No
+1	七十	七十	NUM	n,数詞,数,*	_	3	nummod	_	Gloss=seventy|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	3	advmod	_	Gloss=and|SpaceAfter=No
 3	從	從	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=follow|SpaceAfter=No
 4	心	心	NOUN	n,名詞,不可譲,身体	_	6	nsubj	_	Gloss=heart|SpaceAfter=No
@@ -7771,7 +7771,7 @@
 # text = 文王一怒而安天下之民
 1	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Wen|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=king|SpaceAfter=No
-3	一	一	NUM	n,数詞,数字,*	_	4	advmod	_	Gloss=one|SpaceAfter=No
+3	一	一	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=one|SpaceAfter=No
 4	怒	怒	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=angry|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 6	安	安	VERB	v,動詞,行為,態度	_	4	conj	_	Gloss=peaceful|SpaceAfter=No
@@ -7873,7 +7873,7 @@
 2	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Wu|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=king|SpaceAfter=No
 4	亦	亦	ADV	v,副詞,頻度,重複	_	6	advmod	_	Gloss=also|SpaceAfter=No
-5	一	一	NUM	n,数詞,数字,*	_	6	advmod	_	Gloss=one|SpaceAfter=No
+5	一	一	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=one|SpaceAfter=No
 6	怒	怒	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=angry|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par3_242-247
@@ -7890,7 +7890,7 @@
 1	今	今	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=now|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=king|SpaceAfter=No
 3	亦	亦	ADV	v,副詞,頻度,重複	_	5	advmod	_	Gloss=also|SpaceAfter=No
-4	一	一	NUM	n,数詞,数字,*	_	5	advmod	_	Gloss=one|SpaceAfter=No
+4	一	一	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=one|SpaceAfter=No
 5	怒	怒	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=angry|SpaceAfter=No
 6	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 7	安	安	VERB	v,動詞,行為,態度	_	5	conj	_	Gloss=peaceful|SpaceAfter=No
@@ -9944,7 +9944,7 @@
 # sent_id = KR1h0001_002_par11_57-59
 # text = 湯一征
 1	湯	湯	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	一	一	NUM	n,数詞,数字,*	_	3	advmod	_	Gloss=one|SpaceAfter=No
+2	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
 3	征	征	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=expedite|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par11_60-62

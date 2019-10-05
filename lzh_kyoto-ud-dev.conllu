@@ -707,7 +707,7 @@
 
 # sent_id = KR1h0004_012_par9_24-28
 # text = 二吾猶不足
-1	二	二	NUM	n,数詞,数字,*	_	5	advmod	_	Gloss=two|SpaceAfter=No
+1	二	二	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=two|SpaceAfter=No
 2	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	5	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
 3	猶	猶	ADV	v,副詞,頻度,重複	_	5	advmod	_	Gloss=yet|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
@@ -4280,7 +4280,7 @@
 # text = 桓公九合諸侯
 1	桓	桓	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Huan|SpaceAfter=No
 2	公	公	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=duke|SpaceAfter=No
-3	九	九	NUM	n,数詞,数字,*	_	4	advmod	_	Gloss=nine|SpaceAfter=No
+3	九	九	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=nine|SpaceAfter=No
 4	合	合	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=fit|SpaceAfter=No
 5	諸	諸	NOUN	n,名詞,数量,*	_	6	nmod	_	Gloss=[plural]|SpaceAfter=No
 6	侯	侯	NOUN	n,名詞,人,役割	_	4	obj	_	Gloss=marquis|SpaceAfter=No
@@ -4369,7 +4369,7 @@
 
 # sent_id = KR1h0004_014_par17_32-35
 # text = 一匡天下
-1	一	一	NUM	n,数詞,数字,*	_	2	advmod	_	Gloss=one|SpaceAfter=No
+1	一	一	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=one|SpaceAfter=No
 2	匡	匡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rectify|SpaceAfter=No
 3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
 4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=down|SpaceAfter=No
@@ -11355,10 +11355,10 @@
 
 # sent_id = KR1h0001_012_par6_58-67
 # text = 五就湯五就桀者伊尹也
-1	五	五	NUM	n,数詞,数字,*	_	2	advmod	_	Gloss=five|SpaceAfter=No
+1	五	五	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=five|SpaceAfter=No
 2	就	就	VERB	v,動詞,行為,移動	_	7	acl	_	Gloss=go-to|SpaceAfter=No
 3	湯	湯	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
-4	五	五	NUM	n,数詞,数字,*	_	5	advmod	_	Gloss=five|SpaceAfter=No
+4	五	五	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=five|SpaceAfter=No
 5	就	就	VERB	v,動詞,行為,移動	_	2	conj	_	Gloss=go-to|SpaceAfter=No
 6	桀	桀	PROPN	n,名詞,人,名	NameType=Giv	5	obj	_	Gloss=[given-name]|SpaceAfter=No
 7	者	者	PART	p,助詞,提示,*	_	8	nsubj	_	Gloss=that-which|SpaceAfter=No
@@ -11873,7 +11873,7 @@
 
 # sent_id = KR1h0001_012_par7_107-113
 # text = 一不朝則貶其爵
-1	一	一	NUM	n,数詞,数字,*	_	3	advmod	_	Gloss=one|SpaceAfter=No
+1	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	朝	朝	VERB	v,動詞,行為,役割	_	5	advcl	_	Gloss=go-to-court|SpaceAfter=No
 4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
@@ -11893,7 +11893,7 @@
 
 # sent_id = KR1h0001_012_par7_121-128
 # text = 三不朝則六師移之
-1	三	三	NUM	n,数詞,数字,*	_	3	advmod	_	Gloss=three|SpaceAfter=No
+1	三	三	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=three|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	朝	朝	VERB	v,動詞,行為,役割	_	7	acl	_	Gloss=go-to-court|SpaceAfter=No
 4	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	7	advmod	_	Gloss=then|SpaceAfter=No
@@ -12264,7 +12264,7 @@
 
 # sent_id = KR1h0001_012_par8_32-33
 # text = 一戰
-1	一	一	NUM	n,数詞,数字,*	_	2	advmod	_	Gloss=one|SpaceAfter=No
+1	一	一	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=one|SpaceAfter=No
 2	戰	戰	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=war|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par8_34-35
