@@ -11860,7 +11860,7 @@
 
 # sent_id = KR1d0052_032_par6_38-40
 # text = 衽金革
-1	衽	衽	NOUN	n,名詞,制度,儀礼	_	2	nsubj	_	Gloss=lapel|SpaceAfter=No
+1	衽	衽	NOUN	n,名詞,可搬,道具	_	2	nsubj	_	Gloss=lapel|SpaceAfter=No
 2	金	金	NOUN	n,名詞,可搬,道具	_	0	root	_	Gloss=metal|SpaceAfter=No
 3	革	革	NOUN	n,名詞,可搬,道具	_	2	conj	_	Gloss=leather|SpaceAfter=No
 

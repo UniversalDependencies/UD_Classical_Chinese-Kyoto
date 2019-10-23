@@ -4397,7 +4397,7 @@
 3	被	被	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=cover|SpaceAfter=No
 4	髮	髮	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=hair-of-the-head|SpaceAfter=No
 5	左	左	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=turn-left|SpaceAfter=No
-6	衽	衽	NOUN	n,名詞,制度,儀礼	_	5	obj	_	Gloss=lapel|SpaceAfter=No
+6	衽	衽	NOUN	n,名詞,可搬,道具	_	5	obj	_	Gloss=lapel|SpaceAfter=No
 7	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
 
 # sent_id = KR1h0004_014_par17_53-62
