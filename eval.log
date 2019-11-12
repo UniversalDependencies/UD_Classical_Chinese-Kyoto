@@ -3,24 +3,24 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Classical_Chinese-Kyoto:
-commit 8704b4c2378fc7cf2ec9c213d93eebd9cf39435d
+commit f77851475f25b4abe2d9cd9cd4a24aebd9abb929
+Merge: c3099ea 7ef68c1
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 13:14:48 2019 +0200
-Size: counted 55026 of 55026 words (nodes).
-Size: min(0, log((N/1000)**2)) = 8.01561160160972.
+Size: counted 74770 of 74770 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.62883347002365.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
-Universal POS tags: 12 out of 17 found in the corpus.
+Universal POS tags: 13 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 20408 out of 55026 total words have one or more features.
+Features: 26675 out of 74770 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 22013 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 55026 words.
+Udapi: found 29085 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 74770 words.
 Genres: found 1 out of 17 known.
 validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-dev.conllu
 *** PASSED ***
@@ -32,11 +32,11 @@ Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.45) = 0.0346153846153846
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
-(weight=0.256410256410256) * (score{size}=0.580189314609798) = 0.148766490925589
+(weight=0.256410256410256) * (score{size}=0.624575793548893) = 0.160147639371511
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.635294117647059) = 0.048868778280543
+(weight=0.0769230769230769) * (score{tags}=0.688235294117647) = 0.0529411764705882
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.426893350817155) * (availability=1) * (validity=1) = 0.426893350817155
+(TOTAL score=0.442346897453122) * (availability=1) * (validity=1) = 0.442346897453122
 STARS = 2
-UD_Classical_Chinese-Kyoto	0.426893350817155	2
+UD_Classical_Chinese-Kyoto	0.442346897453122	2
