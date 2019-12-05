@@ -23,7 +23,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, 20 volumes), 孟子
 
 # References
 
-* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities (December 2019).
+* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities, 1st ed. (December 5, 2019), pp.20-28.
 
 # Changelog
 
