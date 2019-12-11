@@ -4527,9 +4527,9 @@
 3	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
 5	見	見	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=see|SpaceAfter=No
-6	所	所	PART	p,助詞,接続,体言化	_	7	case	_	Gloss=that-which|SpaceAfter=No
-7	畏	畏	VERB	v,動詞,行為,態度	_	5	obj	_	Gloss=fear|SpaceAfter=No
-8	焉	焉	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+6	所	所	PART	p,助詞,接続,体言化	_	7	mark	_	Gloss=that-which|SpaceAfter=No
+7	畏	畏	VERB	v,動詞,行為,態度	_	5	ccomp	_	Gloss=fear|SpaceAfter=No
+8	焉	焉	PRON	n,代名詞,指示,*	PronType=Dem	7	obl	_	Gloss=there|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par6_25-28
 # text = 卒然問曰
@@ -7050,7 +7050,7 @@
 6	馬	馬	NOUN	n,名詞,主体,動物	_	5	flat	_	Gloss=horse|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 8	音	音	NOUN	n,名詞,可搬,伝達	_	3	obj	_	Gloss=sound|SpaceAfter=No
-9	見	見	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=see|SpaceAfter=No
+9	見	見	VERB	v,動詞,行為,動作	_	3	parataxis	_	Gloss=see|SpaceAfter=No
 10	羽	羽	NOUN	n,名詞,可搬,道具	_	11	compound	_	Gloss=feather|SpaceAfter=No
 11	旄	旄	NOUN	n,名詞,可搬,道具	_	13	nmod	_	Gloss=ox-tail-banner|SpaceAfter=No
 12	之	之	SCONJ	p,助詞,接続,属格	_	11	case	_	Gloss='s|SpaceAfter=No
@@ -7204,7 +7204,7 @@
 6	馬	馬	NOUN	n,名詞,主体,動物	_	5	flat	_	Gloss=horse|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 8	音	音	NOUN	n,名詞,可搬,伝達	_	3	obj	_	Gloss=sound|SpaceAfter=No
-9	見	見	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=see|SpaceAfter=No
+9	見	見	VERB	v,動詞,行為,動作	_	3	parataxis	_	Gloss=see|SpaceAfter=No
 10	羽	羽	NOUN	n,名詞,可搬,道具	_	11	compound	_	Gloss=feather|SpaceAfter=No
 11	旄	旄	NOUN	n,名詞,可搬,道具	_	13	nmod	_	Gloss=ox-tail-banner|SpaceAfter=No
 12	之	之	SCONJ	p,助詞,接続,属格	_	11	case	_	Gloss='s|SpaceAfter=No
@@ -8723,7 +8723,7 @@
 1	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
 2	積	積	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=accumulate|SpaceAfter=No
 3	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
-4	倉	倉	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=store|SpaceAfter=No
+4	倉	倉	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=store|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par5_177-180
 # text = 乃裹餱糧
@@ -8734,10 +8734,10 @@
 
 # sent_id = KR1h0001_002_par5_181-184
 # text = 于橐于囊
-1	于	于	ADP	v,前置詞,基盤,*	_	2	case	_	Gloss=at|SpaceAfter=No
-2	橐	橐	NOUN	n,名詞,可搬,道具	_	0	root	_	Gloss=sack|SpaceAfter=No
-3	于	于	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	囊	囊	NOUN	n,名詞,可搬,道具	_	2	conj	_	Gloss=bag|SpaceAfter=No
+1	于	于	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=go-into|SpaceAfter=No
+2	橐	橐	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=sack|SpaceAfter=No
+3	于	于	VERB	v,動詞,存在,存在	_	1	parataxis	_	Gloss=go-into|SpaceAfter=No
+4	囊	囊	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=bag|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par5_185-188
 # text = 思戢用光
@@ -11199,7 +11199,7 @@
 1	克	克	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	告	吿	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=proclaim|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	君	君	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=ruler|SpaceAfter=No
+4	君	君	NOUN	n,名詞,人,役割	_	2	obl	_	Gloss=ruler|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par16_175-179
 # text = 君為來見也

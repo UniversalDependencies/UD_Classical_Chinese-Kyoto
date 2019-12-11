@@ -3267,9 +3267,9 @@
 
 # sent_id = KR1h0004_013_par25_3-10
 # text = 君子易事而難說也
-1	君子	君子	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=lord|SpaceAfter=No
-2	易	易	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=easy|SpaceAfter=No
-3	事	事	VERB	v,動詞,行為,交流	_	2	obj	_	Gloss=serve|SpaceAfter=No
+1	君子	君子	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=lord|SpaceAfter=No
+2	易	易	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	3	advmod	_	Gloss=easy|SpaceAfter=No
+3	事	事	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=serve|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	6	cc	_	Gloss=and|SpaceAfter=No
 5	難	難	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	6	advmod	_	Gloss=difficult|SpaceAfter=No
 6	說	說	VERB	v,動詞,行為,伝達	_	3	conj	_	Gloss=explain|SpaceAfter=No
@@ -3305,12 +3305,12 @@
 # sent_id = KR1h0004_013_par25_26-33
 # text = 小人難事而易說也
 1	小	小	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	2	amod	_	Gloss=small|SpaceAfter=No
-2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
-3	難	難	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=difficult|SpaceAfter=No
-4	事	事	NOUN	n,名詞,可搬,成果物	_	3	obj	_	Gloss=affair|SpaceAfter=No
+2	人	人	NOUN	n,名詞,人,人	_	4	nsubj	_	Gloss=person|SpaceAfter=No
+3	難	難	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	4	advmod	_	Gloss=difficult|SpaceAfter=No
+4	事	事	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=serve|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 6	易	易	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	7	advmod	_	Gloss=easy|SpaceAfter=No
-7	說	說	VERB	v,動詞,行為,伝達	_	3	conj	_	Gloss=explain|SpaceAfter=No
+7	說	說	VERB	v,動詞,行為,伝達	_	4	conj	_	Gloss=explain|SpaceAfter=No
 8	也	也	PART	p,助詞,句末,*	_	7	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0004_013_par25_34-39
@@ -5450,9 +5450,9 @@
 # sent_id = KR1h0004_014_par39_50-53
 # text = 末之難矣
 1	末	末	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=be-nothing|SpaceAfter=No
-2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	expl	_	Gloss=[3PRON]|SpaceAfter=No
+2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
 3	難	難	VERB	v,動詞,描写,形質	Degree=Pos	1	ccomp	_	Gloss=difficult|SpaceAfter=No
-4	矣	矣	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
+4	矣	矣	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[PFV]|SpacesAfter=\n
 
 # newpar text = 子張曰書云高宗諒陰三年不言何謂也子曰何必高宗古之人皆然君薨百官總己以聽於冢宰三年
 # sent_id = KR1h0004_014_par40_1-3
@@ -7149,7 +7149,7 @@
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	降	降	VERB	v,動詞,行為,移動	_	7	csubj	_	Gloss=go-down|SpaceAfter=No
 5	才	才	NOUN	n,名詞,可搬,成果物	_	4	obj	_	Gloss=talent|SpaceAfter=No
-6	爾	爾	ADV	v,副詞,判断,推定	_	7	advmod	_	Gloss=thus|SpaceAfter=No
+6	爾	爾	PART	p,助詞,句末,*	_	4	mark	_	Gloss=[final-particle]|SpaceAfter=No
 7	殊	殊	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=special|SpaceAfter=No
 8	也	也	PART	p,助詞,句末,*	_	7	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
@@ -7528,7 +7528,7 @@
 # text = 至於心
 1	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
 2	於	於	ADP	v,前置詞,基盤,*	_	3	case	_	Gloss=at|SpaceAfter=No
-3	心	心	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=heart|SpaceAfter=No
+3	心	心	NOUN	n,名詞,不可譲,身体	_	1	obl	_	Gloss=heart|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par7_285-290
 # text = 獨無所同然乎
@@ -10089,7 +10089,7 @@
 1	如	如	VERB	v,動詞,行為,分類	Degree=Equ	4	advcl	_	Gloss=be-like|SpaceAfter=No
 2	何	何	PRON	n,代名詞,疑問,*	PronType=Int	1	obj	_	Gloss=what|SpaceAfter=No
 3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
-4	可	可	AUX	v,助動詞,可能,*	Mood=Pot	0	root	_	Gloss=possible|SpaceAfter=No
+4	可	可	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=permissible|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par2_43-43
 # text = 曰
@@ -12127,7 +12127,7 @@
 11	言	言	ADV	v,副詞,時相,緊接	AdvType=Tim	12	advmod	_	Gloss=instantly|SpaceAfter=No
 12	歸	歸	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=return|SpaceAfter=No
 13	于	于	ADP	v,前置詞,基盤,*	_	14	case	_	Gloss=at|SpaceAfter=No
-14	好	好	ADV	v,動詞,行為,態度	VerbForm=Conv	12	advmod	_	Gloss=favour|SpaceAfter=No
+14	好	好	VERB	v,動詞,行為,態度	_	12	obl	_	Gloss=favour|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par7_273-281
 # text = 今之諸侯皆犯此五禁
@@ -14869,7 +14869,7 @@
 3	所	所	PART	p,助詞,接続,体言化	_	4	mark	_	Gloss=that-which|SpaceAfter=No
 4	敖	敖	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=stroll|SpaceAfter=No
 5	惰	惰	VERB	v,動詞,描写,態度	Degree=Pos	4	flat:vv	_	Gloss=lazy|SpaceAfter=No
-6	而	而	CCONJ	p,助詞,接続,並列	_	7	advmod	_	Gloss=and|SpaceAfter=No
+6	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
 7	辟	辟	VERB	v,動詞,描写,態度	Degree=Pos	1	conj	_	Gloss=perverse|SpaceAfter=No
 8	焉	焉	PRON	n,代名詞,指示,*	PronType=Dem	7	obl	_	Gloss=there|SpaceAfter=No
 
