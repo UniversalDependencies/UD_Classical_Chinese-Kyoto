@@ -7963,11 +7963,11 @@
 1	雖	雖	ADV	v,副詞,判断,逆接	_	2	advmod	_	Gloss=although|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	compound	_	Gloss=heaven|SpaceAfter=No
-4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=down|SpaceAfter=No
-5	易	易	VERB	v,動詞,行為,動作	_	8	acl	_	Gloss=change|SpaceAfter=No
-6	生	生	VERB	v,動詞,変化,生物	_	5	obj	_	Gloss=alive|SpaceAfter=No
-7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
-8	物	物	NOUN	n,名詞,可搬,道具	_	2	ccomp	_	Gloss=thing|SpaceAfter=No
+4	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	6	obl:lmod	_	Gloss=down|SpaceAfter=No
+5	易	易	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	6	advmod	_	Gloss=easy|SpaceAfter=No
+6	生	生	VERB	v,動詞,変化,生物	_	8	acl	_	Gloss=alive|SpaceAfter=No
+7	之	之	SCONJ	p,助詞,接続,属格	_	6	mark	_	Gloss='s|SpaceAfter=No
+8	物	物	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=thing|SpaceAfter=No
 9	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par9_21-24
@@ -15466,7 +15466,7 @@
 3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 4	絜	絜	VERB	v,動詞,描写,形質	Degree=Pos	7	acl	_	Gloss=clear|SpaceAfter=No
 5	矩	矩	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=carpenter's-squeare|SpaceAfter=No
-6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
+6	之	之	SCONJ	p,助詞,接続,属格	_	4	mark	_	Gloss='s|SpaceAfter=No
 7	道	道	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=doctrine|SpaceAfter=No
 
 # sent_id = KR1d0052_043_par2_568-569

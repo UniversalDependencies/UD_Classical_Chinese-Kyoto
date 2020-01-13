@@ -1999,11 +1999,11 @@
 # text = 不如諸夏之亡也
 1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
 2	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
-3	諸	諸	NOUN	n,名詞,数量,*	_	6	obj	_	Gloss=[plural]|SpaceAfter=No
-4	夏	夏	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	conj	_	Gloss=[country-name]|SpaceAfter=No
-5	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
+3	諸	諸	NOUN	n,名詞,数量,*	_	4	nmod	_	Gloss=[plural]|SpaceAfter=No
+4	夏	夏	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	nsubj	_	Gloss=[country-name]|SpaceAfter=No
+5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	亡	亡	VERB	v,動詞,変化,生物	_	2	ccomp	_	Gloss=be-lost|SpaceAfter=No
-7	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
+7	也	也	PART	p,助詞,句末,*	_	2	discourse:sp	_	Gloss=[final-particle]|SpacesAfter=\n
 
 # newpar text = 季氏旅於泰山子謂冉有曰女弗能救與對曰不能子曰嗚呼曾謂泰山不如林放乎
 # sent_id = KR1h0004_003_par6_1-6
@@ -7464,7 +7464,7 @@
 1	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 2	殺	殺	VERB	v,動詞,行為,動作	_	5	acl	_	Gloss=kill|SpaceAfter=No
 3	人	人	NOUN	n,名詞,人,人	_	2	obj	_	Gloss=person|SpaceAfter=No
-4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
+4	之	之	SCONJ	p,助詞,接続,属格	_	2	mark	_	Gloss='s|SpaceAfter=No
 5	罪	罪	NOUN	n,名詞,制度,儀礼	_	1	obj	_	Gloss=crime|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par2_120-125
