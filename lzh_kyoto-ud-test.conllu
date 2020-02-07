@@ -12770,7 +12770,7 @@
 # text = 齊明盛服
 1	齊	齊	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=arrange|SpaceAfter=No
 2	明	明	VERB	v,動詞,描写,形質	Degree=Pos	1	conj	_	Gloss=bright|SpaceAfter=No
-3	盛	盛	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=full|SpaceAfter=No
+3	盛	盛	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	4	advmod	_	Gloss=full|SpaceAfter=No
 4	服	服	VERB	v,動詞,行為,交流	_	1	obj	_	Gloss=submit|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par10_37-40
