@@ -656,7 +656,7 @@
 # sent_id = KR1h0004_012_par8_39-47
 # text = 虎豹之鞹猶犬羊之鞹
 1	虎	虎	NOUN	n,名詞,主体,動物	_	4	nmod	_	Gloss=tiger|SpaceAfter=No
-2	豹	豹	NOUN	n,名詞,主体,動物	_	1	conj	_	Gloss=leopard|SpaceAfter=No
+2	豹	豹	NOUN	n,名詞,主体,動物	_	1	flat	_	Gloss=leopard|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
 4	鞹	鞹	NOUN	n,名詞,可搬,道具	_	5	nsubj	_	Gloss=leather|SpaceAfter=No
 5	猶	猶	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=similar|SpaceAfter=No
