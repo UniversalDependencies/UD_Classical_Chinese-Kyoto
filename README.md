@@ -4,7 +4,7 @@ Classical Chinese Universal Dependencies Treebank annotated and converted by Ins
 
 # Introduction
 
-This Treebank is taken under the full text of 論語 (Lunyu, 20 volumes), 孟子 (Mencius, 14 volumes), and 43 volumes from 禮記. In Classical Chinese we had no spaces or punctuations between words or sentences, so we did not include any spaces or punctuations in Treebank files:
+This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0004)), 孟子 (Mencius, [14 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0001)), and 禮記 (Liji, [50 volumes](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1d0052)). In Classical Chinese we had no spaces or punctuations between words or sentences, so we did not include any spaces or punctuations in Treebank files:
 
 * lzh_kyoto-ud-test.conllu
     - 學而篇第一 為政篇第二 and 八佾篇第三 from 論語
@@ -19,13 +19,16 @@ This Treebank is taken under the full text of 論語 (Lunyu, 20 volumes), 孟子
 * lzh_kyoto-ud-train.conllu
     - 論語 (except for 學而篇第一 為政篇第二 八佾篇第三 顏淵篇第十二 子路篇第十三 憲問篇第十四)
     - 孟子 (except for 梁惠王上 梁惠王下 告子上 告子下)
-    - 曲禮上 to 樂記 and 經解 to 喪服四制 from 禮記 (except for 中庸 大學)
+    - 禮記 (except for 中庸 大學)
 
 # References
 
 * Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities, 1st ed. (December 5, 2019), pp.20-28.
 
 # Changelog
+
+* 2020-11-15 v2.7
+  * 7 volumes from 禮記 added.
 
 * 2020-05-15 v2.6
   * 19 volumes from 禮記 added.
