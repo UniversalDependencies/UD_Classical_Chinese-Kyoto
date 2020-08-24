@@ -7060,7 +7060,7 @@
 # text = 有物有則
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 2	物	物	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=thing|SpaceAfter=No
-3	有	有	VERB	v,動詞,存在,存在	_	1	conj	_	Gloss=have|SpaceAfter=No
+3	有	有	VERB	v,動詞,存在,存在	_	1	parataxis	_	Gloss=have|SpaceAfter=No
 4	則	則	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=standard|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par6_236-239
@@ -7099,7 +7099,7 @@
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	物	物	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=thing|SpaceAfter=No
 4	必	必	ADV	v,副詞,判断,確定	_	5	advmod	_	Gloss=necessarily|SpaceAfter=No
-5	有	有	VERB	v,動詞,存在,存在	_	2	conj	_	Gloss=have|SpaceAfter=No
+5	有	有	VERB	v,動詞,存在,存在	_	2	parataxis	_	Gloss=have|SpaceAfter=No
 6	則	則	NOUN	n,名詞,制度,儀礼	_	5	obj	_	Gloss=standard|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par6_261-265
@@ -11513,7 +11513,7 @@
 1	削	削	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pare|SpaceAfter=No
 2	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	4	advmod	_	Gloss=what|SpaceAfter=No
 3	可	可	AUX	v,助動詞,可能,*	Mood=Pot	4	aux	_	Gloss=possible|SpaceAfter=No
-4	得	得	VERB	v,動詞,行為,得失	_	1	conj	_	Gloss=get|SpaceAfter=No
+4	得	得	VERB	v,動詞,行為,得失	_	1	parataxis	_	Gloss=get|SpaceAfter=No
 5	歟	歟	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR1h0001_012_par6_168-168
