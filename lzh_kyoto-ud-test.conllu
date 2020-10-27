@@ -19748,14 +19748,14 @@
 # sent_id = KR2b0041_007_par6_769-773
 # text = 長爲季氏吏
 1	長	長	VERB	v,動詞,変化,生物	VerbForm=Part	5	amod	_	Gloss=long-last|SpaceAfter=No
-2	爲	爲	VERB	v,動詞,行為,生産	_	5	cop	_	Gloss=make|SpaceAfter=No
+2	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	5	cop	_	Gloss=be|SpaceAfter=No
 3	季	季	PROPN	n,名詞,人,姓氏	NameType=Sur	5	nmod	_	Gloss=[surname]|SpaceAfter=No
 4	氏	氏	NOUN	n,名詞,不可譲,属性	_	3	flat	_	Gloss=lineage|SpaceAfter=No
 5	吏	吏	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=clerk|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_774-776
 # text = 料量平
-1	料	料	VERB	v,動詞,行為,動作	_	3	nsubj	_	SpaceAfter=No
+1	料	料	VERB	v,動詞,行為,動作	_	3	nsubj	_	Gloss=measure-out|SpaceAfter=No
 2	量	量	VERB	v,動詞,行為,動作	_	1	flat:vv	_	Gloss=measure|SpaceAfter=No
 3	平	平	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=level|SpaceAfter=No
 
