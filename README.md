@@ -26,12 +26,13 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 
 # References
 
-* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities, 1st ed. (December 5, 2019), pp.20-28.
+* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities (December 2019), pp.20-28.
 
 # Changelog
 
 * 2020-11-15 v2.7
   * 7 volumes from 禮記 added.
+  * 17 eras from 十八史略 added.
 
 * 2020-05-15 v2.6
   * 19 volumes from 禮記 added.
