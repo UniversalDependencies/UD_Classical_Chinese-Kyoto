@@ -23968,8 +23968,8 @@
 # text = 自以所能不及
 1	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	2	nsubj	_	Gloss=self|SpaceAfter=No
 2	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
-3	所	所	PART	p,助詞,接続,体言化	_	4	case	_	Gloss=that-which|SpaceAfter=No
-4	能	能	AUX	v,助動詞,可能,*	Mood=Pot	6	csubj	_	Gloss=can|SpaceAfter=No
+3	所	所	PART	p,助詞,接続,体言化	_	6	mark	_	Gloss=that-which|SpaceAfter=No
+4	能	能	NOUN	n,名詞,不可譲,属性	_	6	nsubj	_	Gloss=ability|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
 6	及	及	VERB	v,動詞,行為,移動	_	2	ccomp	_	Gloss=reach|SpaceAfter=No
 
