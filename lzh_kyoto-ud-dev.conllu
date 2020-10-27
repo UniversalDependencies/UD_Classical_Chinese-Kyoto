@@ -27105,7 +27105,7 @@
 2	太	太	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	3	amod	_	Gloss=very-great|SpaceAfter=No
 3	常	常	NOUN	n,名詞,描写,態度	_	6	nsubj	_	Gloss=usual|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
-5	應	應	AUX	v,助動詞,必要,*	Mood=Nec	6	aux	_	SpaceAfter=No
+5	應	應	AUX	v,助動詞,必要,*	Mood=Nec	6	aux	_	Gloss=ought|SpaceAfter=No
 6	倂	倂	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=combine|SpaceAfter=No
 7	典	典	VERB	v,動詞,行為,動作	_	6	flat:vv	_	SpaceAfter=No
 8	俗	俗	NOUN	n,名詞,描写,形質	_	9	nmod	_	Gloss=vulgarness|SpaceAfter=No
