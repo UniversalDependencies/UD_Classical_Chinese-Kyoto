@@ -17376,7 +17376,7 @@
 
 # sent_id = KR2b0041_016_par1_674-674
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_675-687
 # text = 隋東都畱守越王侗煬帝之孫也
@@ -17411,7 +17411,7 @@
 
 # sent_id = KR2b0041_016_par1_698-698
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_699-703
 # text = 秦主薛擧卒
@@ -17429,7 +17429,7 @@
 
 # sent_id = KR2b0041_016_par1_708-708
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_709-716
 # text = 魏公李密與隋兵戰
@@ -17452,7 +17452,7 @@
 
 # sent_id = KR2b0041_016_par1_722-722
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_723-732
 # text = 宇文化及弑其所立主浩
@@ -17474,7 +17474,7 @@
 
 # sent_id = KR2b0041_016_par1_737-737
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_738-743
 # text = 涼王李軌稱帝
@@ -17487,7 +17487,7 @@
 
 # sent_id = KR2b0041_016_par1_744-744
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_745-751
 # text = 唐秦王世民破秦
@@ -17516,7 +17516,7 @@
 
 # sent_id = KR2b0041_016_par1_764-764
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_765-777
 # text = 李密之將徐世勣據密舊境降唐
@@ -17541,7 +17541,7 @@
 
 # sent_id = KR2b0041_016_par1_781-781
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_782-789
 # text = 竇建德取河北諸州
@@ -17561,7 +17561,7 @@
 
 # sent_id = KR2b0041_016_par1_794-794
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_795-798
 # text = 李密叛唐
@@ -17581,7 +17581,7 @@
 
 # sent_id = KR2b0041_016_par1_805-805
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_806-817
 # text = 夏主竇建德破宇文化及誅之
@@ -17597,7 +17597,7 @@
 
 # sent_id = KR2b0041_016_par1_818-818
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_819-824
 # text = 隋主侗立一年
@@ -17632,7 +17632,7 @@
 
 # sent_id = KR2b0041_016_par1_839-839
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_840-847
 # text = 唐遣將襲涼主李軌
@@ -17662,7 +17662,7 @@
 
 # sent_id = KR2b0041_016_par1_855-855
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_856-864
 # text = 沈法興稱梁王於毗陵
@@ -17676,7 +17676,7 @@
 
 # sent_id = KR2b0041_016_par1_865-865
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_866-874
 # text = 李子通稱吳帝於江都
@@ -17690,7 +17690,7 @@
 
 # sent_id = KR2b0041_016_par1_875-875
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_876-880
 # text = 杜伏威降唐
@@ -17701,7 +17701,7 @@
 
 # sent_id = KR2b0041_016_par1_881-881
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_882-895
 # text = 唐秦王世民擊定陽將宋金剛破之
@@ -17732,7 +17732,7 @@
 
 # sent_id = KR2b0041_016_par1_909-909
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_910-919
 # text = 唐秦王世民督諸軍伐鄭
@@ -17748,7 +17748,7 @@
 
 # sent_id = KR2b0041_016_par1_920-920
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_921-927
 # text = 吳主李子通襲梁
@@ -17770,7 +17770,7 @@
 
 # sent_id = KR2b0041_016_par1_935-935
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_936-942
 # text = 夏王竇建德救鄭
@@ -17864,7 +17864,7 @@
 
 # sent_id = KR2b0041_016_par1_1000-1000
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1001-1014
 # text = 竇建德故將劉黑闥始起兵於漳南
@@ -17882,7 +17882,7 @@
 
 # sent_id = KR2b0041_016_par1_1015-1015
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1016-1022
 # text = 唐遣將李靖伐梁
@@ -17911,7 +17911,7 @@
 
 # sent_id = KR2b0041_016_par1_1033-1033
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1034-1042
 # text = 杜伏威擊吳主李子通
@@ -17936,7 +17936,7 @@
 
 # sent_id = KR2b0041_016_par1_1049-1049
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1050-1057
 # text = 劉黑闥自稱漢東王
@@ -17950,7 +17950,7 @@
 
 # sent_id = KR2b0041_016_par1_1058-1058
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1059-1064
 # text = 楚主林士弘卒
@@ -17969,7 +17969,7 @@
 
 # sent_id = KR2b0041_016_par1_1069-1069
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1070-1077
 # text = 漢東將執黑闥降唐
@@ -17988,7 +17988,7 @@
 
 # sent_id = KR2b0041_016_par1_1080-1080
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1081-1095
 # text = 唐淮南道行臺僕射輔公祏反於丹陽
@@ -18015,7 +18015,7 @@
 
 # sent_id = KR2b0041_016_par1_1101-1101
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1102-1109
 # text = 慶州都督楊文幹反
@@ -18038,7 +18038,7 @@
 
 # sent_id = KR2b0041_016_par1_1118-1118
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1119-1122
 # text = 突厥入寇
@@ -18107,7 +18107,7 @@
 
 # sent_id = KR2b0041_016_par1_1157-1157
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1158-1161
 # text = 唐興七年
@@ -18464,7 +18464,7 @@
 
 # sent_id = KR2b0041_016_par1_1394-1394
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1395-1405
 # text = 初唐之起晉陽皆世民之謀
@@ -18573,7 +18573,7 @@
 
 # sent_id = KR2b0041_016_par1_1481-1481
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_1482-1491
 # text = 武德九年六月太白經天
@@ -19292,7 +19292,7 @@
 
 # sent_id = KR2b0041_016_par2_332-332
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_333-348
 # text = 突厥頡利突利二可汗合十餘萬騎入寇
@@ -19394,7 +19394,7 @@
 
 # sent_id = KR2b0041_016_par2_407-407
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_408-411
 # text = 置弘文館
@@ -19490,7 +19490,7 @@
 
 # sent_id = KR2b0041_016_par2_472-472
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_473-480
 # text = 有上書請去佞臣者
@@ -19854,7 +19854,7 @@
 
 # sent_id = KR2b0041_016_par2_698-698
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_699-705
 # text = 張蘊古獻大寶箴
@@ -20024,7 +20024,7 @@
 
 # sent_id = KR2b0041_016_par2_803-803
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_804-809
 # text = 分天下爲十道
@@ -20060,7 +20060,7 @@
 
 # sent_id = KR2b0041_016_par2_836-836
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_837-842
 # text = 遣將討梁師都
@@ -20089,7 +20089,7 @@
 
 # sent_id = KR2b0041_016_par2_855-855
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_856-864
 # text = 太常祖孝孫奏唐雅樂
@@ -20104,7 +20104,7 @@
 
 # sent_id = KR2b0041_016_par2_865-865
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_866-877
 # text = 貞觀二年又出宮女三千餘人
@@ -20121,7 +20121,7 @@
 
 # sent_id = KR2b0041_016_par2_878-878
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_879-896
 # text = 故事軍國大事中書舍人各執所見雜署其名
@@ -20418,7 +20418,7 @@
 
 # sent_id = KR2b0041_016_par2_1075-1075
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1076-1080
 # text = 初突厥旣强
@@ -20643,7 +20643,7 @@
 
 # sent_id = KR2b0041_016_par2_1243-1243
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1244-1249
 # text = 林邑遣使入貢
@@ -20656,7 +20656,7 @@
 
 # sent_id = KR2b0041_016_par2_1250-1250
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1251-1254
 # text = 伊吾來降
@@ -20672,7 +20672,7 @@
 
 # sent_id = KR2b0041_016_par2_1259-1259
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1260-1267
 # text = 高昌王麴文泰入朝
@@ -20685,7 +20685,7 @@
 
 # sent_id = KR2b0041_016_par2_1268-1268
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1269-1276
 # text = 先是四夷君長詣闕
@@ -20769,7 +20769,7 @@
 
 # sent_id = KR2b0041_016_par2_1322-1322
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1323-1331
 # text = 貞觀四年蔡公如晦卒
@@ -20792,7 +20792,7 @@
 
 # sent_id = KR2b0041_016_par2_1338-1338
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1339-1343
 # text = 是歲大有秊
@@ -21148,7 +21148,7 @@
 
 # sent_id = KR2b0041_016_par2_1561-1561
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1562-1569
 # text = 五年林邑新羅入貢
@@ -21161,7 +21161,7 @@
 
 # sent_id = KR2b0041_016_par2_1570-1570
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1571-1574
 # text = 党項內附
@@ -21180,7 +21180,7 @@
 
 # sent_id = KR2b0041_016_par2_1582-1582
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1583-1589
 # text = 七年春宴玄武門
@@ -21274,7 +21274,7 @@
 
 # sent_id = KR2b0041_016_par2_1640-1640
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1641-1645
 # text = 上親錄囚徒
@@ -21362,7 +21362,7 @@
 
 # sent_id = KR2b0041_016_par2_1696-1696
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1697-1701
 # text = 上奉太上皇
@@ -21419,7 +21419,7 @@
 
 # sent_id = KR2b0041_016_par2_1731-1731
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1732-1739
 # text = 八年吐蕃遣使入貢
@@ -21433,7 +21433,7 @@
 
 # sent_id = KR2b0041_016_par2_1740-1740
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1741-1746
 # text = 九年太上皇崩
@@ -21466,7 +21466,7 @@
 
 # sent_id = KR2b0041_016_par2_1761-1761
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1762-1770
 # text = 吐谷渾先是入寇涼州
@@ -21492,7 +21492,7 @@
 
 # sent_id = KR2b0041_016_par2_1780-1780
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1781-1789
 # text = 十年吐谷渾遣子入侍
@@ -21506,7 +21506,7 @@
 
 # sent_id = KR2b0041_016_par2_1790-1790
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1791-1799
 # text = 治書侍御史權萬紀言
@@ -21612,7 +21612,7 @@
 
 # sent_id = KR2b0041_016_par2_1858-1858
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1859-1861
 # text = 定府兵
@@ -21855,7 +21855,7 @@
 
 # sent_id = KR2b0041_016_par2_2020-2020
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2021-2025
 # text = 十三年夏旱
@@ -21907,7 +21907,7 @@
 
 # sent_id = KR2b0041_016_par2_2053-2053
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2054-2061
 # text = 十四年上詣國子監
@@ -22108,7 +22108,7 @@
 
 # sent_id = KR2b0041_016_par2_2204-2204
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2205-2219
 # text = 高昌王麴文泰先是多遏絶西域朝貢
@@ -22170,7 +22170,7 @@
 
 # sent_id = KR2b0041_016_par2_2251-2251
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2252-2258
 # text = 十五年吐蕃求婚
@@ -22191,7 +22191,7 @@
 
 # sent_id = KR2b0041_016_par2_2266-2266
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2267-2274
 # text = 十七年鄭公魏徵卒
@@ -22276,7 +22276,7 @@
 
 # sent_id = KR2b0041_016_par2_2316-2316
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2317-2395
 # text = 圖畫功臣長孫無忌趙郡王孝恭杜如晦魏徵房玄齡高士廉尉遲敬德李靖蕭瑀段志玄劉弘基屈突通殷開山柴紹長孫順德張亮侯君集張公謹程知節虞世南劉政會唐儉李勣秦叔寶等於凌煙閣
@@ -22342,7 +22342,7 @@
 
 # sent_id = KR2b0041_016_par2_2396-2396
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2397-2402
 # text = 太子承乾不才
@@ -22529,7 +22529,7 @@
 
 # sent_id = KR2b0041_016_par2_2515-2515
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2516-2523
 # text = 十八年上親征高麗
@@ -22599,7 +22599,7 @@
 
 # sent_id = KR2b0041_016_par2_2568-2568
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2569-2578
 # text = 十九年上發洛陽至定州
@@ -22871,7 +22871,7 @@
 
 # sent_id = KR2b0041_016_par2_2744-2744
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2745-2751
 # text = 二十年上如靈州
@@ -23034,7 +23034,7 @@
 
 # sent_id = KR2b0041_016_par2_2850-2850
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2851-2854
 # text = 二十二年
@@ -23165,7 +23165,7 @@
 
 # sent_id = KR2b0041_016_par2_2936-2936
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2937-2943
 # text = 二十三年上有疾
@@ -23266,7 +23266,7 @@
 
 # sent_id = KR2b0041_016_par2_2998-2998
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2999-3000
 # text = 上崩
@@ -23792,7 +23792,7 @@
 
 # sent_id = KR2b0041_016_par3_87-87
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_88-101
 # text = 永徽五年以太宗才人武氏爲昭儀
@@ -23812,7 +23812,7 @@
 
 # sent_id = KR2b0041_016_par3_102-102
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_103-111
 # text = 六年上欲廢皇后王氏
@@ -23948,7 +23948,7 @@
 
 # sent_id = KR2b0041_016_par3_190-190
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_191-203
 # text = 武后以長孫無忌不助己深怨之
@@ -24007,7 +24007,7 @@
 
 # sent_id = KR2b0041_016_par3_237-237
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_238-245
 # text = 乾封元年上封泰山
@@ -24041,7 +24041,7 @@
 
 # sent_id = KR2b0041_016_par3_259-259
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_260-268
 # text = 以李勣爲遼東大總管
@@ -24061,7 +24061,7 @@
 
 # sent_id = KR2b0041_016_par3_272-272
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_273-281
 # text = 總章元年李勣拔平壤
@@ -24095,7 +24095,7 @@
 
 # sent_id = KR2b0041_016_par3_295-295
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_296-303
 # text = 上元元年帝稱天皇
@@ -24116,7 +24116,7 @@
 
 # sent_id = KR2b0041_016_par3_308-308
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_309-318
 # text = 初帝以賤妾子忠爲太子
@@ -24196,7 +24196,7 @@
 
 # sent_id = KR2b0041_016_par3_355-355
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par3_356-363
 # text = 上在位改元者十三
@@ -24407,7 +24407,7 @@
 
 # sent_id = KR2b0041_016_par4_70-70
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par4_71-85
 # text = 則天武氏故荊州都督武士彠之女也
@@ -25977,7 +25977,7 @@
 # text = 是冬殂
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
 2	冬	冬	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=winter|SpaceAfter=No
-3	殂	殂	VERB	v,動詞,変化,生物	_	0	root	_	SpaceAfter=No
+3	殂	殂	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=pass-away|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par4_1133-1136
 # text = 年八十二
@@ -26682,7 +26682,7 @@
 
 # sent_id = KR2b0041_016_par5_106-106
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par5_107-120
 # text = 帝妹太平公主於誅二張誅韋氏時
@@ -26990,7 +26990,7 @@
 
 # sent_id = KR2b0041_016_par6_102-102
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_103-115
 # text = 開元元年高力士爲右監門將軍
@@ -27079,7 +27079,7 @@
 
 # sent_id = KR2b0041_016_par6_167-167
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_168-173
 # text = 姚崇爲紫微令
@@ -27092,7 +27092,7 @@
 
 # sent_id = KR2b0041_016_par6_174-174
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_175-176
 # text = 二年
@@ -27131,7 +27131,7 @@
 
 # sent_id = KR2b0041_016_par6_199-199
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_200-207
 # text = 焚珠玉錦綉於殿前
@@ -27146,7 +27146,7 @@
 
 # sent_id = KR2b0041_016_par6_208-208
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_209-212
 # text = 作興慶宮
@@ -27191,7 +27191,7 @@
 
 # sent_id = KR2b0041_016_par6_236-236
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_237-245
 # text = 三年盧懷愼爲黃門監
@@ -27327,7 +27327,7 @@
 
 # sent_id = KR2b0041_016_par6_323-323
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_324-328
 # text = 四年姚崇罷
@@ -27497,7 +27497,7 @@
 
 # sent_id = KR2b0041_016_par6_427-427
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_428-432
 # text = 八年宋璟罷
@@ -27509,7 +27509,7 @@
 
 # sent_id = KR2b0041_016_par6_433-433
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_434-439
 # text = 九年宇文融言
@@ -27606,7 +27606,7 @@
 
 # sent_id = KR2b0041_016_par6_496-496
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_497-507
 # text = 同三品張說建議召募壯士
@@ -27656,7 +27656,7 @@
 
 # sent_id = KR2b0041_016_par6_530-530
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_531-542
 # text = 十三年更命長從宿衞爲彍騎
@@ -27674,7 +27674,7 @@
 
 # sent_id = KR2b0041_016_par6_543-543
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_544-553
 # text = 二十一年韓休同平章事
@@ -27788,7 +27788,7 @@
 
 # sent_id = KR2b0041_016_par6_609-609
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_610-619
 # text = 二十二年九齡爲中書令
@@ -27858,7 +27858,7 @@
 
 # sent_id = KR2b0041_016_par6_657-657
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_658-679
 # text = 二十四年幽州節度使張守珪執敗軍將安祿山送京師
@@ -28060,7 +28060,7 @@
 
 # sent_id = KR2b0041_016_par6_799-799
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_800-808
 # text = 千秋節羣臣皆獻寶鏡
@@ -28098,7 +28098,7 @@
 
 # sent_id = KR2b0041_016_par6_826-826
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_827-829
 # text = 九齡罷
@@ -28138,7 +28138,7 @@
 
 # sent_id = KR2b0041_016_par6_851-851
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_852-861
 # text = 二十六年立忠王爲太子
@@ -28153,7 +28153,7 @@
 
 # sent_id = KR2b0041_016_par6_862-862
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_863-875
 # text = 二十九年以安祿山爲營州都督
@@ -28189,7 +28189,7 @@
 # text = 皆厚賂
 1	皆	皆	ADV	v,副詞,範囲,総括	_	2	advmod	_	Gloss=all|SpaceAfter=No
 2	厚	厚	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=thick|SpaceAfter=No
-3	賂	賂	NOUN	n,名詞,可搬,成果物	_	2	obj	_	SpaceAfter=No
+3	賂	賂	NOUN	n,名詞,可搬,成果物	_	2	obj	_	Gloss=present|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_892-894
 # text = 歸譽之
@@ -28207,7 +28207,7 @@
 
 # sent_id = KR2b0041_016_par6_900-900
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_901-913
 # text = 天寶元年以祿山爲平盧節度使
@@ -28224,7 +28224,7 @@
 
 # sent_id = KR2b0041_016_par6_914-914
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_915-920
 # text = 二年祿山入朝
@@ -28236,7 +28236,7 @@
 
 # sent_id = KR2b0041_016_par6_921-921
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_922-927
 # text = 三年改年曰載
@@ -28249,7 +28249,7 @@
 
 # sent_id = KR2b0041_016_par6_928-928
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_929-937
 # text = 以祿山兼范陽節度使
@@ -28263,7 +28263,7 @@
 
 # sent_id = KR2b0041_016_par6_938-938
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_939-947
 # text = 四載以楊大眞爲貴妃
@@ -28342,7 +28342,7 @@
 
 # sent_id = KR2b0041_016_par6_992-992
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_993-1002
 # text = 六載以祿山兼御史大夫
@@ -28480,7 +28480,7 @@
 
 # sent_id = KR2b0041_016_par6_1093-1093
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1094-1101
 # text = 十載爲安祿山起第
@@ -28822,7 +28822,7 @@
 
 # sent_id = KR2b0041_016_par6_1317-1317
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1318-1324
 # text = 十一載李林甫卒
@@ -29046,7 +29046,7 @@
 
 # sent_id = KR2b0041_016_par6_1462-1462
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1463-1471
 # text = 十三載祿山聞召卽至
@@ -29081,7 +29081,7 @@
 
 # sent_id = KR2b0041_016_par6_1489-1489
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1490-1501
 # text = 十四載祿山請以蕃將代漢將
@@ -29265,7 +29265,7 @@
 
 # sent_id = KR2b0041_016_par6_1612-1612
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1613-1623
 # text = 平原太守顏眞卿起兵討賊
@@ -29336,7 +29336,7 @@
 
 # sent_id = KR2b0041_016_par6_1663-1663
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1664-1674
 # text = 常山太守顏杲卿起兵討賊
@@ -29361,7 +29361,7 @@
 
 # sent_id = KR2b0041_016_par6_1682-1682
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1683-1695
 # text = 十五載安祿山僭號稱大燕皇帝
@@ -29379,7 +29379,7 @@
 
 # sent_id = KR2b0041_016_par6_1696-1696
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1697-1704
 # text = 賊將史思明陷常山
@@ -29471,7 +29471,7 @@
 
 # sent_id = KR2b0041_016_par6_1756-1756
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1757-1764
 # text = 眞源令張巡帥吏民
@@ -29504,7 +29504,7 @@
 
 # sent_id = KR2b0041_016_par6_1779-1779
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_1780-1802
 # text = 朔方節度使郭子儀河北節度使李光弼與賊將史思明戰
@@ -29912,7 +29912,7 @@
 
 # sent_id = KR2b0041_016_par7_78-78
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_79-85
 # text = 遣使徵兵於回紇
@@ -29925,7 +29925,7 @@
 
 # sent_id = KR2b0041_016_par7_86-86
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_87-100
 # text = 招討節度使房琯與賊戰于陳濤邪
@@ -29953,7 +29953,7 @@
 
 # sent_id = KR2b0041_016_par7_107-107
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_108-117
 # text = 至德二載安慶緖殺祿山
@@ -30031,7 +30031,7 @@
 
 # sent_id = KR2b0041_016_par7_165-165
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_166-169
 # text = 上至鳳翔
@@ -30157,7 +30157,7 @@
 
 # sent_id = KR2b0041_016_par7_259-259
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_260-267
 # text = 賊將尹子奇陷睢陽
@@ -30422,7 +30422,7 @@
 
 # sent_id = KR2b0041_016_par7_425-425
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_426-433
 # text = 上皇發蜀郡還西京
@@ -30436,7 +30436,7 @@
 
 # sent_id = KR2b0041_016_par7_434-434
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_435-446
 # text = 乾元元年命郭子儀等九節度
@@ -30459,7 +30459,7 @@
 
 # sent_id = KR2b0041_016_par7_451-451
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_452-461
 # text = 二年史思明引兵救慶緖
@@ -30498,7 +30498,7 @@
 
 # sent_id = KR2b0041_016_par7_480-480
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_481-487
 # text = 李光弼代郭子儀
@@ -30568,7 +30568,7 @@
 
 # sent_id = KR2b0041_016_par7_528-528
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_529-532
 # text = 上元元年
@@ -30753,7 +30753,7 @@
 
 # sent_id = KR2b0041_016_par7_650-650
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_651-659
 # text = 二年史朝義殺史思明
@@ -30802,7 +30802,7 @@
 
 # sent_id = KR2b0041_016_par7_687-687
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_688-693
 # text = 李光弼爲大尉
@@ -30827,7 +30827,7 @@
 
 # sent_id = KR2b0041_016_par7_702-702
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_703-716
 # text = 寶應元年郭子儀知諸道節度行營
@@ -30863,7 +30863,7 @@
 
 # sent_id = KR2b0041_016_par7_731-731
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_732-737
 # text = 上皇崩於西內
@@ -30890,7 +30890,7 @@
 
 # sent_id = KR2b0041_016_par7_748-748
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_749-751
 # text = 上寢疾
@@ -31262,7 +31262,7 @@
 
 # sent_id = KR2b0041_016_par8_148-148
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_149-156
 # text = 廣德元年吐蕃入寇
@@ -31307,7 +31307,7 @@
 
 # sent_id = KR2b0041_016_par8_181-181
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_182-189
 # text = 二年流宦者程元振
@@ -31401,7 +31401,7 @@
 
 # sent_id = KR2b0041_016_par8_243-243
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_244-250
 # text = 臨淮王李光弼卒
@@ -31481,7 +31481,7 @@
 
 # sent_id = KR2b0041_016_par8_295-295
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_296-299
 # text = 永泰元年
@@ -31526,7 +31526,7 @@
 
 # sent_id = KR2b0041_016_par8_327-327
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_328-340
 # text = 叛將僕固懷恩誘囘紇吐蕃入寇
@@ -31751,7 +31751,7 @@
 
 # sent_id = KR2b0041_016_par8_481-481
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_482-483
 # text = 三年
@@ -31779,7 +31779,7 @@
 
 # sent_id = KR2b0041_016_par8_501-501
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_502-511
 # text = 大曆五年誅宦者魚朝恩
@@ -31982,7 +31982,7 @@
 
 # sent_id = KR2b0041_016_par8_635-635
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_636-644
 # text = 七年盧龍將殺朱希彩
@@ -32012,7 +32012,7 @@
 
 # sent_id = KR2b0041_016_par8_655-655
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_656-664
 # text = 九年朱泚以弟滔領鎭
@@ -32034,7 +32034,7 @@
 
 # sent_id = KR2b0041_016_par8_668-668
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_669-679
 # text = 十二年有吿元載圖不軌者
@@ -32079,7 +32079,7 @@
 
 # sent_id = KR2b0041_016_par8_697-697
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_698-706
 # text = 以楊綰常袞同平章事
@@ -32196,7 +32196,7 @@
 
 # sent_id = KR2b0041_016_par8_771-771
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_772-778
 # text = 十四年田承嗣卒
@@ -32215,7 +32215,7 @@
 
 # sent_id = KR2b0041_016_par8_783-783
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_784-793
 # text = 淮西將李希烈逐節度使
@@ -32239,7 +32239,7 @@
 
 # sent_id = KR2b0041_016_par8_801-801
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_802-807
 # text = 上在位十八年
@@ -32310,7 +32310,7 @@
 
 # sent_id = KR2b0041_016_par9_17-17
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_18-23
 # text = 常袞以欺罔貶
@@ -32415,7 +32415,7 @@
 
 # sent_id = KR2b0041_016_par9_84-84
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_85-93
 # text = 淄靑李正己畏上威名
@@ -32481,7 +32481,7 @@
 
 # sent_id = KR2b0041_016_par9_131-131
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_132-137
 # text = 上方勵精求治
@@ -32533,7 +32533,7 @@
 
 # sent_id = KR2b0041_016_par9_164-164
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_165-173
 # text = 建中元年始作兩稅法
@@ -32737,7 +32737,7 @@
 
 # sent_id = KR2b0041_016_par9_305-305
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_306-309
 # text = 崔祐甫卒
@@ -32747,7 +32747,7 @@
 
 # sent_id = KR2b0041_016_par9_310-310
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_311-317
 # text = 殺忠州刺史劉晏
@@ -32891,7 +32891,7 @@
 
 # sent_id = KR2b0041_016_par9_403-403
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_404-411
 # text = 二年成德李寶臣卒
@@ -32923,7 +32923,7 @@
 
 # sent_id = KR2b0041_016_par9_427-427
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_428-435
 # text = 楊炎盧杞同平章事
@@ -32965,7 +32965,7 @@
 
 # sent_id = KR2b0041_016_par9_451-451
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_452-467
 # text = 尙父大尉中書令汾陽忠武王郭子儀卒
@@ -33127,7 +33127,7 @@
 
 # sent_id = KR2b0041_016_par9_565-565
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_566-571
 # text = 平盧李正己卒
@@ -33161,7 +33161,7 @@
 
 # sent_id = KR2b0041_016_par9_590-590
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_591-598
 # text = 三年四人皆自稱王
@@ -33176,7 +33176,7 @@
 
 # sent_id = KR2b0041_016_par9_599-599
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_600-603
 # text = 李希烈反
@@ -33186,7 +33186,7 @@
 
 # sent_id = KR2b0041_016_par9_604-604
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_605-608
 # text = 兩河用兵
@@ -33235,7 +33235,7 @@
 
 # sent_id = KR2b0041_016_par9_635-635
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_636-641
 # text = 李希烈寇襄城
@@ -33542,7 +33542,7 @@
 
 # sent_id = KR2b0041_016_par9_839-839
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_840-845
 # text = 興元元年大赦
@@ -33606,7 +33606,7 @@
 
 # sent_id = KR2b0041_016_par9_885-885
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_886-894
 # text = 李希烈僭號大楚皇帝
@@ -33621,7 +33621,7 @@
 
 # sent_id = KR2b0041_016_par9_895-895
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_896-904
 # text = 置瓊林大盈庫於行宮
@@ -33646,7 +33646,7 @@
 
 # sent_id = KR2b0041_016_par9_911-911
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_912-915
 # text = 李懷光反
@@ -33663,7 +33663,7 @@
 
 # sent_id = KR2b0041_016_par9_920-920
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_921-927
 # text = 魏博田緖殺田悅
@@ -33683,7 +33683,7 @@
 
 # sent_id = KR2b0041_016_par9_932-932
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_933-938
 # text = 李晟克復長安
@@ -33788,7 +33788,7 @@
 
 # sent_id = KR2b0041_016_par9_990-990
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_991-995
 # text = 車駕還長安
@@ -33799,7 +33799,7 @@
 
 # sent_id = KR2b0041_016_par9_996-996
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_997-1005
 # text = 顏眞卿爲李希烈所殺
@@ -33875,7 +33875,7 @@
 
 # sent_id = KR2b0041_016_par9_1046-1046
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1047-1054
 # text = 貞元元年盧杞量移
@@ -33897,7 +33897,7 @@
 
 # sent_id = KR2b0041_016_par9_1060-1060
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1061-1065
 # text = 幽州朱滔卒
@@ -33909,7 +33909,7 @@
 
 # sent_id = KR2b0041_016_par9_1066-1066
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1067-1074
 # text = 馬燧及諸軍平河中
@@ -33931,7 +33931,7 @@
 
 # sent_id = KR2b0041_016_par9_1080-1080
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1081-1094
 # text = 二年淮西將陳仙奇殺李希烈以降
@@ -33966,7 +33966,7 @@
 
 # sent_id = KR2b0041_016_par9_1109-1109
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1110-1118
 # text = 三年張延賞同平章事
@@ -34177,7 +34177,7 @@
 
 # sent_id = KR2b0041_016_par9_1249-1249
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1250-1255
 # text = 李泌同平章事
@@ -34287,7 +34287,7 @@
 
 # sent_id = KR2b0041_016_par9_1321-1321
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1322-1329
 # text = 八年陸贄同平章事
@@ -34302,7 +34302,7 @@
 
 # sent_id = KR2b0041_016_par9_1330-1330
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1331-1345
 # text = 九年大尉中書令西平忠武王李晟卒
@@ -34323,7 +34323,7 @@
 
 # sent_id = KR2b0041_016_par9_1346-1346
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1347-1351
 # text = 十年陸贄罷
@@ -34335,7 +34335,7 @@
 
 # sent_id = KR2b0041_016_par9_1352-1352
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1353-1361
 # text = 十一年貶贄忠州別駕
@@ -34582,7 +34582,7 @@
 
 # sent_id = KR2b0041_016_par9_1511-1511
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1512-1520
 # text = 十四年淮西吳少誠叛
@@ -34595,7 +34595,7 @@
 
 # sent_id = KR2b0041_016_par9_1521-1521
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1522-1527
 # text = 二十一年上崩
@@ -34846,7 +34846,7 @@
 
 # sent_id = KR2b0041_016_par10_122-122
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par10_123-129
 # text = 追陸贄陽城赴京
@@ -34866,7 +34866,7 @@
 
 # sent_id = KR2b0041_016_par10_133-133
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par10_134-136
 # text = 上在位
@@ -34973,7 +34973,7 @@
 
 # sent_id = KR2b0041_016_par11_37-37
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_38-49
 # text = 元和元年西川節度使劉闢反
@@ -35004,7 +35004,7 @@
 
 # sent_id = KR2b0041_016_par11_63-63
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_64-73
 # text = 夏州畱後楊惠琳拒朝命
@@ -35035,7 +35035,7 @@
 
 # sent_id = KR2b0041_016_par11_83-83
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_84-89
 # text = 高崇文克成都
@@ -35059,7 +35059,7 @@
 
 # sent_id = KR2b0041_016_par11_98-98
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_99-108
 # text = 二年鎭海節度使李錡反
@@ -35097,7 +35097,7 @@
 
 # sent_id = KR2b0041_016_par11_122-122
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_123-137
 # text = 三年沙陀朱邪盡忠與其子執宜來降
@@ -35180,7 +35180,7 @@
 
 # sent_id = KR2b0041_016_par11_179-179
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_180-185
 # text = 自杜黃裳以後
@@ -35390,7 +35390,7 @@
 
 # sent_id = KR2b0041_016_par11_325-325
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_326-327
 # text = 七年
@@ -35502,7 +35502,7 @@
 
 # sent_id = KR2b0041_016_par11_404-404
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_405-414
 # text = 初彰義節度使吳少誠死
@@ -35957,7 +35957,7 @@
 
 # sent_id = KR2b0041_016_par11_722-722
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_723-738
 # text = 十四年迎鳳翔法門寺塔佛指骨至京師
@@ -36043,7 +36043,7 @@
 
 # sent_id = KR2b0041_016_par11_782-782
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_783-790
 # text = 平盧將執斬李師道
@@ -36056,7 +36056,7 @@
 
 # sent_id = KR2b0041_016_par11_791-791
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_792-794
 # text = 裴度罷
@@ -36066,7 +36066,7 @@
 
 # sent_id = KR2b0041_016_par11_795-795
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_796-801
 # text = 十五年上暴崩
@@ -36231,7 +36231,7 @@
 
 # sent_id = KR2b0041_016_par13_15-15
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par13_16-23
 # text = 李德裕獻丹扆六箴
@@ -36287,7 +36287,7 @@
 
 # sent_id = KR2b0041_016_par13_48-48
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par13_49-53
 # text = 上遊戲無度
@@ -36438,7 +36438,7 @@
 1	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 3	掌	掌	NOUN	n,名詞,不可譲,身体	_	4	obl:lmod	_	Gloss=palm|SpaceAfter=No
-4	握	握	VERB	v,動詞,行為,動作	_	1	ccomp	_	SpaceAfter=No
+4	握	握	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=grasp|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par14_44-49
 # text = 權出人主之右
@@ -36565,7 +36565,7 @@
 
 # sent_id = KR2b0041_016_par14_125-125
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par14_126-129
 # text = 太和五年
@@ -36601,7 +36601,7 @@
 
 # sent_id = KR2b0041_016_par14_149-149
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par14_150-162
 # text = 九年上與李訓鄭注等謀誅宦官
@@ -37131,7 +37131,7 @@
 
 # sent_id = KR2b0041_016_par14_510-510
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par14_511-514
 # text = 開成三年
@@ -37205,7 +37205,7 @@
 # text = 穆宗敬宗時皆嘗一入輔政
 1	穆	穆	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Mu|SpaceAfter=No
 2	宗	宗	NOUN	n,名詞,人,関係	_	5	nmod	_	Gloss=ancestor|SpaceAfter=No
-3	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	nmod	_	SpaceAfter=No
+3	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	nmod	_	Gloss=Jing|SpaceAfter=No
 4	宗	宗	NOUN	n,名詞,人,関係	_	2	conj	_	Gloss=ancestor|SpaceAfter=No
 5	時	時	NOUN	n,名詞,時,*	Case=Tem	9	obl:tmod	_	Gloss=time|SpaceAfter=No
 6	皆	皆	ADV	v,副詞,範囲,総括	_	9	advmod	_	Gloss=all|SpaceAfter=No
@@ -37294,7 +37294,7 @@
 
 # sent_id = KR2b0041_016_par14_625-625
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par14_626-629
 # text = 五年上崩
@@ -38017,7 +38017,7 @@
 
 # sent_id = KR2b0041_016_par15_380-380
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par15_381-389
 # text = 昭義節度使劉從諫卒
@@ -38232,7 +38232,7 @@
 
 # sent_id = KR2b0041_016_par15_525-525
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par15_526-533
 # text = 河東都將楊弁作亂
@@ -38271,7 +38271,7 @@
 # text = 元實受賂還
 1	元實	元實	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	受	受	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=receive|SpaceAfter=No
-3	賂	賂	NOUN	n,名詞,可搬,成果物	_	2	obj	_	SpaceAfter=No
+3	賂	賂	NOUN	n,名詞,可搬,成果物	_	2	obj	_	Gloss=present|SpaceAfter=No
 4	還	還	VERB	v,動詞,行為,移動	_	2	parataxis	_	Gloss=return|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par15_554-558
@@ -38456,7 +38456,7 @@
 
 # sent_id = KR2b0041_016_par15_677-677
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par15_678-685
 # text = 削宦者仇士良官爵
@@ -38567,7 +38567,7 @@
 
 # sent_id = KR2b0041_016_par15_749-749
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par15_750-754
 # text = 毀天下佛寺
@@ -38587,7 +38587,7 @@
 
 # sent_id = KR2b0041_016_par15_760-760
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par15_761-766
 # text = 會昌六年上崩
@@ -38771,7 +38771,7 @@
 
 # sent_id = KR2b0041_016_par16_86-86
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par16_87-90
 # text = 李德裕罷
@@ -38805,7 +38805,7 @@
 
 # sent_id = KR2b0041_016_par16_109-109
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par16_110-116
 # text = 令狐綯同平章事
@@ -39525,7 +39525,7 @@
 
 # sent_id = KR2b0041_016_par16_552-552
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par16_553-559
 # text = 大中十三年上崩
@@ -39613,7 +39613,7 @@
 
 # sent_id = KR2b0041_016_par17_29-29
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par17_30-35
 # text = 浙東賊裘甫起
@@ -39642,7 +39642,7 @@
 
 # sent_id = KR2b0041_016_par17_48-48
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par17_49-56
 # text = 九年徐州賊龐勛起
@@ -39707,7 +39707,7 @@
 1	勛	勛	PROPN	n,名詞,人,名	NameType=Giv	6	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
 3	粮	糧	NOUN	n,名詞,可搬,糧食	_	6	nmod	_	Gloss=grain|SpaceAfter=No
-4	料	料	NOUN	n,名詞,可搬,糧食	_	3	conj	_	SpaceAfter=No
+4	料	料	NOUN	n,名詞,可搬,糧食	_	3	conj	_	Gloss=seed|SpaceAfter=No
 5	判	判	NOUN	n,名詞,人,役割	_	6	nmod	_	SpaceAfter=No
 6	官	官	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=officer|SpaceAfter=No
 
@@ -39811,7 +39811,7 @@
 
 # sent_id = KR2b0041_016_par17_164-164
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par17_165-171
 # text = 咸通十四年上崩
@@ -40524,7 +40524,7 @@
 
 # sent_id = KR2b0041_016_par18_452-452
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par18_453-459
 # text = 克用之至汴州也
@@ -40730,7 +40730,7 @@
 
 # sent_id = KR2b0041_016_par18_586-586
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par18_587-593
 # text = 上發成都還長安
@@ -40742,7 +40742,7 @@
 
 # sent_id = KR2b0041_016_par18_594-594
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par18_595-599
 # text = 秦宗權僭號
@@ -40753,7 +40753,7 @@
 
 # sent_id = KR2b0041_016_par18_600-600
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par18_601-605
 # text = 上之奔蜀也
@@ -40883,7 +40883,7 @@
 2	肅	肅	PROPN	n,名詞,人,名	NameType=Giv	3	compound	_	Gloss=[given-name]|SpaceAfter=No
 3	宗	宗	NOUN	n,名詞,人,関係	_	4	nmod	_	Gloss=ancestor|SpaceAfter=No
 4	玄孫	玄孫	NOUN	n,名詞,人,関係	_	1	obj	_	SpaceAfter=No
-5	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	SpaceAfter=No
+5	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	Gloss=Xiang|SpaceAfter=No
 6	王	王	NOUN	n,名詞,人,役割	_	4	flat	_	Gloss=king|SpaceAfter=No
 7	熅	熅	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
 8	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	9	cop	_	Gloss=be|SpaceAfter=No
@@ -41142,7 +41142,7 @@
 
 # sent_id = KR2b0041_016_par19_82-82
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_83-88
 # text = 越州董昌僭號
@@ -41205,7 +41205,7 @@
 
 # sent_id = KR2b0041_016_par19_122-122
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_123-142
 # text = 鳳翔李茂貞華州韓建邠州王行瑜三鎭擧兵犯闕
@@ -41298,7 +41298,7 @@
 
 # sent_id = KR2b0041_016_par19_195-195
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_196-200
 # text = 錢鏐克越州
@@ -41317,7 +41317,7 @@
 
 # sent_id = KR2b0041_016_par19_205-205
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_206-212
 # text = 初李克用屯渭北
@@ -41657,7 +41657,7 @@
 3	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 5	掌	掌	NOUN	n,名詞,不可譲,身体	_	6	obl:lmod	_	Gloss=palm|SpaceAfter=No
-6	握	握	VERB	v,動詞,行為,動作	_	3	ccomp	_	SpaceAfter=No
+6	握	握	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=grasp|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_462-473
 # text = 至有定策國老門生天子之號
@@ -41698,7 +41698,7 @@
 
 # sent_id = KR2b0041_016_par19_492-492
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_493-498
 # text = 全忠威震天下
@@ -41880,7 +41880,7 @@
 
 # sent_id = KR2b0041_016_par19_607-607
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_608-611
 # text = 上自卽位
@@ -42006,7 +42006,7 @@
 
 # sent_id = KR2b0041_016_par19_679-679
 # text = ○
-1	○	○	PUNCT	s,記号,一般,*	_	0	root	_	SpaceAfter=No
+1	○	○	SYM	s,記号,一般,*	_	0	root	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_680-685
 # text = 上在位十七年

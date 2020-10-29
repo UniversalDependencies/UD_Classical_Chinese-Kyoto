@@ -17025,10 +17025,10 @@
 9	許	許	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	conj	_	Gloss=[country-name]|SpaceAfter=No
 10	滕	滕	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	conj	_	Gloss=[country-name]|SpaceAfter=No
 11	薛	薛	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	conj	_	Gloss=[country-name]|SpaceAfter=No
-12	邾	邾	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	conj	_	Gloss=[country-name]|SpaceAfter=No
-13	莒	莒	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	conj	_	Gloss=[country-name]|SpaceAfter=No
-14	江	江	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	conj	_	Gloss=[country-name]|SpaceAfter=No
-15	黃	黃	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	8	conj	_	Gloss=[country-name]|SpaceAfter=No
+12	邾	邾	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	8	conj	_	Gloss=[place-name]|SpaceAfter=No
+13	莒	莒	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	8	conj	_	Gloss=[place-name]|SpaceAfter=No
+14	江	江	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	8	conj	_	Gloss=[place-name]|SpaceAfter=No
+15	黃	黃	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	8	conj	_	Gloss=[place-name]|SpaceAfter=No
 16	之	之	SCONJ	p,助詞,接続,属格	_	8	case	_	Gloss='s|SpaceAfter=No
 17	屬	屬	VERB	v,動詞,行為,設置	_	4	obj	_	Gloss=belong|SpaceAfter=No
 
@@ -17052,7 +17052,7 @@
 9	桓	桓	PROPN	n,名詞,人,その他の人名	NameType=Prs	10	compound	_	Gloss=Huan|SpaceAfter=No
 10	公	公	NOUN	n,名詞,人,役割	_	25	nmod	_	Gloss=duke|SpaceAfter=No
 11	宋	宋	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	13	nmod	_	Gloss=[country-name]|SpaceAfter=No
-12	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	13	compound	_	SpaceAfter=No
+12	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	13	compound	_	Gloss=Xiang|SpaceAfter=No
 13	公	公	NOUN	n,名詞,人,役割	_	10	conj	_	Gloss=duke|SpaceAfter=No
 14	晉	晉	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	16	nmod	_	Gloss=[country-name]|SpaceAfter=No
 15	文	文	PROPN	n,名詞,人,その他の人名	NameType=Prs	16	compound	_	Gloss=Wen|SpaceAfter=No
@@ -17061,12 +17061,12 @@
 18	穆	穆	PROPN	n,名詞,人,その他の人名	NameType=Prs	19	compound	_	Gloss=Mu|SpaceAfter=No
 19	公	公	NOUN	n,名詞,人,役割	_	10	conj	_	Gloss=duke|SpaceAfter=No
 20	楚	楚	PROPN	n,名詞,人,名	NameType=Giv	22	nmod	_	Gloss=[given-name]|SpaceAfter=No
-21	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	22	compound	_	SpaceAfter=No
+21	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	22	compound	_	Gloss=Zhuang|SpaceAfter=No
 22	王	王	NOUN	n,名詞,人,役割	_	10	conj	_	Gloss=king|SpaceAfter=No
 23	五	五	NUM	n,数詞,数字,*	_	24	nummod	_	Gloss=five|SpaceAfter=No
-24	覇	霸	NOUN	n,名詞,人,役割	_	25	nmod	_	SpaceAfter=No
+24	覇	霸	NOUN	n,名詞,人,役割	_	25	nmod	_	Gloss=dominater|SpaceAfter=No
 25	事	事	NOUN	n,名詞,可搬,成果物	_	7	obj	_	Gloss=affair|SpaceAfter=No
-26	跡	跡	NOUN	n,名詞,可搬,成果物	_	25	conj	_	SpaceAfter=No
+26	跡	跡	NOUN	n,名詞,可搬,成果物	_	25	conj	_	Gloss=footprint|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par1_104-112
 # text = 若論春秋諸國之終始
@@ -17074,10 +17074,10 @@
 2	論	論	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=discuss|SpaceAfter=No
 3	春秋	春秋	NOUN	n,名詞,主体,書物	_	5	nmod	_	Gloss=[book-name]|SpaceAfter=No
 4	諸	諸	NOUN	n,名詞,数量,*	_	5	nmod	_	Gloss=[plural]|SpaceAfter=No
-5	國	國	NOUN	n,名詞,主体,集団	_	7	nmod	_	Gloss=country|SpaceAfter=No
+5	國	國	NOUN	n,名詞,主体,集団	_	7	nsubj	_	Gloss=country|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
-7	終	終	NOUN	n,名詞,時,*	Case=Tem	2	obj	_	SpaceAfter=No
-8	始	始	NOUN	n,名詞,時,*	Case=Tem	7	parataxis	_	SpaceAfter=No
+7	終	終	VERB	v,動詞,変化,生物	_	2	ccomp	_	Gloss=end|SpaceAfter=No
+8	始	始	VERB	v,動詞,行為,動作	_	7	flat:vv	_	Gloss=begin|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par1_113-121
 # text = 有未及戰國而先亡者
@@ -17106,14 +17106,14 @@
 # sent_id = KR2b0041_007_par1_131-134
 # text = 各擧其概
 1	各	各	ADV	v,副詞,範囲,限定	_	2	advmod	_	Gloss=each|SpaceAfter=No
-2	擧	擧	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+2	擧	舉	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=raise|SpaceAfter=No
 3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	4	det	_	Gloss=[3PRON]|SpaceAfter=No
-4	概	概	NOUN	n,名詞,描写,形質	_	2	obj	_	SpaceAfter=No
+4	概	概	NOUN	n,名詞,描写,形質	_	2	obj	_	Gloss=overview|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par1_135-140
 # text = 周威烈王以後
 1	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nmod	_	Gloss=[country-name]|SpaceAfter=No
-2	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Weilie|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=king|SpaceAfter=No
 4	以	以	VERB	v,動詞,行為,動作	_	3	acl	_	Gloss=use|SpaceAfter=No
 5	後	後	NOUN	n,名詞,時,*	Case=Tem	4	obj	_	Gloss=after|SpaceAfter=No
@@ -17350,7 +17350,7 @@
 1	徐	徐	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nmod	_	Gloss=[country-name]|SpaceAfter=No
 2	君	君	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=ruler|SpaceAfter=No
 3	已	已	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	4	advmod	_	Gloss=already|SpaceAfter=No
-4	歿	歿	VERB	v,動詞,変化,生物	_	0	root	_	SpaceAfter=No
+4	歿	歿	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=die|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par2_76-78
 # text = 遂解劍
@@ -17374,7 +17374,7 @@
 4	君	君	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=ruler|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	6	advmod	_	Gloss=and|SpaceAfter=No
 6	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
-7	闔廬	闔廬	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	6	obj	_	Gloss=[place-name]|SpaceAfter=No
+7	闔廬	闔廬	PROPN	n,名詞,人,名	NameType=Giv	6	obj	_	Gloss=[given-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par2_93-98
 # text = 擧伍員謀國事
@@ -17485,7 +17485,7 @@
 # sent_id = KR2b0041_007_par2_163-176
 # text = 周敬王二十六年夫差敗越于夫椒
 1	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nmod	_	Gloss=[country-name]|SpaceAfter=No
-2	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Jing|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=king|SpaceAfter=No
 4	二十六	二十六	NUM	n,数詞,数,*	_	7	obl:tmod	_	Gloss=twenty-six|SpaceAfter=No
 5	年	年	NOUN	n,名詞,時,*	Case=Tem	4	clf	_	Gloss=year|SpaceAfter=No
@@ -17503,7 +17503,7 @@
 4	以	以	VERB	v,動詞,行為,動作	_	7	advcl	_	Gloss=use|SpaceAfter=No
 5	餘	餘	NOUN	n,名詞,数量,*	_	6	nmod	_	Gloss=surplus|SpaceAfter=No
 6	兵	兵	NOUN	n,名詞,人,役割	_	4	obj	_	Gloss=soldier|SpaceAfter=No
-7	棲	棲	VERB	v,動詞,行為,設置	_	0	root	_	SpaceAfter=No
+7	棲	棲	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=perch|SpaceAfter=No
 8	會稽	會稽	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	9	nmod	_	Gloss=[place-name]|SpaceAfter=No
 9	山	山	NOUN	n,名詞,固定物,地形	Case=Loc	7	obj	_	Gloss=mountain|SpaceAfter=No
 
@@ -17528,12 +17528,13 @@
 
 # sent_id = KR2b0041_007_par2_199-205
 # text = 太宰伯嚭受越賂
-1	太宰	太宰	NOUN	n,名詞,人,役割	_	2	nmod	_	SpaceAfter=No
-2	伯	伯	PROPN	n,名詞,人,姓氏	NameType=Sur	4	nsubj	_	Gloss=[surname]|SpaceAfter=No
-3	嚭	嚭	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
-4	受	受	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=receive|SpaceAfter=No
-5	越	越	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	nmod	_	Gloss=[country-name]|SpaceAfter=No
-6	賂	賂	NOUN	n,名詞,可搬,成果物	_	4	obj	_	SpaceAfter=No
+1	太	太	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	2	amod	_	Gloss=very-great|SpaceAfter=No
+2	宰	宰	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=minister|SpaceAfter=No
+3	伯	伯	PROPN	n,名詞,人,姓氏	NameType=Sur	2	flat	_	Gloss=[surname]|SpaceAfter=No
+4	嚭	嚭	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
+5	受	受	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=receive|SpaceAfter=No
+6	越	越	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	7	nmod	_	Gloss=[country-name]|SpaceAfter=No
+7	賂	賂	NOUN	n,名詞,可搬,成果物	_	5	obj	_	Gloss=present|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par2_206-210
 # text = 說夫差赦越
@@ -17551,16 +17552,16 @@
 # sent_id = KR2b0041_007_par2_215-219
 # text = 懸胆於坐臥
 1	懸	懸	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=suspend|SpaceAfter=No
-2	胆	胆	NOUN	n,名詞,不可譲,身体	_	1	obj	_	SpaceAfter=No
-3	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-4	坐	坐	NOUN	n,名詞,可搬,道具	_	5	nmod	_	Gloss=seat|SpaceAfter=No
-5	臥	臥	NOUN	n,名詞,固定物,建造物	Case=Loc	1	obl:lmod	_	SpaceAfter=No
+2	胆	膽	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=gall-bladder|SpaceAfter=No
+3	於	於	ADP	v,前置詞,基盤,*	_	4	mark	_	Gloss=at|SpaceAfter=No
+4	坐	坐	VERB	v,動詞,行為,動作	_	1	advcl	_	Gloss=sit|SpaceAfter=No
+5	臥	臥	VERB	v,動詞,行為,姿勢	_	4	flat:vv	_	Gloss=lie-down|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par2_220-224
 # text = 卽仰胆嘗之
-1	卽	即	ADV	v,副詞,判断,確定	_	2	advmod	_	SpaceAfter=No
+1	卽	即	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=immediately|SpaceAfter=No
 2	仰	仰	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=look-up-to|SpaceAfter=No
-3	胆	胆	NOUN	n,名詞,不可譲,身体	_	2	obj	_	SpaceAfter=No
+3	胆	膽	NOUN	n,名詞,不可譲,身体	_	2	obj	_	Gloss=gall-bladder|SpaceAfter=No
 4	嘗	嘗	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=taste|SpaceAfter=No
 5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -17622,7 +17623,7 @@
 2	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
 3	賜	賜	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=bestow|SpaceAfter=No
 4	子胥	子胥	PROPN	n,名詞,人,名	NameType=Giv	3	iobj	_	Gloss=[given-name]|SpaceAfter=No
-5	屬鏤	屬鏤	NOUN	n,名詞,可搬,道具	_	7	nmod	_	SpaceAfter=No
+5	屬鏤	屬鏤	NOUN	n,名詞,可搬,道具	_	7	nmod	_	Gloss=[sword-name]|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 7	劍	劍	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=sword|SpaceAfter=No
 
@@ -17655,7 +17656,7 @@
 
 # sent_id = KR2b0041_007_par2_287-292
 # text = 抉吾目懸東門
-1	抉	抉	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+1	抉	抉	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pull-out|SpaceAfter=No
 2	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	3	det	_	Gloss=[1PRON]|SpaceAfter=No
 3	目	目	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=eye|SpaceAfter=No
 4	懸	懸	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=suspend|SpaceAfter=No
@@ -17707,7 +17708,7 @@
 # sent_id = KR2b0041_007_par2_319-322
 # text = 立祠江上
 1	立	立	VERB	v,動詞,行為,姿勢	_	0	root	_	Gloss=stand|SpaceAfter=No
-2	祠	祠	VERB	v,動詞,行為,動作	_	1	iobj	_	SpaceAfter=No
+2	祠	祠	VERB	v,動詞,行為,儀礼	_	1	iobj	_	Gloss=sacrifice|SpaceAfter=No
 3	江	江	NOUN	n,名詞,固定物,地形	Case=Loc	4	nmod	_	Gloss=river|SpaceAfter=No
 4	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=up|SpaceAfter=No
 
@@ -17739,7 +17740,7 @@
 # sent_id = KR2b0041_007_par2_336-343
 # text = 周元王四年越伐吳
 1	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nmod	_	Gloss=[country-name]|SpaceAfter=No
-2	元	元	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	元	元	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Yuan|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=king|SpaceAfter=No
 4	四	四	NUM	n,数詞,数字,*	_	7	obl:tmod	_	Gloss=four|SpaceAfter=No
 5	年	年	NOUN	n,名詞,時,*	Case=Tem	4	clf	_	Gloss=year|SpaceAfter=No
@@ -17753,19 +17754,19 @@
 2	三	三	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=three|SpaceAfter=No
 3	戰	戰	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=war|SpaceAfter=No
 4	三	三	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=three|SpaceAfter=No
-5	北	北	VERB	v,動詞,行為,動作	_	3	parataxis	_	SpaceAfter=No
+5	北	北	VERB	v,動詞,行為,移動	_	3	parataxis	_	Gloss=go-north|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par2_349-353
 # text = 夫差上姑蘇
 1	夫差	夫差	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	上	上	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=rise|SpaceAfter=No
-3	姑蘇	姑蘇	NOUN	n,名詞,固定物,建造物	Case=Loc	2	obj	_	SpaceAfter=No
+3	姑蘇	姑蘇	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obj	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par2_354-358
 # text = 亦請成於越
 1	亦	亦	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=also|SpaceAfter=No
 2	請	請	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=request|SpaceAfter=No
-3	成	成	NOUN	n,名詞,行為,*	_	2	obj	_	SpaceAfter=No
+3	成	成	VERB	v,動詞,行為,生産	_	2	obj	_	Gloss=complete|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 5	越	越	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 
@@ -17792,7 +17793,7 @@
 # sent_id = KR2b0041_007_par2_372-376
 # text = 爲幎冒乃死
 1	爲	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-2	幎	幎	VERB	v,動詞,行為,設置	VerbForm=Part	3	amod	_	SpaceAfter=No
+2	幎	幎	VERB	v,動詞,行為,設置	VerbForm=Part	3	amod	_	Gloss=cover|SpaceAfter=No
 3	冒	冒	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=cap|SpaceAfter=No
 4	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	5	advmod	_	Gloss=then|SpaceAfter=No
 5	死	死	VERB	v,動詞,変化,生物	_	1	parataxis	_	Gloss=die|SpaceAfter=No
@@ -18219,7 +18220,7 @@
 # sent_id = KR2b0041_007_par5_20-25
 # text = 有襄公玆父者
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Xiang|SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	5	acl	_	Gloss=duke|SpaceAfter=No
 4	玆父	茲父	PROPN	n,名詞,人,名	NameType=Giv	3	flat	_	Gloss=[given-name]|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	1	obj	_	Gloss=that-which|SpaceAfter=No
@@ -18282,7 +18283,7 @@
 1	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
 2	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
 3	宋	宋	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-4	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	acl	_	SpaceAfter=No
+4	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	acl	_	Gloss=Xiang|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	4	case	_	Gloss='s|SpaceAfter=No
 6	仁	仁	NOUN	n,名詞,描写,態度	_	0	root	_	Gloss=benevolence|SpaceAfter=No
 
@@ -18546,7 +18547,7 @@
 5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
 6	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	4	obj	_	Gloss=earth|SpacesAfter=\n
 
-# newpar text = 魯姬姓周公子伯禽之所封也周公誨成王王有過則撻伯禽伯禽就封公戒之曰我文王之子武王之弟今王之叔父然我一沐三握髮一飯三吐哺起以待士猶恐失天下賢人子之魯愼無以國驕人太公封於齊五月而報政周公曰何疾也曰吾簡其君臣禮從其俗伯禽至魯三年而報政周公曰何遅也曰變其俗革其禮喪三年而後除之周公曰後世其北面事齊乎夫政不簡不易民不能近平易近民民必歸之周公問太公何以治齊曰尊賢而尙功周公曰後世必有簒弑之臣太公問周公何以治魯曰尊賢而親親太公曰後漸弱矣伯禽十三世而至隱公爲春秋之始隱公之弟曰桓公桓公之子莊公莊公有庶弟三人曰慶父其後爲孟孫氏曰叔牙其後爲叔孫氏曰季友其後爲季孫氏是爲三桓世執國命歷子班閔公僖公文公宣公成公襄公至昭公伐季氏三家共伐之公奔乾侯以卒弟定公立以孔子爲中都宰一年四方皆則之由中都爲司空進爲大司寇相定公會齊侯于夾谷孔子曰有文事者必有武備請具左右司馬以從旣會齊有司請奏四方之樂於是旗旄劍戟鼓譟而至孔子趨而進曰吾兩君爲好夷狄之樂何爲於此齊景公心怍麾之齊有司請奏宮中之樂優倡侏儒戲而前孔子趨而進曰匹夫熒惑諸侯者罪當誅請命有司加法焉首足異処景公懼歸語其臣曰魯以君子之道輔其君而子独以夷狄之道敎寡人於是齊人乃歸所侵魯鄆汶陽亀陰之地以謝魯孔子言於定公將墮三都以強公室叔孫氏墮郈季氏墮費孟氏之臣不肯墮成圍之弗克孔子由大司寇攝行相事七日而誅亂政大夫少正卯居三月魯大治齊人聞之懼乃歸女樂於魯季桓子受之不聽政郊又不致膰俎於大夫孔子遂去魯定公卒子哀公立欲以越伐三桓不克歷悼公元公至繆公知尊子思而不能用歷共公康公至平公嘗欲見孟子而不果歷文公至頃公爲楚考烈王所滅魯自周公至頃公凡三十四世孔子名丘字仲尼其先宋人也有正考父者佐宋三命滋益恭其鼎銘云一命而僂再命而傴三命而俯循牆而走亦莫余敢侮饘於是粥於是以餬予口孔氏滅於宋其後適魯有叔梁紇者與顏氏女禱於尼山而生孔子爲児嬉戲常陳俎豆設禮容長爲季氏吏料量平嘗爲司樴吏畜蕃息適周問禮於老子反而弟子稍益進適齊齊景公將待以季孟之閒孔子反魯定公用之不終適衞將適陳過匡匡人嘗爲陽虎所暴孔子貌類陽虎止之旣免反于衞醜靈公所爲去之過曹適宋與弟子習禮大樹下桓魋伐抜其樹適鄭鄭人曰東門有人其顙似堯其項類皋陶其肩類子產自要以下不及禹三寸纍纍然若喪家之狗適陳又適衞將西見趙簡子至河聞竇鳴犢舜華殺死臨河歎曰美哉水洋洋乎丘之不濟此命也反于衞適陳適蔡如葉反于蔡楚使人聘孔子陳蔡大夫謀曰孔子用於楚則陳蔡危矣相與發徒圍之於野孔子曰詩云匪兕匪虎率彼曠野吾道非邪吾何爲於是子貢曰夫子道至大天下莫能容顏回曰不容何病然後見君子楚昭王興師迎之乃得至楚將封以書社地七百里令尹子西不可孔子反于衞季康子迎歸魯哀公問政終不能用乃序書上自唐虞下至秦繆刪古詩三千爲三百五篇皆絃歌之禮樂自此可述晩而喜易序彖象繋辭說卦文言読易韋編三絶因魯史記作春秋自隱至哀十二公絶筆於獲麟筆則筆削則削子夏之徒不能賛一辭弟子三千人身通六芸者七十有二人年七十三而卒子鯉字伯魚早死孫伋字子思作中庸孟子其門人也名軻魯孟孫之後生於鄒幼被慈母三遷之敎長受業子思之門道旣通游齊梁不用退與萬章之徒難疑答問作七編老子者楚苦県人也李姓名耳字伯陽又曰字耼爲周守蔵吏孔子問焉老子告之曰良賈深蔵若虚君子盛德容貌若愚孔子去謂弟子曰鳥吾知其能飛魚吾知其能游獣吾知其能走走者可以爲網游者可以爲綸飛者可以爲矰至於龍吾不能知其乘風雲而上天也今見老子其猶龍乎老子見周衰去至關關令尹喜曰子將隱矣爲我著書乃著道德五千餘言而去莫知其所終其後有鄭人列禦寇蒙人莊周亦爲老子之學莊周著書侮孔子而誚諸子焉
+# newpar text = 魯姬姓周公子伯禽之所封也周公誨成王王有過則撻伯禽伯禽就封公戒之曰我文王之子武王之弟今王之叔父然我一沐三握髮一飯三吐哺起以待士猶恐失天下賢人子之魯愼無以國驕人太公封於齊五月而報政周公曰何疾也曰吾簡其君臣禮從其俗伯禽至魯三年而報政周公曰何遅也曰變其俗革其禮喪三年而後除之周公曰後世其北面事齊乎夫政不簡不易民不能近平易近民民必歸之周公問太公何以治齊曰尊賢而尙功周公曰後世必有簒弑之臣太公問周公何以治魯曰尊賢而親親太公曰後漸弱矣伯禽十三世而至隱公爲春秋之始隱公之弟曰桓公桓公之子莊公莊公有庶弟三人曰慶父其後爲孟孫氏曰叔牙其後爲叔孫氏曰季友其後爲季孫氏是爲三桓世執國命歷子班閔公僖公文公宣公成公襄公至昭公伐季氏三家共伐之公奔乾侯以卒弟定公立以孔子爲中都宰一年四方皆則之由中都爲司空進爲大司寇相定公會齊侯于夾谷孔子曰有文事者必有武備請具左右司馬以從旣會齊有司請奏四方之樂於是旗旄劍戟鼓譟而至孔子趨而進曰吾兩君爲好夷狄之樂何爲於此齊景公心怍麾之齊有司請奏宮中之樂優倡侏儒戲而前孔子趨而進曰匹夫熒惑諸侯者罪當誅請命有司加法焉首足異処景公懼歸語其臣曰魯以君子之道輔其君而子独以夷狄之道敎寡人於是齊人乃歸所侵魯鄆汶陽龜陰之地以謝魯孔子言於定公將墮三都以強公室叔孫氏墮郈季氏墮費孟氏之臣不肯墮成圍之弗克孔子由大司寇攝行相事七日而誅亂政大夫少正卯居三月魯大治齊人聞之懼乃歸女樂於魯季桓子受之不聽政郊又不致膰俎於大夫孔子遂去魯定公卒子哀公立欲以越伐三桓不克歷悼公元公至繆公知尊子思而不能用歷共公康公至平公嘗欲見孟子而不果歷文公至頃公爲楚考烈王所滅魯自周公至頃公凡三十四世孔子名丘字仲尼其先宋人也有正考父者佐宋三命滋益恭其鼎銘云一命而僂再命而傴三命而俯循牆而走亦莫余敢侮饘於是粥於是以餬予口孔氏滅於宋其後適魯有叔梁紇者與顏氏女禱於尼山而生孔子爲児嬉戲常陳俎豆設禮容長爲季氏吏料量平嘗爲司樴吏畜蕃息適周問禮於老子反而弟子稍益進適齊齊景公將待以季孟之閒孔子反魯定公用之不終適衞將適陳過匡匡人嘗爲陽虎所暴孔子貌類陽虎止之旣免反于衞醜靈公所爲去之過曹適宋與弟子習禮大樹下桓魋伐抜其樹適鄭鄭人曰東門有人其顙似堯其項類皋陶其肩類子產自要以下不及禹三寸纍纍然若喪家之狗適陳又適衞將西見趙簡子至河聞竇鳴犢舜華殺死臨河歎曰美哉水洋洋乎丘之不濟此命也反于衞適陳適蔡如葉反于蔡楚使人聘孔子陳蔡大夫謀曰孔子用於楚則陳蔡危矣相與發徒圍之於野孔子曰詩云匪兕匪虎率彼曠野吾道非邪吾何爲於是子貢曰夫子道至大天下莫能容顏回曰不容何病然後見君子楚昭王興師迎之乃得至楚將封以書社地七百里令尹子西不可孔子反于衞季康子迎歸魯哀公問政終不能用乃序書上自唐虞下至秦繆刪古詩三千爲三百五篇皆絃歌之禮樂自此可述晩而喜易序彖象繋辭說卦文言読易韋編三絶因魯史記作春秋自隱至哀十二公絶筆於獲麟筆則筆削則削子夏之徒不能賛一辭弟子三千人身通六芸者七十有二人年七十三而卒子鯉字伯魚早死孫伋字子思作中庸孟子其門人也名軻魯孟孫之後生於鄒幼被慈母三遷之敎長受業子思之門道旣通游齊梁不用退與萬章之徒難疑答問作七編老子者楚苦県人也李姓名耳字伯陽又曰字耼爲周守蔵吏孔子問焉老子告之曰良賈深蔵若虚君子盛德容貌若愚孔子去謂弟子曰鳥吾知其能飛魚吾知其能游獣吾知其能走走者可以爲網游者可以爲綸飛者可以爲矰至於龍吾不能知其乘風雲而上天也今見老子其猶龍乎老子見周衰去至關關令尹喜曰子將隱矣爲我著書乃著道德五千餘言而去莫知其所終其後有鄭人列禦寇蒙人莊周亦爲老子之學莊周著書侮孔子而誚諸子焉
 # sent_id = KR2b0041_007_par6_1-3
 # text = 魯姬姓
 1	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nsubj	_	Gloss=[country-name]|SpaceAfter=No
@@ -18624,7 +18625,7 @@
 3	一	一	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=one|SpaceAfter=No
 4	沐	沐	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=wash-the-hair|SpaceAfter=No
 5	三	三	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=three|SpaceAfter=No
-6	握	握	VERB	v,動詞,行為,動作	_	4	parataxis	_	SpaceAfter=No
+6	握	握	VERB	v,動詞,行為,動作	_	4	parataxis	_	Gloss=grasp|SpaceAfter=No
 7	髮	髮	NOUN	n,名詞,不可譲,身体	_	6	obj	_	Gloss=hair-of-the-head|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_54-58
@@ -18930,12 +18931,12 @@
 2	公	公	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=duke|SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,関係	_	6	nsubj	_	Gloss=child|SpaceAfter=No
-5	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	SpaceAfter=No
+5	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	Gloss=Zhuang|SpaceAfter=No
 6	公	公	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=duke|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_238-244
 # text = 莊公有庶弟三人
-1	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Zhuang|SpaceAfter=No
 2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	庶	庶	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	5	amod	_	Gloss=common|SpaceAfter=No
@@ -19010,7 +19011,7 @@
 10	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
 11	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	12	compound	_	SpaceAfter=No
 12	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
-13	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	14	compound	_	SpaceAfter=No
+13	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	14	compound	_	Gloss=Xiang|SpaceAfter=No
 14	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_295-297
@@ -19306,7 +19307,7 @@
 11	人	人	NOUN	n,名詞,人,人	_	9	obj	_	Gloss=person|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_487-502
-# text = 於是齊人乃歸所侵魯鄆汶陽亀陰之地
+# text = 於是齊人乃歸所侵魯鄆汶陽龜陰之地
 1	於	於	ADP	v,前置詞,基盤,*	_	2	case	_	Gloss=at|SpaceAfter=No
 2	是	是	PRON	n,代名詞,指示,*	PronType=Dem	6	advcl	_	Gloss=this|SpaceAfter=No
 3	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
@@ -19318,7 +19319,7 @@
 9	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	10	nmod	_	Gloss=[country-name]|SpaceAfter=No
 10	鄆	鄆	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	14	acl	_	Gloss=[place-name]|SpaceAfter=No
 11	汶陽	汶陽	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	10	conj	_	Gloss=[place-name]|SpaceAfter=No
-12	亀陰	龜陰	NOUN	n,名詞,主体,動物	_	10	conj	_	SpaceAfter=No
+12	龜陰	龜陰	NOUN	n,名詞,主体,動物	_	10	conj	_	SpaceAfter=No
 13	之	之	SCONJ	p,助詞,接続,属格	_	10	case	_	Gloss='s|SpaceAfter=No
 14	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	6	obj	_	Gloss=earth|SpaceAfter=No
 
@@ -19497,7 +19498,7 @@
 1	歷	歷	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=pass-through-in-order|SpaceAfter=No
 2	悼	悼	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=duke|SpaceAfter=No
-4	元	元	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	SpaceAfter=No
+4	元	元	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Yuan|SpaceAfter=No
 5	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_621-623
@@ -21343,7 +21344,7 @@
 # sent_id = KR2b0041_007_par8_59-62
 # text = 穆襄以來
 1	穆	穆	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	nsubj	_	Gloss=Mu|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	1	conj	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	1	conj	_	Gloss=Xiang|SpaceAfter=No
 3	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	4	advmod	_	Gloss=use|SpaceAfter=No
 4	來	來	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=come|SpaceAfter=No
 
@@ -21392,7 +21393,7 @@
 1	鄭	鄭	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nsubj	_	Gloss=[country-name]|SpaceAfter=No
 2	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
 3	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	nmod	_	Gloss=[country-name]|SpaceAfter=No
-4	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	SpaceAfter=No
+4	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Weilie|SpaceAfter=No
 5	王	王	NOUN	n,名詞,人,役割	_	6	nmod	_	Gloss=king|SpaceAfter=No
 6	時	時	NOUN	n,名詞,時,*	Case=Tem	2	obj	_	Gloss=time|SpaceAfter=No
 
@@ -21812,7 +21813,7 @@
 # sent_id = KR2b0041_007_par9_241-251
 # text = 歷襄公靈公成公景公厲公
 1	歷	歷	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=pass-through-in-order|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Xiang|SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=duke|SpaceAfter=No
 4	靈	靈	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Ling|SpaceAfter=No
 5	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
@@ -21820,7 +21821,7 @@
 7	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
 8	景	景	PROPN	n,名詞,人,その他の人名	NameType=Prs	9	compound	_	Gloss=Jing|SpaceAfter=No
 9	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
-10	厲	厲	PROPN	n,名詞,人,その他の人名	NameType=Prs	11	compound	_	SpaceAfter=No
+10	厲	厲	PROPN	n,名詞,人,その他の人名	NameType=Prs	11	compound	_	Gloss=Li|SpaceAfter=No
 11	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par9_252-254
@@ -21982,7 +21983,7 @@
 2	卿	卿	NOUN	n,名詞,人,役割	_	9	nsubj	_	Gloss=minister|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	9	acl	_	Gloss=use|SpaceAfter=No
 4	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	nmod	_	Gloss=[country-name]|SpaceAfter=No
-5	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	SpaceAfter=No
+5	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	Gloss=Weilie|SpaceAfter=No
 6	王	王	NOUN	n,名詞,人,役割	_	7	nmod	_	Gloss=king|SpaceAfter=No
 7	命	命	NOUN	n,名詞,可搬,伝達	_	3	obj	_	Gloss=decree|SpaceAfter=No
 8	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	9	cop	_	Gloss=be|SpaceAfter=No
@@ -22010,7 +22011,7 @@
 5	哀	哀	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	Gloss=Ai|SpaceAfter=No
 6	侯	侯	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=marquis|SpaceAfter=No
 7	趙	趙	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	9	nmod	_	Gloss=[country-name]|SpaceAfter=No
-8	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	9	compound	_	SpaceAfter=No
+8	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	9	compound	_	Gloss=Jing|SpaceAfter=No
 9	侯	侯	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=marquis|SpaceAfter=No
 10	共	共	ADV	v,動詞,行為,交流	VerbForm=Conv	11	advmod	_	Gloss=join-the-hands|SpaceAfter=No
 11	廢	廢	VERB	v,動詞,変化,制度	_	0	root	_	Gloss=abolish|SpaceAfter=No
@@ -22167,7 +22168,7 @@
 # sent_id = KR2b0041_007_par11_30-34
 # text = 兄襄公無道
 1	兄	兄	NOUN	n,名詞,人,関係	_	3	nmod	_	Gloss=elder-brother|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Xiang|SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=duke|SpaceAfter=No
 4	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 5	道	道	NOUN	n,名詞,制度,儀礼	_	4	obj	_	Gloss=doctrine|SpaceAfter=No
@@ -22209,7 +22210,7 @@
 
 # sent_id = KR2b0041_007_par11_56-63
 # text = 襄公爲弟無知所弑
-1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Xiang|SpaceAfter=No
 2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
 3	爲	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 4	弟	弟	NOUN	n,名詞,人,関係	_	5	nmod	_	Gloss=younger-brother|SpaceAfter=No
@@ -22951,7 +22952,7 @@
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
 6	祀	祀	VERB	v,動詞,行為,儀礼	_	4	parataxis	_	Gloss=sacrifice|SpacesAfter=\n
 
-# newpar text = 田氏齊者本嬀姓故陳厲公侘子完之後也完奔齊爲陳氏後又以陳爲田氏完事齊桓公爲工正卒謚敬仲五世至釐子乞事齊景公爲大夫其收賦稅於民以小斗受之其粟予民以大斗行私惠於民而公弗禁由是得齊衆乞専政卒子成子恒弑簡公立平公封邑大於公所食恒卒襄子盤立與韓趙魏通使蓋三家且有晉而田氏且有齊也歷莊子白至太公和遂以周安王命爲侯卒子桓公午立卒子威王因齊立初不治諸侯皆來伐八年楚大發兵加齊齊使淳于髠請救于趙齎金百斤車馬十駟髠仰天大笑王曰先生少之乎髠曰臣見道傍有禯田者操一豚蹄酒一壺祝曰瓯窶滿篝汙邪滿車五穀蕃熟穰穰滿家臣見其所持者狭所欲者奢故笑之王乃益黃金千鎰白璧十双車馬百駟髠乃行時齊國幾不振王乃召卽墨大夫語之曰自子之居卽墨也毀言日至然吾使人視卽墨田野辟人民給官無事東方寧是子不事吾左右以求助也封之萬家召阿大夫語之曰自子之守阿誉言日至吾使人視阿田野不辟人民貧餒趙攻鄄子不救衞取薛陵子不知是子厚幣事吾左右以求誉也是日烹阿大夫與嘗誉者群臣聳懼莫敢飾詐齊大治諸侯不敢復致兵威王與魏惠王會田于郊惠王曰齊有寶乎王曰無有惠王曰寡人國雖小猶有径寸之珠照車前後各十二乘者十枚威王曰寡人乃寶與王異吾臣有檀子者使守南城楚不敢爲寇泗上十二諸侯皆來朝有盻子者使守高唐趙人不敢東漁於河有黔夫者使守徐州則燕人祭北門趙人祭西門有種首者使備盗賊道不拾遺此四臣者將照千里豈特十二乘哉惠王有慙色威王卒子宣王立喜文學遊說之士騶衍淳于髠田駢愼到之徒七十六人皆爲上大夫是以齊稷下學士盛且數百千人然而孟子至而不能用魏伐韓韓請救於齊齊使田忌爲將以救韓魏將龐涓嘗與孫臏同學兵法涓爲魏將軍自以所能不及以法斷其兩足而黥之齊使至魏窃載以歸至是臏爲齊軍師直走魏都涓去韓而歸臏使齊軍入魏地者爲十萬竈明日爲五萬竈又明日爲二萬竈涓大喜曰我固知齊軍怯入吾地三日士卒亡者過半矣乃倍日并行遂之臏度其行暮當至馬陵道陿而旁多阻可伏兵乃斫大樹白而書曰龐涓死此樹下令齊師善射者萬弩夾道而伏期暮見火擧而發涓果夜至斫木下見白書以火燭之萬弩倶發魏師大亂相失涓自剄曰遂成豎子之名齊大破魏師虜太子申宣王卒湣王立靖郭君田嬰者宣王之庶弟也封於薛有子曰文食客數千人名聲聞於諸侯號爲孟嘗君秦昭王聞其賢乃先納質於齊以求見至則止囚欲殺之孟嘗君使人抵昭王幸姬求解姬曰願得君狐白裘蓋孟嘗君嘗以獻昭王無他裘矣客有能爲狗盗者入秦蔵中取裘以獻姬姬爲言得釋卽馳去變姓名夜半至函谷關關法鶏鳴方出客恐秦王後悔追之客有能爲鶏鳴者鶏盡鳴遂發傳出食頃追者果至而不及孟嘗君歸怨秦與韓魏伐之入函谷關秦割城以和孟嘗君相齊或毀之於王乃出奔湣王滅宋而驕燕昭王以齊嘗破燕之故與諸侯合謀而攻齊燕軍入臨淄湣王走莒楚將淖齒救齊反殺湣王而與燕共分齊之侵地王孫賈從湣王於莒而失王処其母曰汝朝出而晩來吾則倚門而望汝暮出而不還吾則倚閭而望汝今事王王走汝不知処汝尙何歸焉賈乃攻淖齒殺之求湣王子法章而立之保莒以抗燕時齊城惟莒卽墨不下卽墨人推田單爲將軍身操版插與士卒分功妻妾編於行伍收城中得牛千餘爲絳繒衣画五彩龍文束兵刃其角灌脂束葦於尾燒其端鑿城數十穴夜縦牛壮士随其後牛尾熱怒奔燕軍所觸盡死傷而城中鼓譟從之聲振天地燕軍敗走七十餘城皆復爲齊迎襄王於莒封單爲安平君單攻狄三月不克魯仲連曰將軍在卽墨曰無可往矣宗廟亡矣將軍有死之心士卒無生之気莫不揮泣奮臂欲戰今將軍東有夜邑之奉西有淄上之娛黃金横帶騁乎淄澠之閒有生之樂無死之心故不勝也單明日厲気巡城立於矢石之所援枹鼓之狄人乃下襄王旣立而孟嘗君中立爲諸侯無所屬王畏之與連和初馮驩聞孟嘗君好客而來見置傳舍十日彈劍作歌曰長鋏歸來乎食無魚遷之幸舍食有魚矣又歌曰長鋏歸來乎出無輿遷之代舍出有輿矣又歌曰長鋏歸來乎無以爲家孟嘗君不悅時邑入不足以奉客使人出銭於薛貸者多不能與息孟嘗君乃進驩請責之驩往不能與者取其券焼之孟嘗君怒驩曰令薛民親君孟嘗君竟爲薛公終於薛襄王卒子建立母君王后賢事秦謹與諸侯信君王后卒齊客多受秦金爲反閒勧王朝秦不修攻戰之備不助五國攻秦秦王政旣滅五國兵入臨淄王建遂降遷于共処之松柏之閒而死以齊爲郡齊人歌之曰松邪柏邪住建共者客邪
+# newpar text = 田氏齊者本嬀姓故陳厲公侘子完之後也完奔齊爲陳氏後又以陳爲田氏完事齊桓公爲工正卒謚敬仲五世至釐子乞事齊景公爲大夫其收賦稅於民以小斗受之其粟予民以大斗行私惠於民而公弗禁由是得齊衆乞専政卒子成子恒弑簡公立平公封邑大於公所食恒卒襄子盤立與韓趙魏通使蓋三家且有晉而田氏且有齊也歷莊子白至太公和遂以周安王命爲侯卒子桓公午立卒子威王因齊立初不治諸侯皆來伐八年楚大發兵加齊齊使淳于髠請救于趙齎金百斤車馬十駟髠仰天大笑王曰先生少之乎髠曰臣見道傍有禯田者操一豚蹄酒一壺祝曰瓯窶滿篝汙邪滿車五穀蕃熟穰穰滿家臣見其所持者狹所欲者奢故笑之王乃益黃金千鎰白璧十双車馬百駟髠乃行時齊國幾不振王乃召卽墨大夫語之曰自子之居卽墨也毀言日至然吾使人視卽墨田野辟人民給官無事東方寧是子不事吾左右以求助也封之萬家召阿大夫語之曰自子之守阿誉言日至吾使人視阿田野不辟人民貧餒趙攻鄄子不救衞取薛陵子不知是子厚幣事吾左右以求誉也是日烹阿大夫與嘗誉者群臣聳懼莫敢飾詐齊大治諸侯不敢復致兵威王與魏惠王會田于郊惠王曰齊有寶乎王曰無有惠王曰寡人國雖小猶有径寸之珠照車前後各十二乘者十枚威王曰寡人乃寶與王異吾臣有檀子者使守南城楚不敢爲寇泗上十二諸侯皆來朝有盻子者使守高唐趙人不敢東漁於河有黔夫者使守徐州則燕人祭北門趙人祭西門有種首者使備盗賊道不拾遺此四臣者將照千里豈特十二乘哉惠王有慙色威王卒子宣王立喜文學遊說之士騶衍淳于髠田駢愼到之徒七十六人皆爲上大夫是以齊稷下學士盛且數百千人然而孟子至而不能用魏伐韓韓請救於齊齊使田忌爲將以救韓魏將龐涓嘗與孫臏同學兵法涓爲魏將軍自以所能不及以法斷其兩足而黥之齊使至魏窃載以歸至是臏爲齊軍師直走魏都涓去韓而歸臏使齊軍入魏地者爲十萬竈明日爲五萬竈又明日爲二萬竈涓大喜曰我固知齊軍怯入吾地三日士卒亡者過半矣乃倍日并行遂之臏度其行暮當至馬陵道陿而旁多阻可伏兵乃斫大樹白而書曰龐涓死此樹下令齊師善射者萬弩夾道而伏期暮見火擧而發涓果夜至斫木下見白書以火燭之萬弩倶發魏師大亂相失涓自剄曰遂成豎子之名齊大破魏師虜太子申宣王卒湣王立靖郭君田嬰者宣王之庶弟也封於薛有子曰文食客數千人名聲聞於諸侯號爲孟嘗君秦昭王聞其賢乃先納質於齊以求見至則止囚欲殺之孟嘗君使人抵昭王幸姬求解姬曰願得君狐白裘蓋孟嘗君嘗以獻昭王無他裘矣客有能爲狗盗者入秦蔵中取裘以獻姬姬爲言得釋卽馳去變姓名夜半至函谷關關法鶏鳴方出客恐秦王後悔追之客有能爲鶏鳴者鶏盡鳴遂發傳出食頃追者果至而不及孟嘗君歸怨秦與韓魏伐之入函谷關秦割城以和孟嘗君相齊或毀之於王乃出奔湣王滅宋而驕燕昭王以齊嘗破燕之故與諸侯合謀而攻齊燕軍入臨淄湣王走莒楚將淖齒救齊反殺湣王而與燕共分齊之侵地王孫賈從湣王於莒而失王処其母曰汝朝出而晩來吾則倚門而望汝暮出而不還吾則倚閭而望汝今事王王走汝不知処汝尙何歸焉賈乃攻淖齒殺之求湣王子法章而立之保莒以抗燕時齊城惟莒卽墨不下卽墨人推田單爲將軍身操版插與士卒分功妻妾編於行伍收城中得牛千餘爲絳繒衣画五彩龍文束兵刃其角灌脂束葦於尾燒其端鑿城數十穴夜縦牛壮士随其後牛尾熱怒奔燕軍所觸盡死傷而城中鼓譟從之聲振天地燕軍敗走七十餘城皆復爲齊迎襄王於莒封單爲安平君單攻狄三月不克魯仲連曰將軍在卽墨曰無可往矣宗廟亡矣將軍有死之心士卒無生之気莫不揮泣奮臂欲戰今將軍東有夜邑之奉西有淄上之娛黃金横帶騁乎淄澠之閒有生之樂無死之心故不勝也單明日厲気巡城立於矢石之所援枹鼓之狄人乃下襄王旣立而孟嘗君中立爲諸侯無所屬王畏之與連和初馮驩聞孟嘗君好客而來見置傳舍十日彈劍作歌曰長鋏歸來乎食無魚遷之幸舍食有魚矣又歌曰長鋏歸來乎出無輿遷之代舍出有輿矣又歌曰長鋏歸來乎無以爲家孟嘗君不悅時邑入不足以奉客使人出銭於薛貸者多不能與息孟嘗君乃進驩請責之驩往不能與者取其券焼之孟嘗君怒驩曰令薛民親君孟嘗君竟爲薛公終於薛襄王卒子建立母君王后賢事秦謹與諸侯信君王后卒齊客多受秦金爲反閒勧王朝秦不修攻戰之備不助五國攻秦秦王政旣滅五國兵入臨淄王建遂降遷于共処之松柏之閒而死以齊爲郡齊人歌之曰松邪柏邪住建共者客邪
 # sent_id = KR2b0041_007_par12_1-7
 # text = 田氏齊者本嬀姓
 1	田	田	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nmod	_	Gloss=[surname]|SpaceAfter=No
@@ -22966,8 +22967,8 @@
 # text = 故陳厲公侘子完之後也
 1	故	故	ADV	v,副詞,判断,確定	_	9	advmod	_	Gloss=therefore|SpaceAfter=No
 2	陳	陳	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-3	厲	厲	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	SpaceAfter=No
-4	公	公	PRON	n,代名詞,人称,起格	PronType=Prs	9	nsubj	_	SpaceAfter=No
+3	厲	厲	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	Gloss=Li|SpaceAfter=No
+4	公	公	NOUN	n,名詞,人,役割	_	9	nsubj	_	Gloss=duke|SpaceAfter=No
 5	侘	侘	PROPN	n,名詞,人,名	NameType=Giv	6	nmod	_	Gloss=[given-name]|SpaceAfter=No
 6	子	子	NOUN	n,名詞,人,関係	_	9	nmod	_	Gloss=child|SpaceAfter=No
 7	完	完	PROPN	n,名詞,人,名	NameType=Giv	6	flat	_	Gloss=[given-name]|SpaceAfter=No
@@ -23333,20 +23334,20 @@
 
 # sent_id = KR2b0041_007_par12_239-242
 # text = 穰穰滿家
-1	穰	穰	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	3	advmod	_	SpaceAfter=No
-2	穰	穰	VERB	v,動詞,描写,量	Degree=Pos	1	compound:redup	_	SpaceAfter=No
+1	穰	穰	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	3	advmod	_	Gloss=abundant|SpaceAfter=No
+2	穰	穰	VERB	v,動詞,描写,量	Degree=Pos	1	compound:redup	_	Gloss=abundant|SpaceAfter=No
 3	滿	滿	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=full|SpaceAfter=No
 4	家	家	NOUN	n,名詞,主体,集団	_	3	obj	_	Gloss=family|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par12_243-253
-# text = 臣見其所持者狭所欲者奢
+# text = 臣見其所持者狹所欲者奢
 1	臣	臣	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=vassal|SpaceAfter=No
 2	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
 3	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 4	所	所	PART	p,助詞,接続,体言化	_	5	mark	_	Gloss=that-which|SpaceAfter=No
 5	持	持	VERB	v,動詞,行為,動作	_	6	acl	_	Gloss=hold|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
-7	狭	狹	NOUN	n,名詞,可搬,伝達	_	2	ccomp	_	SpaceAfter=No
+7	狹	狹	VERB	v,動詞,描写,形質	Degree=Pos	2	ccomp	_	Gloss=narrow|SpaceAfter=No
 8	所	所	PART	p,助詞,接続,体言化	_	9	case	_	Gloss=that-which|SpaceAfter=No
 9	欲	欲	VERB	v,動詞,行為,動作	_	10	acl	_	Gloss=desire|SpaceAfter=No
 10	者	者	PART	p,助詞,提示,*	_	11	nsubj	_	Gloss=that-which|SpaceAfter=No
@@ -23370,7 +23371,7 @@
 8	白	白	NOUN	n,名詞,描写,形質	_	9	nmod	_	Gloss=white|SpaceAfter=No
 9	璧	璧	NOUN	n,名詞,可搬,道具	_	5	conj	_	Gloss=pierced-circular-jade|SpaceAfter=No
 10	十	十	NUM	n,数詞,数字,*	_	9	nummod	_	Gloss=ten|SpaceAfter=No
-11	双	双	NOUN	n,名詞,数量,*	_	10	clf	_	SpaceAfter=No
+11	双	雙	NOUN	n,名詞,度量衡,*	NounType=Class	10	clf	_	Gloss=pair|SpaceAfter=No
 12	車	車	NOUN	n,名詞,可搬,乗り物	_	13	nmod	_	Gloss=cart|SpaceAfter=No
 13	馬	馬	NOUN	n,名詞,主体,動物	_	5	conj	_	Gloss=horse|SpaceAfter=No
 14	百	百	NUM	n,数詞,数字,*	_	13	nummod	_	Gloss=hundred|SpaceAfter=No
@@ -24948,7 +24949,7 @@
 # sent_id = KR2b0041_007_par12_1278-1282
 # text = 迎襄王於莒
 1	迎	迎	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=welcome|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Xiang|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=king|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 5	莒	莒	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	1	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
@@ -25129,7 +25130,7 @@
 
 # sent_id = KR2b0041_007_par12_1392-1395
 # text = 襄王旣立
-1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Xiang|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=king|SpaceAfter=No
 3	旣	既	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	4	advmod	_	Gloss=already|SpaceAfter=No
 4	立	立	VERB	v,動詞,行為,姿勢	_	0	root	_	Gloss=stand|SpaceAfter=No
@@ -25383,7 +25384,7 @@
 
 # sent_id = KR2b0041_007_par12_1550-1552
 # text = 襄王卒
-1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Xiang|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
 3	卒	卒	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=end|SpaceAfter=No
 
@@ -26632,7 +26633,7 @@
 # text = 以周威烈王命爲侯
 1	以	以	VERB	v,動詞,行為,動作	_	7	acl	_	Gloss=use|SpaceAfter=No
 2	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-3	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	SpaceAfter=No
+3	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	Gloss=Weilie|SpaceAfter=No
 4	王	王	NOUN	n,名詞,人,役割	_	5	nmod	_	Gloss=king|SpaceAfter=No
 5	命	命	NOUN	n,名詞,可搬,伝達	_	1	obj	_	Gloss=decree|SpaceAfter=No
 6	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
@@ -26643,7 +26644,7 @@
 1	歷	歷	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=pass-through-in-order|SpaceAfter=No
 2	武	武	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Wu|SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=duke|SpaceAfter=No
-4	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	SpaceAfter=No
+4	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Jing|SpaceAfter=No
 5	侯	侯	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=marquis|SpaceAfter=No
 6	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	7	compound	_	SpaceAfter=No
 7	侯	侯	PART	p,助詞,句頭,*	_	3	conj	_	Gloss=[modal-particle]|SpaceAfter=No
@@ -28908,7 +28909,7 @@
 # text = 以周威烈王命爲侯
 1	以	以	VERB	v,動詞,行為,動作	_	7	acl	_	Gloss=use|SpaceAfter=No
 2	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nmod	_	Gloss=[country-name]|SpaceAfter=No
-3	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	SpaceAfter=No
+3	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	Gloss=Weilie|SpaceAfter=No
 4	王	王	NOUN	n,名詞,人,役割	_	5	nmod	_	Gloss=king|SpaceAfter=No
 5	命	命	NOUN	n,名詞,可搬,伝達	_	1	obj	_	Gloss=decree|SpaceAfter=No
 6	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
@@ -29662,7 +29663,7 @@
 # sent_id = KR2b0041_007_par14_536-539
 # text = 子襄王立
 1	子	子	NOUN	n,名詞,人,関係	_	4	nsubj	_	Gloss=child|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Xiang|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	1	flat	_	Gloss=king|SpaceAfter=No
 4	立	立	VERB	v,動詞,行為,姿勢	_	0	root	_	Gloss=stand|SpaceAfter=No
 
@@ -29849,7 +29850,7 @@
 
 # sent_id = KR2b0041_007_par14_653-659
 # text = 襄王時復歸相秦
-1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Xiang|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=king|SpaceAfter=No
 3	時	時	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=time|SpaceAfter=No
 4	復	復	ADV	v,副詞,頻度,重複	_	5	advmod	_	Gloss=again|SpaceAfter=No
@@ -30454,7 +30455,7 @@
 # text = 以周威烈王命爲侯
 1	以	以	VERB	v,動詞,行為,動作	_	7	acl	_	Gloss=use|SpaceAfter=No
 2	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-3	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	SpaceAfter=No
+3	威烈	威烈	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	Gloss=Weilie|SpaceAfter=No
 4	王	王	NOUN	n,名詞,人,役割	_	5	nmod	_	Gloss=king|SpaceAfter=No
 5	命	命	NOUN	n,名詞,可搬,伝達	_	1	obj	_	Gloss=decree|SpaceAfter=No
 6	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
@@ -30571,7 +30572,7 @@
 2	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	3	obj	_	Gloss=self|SpaceAfter=No
 3	皮	皮	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
 4	面	面	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=face|SpaceAfter=No
-5	抉	抉	VERB	v,動詞,行為,動作	_	3	conj	_	SpaceAfter=No
+5	抉	抉	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=pull-out|SpaceAfter=No
 6	眼	眼	NOUN	n,名詞,不可譲,身体	_	5	obj	_	Gloss=eye|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par15_141-147
@@ -31015,7 +31016,7 @@
 1	尋	尋	ADV	v,副詞,時相,緊接	AdvType=Tim	6	advmod	_	SpaceAfter=No
 2	與	與	ADP	v,前置詞,関係,*	_	5	case	_	Gloss=associate-with|SpaceAfter=No
 3	宋	宋	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	nmod	_	Gloss=[country-name]|SpaceAfter=No
-4	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	SpaceAfter=No
+4	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Xiang|SpaceAfter=No
 5	公	公	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=duke|SpaceAfter=No
 6	爭	爭	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=quarrel|SpaceAfter=No
 7	覇	霸	PROPN	n,名詞,人,名	NameType=Giv	6	obj	_	Gloss=[given-name]|SpaceAfter=No
@@ -31039,7 +31040,7 @@
 # sent_id = KR2b0041_007_par16_118-120
 # text = 至莊王
 1	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
-2	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Zhuang|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=king|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par16_121-124
@@ -32950,13 +32951,13 @@
 # sent_id = KR2b0041_007_par18_72-74
 # text = 歷莊公
 1	歷	歷	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=pass-through-in-order|SpaceAfter=No
-2	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	莊	莊	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Zhuang|SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=duke|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_75-77
 # text = 至襄公
 1	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Xiang|SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=duke|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_78-82
@@ -32968,7 +32969,7 @@
 
 # sent_id = KR2b0041_007_par18_83-88
 # text = 襄公救周有功
-1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Xiang|SpaceAfter=No
 2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
 3	救	救	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=rescue|SpaceAfter=No
 4	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	obj	_	Gloss=[country-name]|SpaceAfter=No
@@ -33309,7 +33310,7 @@
 # sent_id = KR2b0041_007_par18_302-307
 # text = 晉襄公敗之崤
 1	晉	晉	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nmod	_	Gloss=[country-name]|SpaceAfter=No
-2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	SpaceAfter=No
+2	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	3	compound	_	Gloss=Xiang|SpaceAfter=No
 3	公	公	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=duke|SpaceAfter=No
 4	敗	敗	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=lose-out|SpaceAfter=No
 5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	iobj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -33362,7 +33363,7 @@
 13	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
 14	悼	悼	PROPN	n,名詞,人,その他の人名	NameType=Prs	15	compound	_	SpaceAfter=No
 15	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
-16	厲	厲	PROPN	n,名詞,人,その他の人名	NameType=Prs	17	compound	_	SpaceAfter=No
+16	厲	厲	PROPN	n,名詞,人,その他の人名	NameType=Prs	17	compound	_	Gloss=Li|SpaceAfter=No
 17	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
 18	共	共	PROPN	n,名詞,人,その他の人名	NameType=Prs	19	compound	_	SpaceAfter=No
 19	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
