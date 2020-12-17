@@ -30302,13 +30302,13 @@
 # sent_id = KR2b0041_016_par7_343-346
 # text = 羅雀掘鼠
 1	羅	羅	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=gather|SpaceAfter=No
-2	雀	雀	NOUN	n,名詞,主体,動物	_	1	obj	_	SpaceAfter=No
+2	雀	雀	NOUN	n,名詞,主体,動物	_	1	obj	_	Gloss=sparrow|SpaceAfter=No
 3	掘	掘	VERB	v,動詞,行為,動作	_	1	parataxis	_	Gloss=dig-out|SpaceAfter=No
 4	鼠	鼠	NOUN	n,名詞,主体,動物	_	3	obj	_	Gloss=rat|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_347-350
 # text = 雀鼠又盡
-1	雀	雀	NOUN	n,名詞,主体,動物	_	4	nsubj	_	SpaceAfter=No
+1	雀	雀	NOUN	n,名詞,主体,動物	_	4	nsubj	_	Gloss=sparrow|SpaceAfter=No
 2	鼠	鼠	NOUN	n,名詞,主体,動物	_	1	conj	_	Gloss=rat|SpaceAfter=No
 3	又	又	ADV	v,副詞,頻度,重複	_	4	advmod	_	Gloss=also|SpaceAfter=No
 4	盡	盡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=exhaust|SpaceAfter=No
@@ -41791,7 +41791,7 @@
 2	頭	頭	NOUN	n,名詞,不可譲,身体	_	4	nsubj	_	Gloss=head|SpaceAfter=No
 3	凍	凍	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	4	advmod	_	Gloss=freeze|SpaceAfter=No
 4	殺	殺	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=kill|SpaceAfter=No
-5	雀	雀	NOUN	n,名詞,主体,動物	_	4	obj	_	SpaceAfter=No
+5	雀	雀	NOUN	n,名詞,主体,動物	_	4	obj	_	Gloss=sparrow|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par19_552-555
 # text = 何不飛去

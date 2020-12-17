@@ -18461,7 +18461,7 @@
 # sent_id = KR2b0041_007_par5_160-161
 # text = 有雀
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-2	雀	雀	NOUN	n,名詞,主体,動物	_	1	obj	_	SpaceAfter=No
+2	雀	雀	NOUN	n,名詞,主体,動物	_	1	obj	_	Gloss=sparrow|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par5_162-163
 # text = 生𪄟
