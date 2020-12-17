@@ -24,9 +24,9 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
     - 禮記 (except for 中庸 大學)
     - 十八史略 (except for 春秋戰國 唐 宋 南宋)
 
-# References
+# Reference
 
-* Koichi Yasuoka: Universal Dependencies Treebank of the Four Books in Classical Chinese, DADH2019: 10th International Conference of Digital Archives and Digital Humanities (December 2019), pp.20-28.
+* Koichi Yasuoka: [Universal Dependencies Treebank of the Four Books in Classical Chinese](http://hdl.handle.net/2433/245217), DADH2019: 10th International Conference of Digital Archives and Digital Humanities (December 2019), pp.20-28.
 
 # Changelog
 
