@@ -20497,7 +20497,7 @@
 7	可	可	AUX	v,助動詞,可能,*	Mood=Pot	8	aux	_	Gloss=possible|SpaceAfter=No
 8	取	取	VERB	v,動詞,行為,得失	_	10	acl	_	Gloss=take|SpaceAfter=No
 9	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	8	obj	_	Gloss=[3PRON]|SpaceAfter=No
-10	狀	狀	NOUN	n,名詞,描写,形質	_	5	obj	_	SpaceAfter=No
+10	狀	狀	NOUN	n,名詞,描写,形質	_	5	obj	_	Gloss=appearance|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1137-1137
 # text = 詔
@@ -20879,7 +20879,7 @@
 # sent_id = KR2b0041_016_par2_1389-1392
 # text = 人漸澆訛
 1	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
-2	漸	漸	ADV	v,副詞,時相,変化	AdvType=Tim	3	advmod	_	SpaceAfter=No
+2	漸	漸	ADV	v,副詞,時相,変化	AdvType=Tim	3	advmod	_	Gloss=gradually|SpaceAfter=No
 3	澆	澆	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	SpaceAfter=No
 4	訛	訛	VERB	v,動詞,描写,態度	Degree=Pos	3	flat:vv	_	SpaceAfter=No
 
@@ -21890,7 +21890,7 @@
 
 # sent_id = KR2b0041_016_par2_2042-2048
 # text = 漸不克終者十條
-1	漸	漸	ADV	v,副詞,時相,変化	AdvType=Tim	3	advmod	_	SpaceAfter=No
+1	漸	漸	ADV	v,副詞,時相,変化	AdvType=Tim	3	advmod	_	Gloss=gradually|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	克	克	VERB	v,動詞,行為,動作	_	5	acl	_	Gloss=conquer|SpaceAfter=No
 4	終	終	VERB	v,動詞,変化,生物	_	3	obj	_	Gloss=end|SpaceAfter=No
@@ -28123,7 +28123,7 @@
 
 # sent_id = KR2b0041_016_par6_841-844
 # text = 漸肆奢欲
-1	漸	漸	ADV	v,副詞,時相,変化	AdvType=Tim	2	advmod	_	SpaceAfter=No
+1	漸	漸	ADV	v,副詞,時相,変化	AdvType=Tim	2	advmod	_	Gloss=gradually|SpaceAfter=No
 2	肆	肆	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=unrestrained|SpaceAfter=No
 3	奢	奢	VERB	v,動詞,行為,態度	_	2	obj	_	Gloss=extravagant|SpaceAfter=No
 4	欲	欲	VERB	v,動詞,行為,動作	_	3	flat:vv	_	Gloss=desire|SpaceAfter=No
