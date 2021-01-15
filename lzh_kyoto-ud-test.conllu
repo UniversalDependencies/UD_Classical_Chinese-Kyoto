@@ -31291,7 +31291,7 @@
 4	於	於	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	3	conj	_	Gloss=[place-name]|SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
 6	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	2	obj	_	Gloss=earth|SpaceAfter=No
-7	六百	六百	NUM	n,数詞,数,*	_	6	nummod	_	SpaceAfter=No
+7	六百	六百	NUM	n,数詞,数,*	_	6	nummod	_	Gloss=six-hundred|SpaceAfter=No
 8	里	里	NOUN	n,名詞,度量衡,*	NounType=Clf	7	clf	_	Gloss=[distance-unit]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par16_282-285
