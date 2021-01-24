@@ -18570,7 +18570,7 @@
 1	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	compound	_	Gloss=[country-name]|SpaceAfter=No
 2	公	公	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=duke|SpaceAfter=No
 3	誨	誨	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=teach|SpaceAfter=No
-4	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	SpaceAfter=No
+4	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Cheng|SpaceAfter=No
 5	王	王	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=king|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_18-24
@@ -19009,7 +19009,7 @@
 8	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
 9	宣	宣	PROPN	n,名詞,人,その他の人名	NameType=Prs	10	compound	_	Gloss=Xuan|SpaceAfter=No
 10	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
-11	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	12	compound	_	SpaceAfter=No
+11	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	12	compound	_	Gloss=Cheng|SpaceAfter=No
 12	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
 13	襄	襄	PROPN	n,名詞,人,その他の人名	NameType=Prs	14	compound	_	Gloss=Xiang|SpaceAfter=No
 14	公	公	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=duke|SpaceAfter=No
@@ -21287,7 +21287,7 @@
 8	子	子	NOUN	n,名詞,人,関係	_	10	nmod	_	Gloss=child|SpaceAfter=No
 9	莊	莊	PROPN	n,名詞,人,名	NameType=Giv	10	compound	_	Gloss=[given-name]|SpaceAfter=No
 10	公	公	NOUN	n,名詞,人,役割	_	5	conj	_	Gloss=duke|SpaceAfter=No
-11	並	竝	ADV	v,副詞,範囲,共同	_	15	amod	_	Gloss=side-by-side|SpaceAfter=No
+11	並	竝	ADV	v,副詞,範囲,共同	_	15	advmod	_	Gloss=side-by-side|SpaceAfter=No
 12	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	15	cop	_	Gloss=be|SpaceAfter=No
 13	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	15	nmod	_	Gloss=[country-name]|SpaceAfter=No
 14	司	司	NOUN	n,名詞,人,役割	_	15	nmod	_	Gloss=controller|SpaceAfter=No
@@ -21427,7 +21427,7 @@
 
 # sent_id = KR2b0041_007_par9_4-13
 # text = 成王弟唐叔虞之所封也
-1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Cheng|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=king|SpaceAfter=No
 3	弟	弟	NOUN	n,名詞,人,関係	_	5	nmod	_	Gloss=younger-brother|SpaceAfter=No
 4	唐	唐	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	5	nmod	_	Gloss=[country-name]|SpaceAfter=No
@@ -21439,7 +21439,7 @@
 
 # sent_id = KR2b0041_007_par9_14-16
 # text = 成王幼
-1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Cheng|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
 3	幼	幼	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=young|SpaceAfter=No
 
@@ -21817,7 +21817,7 @@
 3	公	公	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=duke|SpaceAfter=No
 4	靈	靈	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Ling|SpaceAfter=No
 5	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
-6	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	7	compound	_	SpaceAfter=No
+6	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	7	compound	_	Gloss=Cheng|SpaceAfter=No
 7	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
 8	景	景	PROPN	n,名詞,人,その他の人名	NameType=Prs	9	compound	_	Gloss=Jing|SpaceAfter=No
 9	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
@@ -24122,7 +24122,7 @@
 1	道	道	NOUN	n,名詞,制度,儀礼	_	2	nsubj	_	Gloss=doctrine|SpaceAfter=No
 2	陿	陿	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
-4	旁	旁	NOUN	n,名詞,固定物,関係	Case=Loc	5	obl:lmod	_	SpaceAfter=No
+4	旁	旁	NOUN	n,名詞,固定物,関係	Case=Loc	5	obl:lmod	_	Gloss=side|SpaceAfter=No
 5	多	多	VERB	v,動詞,描写,量	Degree=Pos	2	conj	_	Gloss=many|SpaceAfter=No
 6	阻	阻	VERB	v,動詞,行為,動作	_	5	obj	_	Gloss=impede|SpaceAfter=No
 
@@ -26191,10 +26191,10 @@
 
 # sent_id = KR2b0041_007_par13_422-425
 # text = 沈竈產鼃
-1	沈	沈	VERB	v,動詞,行為,動作	VerbForm=Part	2	amod	_	SpaceAfter=No
+1	沈	沈	VERB	v,動詞,行為,動作	VerbForm=Part	2	amod	_	Gloss=submerge|SpaceAfter=No
 2	竈	竈	NOUN	n,名詞,可搬,道具	_	3	nsubj	_	Gloss=stove|SpaceAfter=No
-3	產	產	VERB	v,動詞,変化,生物	_	0	root	_	SpaceAfter=No
-4	鼃	鼃	NOUN	n,名詞,主体,動物	_	3	obj	_	SpaceAfter=No
+3	產	產	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=give-birth|SpaceAfter=No
+4	鼃	鼃	NOUN	n,名詞,主体,動物	_	3	obj	_	Gloss=water-flog|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par13_426-429
 # text = 民無叛意
@@ -26646,7 +26646,7 @@
 3	公	公	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=duke|SpaceAfter=No
 4	敬	敬	PROPN	n,名詞,人,その他の人名	NameType=Prs	5	compound	_	Gloss=Jing|SpaceAfter=No
 5	侯	侯	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=marquis|SpaceAfter=No
-6	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	7	compound	_	SpaceAfter=No
+6	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	7	compound	_	Gloss=Cheng|SpaceAfter=No
 7	侯	侯	PART	p,助詞,句頭,*	_	3	conj	_	Gloss=[modal-particle]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par13_719-721
@@ -28512,7 +28512,7 @@
 
 # sent_id = KR2b0041_007_par13_1914-1922
 # text = 會魏信陵君亦來救趙
-1	會	會	ADV	v,副詞,頻度,偶発	_	6	advmod	_	SpaceAfter=No
+1	會	會	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=happen|SpaceAfter=No
 2	魏	魏	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
 3	信陵	信陵	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	SpaceAfter=No
 4	君	君	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=ruler|SpaceAfter=No
@@ -28715,7 +28715,7 @@
 3	北	北	NOUN	n,名詞,固定物,関係	Case=Loc	4	nmod	_	Gloss=north|SpaceAfter=No
 4	辺	邊	NOUN	n,名詞,固定物,地形	Case=Loc	2	obj	_	Gloss=margin|SpaceAfter=No
 5	破	破	VERB	v,動詞,行為,交流	_	2	parataxis	_	Gloss=break|SpaceAfter=No
-6	匈奴	匈奴	NOUN	n,名詞,主体,集団	_	5	obj	_	SpaceAfter=No
+6	匈奴	匈奴	NOUN	n,名詞,主体,集団	_	5	obj	_	Gloss=Xiongnu|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par13_2045-2053
 # text = 悼襄王子幽穆王遷立
@@ -30658,7 +30658,7 @@
 2	死	死	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=die|SpaceAfter=No
 3	政	政	PROPN	n,名詞,人,名	NameType=Giv	4	nmod	_	Gloss=[given-name]|SpaceAfter=No
 4	尸	尸	NOUN	n,名詞,人,役割	_	5	nmod	_	Gloss=substitute-for-the-spirit|SpaceAfter=No
-5	旁	旁	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	SpaceAfter=No
+5	旁	旁	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=side|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par15_195-201
 # text = 景侯四世至哀侯
@@ -30942,7 +30942,7 @@
 
 # sent_id = KR2b0041_007_par16_50-59
 # text = 成王封其子熊繹於丹陽
-1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Cheng|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=king|SpaceAfter=No
 3	封	封	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=enfief|SpaceAfter=No
 4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	Gloss=[3PRON]|SpaceAfter=No
@@ -31002,7 +31002,7 @@
 
 # sent_id = KR2b0041_007_par16_91-99
 # text = 成王與齊桓公盟召陵
-1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	SpaceAfter=No
+1	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	2	compound	_	Gloss=Cheng|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	7	nsubj	_	Gloss=king|SpaceAfter=No
 3	與	與	ADP	v,前置詞,関係,*	_	6	cc	_	Gloss=associate-with|SpaceAfter=No
 4	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	nmod	_	Gloss=[country-name]|SpaceAfter=No
@@ -32654,7 +32654,7 @@
 1	于	于	ADP	v,前置詞,基盤,*	_	2	case	_	Gloss=at|SpaceAfter=No
 2	時	時	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=time|SpaceAfter=No
 3	白	白	VERB	v,動詞,行為,伝達	VerbForm=Part	4	amod	_	Gloss=explain|SpaceAfter=No
-4	虹	虹	NOUN	n,名詞,天象,気象	_	5	nsubj	_	SpaceAfter=No
+4	虹	虹	NOUN	n,名詞,天象,気象	_	5	nsubj	_	Gloss=rainbow|SpaceAfter=No
 5	貫	貫	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=perforate|SpaceAfter=No
 6	日	日	NOUN	n,名詞,天象,天文	_	5	obj	_	Gloss=sun|SpaceAfter=No
 
@@ -33005,7 +33005,7 @@
 10	公	公	PROPN	n,名詞,人,名	NameType=Giv	3	conj	_	Gloss=[given-name]|SpaceAfter=No
 11	宣	宣	PROPN	n,名詞,人,その他の人名	NameType=Prs	12	compound	_	Gloss=Xuan|SpaceAfter=No
 12	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
-13	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	14	compound	_	SpaceAfter=No
+13	成	成	PROPN	n,名詞,人,その他の人名	NameType=Prs	14	compound	_	Gloss=Cheng|SpaceAfter=No
 14	公	公	NOUN	n,名詞,人,役割	_	3	conj	_	Gloss=duke|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_113-115
@@ -34426,7 +34426,7 @@
 
 # sent_id = KR2b0041_007_par18_1015-1018
 # text = 息壤在彼
-1	息壤	息壤	VERB	v,動詞,行為,動作	_	2	nsubj	_	SpaceAfter=No
+1	息壤	息壤	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	nsubj	_	Gloss=[place-name]|SpaceAfter=No
 2	在	在	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=be-present|SpaceAfter=No
 3	彼	彼	PRON	n,代名詞,指示,*	PronType=Dem	2	obj	_	Gloss=that|SpaceAfter=No
 
