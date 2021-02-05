@@ -19038,7 +19038,7 @@
 # text = 公奔乾侯
 1	公	公	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=duke|SpaceAfter=No
 2	奔	奔	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=run|SpaceAfter=No
-3	乾	乾	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	SpaceAfter=No
+3	乾	乾	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	Gloss=Qian|SpaceAfter=No
 4	侯	侯	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=marquis|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_310-311
