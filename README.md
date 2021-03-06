@@ -22,7 +22,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
     - 論語 (except for 學而篇第一 為政篇第二 八佾篇第三 顏淵篇第十二 子路篇第十三 憲問篇第十四)
     - 孟子 (except for 梁惠王上 梁惠王下 告子上 告子下)
     - 禮記 (except for 中庸 大學)
-    - 十八史略 (except for 春秋戰國 唐 南宋)
+    - 十八史略 (except for 春秋戰國 唐)
 
 # Reference
 
@@ -31,7 +31,7 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 # Changelog
 
 * 2021-05-15 v2.8
-  * 1 era from 十八史略 added.
+  * 2 eras from 十八史略 added.
 
 * 2020-11-15 v2.7
   * 7 volumes from 禮記 added.
