@@ -21221,7 +21221,7 @@
 4	侯	侯	NOUN	n,名詞,人,役割	_	9	nsubj	_	Gloss=marquis|SpaceAfter=No
 5	惟	惟	ADV	v,副詞,範囲,限定	_	9	advmod	_	Gloss=only|SpaceAfter=No
 6	衞	衞	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	9	nsubj	_	Gloss=[country-name]|SpaceAfter=No
-7	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	9	advmod	_	SpaceAfter=No
+7	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	9	advmod	_	Gloss=highest|SpaceAfter=No
 8	後	後	NOUN	n,名詞,時,*	Case=Tem	9	obl:tmod	_	Gloss=after|SpaceAfter=No
 9	亡	亡	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=be-lost|SpaceAfter=No
 

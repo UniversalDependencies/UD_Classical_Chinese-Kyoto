@@ -16501,7 +16501,7 @@
 4	山西	山西	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	nmod	_	Gloss=[place-name]|SpaceAfter=No
 5	河東	河東	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	9	nmod	_	Gloss=[place-name]|SpaceAfter=No
 6	撫	撫	VERB	v,動詞,行為,態度	VerbForm=Part	9	amod	_	Gloss=pacify|SpaceAfter=No
-7	慰	慰	VERB	v,動詞,行為,交流	_	6	flat:vv	_	SpaceAfter=No
+7	慰	慰	VERB	v,動詞,行為,交流	_	6	flat:vv	_	Gloss=comfort|SpaceAfter=No
 8	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	9	amod	_	Gloss=big|SpaceAfter=No
 9	使	使	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=envoy|SpaceAfter=No
 
@@ -18604,7 +18604,7 @@
 # text = 秦府僚屬勸王行周公之事
 1	秦	秦	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nmod	_	Gloss=[country-name]|SpaceAfter=No
 2	府	府	NOUN	n,名詞,主体,機関	_	3	nmod	_	Gloss=repository|SpaceAfter=No
-3	僚	僚	NOUN	n,名詞,人,役割	_	5	nsubj	_	SpaceAfter=No
+3	僚	僚	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=colleague|SpaceAfter=No
 4	屬	屬	VERB	v,動詞,行為,設置	VerbForm=Part	3	amod	_	Gloss=belong|SpaceAfter=No
 5	勸	勸	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=urge|SpaceAfter=No
 6	王	王	NOUN	n,名詞,人,役割	_	5	obj	_	Gloss=king|SpaceAfter=No
@@ -19142,7 +19142,7 @@
 # text = 時府僚多補外
 1	時	時	NOUN	n,名詞,時,*	Case=Tem	3	nmod	_	Gloss=time|SpaceAfter=No
 2	府	府	NOUN	n,名詞,主体,機関	_	3	nmod	_	Gloss=repository|SpaceAfter=No
-3	僚	僚	NOUN	n,名詞,人,役割	_	5	nsubj	_	SpaceAfter=No
+3	僚	僚	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=colleague|SpaceAfter=No
 4	多	多	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=many|SpaceAfter=No
 5	補	補	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=mend|SpaceAfter=No
 6	外	外	NOUN	n,名詞,固定物,関係	Case=Loc	5	obj	_	Gloss=outside|SpaceAfter=No
@@ -20490,7 +20490,7 @@
 # text = 及邊帥皆言突厥可取之狀
 1	及	及	ADP	v,前置詞,関係,*	_	3	case	_	Gloss=and|SpaceAfter=No
 2	邊	邊	NOUN	n,名詞,固定物,地形	Case=Loc	3	nmod	_	Gloss=margin|SpaceAfter=No
-3	帥	帥	NOUN	n,名詞,人,役割	_	5	csubj	_	SpaceAfter=No
+3	帥	帥	NOUN	n,名詞,人,役割	_	5	csubj	_	Gloss=leader|SpaceAfter=No
 4	皆	皆	ADV	v,副詞,範囲,総括	_	5	advmod	_	Gloss=all|SpaceAfter=No
 5	言	言	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak|SpaceAfter=No
 6	突厥	突厥	NOUN	n,名詞,主体,集団	_	8	nsubj	_	SpaceAfter=No
@@ -22776,7 +22776,7 @@
 1	徙	徙	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=move|SpaceAfter=No
 2	戶	戶	NOUN	n,名詞,固定物,建造物	Case=Loc	3	nmod	_	Gloss=door|SpaceAfter=No
 3	口	口	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=mouth|SpaceAfter=No
-4	七萬	七萬	NUM	n,数詞,数,*	_	3	nummod	_	SpaceAfter=No
+4	七萬	七萬	NUM	n,数詞,数,*	_	3	nummod	_	Gloss=seventy-thousand|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2687-2689
 # text = 三大戰
@@ -25682,7 +25682,7 @@
 # sent_id = KR2b0041_016_par4_924-929
 # text = 仁傑最見信重
 1	仁傑	仁傑	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	4	advmod	_	SpaceAfter=No
+2	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	4	advmod	_	Gloss=highest|SpaceAfter=No
 3	見	見	AUX	v,助動詞,受動,*	Voice=Pass	4	aux	_	Gloss=[PASS]|SpaceAfter=No
 4	信	信	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=believe|SpaceAfter=No
 5	重	重	VERB	v,動詞,描写,量	Degree=Pos	4	flat:vv	_	Gloss=heavy|SpaceAfter=No
@@ -29545,7 +29545,7 @@
 # text = 副元帥哥舒翰與賊戰大敗
 1	副	副	VERB	v,動詞,行為,交流	VerbForm=Part	3	amod	_	Gloss=aid|SpaceAfter=No
 2	元	元	NOUN	n,名詞,描写,形質	_	3	nmod	_	Gloss=basic|SpaceAfter=No
-3	帥	帥	NOUN	n,名詞,人,役割	_	8	nsubj	_	SpaceAfter=No
+3	帥	帥	NOUN	n,名詞,人,役割	_	8	nsubj	_	Gloss=leader|SpaceAfter=No
 4	哥舒	哥舒	PROPN	n,名詞,人,姓氏	NameType=Sur	3	flat	_	Gloss=[surname]|SpaceAfter=No
 5	翰	翰	PROPN	n,名詞,人,名	NameType=Giv	3	flat	_	Gloss=[given-name]|SpaceAfter=No
 6	與	與	ADP	v,前置詞,関係,*	_	7	case	_	Gloss=associate-with|SpaceAfter=No
@@ -29587,7 +29587,7 @@
 1	將	將	NOUN	n,名詞,人,役割	_	3	nsubj	_	Gloss=general|SpaceAfter=No
 2	士	士	NOUN	n,名詞,人,役割	_	1	conj	_	Gloss=officer|SpaceAfter=No
 3	飢	飢	VERB	v,動詞,描写,境遇	Degree=Pos	0	root	_	Gloss=hungry|SpaceAfter=No
-4	疲	疲	VERB	v,動詞,描写,形質	Degree=Pos	3	flat:vv	_	SpaceAfter=No
+4	疲	疲	VERB	v,動詞,描写,形質	Degree=Pos	3	flat:vv	_	Gloss=exhausted|SpaceAfter=No
 5	皆	皆	ADV	v,副詞,範囲,総括	_	6	advmod	_	Gloss=all|SpaceAfter=No
 6	憤	憤	VERB	v,動詞,行為,態度	_	3	parataxis	_	Gloss=anger|SpaceAfter=No
 7	怒	怒	VERB	v,動詞,行為,態度	_	6	flat:vv	_	Gloss=angry|SpaceAfter=No
@@ -29630,7 +29630,7 @@
 2	命	命	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=decree|SpaceAfter=No
 3	太	太	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=very-great|SpaceAfter=No
 4	子	子	NOUN	n,名詞,人,人	_	2	obj	_	Gloss=master|SpaceAfter=No
-5	慰	慰	VERB	v,動詞,行為,交流	_	2	parataxis	_	SpaceAfter=No
+5	慰	慰	VERB	v,動詞,行為,交流	_	2	parataxis	_	Gloss=comfort|SpaceAfter=No
 6	撫	撫	VERB	v,動詞,行為,態度	_	5	flat:vv	_	Gloss=pacify|SpaceAfter=No
 7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	5	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -30063,13 +30063,13 @@
 4	馬	馬	NOUN	n,名詞,主体,動物	_	3	conj	_	Gloss=horse|SpaceAfter=No
 5	都	都	NOUN	n,名詞,固定物,建造物	Case=Loc	7	nmod	_	Gloss=capital-city|SpaceAfter=No
 6	元	元	NOUN	n,名詞,描写,形質	_	7	nmod	_	Gloss=basic|SpaceAfter=No
-7	帥	帥	NOUN	n,名詞,人,役割	_	16	nsubj	_	SpaceAfter=No
+7	帥	帥	NOUN	n,名詞,人,役割	_	16	nsubj	_	Gloss=leader|SpaceAfter=No
 8	廣平	廣平	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	9	nmod	_	Gloss=[place-name]|SpaceAfter=No
 9	王	王	NOUN	n,名詞,人,役割	_	7	flat	_	Gloss=king|SpaceAfter=No
 10	俶	俶	PROPN	n,名詞,人,名	NameType=Giv	7	flat	_	Gloss=[given-name]|SpaceAfter=No
 11	副	副	VERB	v,動詞,行為,交流	VerbForm=Part	13	amod	_	Gloss=aid|SpaceAfter=No
 12	元	元	NOUN	n,名詞,描写,形質	_	13	nmod	_	Gloss=basic|SpaceAfter=No
-13	帥	帥	NOUN	n,名詞,人,役割	_	7	conj	_	SpaceAfter=No
+13	帥	帥	NOUN	n,名詞,人,役割	_	7	conj	_	Gloss=leader|SpaceAfter=No
 14	郭	郭	PROPN	n,名詞,人,姓氏	NameType=Sur	13	flat	_	Gloss=[surname]|SpaceAfter=No
 15	子儀	子儀	PROPN	n,名詞,人,名	NameType=Giv	13	flat	_	Gloss=[given-name]|SpaceAfter=No
 16	將	將	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=undertake|SpaceAfter=No
@@ -30518,7 +30518,7 @@
 6	兵	兵	NOUN	n,名詞,人,役割	_	9	nmod	_	Gloss=soldier|SpaceAfter=No
 7	馬	馬	NOUN	n,名詞,主体,動物	_	6	conj	_	Gloss=horse|SpaceAfter=No
 8	元	元	NOUN	n,名詞,描写,形質	_	9	obl	_	Gloss=basic|SpaceAfter=No
-9	帥	帥	NOUN	n,名詞,人,役割	_	5	conj	_	SpaceAfter=No
+9	帥	帥	NOUN	n,名詞,人,役割	_	5	conj	_	Gloss=leader|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_498-503
 # text = 光弼號令嚴整
@@ -30853,7 +30853,7 @@
 5	軍	軍	NOUN	n,名詞,主体,集団	_	8	nmod	_	Gloss=army|SpaceAfter=No
 6	副	副	VERB	v,動詞,行為,交流	VerbForm=Part	8	amod	_	Gloss=aid|SpaceAfter=No
 7	元	元	NOUN	n,名詞,描写,形質	_	8	nmod	_	Gloss=basic|SpaceAfter=No
-8	帥	帥	NOUN	n,名詞,人,役割	_	1	obj	_	SpaceAfter=No
+8	帥	帥	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=leader|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par7_727-730
 # text = 復入朔方
@@ -31071,7 +31071,7 @@
 # text = 爲元帥
 1	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	3	cop	_	Gloss=be|SpaceAfter=No
 2	元	元	NOUN	n,名詞,描写,形質	_	3	nmod	_	Gloss=basic|SpaceAfter=No
-3	帥	帥	NOUN	n,名詞,人,役割	_	0	root	_	SpaceAfter=No
+3	帥	帥	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=leader|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_15-17
 # text = 定兩京
@@ -31130,7 +31130,7 @@
 8	兵	兵	NOUN	n,名詞,人,役割	_	11	nmod	_	Gloss=soldier|SpaceAfter=No
 9	馬	馬	NOUN	n,名詞,主体,動物	_	8	conj	_	Gloss=horse|SpaceAfter=No
 10	元	元	NOUN	n,名詞,描写,形質	_	11	nmod	_	Gloss=basic|SpaceAfter=No
-11	帥	帥	NOUN	n,名詞,人,役割	_	0	root	_	SpaceAfter=No
+11	帥	帥	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=leader|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_51-58
 # text = 率諸將及囘紇援兵
@@ -31293,7 +31293,7 @@
 2	內	內	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=inside|SpaceAfter=No
 3	副	副	VERB	v,動詞,行為,交流	VerbForm=Part	5	amod	_	Gloss=aid|SpaceAfter=No
 4	元	元	NOUN	n,名詞,描写,形質	_	5	nmod	_	Gloss=basic|SpaceAfter=No
-5	帥	帥	NOUN	n,名詞,人,役割	_	8	nsubj	_	SpaceAfter=No
+5	帥	帥	NOUN	n,名詞,人,役割	_	8	nsubj	_	Gloss=leader|SpaceAfter=No
 6	郭	郭	PROPN	n,名詞,人,姓氏	NameType=Sur	5	flat	_	Gloss=[surname]|SpaceAfter=No
 7	子儀	子儀	PROPN	n,名詞,人,名	NameType=Giv	5	flat	_	Gloss=[given-name]|SpaceAfter=No
 8	擊	擊	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=strike|SpaceAfter=No
@@ -31846,7 +31846,7 @@
 5	軍	軍	NOUN	n,名詞,主体,集団	_	6	nmod	_	Gloss=army|SpaceAfter=No
 6	容	容	NOUN	n,名詞,不可譲,身体	_	4	obj	_	Gloss=face|SpaceAfter=No
 7	宣	宣	VERB	v,動詞,行為,動作	VerbForm=Part	11	amod	_	Gloss=spread|SpaceAfter=No
-8	慰	慰	VERB	v,動詞,行為,交流	_	7	flat:vv	_	SpaceAfter=No
+8	慰	慰	VERB	v,動詞,行為,交流	_	7	flat:vv	_	Gloss=comfort|SpaceAfter=No
 9	處	處	VERB	v,動詞,行為,設置	VerbForm=Part	11	amod	_	Gloss=place|SpaceAfter=No
 10	置	置	VERB	v,動詞,行為,設置	_	9	flat:vv	_	Gloss=place|SpaceAfter=No
 11	使	使	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=envoy|SpaceAfter=No
@@ -32446,7 +32446,7 @@
 # text = 遣使慰勞淄靑將士
 1	遣	遣	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=send|SpaceAfter=No
 2	使	使	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=envoy|SpaceAfter=No
-3	慰	慰	VERB	v,動詞,行為,交流	_	1	xcomp	_	SpaceAfter=No
+3	慰	慰	VERB	v,動詞,行為,交流	_	1	xcomp	_	Gloss=comfort|SpaceAfter=No
 4	勞	勞	VERB	v,動詞,描写,境遇	Degree=Pos	3	flat:vv	_	Gloss=work|SpaceAfter=No
 5	淄	淄	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	7	nmod	_	Gloss=[place-name]|SpaceAfter=No
 6	靑	靑	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	conj	_	Gloss=[place-name]|SpaceAfter=No
@@ -32618,7 +32618,7 @@
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	勝	勝	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=conquer|SpaceAfter=No
 5	困	困	VERB	v,動詞,描写,境遇	Degree=Pos	4	obj	_	Gloss=distressed|SpaceAfter=No
-6	弊	弊	VERB	v,動詞,変化,性質	_	5	flat:vv	_	SpaceAfter=No
+6	弊	弊	VERB	v,動詞,変化,性質	_	5	flat:vv	_	Gloss=ruin|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_225-228
 # text = 率皆逃徙
@@ -34360,7 +34360,7 @@
 # text = 宣力最多
 1	宣	宣	VERB	v,動詞,行為,動作	_	4	csubj	_	Gloss=spread|SpaceAfter=No
 2	力	力	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=strength|SpaceAfter=No
-3	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	4	advmod	_	SpaceAfter=No
+3	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	4	advmod	_	Gloss=highest|SpaceAfter=No
 4	多	多	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=many|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1372-1375
@@ -35425,7 +35425,7 @@
 2	裴	裴	PROPN	n,名詞,人,姓氏	NameType=Sur	1	obj	_	Gloss=[surname]|SpaceAfter=No
 3	度	度	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
 4	宣	宣	VERB	v,動詞,行為,動作	_	1	xcomp	_	Gloss=spread|SpaceAfter=No
-5	慰	慰	VERB	v,動詞,行為,交流	_	4	flat:vv	_	SpaceAfter=No
+5	慰	慰	VERB	v,動詞,行為,交流	_	4	flat:vv	_	Gloss=comfort|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par11_350-359
 # text = 賜錢百五十萬緡犒其軍
@@ -35594,7 +35594,7 @@
 1	裴	裴	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nsubj	_	Gloss=[surname]|SpaceAfter=No
 2	度	度	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
 3	宣	宣	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=spread|SpaceAfter=No
-4	慰	慰	VERB	v,動詞,行為,交流	_	3	flat:vv	_	SpaceAfter=No
+4	慰	慰	VERB	v,動詞,行為,交流	_	3	flat:vv	_	Gloss=comfort|SpaceAfter=No
 5	淮西	淮西	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	7	nmod	_	Gloss=[place-name]|SpaceAfter=No
 6	行	行	VERB	v,動詞,行為,動作	VerbForm=Part	7	amod	_	Gloss=behave|SpaceAfter=No
 7	營	營	NOUN	n,名詞,主体,集団	_	3	obj	_	SpaceAfter=No
@@ -35742,7 +35742,7 @@
 1	充	充	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=fill|SpaceAfter=No
 2	淮西	淮西	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	7	nmod	_	Gloss=[place-name]|SpaceAfter=No
 3	宣	宣	VERB	v,動詞,行為,動作	VerbForm=Part	7	amod	_	Gloss=spread|SpaceAfter=No
-4	慰	慰	VERB	v,動詞,行為,交流	_	3	flat:vv	_	SpaceAfter=No
+4	慰	慰	VERB	v,動詞,行為,交流	_	3	flat:vv	_	Gloss=comfort|SpaceAfter=No
 5	招	招	VERB	v,動詞,行為,動作	_	7	acl	_	Gloss=invite|SpaceAfter=No
 6	討	討	VERB	v,動詞,行為,交流	_	5	obj	_	Gloss=punish|SpaceAfter=No
 7	使	使	NOUN	n,名詞,人,役割	_	1	obj	_	Gloss=envoy|SpaceAfter=No
@@ -38913,7 +38913,7 @@
 2	用	用	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
 3	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	5	cop	_	Gloss=be|SpaceAfter=No
 4	邊	邊	NOUN	n,名詞,固定物,地形	Case=Loc	5	nmod	_	Gloss=margin|SpaceAfter=No
-5	帥	帥	NOUN	n,名詞,人,役割	_	2	ccomp	_	SpaceAfter=No
+5	帥	帥	NOUN	n,名詞,人,役割	_	2	ccomp	_	Gloss=leader|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par16_184-187
 # text = 果稱其任
@@ -39331,7 +39331,7 @@
 
 # sent_id = KR2b0041_016_par16_439-442
 # text = 最承恩遇
-1	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	2	advmod	_	SpaceAfter=No
+1	最	最	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	2	advmod	_	Gloss=highest|SpaceAfter=No
 2	承	承	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=receive|SpaceAfter=No
 3	恩	恩	NOUN	n,名詞,可搬,成果物	_	4	nsubj	_	Gloss=benevolence|SpaceAfter=No
 4	遇	遇	VERB	v,動詞,行為,交流	_	2	ccomp	_	Gloss=encounter|SpaceAfter=No
@@ -41427,7 +41427,7 @@
 5	四	四	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=four|SpaceAfter=No
 6	方	方	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=direction|SpaceAfter=No
 7	撫	撫	VERB	v,動詞,行為,態度	_	4	parataxis	_	Gloss=pacify|SpaceAfter=No
-8	慰	慰	VERB	v,動詞,行為,交流	_	7	flat:vv	_	SpaceAfter=No
+8	慰	慰	VERB	v,動詞,行為,交流	_	7	flat:vv	_	Gloss=comfort|SpaceAfter=No
 9	藩	藩	NOUN	n,名詞,制度,場	Case=Loc	7	obj	_	SpaceAfter=No
 10	鎭	鎭	NOUN	n,名詞,制度,場	Case=Loc	9	conj	_	SpaceAfter=No
 
