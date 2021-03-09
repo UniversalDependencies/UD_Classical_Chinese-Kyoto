@@ -32336,7 +32336,7 @@
 2	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	3	aux	_	Gloss=wish|SpaceAfter=No
 3	收	收	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=receive|SpaceAfter=No
 4	時	時	NOUN	n,名詞,時,*	Case=Tem	5	obl:tmod	_	Gloss=time|SpaceAfter=No
-5	望	望	NOUN	v,動詞,行為,動作	_	3	ccomp	_	Gloss=expect|SpaceAfter=No
+5	望	望	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=expect|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_37-40
 # text = 未二百日
