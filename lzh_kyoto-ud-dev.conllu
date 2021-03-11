@@ -17166,7 +17166,7 @@
 1	淵	淵	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
 3	召	召	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=summon|SpaceAfter=No
-4	募	募	VERB	v,動詞,行為,交流	_	3	flat:vv	_	SpaceAfter=No
+4	募	募	VERB	v,動詞,行為,交流	_	3	flat:vv	_	Gloss=recruit|SpaceAfter=No
 5	起	起	VERB	v,動詞,行為,動作	_	3	parataxis	_	Gloss=arise|SpaceAfter=No
 6	兵	兵	NOUN	n,名詞,人,役割	_	5	obj	_	Gloss=soldier|SpaceAfter=No
 
@@ -17418,7 +17418,7 @@
 1	秦	秦	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nmod	_	Gloss=[country-name]|SpaceAfter=No
 2	主	主	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=host|SpaceAfter=No
 3	薛	薛	PROPN	n,名詞,人,姓氏	NameType=Sur	2	flat	_	Gloss=[surname]|SpaceAfter=No
-4	擧	擧	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
+4	擧	舉	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
 5	卒	卒	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=end|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_704-707
@@ -28026,7 +28026,7 @@
 1	又	又	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=also|SpaceAfter=No
 2	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 3	史	史	PROPN	n,名詞,人,姓氏	NameType=Sur	5	nmod	_	Gloss=[surname]|SpaceAfter=No
-4	窣干	窣于	PROPN	n,名詞,人,名	NameType=Giv	3	flat	_	Gloss=[given-name]|SpaceAfter=No
+4	窣干	窣干	PROPN	n,名詞,人,名	NameType=Giv	3	flat	_	Gloss=[given-name]|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	2	obj	_	Gloss=that-which|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_779-784
@@ -40941,7 +40941,7 @@
 2	乾符	乾符	NOUN	n,名詞,時,*	Case=Tem	1	obj	_	Gloss=[era-name]|SpaceAfter=No
 3	廣明	廣明	NOUN	n,名詞,時,*	Case=Tem	2	conj	_	Gloss=[era-name]|SpaceAfter=No
 4	中和	中和	NOUN	n,名詞,時,*	Case=Tem	2	conj	_	Gloss=[era-name]|SpaceAfter=No
-5	光啓	光啓	NOUN	n,名詞,時,*	Case=Tem	2	conj	_	Gloss=[era-name]|SpaceAfter=No
+5	光啓	光啟	NOUN	n,名詞,時,*	Case=Tem	2	conj	_	Gloss=[era-name]|SpaceAfter=No
 6	文德	文德	NOUN	n,名詞,時,*	Case=Tem	2	conj	_	Gloss=[era-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par18_747-754
@@ -40982,7 +40982,7 @@
 # text = 互相吞噬
 1	互	互	ADV	v,動詞,行為,交流	VerbForm=Conv	3	advmod	_	Gloss=mutual|SpaceAfter=No
 2	相	相	ADV	v,副詞,範囲,共同	_	3	advmod	_	Gloss=each-other|SpaceAfter=No
-3	吞	吞	VERB	v,動詞,行為,飲食	_	0	root	_	SpaceAfter=No
+3	吞	吞	VERB	v,動詞,行為,飲食	_	0	root	_	Gloss=swallow|SpaceAfter=No
 4	噬	噬	VERB	v,動詞,行為,飲食	_	3	flat:vv	_	SpaceAfter=No
 
 # sent_id = KR2b0041_016_par18_773-777
