@@ -20041,8 +20041,8 @@
 
 # sent_id = KR2b0041_007_par6_942-944
 # text = 洋洋乎
-1	洋	洋	NOUN	n,名詞,固定物,地形	Case=Loc	0	root	_	Gloss=ocean|SpaceAfter=No
-2	洋	洋	NOUN	n,名詞,固定物,地形	Case=Loc	1	compound:redup	_	Gloss=ocean|SpaceAfter=No
+1	洋	洋	VERB	v,動詞,変化,性質	_	0	root	_	SpaceAfter=No
+2	洋	洋	VERB	v,動詞,描写,形質	Degree=Pos	1	compound:redup	_	SpaceAfter=No
 3	乎	乎	PART	p,接尾辞,*,*	_	1	fixed	_	Gloss=[suffix]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_945-948
@@ -23632,7 +23632,7 @@
 7	會	會	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=come-together|SpaceAfter=No
 8	田	田	VERB	v,動詞,行為,動作	_	7	flat:vv	_	Gloss=hunt|SpaceAfter=No
 9	于	于	ADP	v,前置詞,基盤,*	_	10	case	_	Gloss=at|SpaceAfter=No
-10	郊	郊	NOUN	n,名詞,制度,場	Case=Loc	7	obl	_	Gloss=suburbs|SpaceAfter=No
+10	郊	郊	NOUN	n,名詞,制度,場	Case=Loc	7	obl:lmod	_	Gloss=suburbs|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par12_428-430
 # text = 惠王曰
@@ -23762,7 +23762,7 @@
 5	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	6	obl:lmod	_	Gloss=east|SpaceAfter=No
 6	漁	漁	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=fish|SpaceAfter=No
 7	於	於	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-8	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	6	obl	_	Gloss=river|SpaceAfter=No
+8	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	6	obl:lmod	_	Gloss=river|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par12_514-517
 # text = 有黔夫者
@@ -24056,12 +24056,15 @@
 5	二萬	二萬	NUM	n,数詞,数字,*	_	6	nummod	_	SpaceAfter=No
 6	竈	竈	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=stove|SpaceAfter=No
 
-# sent_id = KR2b0041_007_par12_718-721
-# text = 涓大喜曰
+# sent_id = KR2b0041_007_par12_718-720
+# text = 涓大喜
 1	涓	涓	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	大	大	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	3	advmod	_	Gloss=big|SpaceAfter=No
 3	喜	喜	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pleased|SpaceAfter=No
-4	曰	曰	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=say|SpaceAfter=No
+
+# sent_id = KR2b0041_007_par12_721-721
+# text = 曰
+1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par12_722-727
 # text = 我固知齊軍怯
@@ -28845,7 +28848,7 @@
 # text = 有苗裔
 1	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 2	苗	苗	NOUN	n,名詞,固定物,樹木	_	3	nmod	_	Gloss=seedling|SpaceAfter=No
-3	裔	裔	NOUN	n,名詞,人,関係	_	1	obj	_	SpaceAfter=No
+3	裔	裔	NOUN	n,名詞,人,関係	_	1	obj	_	Gloss=posterity|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par14_23-25
 # text = 曰畢萬
@@ -30407,7 +30410,7 @@
 # text = 其後裔事晉爲韓氏
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
 2	後	後	NOUN	n,名詞,人,関係	_	3	nmod	_	Gloss=posterity|SpaceAfter=No
-3	裔	裔	NOUN	n,名詞,人,関係	_	4	nsubj	_	SpaceAfter=No
+3	裔	裔	NOUN	n,名詞,人,関係	_	4	nsubj	_	Gloss=posterity|SpaceAfter=No
 4	事	事	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=serve|SpaceAfter=No
 5	晉	晉	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	obj	_	Gloss=[country-name]|SpaceAfter=No
 6	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
@@ -32848,7 +32851,7 @@
 4	本	本	VERB	v,動詞,行為,動作	VerbForm=Part	7	amod	_	Gloss=fundamental|SpaceAfter=No
 5	顓頊	顓頊	PROPN	n,名詞,人,名	NameType=Giv	7	nmod	_	Gloss=[given-name]|SpaceAfter=No
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
-7	裔	裔	NOUN	n,名詞,人,関係	_	0	root	_	SpaceAfter=No
+7	裔	裔	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=posterity|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_9-15
 # text = 曰大業者生柏翳
@@ -35246,7 +35249,7 @@
 6	達	達	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=extend-to|SpaceAfter=No
 7	于	于	ADP	v,前置詞,基盤,*	_	9	case	_	Gloss=at|SpaceAfter=No
 8	四	四	NUM	n,数詞,数字,*	_	9	nummod	_	Gloss=four|SpaceAfter=No
-9	裔	裔	NOUN	n,名詞,人,関係	_	6	obl	_	SpaceAfter=No
+9	裔	裔	NOUN	n,名詞,人,関係	_	6	obl	_	Gloss=posterity|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par19_23-41
 # text = 中國之制可攷於王制者九州千七百七十三國
