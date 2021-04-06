@@ -30260,7 +30260,8 @@
 2	旦	旦	NOUN	n,名詞,天象,気象	_	4	obl	_	Gloss=sunrise|SpaceAfter=No
 3	秦	秦	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nsubj	_	Gloss=[country-name]|SpaceAfter=No
 4	克	克	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=conquer|SpaceAfter=No
-5	大梁	大梁	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	obj	_	Gloss=[place-name]|SpaceAfter=No
+5	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=big|SpaceAfter=No
+6	梁	梁	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	obj	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par14_921-925
 # text = 夷先王宗廟
