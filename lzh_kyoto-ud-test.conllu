@@ -34573,7 +34573,7 @@
 # sent_id = KR2b0041_007_par18_1108-1111
 # text = 折脅拉齒
 1	折	折	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=break|SpaceAfter=No
-2	脅	脅	NOUN	n,名詞,不可譲,身体	_	1	obj	_	SpaceAfter=No
+2	脅	脅	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=side|SpaceAfter=No
 3	拉	拉	VERB	v,動詞,行為,動作	_	1	conj	_	SpaceAfter=No
 4	齒	齒	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=tooth|SpaceAfter=No
 
