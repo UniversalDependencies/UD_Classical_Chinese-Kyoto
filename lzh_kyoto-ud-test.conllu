@@ -15050,12 +15050,12 @@
 # sent_id = KR1d0052_032_par23_21-28
 # text = 是故君子誠之為貴
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	7	obl	_	Gloss=reason|SpaceAfter=No
-3	君子	君子	NOUN	n,名詞,人,役割	_	7	nsubj	_	Gloss=lord|SpaceAfter=No
-4	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos	7	csubj	_	Gloss=sincere|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,*	_	6	obl	_	Gloss=reason|SpaceAfter=No
+3	君子	君子	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=lord|SpaceAfter=No
+4	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos	6	csubj	_	Gloss=sincere|SpaceAfter=No
 5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	obj	_	Gloss=[3PRON]|SpaceAfter=No
-6	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
-7	貴	貴	NOUN	n,名詞,描写,態度	_	0	root	_	Gloss=noble|SpaceAfter=No
+6	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
+7	貴	貴	NOUN	n,名詞,描写,態度	_	6	obj	_	Gloss=noble|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par23_29-37
 # text = 誠者非自成己而已也

@@ -39398,7 +39398,7 @@
 # text = 陛下威斷
 1	陛	陛	NOUN	n,名詞,固定物,建造物	Case=Loc	2	nmod	_	Gloss=steps-up-to-throne|SpaceAfter=No
 2	下	下	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=down|SpaceAfter=No
-3	威	威	VERB	v,動詞,行為,態度	_	4	nsubj	_	Gloss=overawe|SpaceAfter=No
+3	威	威	ADV	v,動詞,行為,態度	VerbForm=Conv	4	advmod	_	Gloss=overawe|SpaceAfter=No
 4	斷	斷	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=decide|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par16_481-484
