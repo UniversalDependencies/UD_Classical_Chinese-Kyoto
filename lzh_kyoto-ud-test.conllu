@@ -19255,7 +19255,7 @@
 4	司	司	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=controller|SpaceAfter=No
 5	加	加	VERB	v,動詞,行為,得失	_	2	parataxis	_	Gloss=add|SpaceAfter=No
 6	法	法	NOUN	n,名詞,制度,儀礼	_	5	obj	_	Gloss=law|SpaceAfter=No
-7	焉	焉	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+7	焉	焉	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_455-458
 # text = 首足異処
@@ -19425,7 +19425,7 @@
 1	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	nmod	_	Gloss=[country-name]|SpaceAfter=No
 2	人	人	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=person|SpaceAfter=No
 3	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
-4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	iobj	_	Gloss=[3PRON]|SpaceAfter=No
+4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	obj	_	Gloss=[3PRON]|SpaceAfter=No
 5	懼	懼	VERB	v,動詞,行為,態度	_	3	parataxis	_	Gloss=fear|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_573-578
@@ -20149,7 +20149,7 @@
 1	匪	匪	ADV	v,副詞,否定,体言否定	Polarity=Neg	2	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
 2	兕	兕	NOUN	n,名詞,主体,動物	_	0	root	_	Gloss=rhinoceros|SpaceAfter=No
 3	匪	匪	ADV	v,副詞,否定,体言否定	Polarity=Neg	4	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
-4	虎	虎	NOUN	n,名詞,主体,動物	_	2	parataxis	_	Gloss=tiger|SpaceAfter=No
+4	虎	虎	NOUN	n,名詞,主体,動物	_	2	conj	_	Gloss=tiger|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_1003-1006
 # text = 率彼曠野
@@ -20540,11 +20540,12 @@
 # sent_id = KR2b0041_007_par6_1258-1265
 # text = 老子者楚苦県人也
 1	老子	老子	PROPN	n,名詞,人,複合的人名	NameType=Prs	2	nmod	_	SpaceAfter=No
-2	者	者	PART	p,助詞,提示,*	_	5	nsubj	_	Gloss=that-which|SpaceAfter=No
+2	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
 3	楚	楚	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
-4	苦県	苦縣	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	nmod	_	Gloss=[place-name]|SpaceAfter=No
-5	人	人	NOUN	n,名詞,人,人	_	0	root	_	Gloss=person|SpaceAfter=No
-6	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+4	苦	苦	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	nmod	_	Gloss=[place-name]|SpaceAfter=No
+5	県	縣	NOUN	n,名詞,制度,場	Case=Loc	6	nmod	_	Gloss=district|SpaceAfter=No
+6	人	人	NOUN	n,名詞,人,人	_	0	root	_	Gloss=person|SpaceAfter=No
+7	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_1266-1267
 # text = 李姓
@@ -21000,7 +21001,7 @@
 2	人	人	NOUN	n,名詞,人,人	_	1	iobj	_	Gloss=person|SpaceAfter=No
 3	二	二	NUM	n,数詞,数字,*	_	5	nummod	_	Gloss=two|SpaceAfter=No
 4	鷄	雞	NOUN	n,名詞,主体,動物	_	5	nmod	_	Gloss=chicken|SpaceAfter=No
-5	子	子	NOUN	n,名詞,可搬,糧食	_	1	obj	_	SpaceAfter=No
+5	子	子	NOUN	n,名詞,人,関係	_	1	obj	_	Gloss=child|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par7_123-125
 # text = 故弗用
@@ -21559,7 +21560,7 @@
 2	伐	伐	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=hew|SpaceAfter=No
 3	重耳	重耳	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
 4	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
-5	蒲	蒲	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl	_	Gloss=[place-name]|SpaceAfter=No
+5	蒲	蒲	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obl:lmod	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par9_88-91
 # text = 重耳出奔
@@ -21789,11 +21790,14 @@
 6	封	封	VERB	v,動詞,行為,役割	_	3	parataxis	_	Gloss=enfief|SpaceAfter=No
 7	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	6	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
-# sent_id = KR2b0041_007_par9_228-231
-# text = 號曰介山
+# sent_id = KR2b0041_007_par9_228-228
+# text = 號
 1	號	號	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=shout|SpaceAfter=No
-2	曰	曰	VERB	v,動詞,行為,伝達	_	1	parataxis	_	Gloss=say|SpaceAfter=No
-3	介山	介山	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obj	_	Gloss=[place-name]|SpaceAfter=No
+
+# sent_id = KR2b0041_007_par9_229-231
+# text = 曰介山
+1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+2	介山	介山	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	1	obj	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par9_232-234
 # text = 文公卒
@@ -22112,7 +22116,7 @@
 5	遂	遂	ADV	v,副詞,時相,終局	AdvType=Tim	6	nsubj	_	Gloss=thereupon|SpaceAfter=No
 6	大	大	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=big|SpaceAfter=No
 7	于	于	ADP	v,前置詞,基盤,*	_	8	case	_	Gloss=at|SpaceAfter=No
-8	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	obl	_	Gloss=[country-name]|SpaceAfter=No
+8	齊	齊	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par10_54-56
 # text = 爲田氏
@@ -22749,7 +22753,7 @@
 1	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	2	det	_	Gloss=[3PRON]|SpaceAfter=No
 2	夫	夫	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=male-person|SpaceAfter=No
 3	擁	擁	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=embrace|SpaceAfter=No
-4	大	大	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=big|SpaceAfter=No
+4	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	5	amod	_	Gloss=big|SpaceAfter=No
 5	蓋	蓋	NOUN	n,名詞,可搬,道具	_	3	obj	_	SpaceAfter=No
 
 # sent_id = KR2b0041_007_par11_400-402
