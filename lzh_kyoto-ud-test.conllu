@@ -35773,7 +35773,7 @@
 1	指	指	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=point|SpaceAfter=No
 2	九	九	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=nine|SpaceAfter=No
 3	天	天	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=heaven|SpaceAfter=No
-4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
+4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
 5	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
 6	正	正	VERB	v,動詞,描写,形質	Degree=Pos	1	parataxis	_	Gloss=correct|SpaceAfter=No
 7	兮	兮	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[filler-character]|SpaceAfter=No
@@ -35796,7 +35796,7 @@
 # text = 黃昏以為期兮
 1	黃	黃	NOUN	n,名詞,描写,形質	_	2	nmod	_	Gloss=yellow|SpaceAfter=No
 2	昏	昏	NOUN	n,名詞,時,*	Case=Tem	5	nsubj	_	Gloss=evening|SpaceAfter=No
-3	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	4	advmod	_	Gloss=use|SpaceAfter=No
+3	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
 4	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	5	cop	_	Gloss=be|SpaceAfter=No
 5	期	期	NOUN	n,名詞,数量,*	_	0	root	_	Gloss=complete-cycle-of-time|SpaceAfter=No
 6	兮	兮	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[filler-character]|SpaceAfter=No
@@ -36293,7 +36293,7 @@
 1	競	競	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=contend|SpaceAfter=No
 2	周	周	VERB	v,動詞,行為,動作	_	1	obj	_	Gloss=circuit|SpaceAfter=No
 3	容	容	VERB	v,動詞,行為,設置	_	2	flat:vv	_	Gloss=contain|SpaceAfter=No
-4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
+4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
 5	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
 6	度	度	NOUN	n,名詞,制度,儀礼	_	1	parataxis	_	Gloss=degree|SpacesAfter=\n
 
@@ -36640,7 +36640,7 @@
 2	獨	獨	ADV	v,動詞,描写,境遇	Degree=Pos|VerbForm=Conv	3	advmod	_	Gloss=alone|SpaceAfter=No
 3	好	好	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=favour|SpaceAfter=No
 4	脩	脩	VERB	v,動詞,描写,態度	Degree=Pos	3	obj	_	SpaceAfter=No
-5	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
+5	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	7	advmod	_	Gloss=use|SpaceAfter=No
 6	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
 7	常	常	NOUN	n,名詞,描写,態度	_	3	parataxis	_	Gloss=usual|SpaceAfter=No
 
@@ -38695,7 +38695,7 @@
 1	折	折	VERB	v,動詞,行為,動作	_	6	csubj	_	Gloss=break|SpaceAfter=No
 2	瓊	瓊	NOUN	n,名詞,可搬,道具	_	3	nmod	_	SpaceAfter=No
 3	枝	枝	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=branch|SpaceAfter=No
-4	以	以	VERB	v,動詞,行為,動作	VerbForm=Part	6	amod	_	Gloss=use|SpaceAfter=No
+4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
 5	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
 6	羞	羞	NOUN	n,名詞,可搬,糧食	_	0	root	_	SpaceAfter=No
 7	兮	兮	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[filler-character]|SpaceAfter=No
@@ -38705,7 +38705,7 @@
 1	精	精	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=fine-and-pure|SpaceAfter=No
 2	瓊	瓊	NOUN	n,名詞,可搬,道具	_	3	nmod	_	SpaceAfter=No
 3	爢	爢	NOUN	n,名詞,可搬,成果物	_	1	obj	_	SpaceAfter=No
-4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
+4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
 5	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
 6	粻	粻	NOUN	n,名詞,可搬,糧食	_	1	parataxis	_	SpacesAfter=\n
 
@@ -39048,10 +39048,10 @@
 
 # sent_id = KR4a0001_001_par91_19-26
 # text = 既莫足與為美政兮
-1	既	既	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	7	amod	_	Gloss=already|SpaceAfter=No
-2	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	7	amod	_	Gloss=none|SpaceAfter=No
+1	既	既	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	7	advmod	_	Gloss=already|SpaceAfter=No
+2	莫	莫	ADV	v,副詞,否定,禁止	Polarity=Neg	7	advmod	_	Gloss=none|SpaceAfter=No
 3	足	足	AUX	v,助動詞,可能,*	Mood=Pot	7	aux	_	Gloss=enough|SpaceAfter=No
-4	與	與	ADV	v,動詞,行為,交流	VerbForm=Conv	5	advmod	_	Gloss=participate|SpaceAfter=No
+4	與	與	ADV	v,動詞,行為,交流	VerbForm=Conv	7	advmod	_	Gloss=participate|SpaceAfter=No
 5	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
 6	美	美	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	7	amod	_	Gloss=beautiful|SpaceAfter=No
 7	政	政	NOUN	n,名詞,制度,儀礼	_	0	root	_	Gloss=government|SpaceAfter=No
