@@ -13382,7 +13382,7 @@
 5	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=up|SpaceAfter=No
 6	所	所	PART	p,助詞,接続,体言化	_	7	case	_	Gloss=that-which|SpaceAfter=No
 7	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	8	advmod	_	Gloss=use|SpaceAfter=No
-8	逮	逮	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=while|SpaceAfter=No
+8	逮	逮	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=reach-to|SpaceAfter=No
 9	賤	賤	VERB	v,動詞,描写,境遇	Degree=Pos	8	obj	_	Gloss=lowly|SpaceAfter=No
 10	也	也	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 

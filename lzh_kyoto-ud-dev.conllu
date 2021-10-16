@@ -16062,7 +16062,7 @@
 # text = 菑必逮夫身
 1	菑	菑	NOUN	n,名詞,描写,形質	_	3	nsubj	_	Gloss=calamity|SpaceAfter=No
 2	必	必	ADV	v,副詞,判断,確定	_	3	advmod	_	Gloss=necessarily|SpaceAfter=No
-3	逮	逮	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=while|SpaceAfter=No
+3	逮	逮	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=reach-to|SpaceAfter=No
 4	夫	夫	PRON	n,代名詞,指示,*	PronType=Dem	5	det	_	Gloss=that|SpaceAfter=No
 5	身	身	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=body|SpaceAfter=No
 
