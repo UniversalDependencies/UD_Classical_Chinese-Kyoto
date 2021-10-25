@@ -32804,7 +32804,7 @@
 2	体	体	NOUN	n,名詞,不可譲,身体	_	3	nsubj	_	SpaceAfter=No
 3	解	解	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=untie|SpaceAfter=No
 4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
-5	徇	徇	VERB	v,動詞,行為,伝達	_	3	parataxis	_	SpaceAfter=No
+5	徇	徇	VERB	v,動詞,行為,伝達	_	3	parataxis	_	Gloss=obay|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par17_653-656
 # text = 秦王大怒
@@ -34088,7 +34088,7 @@
 3	車	車	NOUN	n,名詞,可搬,乗り物	_	4	obl	_	Gloss=cart|SpaceAfter=No
 4	裂	裂	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
 5	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
-6	徇	徇	VERB	v,動詞,行為,伝達	_	4	parataxis	_	SpaceAfter=No
+6	徇	徇	VERB	v,動詞,行為,伝達	_	4	parataxis	_	Gloss=obay|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_796-799
 # text = 鞅用法酷

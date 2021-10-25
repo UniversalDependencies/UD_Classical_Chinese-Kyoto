@@ -17296,7 +17296,7 @@
 # sent_id = KR2b0041_016_par1_619-623
 # text = 世民徇渭北
 1	世民	世民	PROPN	n,名詞,人,名	NameType=Giv	2	nsubj	_	Gloss=[given-name]|SpaceAfter=No
-2	徇	徇	VERB	v,動詞,行為,伝達	_	0	root	_	SpaceAfter=No
+2	徇	徇	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=obay|SpaceAfter=No
 3	渭北	渭北	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obj	_	Gloss=[place-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par1_624-631
@@ -19771,7 +19771,7 @@
 1	與	與	ADP	v,前置詞,関係,*	_	10	case	_	Gloss=associate-with|SpaceAfter=No
 2	帝	帝	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=emperor|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=king|SpaceAfter=No
-4	徇	徇	VERB	v,動詞,行為,伝達	_	10	acl	_	SpaceAfter=No
+4	徇	徇	VERB	v,動詞,行為,伝達	_	10	acl	_	Gloss=obay|SpaceAfter=No
 5	奢	奢	VERB	v,動詞,行為,態度	_	4	obj	_	Gloss=extravagant|SpaceAfter=No
 6	欲	欲	VERB	v,動詞,行為,動作	_	5	flat:vv	_	Gloss=desire|SpaceAfter=No
 7	而	而	CCONJ	p,助詞,接続,並列	_	8	cc	_	Gloss=and|SpaceAfter=No
