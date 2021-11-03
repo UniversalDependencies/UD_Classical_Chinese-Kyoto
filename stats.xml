@@ -5,108 +5,108 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>55514</sentences><tokens>269002</tokens><words>269002</words><fused>0</fused></total>
-    <train><sentences>45748</sentences><tokens>221090</tokens><words>221090</words><fused>0</fused></train>
-    <dev><sentences>5296</sentences><tokens>26114</tokens><words>26114</words><fused>0</fused></dev>
-    <test><sentences>4470</sentences><tokens>21798</tokens><words>21798</words><fused>0</fused></test>
+    <total><sentences>58301</sentences><tokens>283166</tokens><words>283166</words><fused>0</fused></total>
+    <train><sentences>47911</sentences><tokens>231701</tokens><words>231701</words><fused>0</fused></train>
+    <dev><sentences>5521</sentences><tokens>27238</tokens><words>27238</words><fused>0</fused></dev>
+    <test><sentences>4869</sentences><tokens>24227</tokens><words>24227</words><fused>0</fused></test>
   </size>
-  <lemmas unique="7848" /><!-- 之, 不, 也, 曰, 以, 而, 爲, 其, 者, 人, 子, 有, 於, 王, 大 -->
-  <forms unique="7968" /><!-- 之, 不, 也, 曰, 以, 而, 其, 者, 人, 子, 有, 於, 爲, 王, 大 -->
+  <lemmas unique="8337" /><!-- 之, 不, 也, 而, 以, 曰, 爲, 其, 者, 人, 子, 有, 於, 王, 大 -->
+  <forms unique="8466" /><!-- 之, 不, 也, 而, 以, 曰, 其, 者, 人, 子, 有, 於, 爲, 王, 大 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="13">
-    <tag name="ADP">5148</tag><!-- 於, 與, 于, 自, 爲, 乎, 及, 由, 有, 從 -->
-    <tag name="ADV">25093</tag><!-- 不, 以, 則, 皆, 必, 故, 亦, 乃, 非, 未 -->
-    <tag name="AUX">4729</tag><!-- 爲, 可, 能, 欲, 敢, 得, 足, 宜, 被, 見 -->
-    <tag name="CCONJ">4075</tag><!-- 而, 以 -->
-    <tag name="INTJ">57</tag><!-- 嗟, 於, 噫, 呼, 嗚, 嘻, 咨, 唯, 惡, 戲 -->
-    <tag name="NOUN">80239</tag><!-- 人, 子, 王, 天, 上, 下, 年, 君, 帝, 禮 -->
-    <tag name="NUM">5477</tag><!-- 三, 一, 五, 二, 四, 百, 六, 十, 九, 萬 -->
-    <tag name="PART">13017</tag><!-- 也, 者, 所, 矣, 乎, 焉, 哉, 夫, 已, 與 -->
-    <tag name="PRON">13312</tag><!-- 之, 其, 是, 此, 吾, 自, 何, 我, 諸, 或 -->
-    <tag name="PROPN">25151</tag><!-- 孔子, 周, 秦, 孟子, 齊, 李, 王, 魏, 漢, 趙 -->
-    <tag name="SCONJ">4949</tag><!-- 之, 移 -->
+    <tag name="ADP">5336</tag><!-- 於, 與, 于, 自, 爲, 乎, 及, 由, 兮, 有 -->
+    <tag name="ADV">26918</tag><!-- 不, 以, 則, 皆, 必, 故, 亦, 乃, 未, 非 -->
+    <tag name="AUX">4895</tag><!-- 爲, 可, 能, 欲, 敢, 得, 足, 宜, 被, 見 -->
+    <tag name="CCONJ">4575</tag><!-- 而, 以, 若 -->
+    <tag name="INTJ">95</tag><!-- 嗟, 羌, 於, 噫, 蹇, 呼, 咨, 嗚, 嘻, 謇 -->
+    <tag name="NOUN">83582</tag><!-- 人, 子, 王, 天, 上, 下, 君, 年, 帝, 禮 -->
+    <tag name="NUM">5577</tag><!-- 三, 一, 五, 二, 四, 百, 六, 九, 十, 萬 -->
+    <tag name="PART">14332</tag><!-- 也, 者, 所, 兮, 矣, 乎, 焉, 夫, 哉, 已 -->
+    <tag name="PRON">14137</tag><!-- 之, 其, 是, 此, 吾, 何, 自, 我, 諸, 或 -->
+    <tag name="PROPN">25547</tag><!-- 周, 孔子, 秦, 孟子, 齊, 李, 王, 魏, 漢, 趙 -->
+    <tag name="SCONJ">5270</tag><!-- 之, 兮, 移 -->
     <tag name="SYM">1364</tag><!-- ○, □, 井, 刀, 劉, 卯, 金, 項 -->
-    <tag name="VERB">86391</tag><!-- 曰, 以, 有, 大, 爲, 無, 至, 立, 如, 行 -->
+    <tag name="VERB">91538</tag><!-- 曰, 以, 有, 大, 爲, 無, 至, 立, 如, 行 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="35">
-    <feat name="AdvType" value="Cau" upos="ADV">248</feat><!-- 何, 寧, 奚, 盍, 胡, 曷 -->
-    <feat name="AdvType" value="Deg" upos="ADV">111</feat><!-- 實, 頗, 最, 滋, 粗, 良, 愼, 已, 酷, 報 -->
-    <feat name="AdvType" value="Tim" upos="ADV">4205</feat><!-- 則, 乃, 遂, 將, 嘗, 已, 既, 旣, 尋, 常 -->
-    <feat name="Aspect" value="Perf" upos="ADV">566</feat><!-- 已, 既, 旣 -->
-    <feat name="Case" value="Loc" upos="NOUN,PROPN">22498</feat><!-- 天, 上, 下, 中, 位, 州, 地, 先, 門, 東 -->
-    <feat name="Case" value="Tem" upos="NOUN">5818</feat><!-- 年, 後, 日, 時, 今, 月, 初, 古, 世, 歲 -->
+    <feat name="AdvType" value="Cau" upos="ADV">398</feat><!-- 何, 寧, 奚, 盍, 胡, 曷, 聊 -->
+    <feat name="AdvType" value="Deg" upos="ADV">134</feat><!-- 實, 聊, 頗, 最, 滋, 粗, 良, 愼, 已, 酷 -->
+    <feat name="AdvType" value="Tim" upos="ADV">4391</feat><!-- 則, 乃, 遂, 將, 嘗, 既, 已, 旣, 方, 常 -->
+    <feat name="Aspect" value="Perf" upos="ADV">602</feat><!-- 既, 已, 旣 -->
+    <feat name="Case" value="Loc" upos="NOUN,PROPN">23346</feat><!-- 天, 上, 下, 中, 位, 州, 地, 先, 門, 東 -->
+    <feat name="Case" value="Tem" upos="NOUN">6074</feat><!-- 年, 後, 日, 時, 今, 月, 初, 古, 世, 歲 -->
     <feat name="Degree" value="Cmp" upos="ADV">20</feat><!-- 滋, 良, 愈, 益, 差, 浸, 質 -->
-    <feat name="Degree" value="Equ" upos="ADP,ADV,VERB">1066</feat><!-- 如, 若, 猶, 奈, 區, 亞, 恰 -->
-    <feat name="Degree" value="Pos" upos="ADV,VERB">15838</feat><!-- 大, 太, 然, 皇, 小, 同, 明, 多, 正, 善 -->
-    <feat name="Degree" value="Sup" upos="ADV">83</feat><!-- 實, 頗, 最, 愼, 已, 酷, 報, 寔, 特, 細 -->
-    <feat name="Mood" value="Des" upos="AUX">756</feat><!-- 欲, 敢, 肯 -->
-    <feat name="Mood" value="Nec" upos="AUX">97</feat><!-- 宜, 須, 儀, 應 -->
-    <feat name="Mood" value="Pot" upos="AUX">1826</feat><!-- 可, 能, 得, 足 -->
-    <feat name="NameType" value="Geo" upos="PROPN">3584</feat><!-- 長安, 洛陽, 江, 沛, 京師, 汴, 漢, 建康, 關中, 晉陽 -->
-    <feat name="NameType" value="Giv" upos="PROPN">10990</feat><!-- 舜, 堯, 禹, 光, 子貢, 子路, 亮, 羽, 信, 湯 -->
-    <feat name="NameType" value="Nat" upos="PROPN">3612</feat><!-- 周, 秦, 齊, 晉, 漢, 魏, 楚, 夏, 宋, 燕 -->
-    <feat name="NameType" value="Prs" upos="PROPN">2371</feat><!-- 孔子, 孟子, 文, 曾子, 武, 高, 太, 宣, 哀, 桓 -->
-    <feat name="NameType" value="Sur" upos="PROPN">4594</feat><!-- 李, 王, 劉, 張, 陳, 趙, 呂, 名, 楊, 韓 -->
-    <feat name="NounType" value="Clf" upos="NOUN">579</feat><!-- 里, 尺, 寸, 方, 畝, 升, 步, 兩, 丈, 斗 -->
-    <feat name="NumType" value="Ord" upos="NUM">137</feat><!-- 丁, 己, 庚申, 戊, 己卯, 戊寅, 甲, 甲子, 辛, 丁丑 -->
-    <feat name="Person" value="1" upos="PRON">1117</feat><!-- 吾, 我, 予, 朕, 余, 言 -->
-    <feat name="Person" value="2" upos="PRON">395</feat><!-- 子, 爾, 汝, 女, 若, 而 -->
-    <feat name="Person" value="3" upos="PRON">7625</feat><!-- 之, 其, 厥 -->
-    <feat name="Polarity" value="Neg" upos="ADV,VERB">8617</feat><!-- 不, 無, 非, 未, 弗, 莫, 毋, 勿, 微, 末 -->
-    <feat name="PronType" value="Dem" upos="PRON">2457</feat><!-- 是, 此, 斯, 某, 彼, 他, 焉, 夫, 惟, 它 -->
-    <feat name="PronType" value="Int" upos="PRON">658</feat><!-- 何, 孰, 誰, 奚, 害, 瑕, 甚 -->
-    <feat name="PronType" value="Prs" upos="PRON">10197</feat><!-- 之, 其, 吾, 自, 我, 諸, 或, 子, 己, 予 -->
-    <feat name="Reflex" value="Yes" upos="PRON">687</feat><!-- 自, 己 -->
-    <feat name="Tense" value="Fut" upos="ADV">295</feat><!-- 將, 且, 預, 倡, 更, 鄉 -->
-    <feat name="Tense" value="Past" upos="ADV">302</feat><!-- 嘗, 曾, 向, 曩, 鄉 -->
-    <feat name="Tense" value="Pres" upos="ADV">63</feat><!-- 方, 甫, 屬 -->
-    <feat name="VerbForm" value="Conv" upos="ADV">7758</feat><!-- 以, 大, 然, 無, 凡, 始, 親, 對, 善, 當 -->
-    <feat name="VerbForm" value="Part" upos="VERB">8307</feat><!-- 大, 太, 皇, 小, 主, 庶, 有, 長, 寡, 以 -->
-    <feat name="VerbType" value="Cop" upos="AUX">1984</feat><!-- 爲, 為 -->
-    <feat name="Voice" value="Pass" upos="AUX">66</feat><!-- 被, 見 -->
+    <feat name="Degree" value="Equ" upos="ADP,ADV,VERB">1095</feat><!-- 如, 若, 猶, 奈, 區, 亞, 恰, 柰 -->
+    <feat name="Degree" value="Pos" upos="ADV,VERB">17507</feat><!-- 大, 太, 然, 皇, 小, 同, 明, 多, 正, 善 -->
+    <feat name="Degree" value="Sup" upos="ADV">89</feat><!-- 實, 頗, 最, 愼, 已, 酷, 報, 寔, 特, 細 -->
+    <feat name="Mood" value="Des" upos="AUX">775</feat><!-- 欲, 敢, 肯 -->
+    <feat name="Mood" value="Nec" upos="AUX">99</feat><!-- 宜, 須, 儀, 應 -->
+    <feat name="Mood" value="Pot" upos="AUX">1917</feat><!-- 可, 能, 得, 足 -->
+    <feat name="NameType" value="Geo" upos="PROPN">3694</feat><!-- 長安, 洛陽, 江, 沛, 京師, 汴, 漢, 荊, 建康, 關中 -->
+    <feat name="NameType" value="Giv" upos="PROPN">11172</feat><!-- 舜, 堯, 禹, 光, 湯, 子貢, 子路, 亮, 羽, 信 -->
+    <feat name="NameType" value="Nat" upos="PROPN">3657</feat><!-- 周, 秦, 齊, 晉, 漢, 魏, 楚, 夏, 宋, 燕 -->
+    <feat name="NameType" value="Prs" upos="PROPN">2390</feat><!-- 孔子, 孟子, 文, 曾子, 武, 太, 高, 宣, 桓, 哀 -->
+    <feat name="NameType" value="Sur" upos="PROPN">4634</feat><!-- 王, 李, 劉, 張, 陳, 趙, 呂, 名, 楊, 韓 -->
+    <feat name="NounType" value="Clf" upos="NOUN">593</feat><!-- 里, 尺, 寸, 方, 畝, 升, 步, 兩, 丈, 斗 -->
+    <feat name="NumType" value="Ord" upos="NUM">139</feat><!-- 丁, 己, 庚申, 戊, 甲, 己卯, 戊寅, 甲子, 辛, 丁丑 -->
+    <feat name="Person" value="1" upos="PRON">1329</feat><!-- 吾, 我, 予, 余, 朕, 言 -->
+    <feat name="Person" value="2" upos="PRON">414</feat><!-- 子, 爾, 汝, 女, 若, 而 -->
+    <feat name="Person" value="3" upos="PRON">7908</feat><!-- 之, 其, 厥 -->
+    <feat name="Polarity" value="Neg" upos="ADV,VERB">9072</feat><!-- 不, 無, 未, 非, 弗, 莫, 毋, 勿, 微, 末 -->
+    <feat name="PronType" value="Dem" upos="PRON">2609</feat><!-- 是, 此, 斯, 某, 彼, 他, 焉, 夫, 惟, 茲 -->
+    <feat name="PronType" value="Int" upos="PRON">769</feat><!-- 何, 孰, 誰, 奚, 害, 瑕, 甚 -->
+    <feat name="PronType" value="Prs" upos="PRON">10759</feat><!-- 之, 其, 吾, 自, 我, 諸, 或, 子, 己, 予 -->
+    <feat name="Reflex" value="Yes" upos="PRON">733</feat><!-- 自, 己 -->
+    <feat name="Tense" value="Fut" upos="ADV">351</feat><!-- 將, 且, 預, 倡, 更, 鄉 -->
+    <feat name="Tense" value="Past" upos="ADV">310</feat><!-- 嘗, 曾, 向, 曩, 鄉 -->
+    <feat name="Tense" value="Pres" upos="ADV">68</feat><!-- 方, 甫, 屬 -->
+    <feat name="VerbForm" value="Conv" upos="ADV">8624</feat><!-- 以, 大, 然, 無, 凡, 始, 獨, 親, 善, 對 -->
+    <feat name="VerbForm" value="Part" upos="VERB">8716</feat><!-- 大, 太, 皇, 小, 主, 庶, 有, 長, 以, 寡 -->
+    <feat name="VerbType" value="Cop" upos="AUX">2034</feat><!-- 爲, 為 -->
+    <feat name="Voice" value="Pass" upos="AUX">70</feat><!-- 被, 見 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="39">
-    <dep name="acl">3041</dep>
-    <dep name="advcl">2909</dep>
-    <dep name="advmod">25738</dep>
-    <dep name="amod">8939</dep>
-    <dep name="aux">2615</dep>
-    <dep name="case">9673</dep>
-    <dep name="cc">3287</dep>
-    <dep name="ccomp">3633</dep>
-    <dep name="clf">1471</dep>
-    <dep name="compound">1908</dep>
-    <dep name="compound:redup">298</dep>
-    <dep name="conj">11889</dep>
-    <dep name="cop">1984</dep>
-    <dep name="csubj">2059</dep>
+    <dep name="acl">3057</dep>
+    <dep name="advcl">2962</dep>
+    <dep name="advmod">27567</dep>
+    <dep name="amod">9393</dep>
+    <dep name="aux">2727</dep>
+    <dep name="case">10170</dep>
+    <dep name="cc">3762</dep>
+    <dep name="ccomp">3916</dep>
+    <dep name="clf">1486</dep>
+    <dep name="compound">1941</dep>
+    <dep name="compound:redup">456</dep>
+    <dep name="conj">12662</dep>
+    <dep name="cop">2034</dep>
+    <dep name="csubj">2115</dep>
     <dep name="csubj:pass">1</dep>
-    <dep name="det">3605</dep>
-    <dep name="discourse">410</dep>
-    <dep name="discourse:sp">7464</dep>
-    <dep name="dislocated">180</dep>
-    <dep name="expl">316</dep>
-    <dep name="fixed">568</dep>
-    <dep name="flat">7567</dep>
-    <dep name="flat:vv">3807</dep>
-    <dep name="iobj">901</dep>
+    <dep name="det">3822</dep>
+    <dep name="discourse">478</dep>
+    <dep name="discourse:sp">8602</dep>
+    <dep name="dislocated">184</dep>
+    <dep name="expl">347</dep>
+    <dep name="fixed">609</dep>
+    <dep name="flat">7630</dep>
+    <dep name="flat:vv">4247</dep>
+    <dep name="iobj">912</dep>
     <dep name="list">115</dep>
-    <dep name="mark">1742</dep>
-    <dep name="nmod">20232</dep>
-    <dep name="nsubj">31919</dep>
+    <dep name="mark">1816</dep>
+    <dep name="nmod">20873</dep>
+    <dep name="nsubj">33374</dep>
     <dep name="nsubj:pass">15</dep>
-    <dep name="nummod">3398</dep>
-    <dep name="obj">37183</dep>
-    <dep name="obl">3418</dep>
-    <dep name="obl:lmod">2610</dep>
-    <dep name="obl:tmod">2571</dep>
+    <dep name="nummod">3478</dep>
+    <dep name="obj">38759</dep>
+    <dep name="obl">3520</dep>
+    <dep name="obl:lmod">2778</dep>
+    <dep name="obl:tmod">2661</dep>
     <dep name="orphan">2</dep>
-    <dep name="parataxis">5305</dep>
-    <dep name="root">55514</dep>
+    <dep name="parataxis">5659</dep>
+    <dep name="root">58301</dep>
     <dep name="vocative">39</dep>
-    <dep name="xcomp">676</dep>
+    <dep name="xcomp">696</dep>
   </deps>
 </treebank>
