@@ -489,7 +489,7 @@
 # text = 觀其志
 1	觀	觀	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=view|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	志	志	NOUN	n,名詞,思考,*	_	1	obj	_	Gloss=aim|SpaceAfter=No
+3	志	志	NOUN	n,名詞,思考,思考	_	1	obj	_	Gloss=aim|SpaceAfter=No
 
 # sent_id = KR1h0004_001_par11_8-9
 # text = 父沒
@@ -2226,7 +2226,7 @@
 2	獻	獻	NOUN	n,名詞,可搬,伝達	_	1	flat	_	Gloss=present|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
 4	足	足	VERB	v,動詞,描写,量	Degree=Pos	5	acl	_	Gloss=sufficient|SpaceAfter=No
-5	故	故	NOUN	n,名詞,思考,*	_	0	root	_	Gloss=reason|SpaceAfter=No
+5	故	故	NOUN	n,名詞,思考,思考	_	0	root	_	Gloss=reason|SpaceAfter=No
 6	也	也	PART	p,助詞,句末,*	_	5	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR1h0004_003_par9_31-37
@@ -5792,7 +5792,7 @@
 # sent_id = KR1h0001_001_par7_696-700
 # text = 搆怨於諸侯
 1	搆	搆	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=cross|SpaceAfter=No
-2	怨	怨	NOUN	n,名詞,思考,*	_	1	obj	_	Gloss=resentment|SpaceAfter=No
+2	怨	怨	NOUN	n,名詞,思考,思考	_	1	obj	_	Gloss=resentment|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 4	諸	諸	NOUN	n,名詞,数量,*	_	5	nmod	_	Gloss=[plural]|SpaceAfter=No
 5	侯	侯	NOUN	n,名詞,人,役割	_	1	obl	_	Gloss=marquis|SpaceAfter=No
@@ -6321,7 +6321,7 @@
 2	夫子	夫子	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=master|SpaceAfter=No
 3	輔	輔	VERB	v,動詞,行為,交流	_	1	ccomp	_	Gloss=assist|SpaceAfter=No
 4	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	5	det	_	Gloss=[1PRON]|SpaceAfter=No
-5	志	志	NOUN	n,名詞,思考,*	_	3	obj	_	Gloss=aim|SpaceAfter=No
+5	志	志	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=aim|SpaceAfter=No
 
 # sent_id = KR1h0001_001_par7_1045-1048
 # text = 明以教我
@@ -6435,7 +6435,7 @@
 # sent_id = KR1h0001_001_par7_1118-1125
 # text = 是故明君制民之產
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	5	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	5	obl	_	Gloss=reason|SpaceAfter=No
 3	明	明	NOUN	n,名詞,描写,形質	_	4	nmod	_	Gloss=light|SpaceAfter=No
 4	君	君	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=ruler|SpaceAfter=No
 5	制	制	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=cut-out|SpaceAfter=No
@@ -7540,7 +7540,7 @@
 # sent_id = KR1h0001_002_par3_26-30
 # text = 是故湯事葛
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	4	obl	_	Gloss=reason|SpaceAfter=No
 3	湯	湯	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 4	事	事	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=serve|SpaceAfter=No
 5	葛	葛	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
@@ -7839,7 +7839,7 @@
 5	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 6	越	越	VERB	v,動詞,行為,動作	_	5	ccomp	_	Gloss=cross-over|SpaceAfter=No
 7	厥	厥	PRON	n,代名詞,人称,他	Person=3|PronType=Prs	8	det	_	Gloss=[3PRON]|SpaceAfter=No
-8	志	志	NOUN	n,名詞,思考,*	_	6	obj	_	Gloss=aim|SpaceAfter=No
+8	志	志	NOUN	n,名詞,思考,思考	_	6	obj	_	Gloss=aim|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par3_219-225
 # text = 一人衡行於天下
@@ -8260,7 +8260,7 @@
 1	民	民	NOUN	n,名詞,人,人	_	3	nsubj	_	Gloss=people|SpaceAfter=No
 2	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	3	advmod	_	Gloss=then|SpaceAfter=No
 3	作	作	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-4	慝	慝	NOUN	n,名詞,思考,*	_	3	obj	_	Gloss=evil|SpaceAfter=No
+4	慝	慝	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=evil|SpaceAfter=No
 
 # sent_id = KR1h0001_002_par4_238-241
 # text = 方命虐民
@@ -11336,7 +11336,7 @@
 # sent_id = KR1d0052_032_par1_30-40
 # text = 是故君子戒慎乎其所不睹
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	4	obl	_	Gloss=reason|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=lord|SpaceAfter=No
 4	戒	戒	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=take-precaution|SpaceAfter=No
 5	慎	愼	VERB	v,動詞,行為,態度	_	4	flat:vv	_	Gloss=careful|SpaceAfter=No
@@ -13300,7 +13300,7 @@
 5	繼	繼	VERB	v,動詞,行為,得失	_	14	acl	_	Gloss=continue|SpaceAfter=No
 6	人	人	NOUN	n,名詞,人,人	_	8	nmod	_	Gloss=person|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
-8	志	志	NOUN	n,名詞,思考,*	_	5	obj	_	Gloss=aim|SpaceAfter=No
+8	志	志	NOUN	n,名詞,思考,思考	_	5	obj	_	Gloss=aim|SpaceAfter=No
 9	善	善	ADV	v,動詞,描写,態度	Degree=Pos|VerbForm=Conv	10	advmod	_	Gloss=good|SpaceAfter=No
 10	述	述	VERB	v,動詞,行為,伝達	_	5	conj	_	Gloss=transmit|SpaceAfter=No
 11	人	人	NOUN	n,名詞,人,人	_	13	nmod	_	Gloss=person|SpaceAfter=No
@@ -15050,7 +15050,7 @@
 # sent_id = KR1d0052_032_par23_21-28
 # text = 是故君子誠之為貴
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	6	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	6	obl	_	Gloss=reason|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=lord|SpaceAfter=No
 4	誠	誠	VERB	v,動詞,描写,態度	Degree=Pos	6	csubj	_	Gloss=sincere|SpaceAfter=No
 5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -15630,7 +15630,7 @@
 # sent_id = KR1d0052_032_par25_81-86
 # text = 是故居上不驕
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	6	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	6	obl	_	Gloss=reason|SpaceAfter=No
 3	居	居	VERB	v,動詞,行為,動作	_	6	csubj	_	Gloss=sit-down|SpaceAfter=No
 4	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=up|SpaceAfter=No
 5	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	6	advmod	_	Gloss=not|SpaceAfter=No
@@ -16060,7 +16060,7 @@
 # sent_id = KR1d0052_032_par27_138-148
 # text = 是故君子動而世為天下道
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	4	obl	_	Gloss=reason|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=lord|SpaceAfter=No
 4	動	動	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=move|SpaceAfter=No
 5	而	而	CCONJ	p,助詞,接続,並列	_	7	cc	_	Gloss=and|SpaceAfter=No
@@ -16698,7 +16698,7 @@
 1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
 2	惡	惡	NOUN	n,名詞,描写,態度	_	1	obj	_	Gloss=bad|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
-4	志	志	NOUN	n,名詞,思考,*	_	1	obl	_	Gloss=aim|SpaceAfter=No
+4	志	志	NOUN	n,名詞,思考,思考	_	1	obl	_	Gloss=aim|SpaceAfter=No
 
 # sent_id = KR1d0052_032_par28_355-369
 # text = 君子所不可及者其唯人之所不見乎
@@ -16776,7 +16776,7 @@
 # sent_id = KR1d0052_032_par28_403-411
 # text = 是故君子不賞而民勸
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	5	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	5	obl	_	Gloss=reason|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=lord|SpaceAfter=No
 4	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	5	advmod	_	Gloss=not|SpaceAfter=No
 5	賞	賞	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=reward|SpaceAfter=No
@@ -16818,7 +16818,7 @@
 # sent_id = KR1d0052_032_par28_431-440
 # text = 是故君子篤恭而天下平
 1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
-2	故	故	NOUN	n,名詞,思考,*	_	4	obl	_	Gloss=reason|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,思考	_	4	obl	_	Gloss=reason|SpaceAfter=No
 3	君子	君子	NOUN	n,名詞,人,役割	_	4	nsubj	_	Gloss=lord|SpaceAfter=No
 4	篤	篤	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=reliable|SpaceAfter=No
 5	恭	恭	VERB	v,動詞,描写,態度	Degree=Pos	4	flat:vv	_	Gloss=reverent|SpaceAfter=No
@@ -18547,7 +18547,7 @@
 5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
 6	地	地	NOUN	n,名詞,固定物,地形	Case=Loc	4	obj	_	Gloss=earth|SpacesAfter=\n
 
-# newpar text = 魯姬姓周公子伯禽之所封也周公誨成王王有過則撻伯禽伯禽就封公戒之曰我文王之子武王之弟今王之叔父然我一沐三握髮一飯三吐哺起以待士猶恐失天下賢人子之魯愼無以國驕人太公封於齊五月而報政周公曰何疾也曰吾簡其君臣禮從其俗伯禽至魯三年而報政周公曰何遅也曰變其俗革其禮喪三年而後除之周公曰後世其北面事齊乎夫政不簡不易民不能近平易近民民必歸之周公問太公何以治齊曰尊賢而尙功周公曰後世必有簒弑之臣太公問周公何以治魯曰尊賢而親親太公曰後漸弱矣伯禽十三世而至隱公爲春秋之始隱公之弟曰桓公桓公之子莊公莊公有庶弟三人曰慶父其後爲孟孫氏曰叔牙其後爲叔孫氏曰季友其後爲季孫氏是爲三桓世執國命歷子班閔公僖公文公宣公成公襄公至昭公伐季氏三家共伐之公奔乾侯以卒弟定公立以孔子爲中都宰一年四方皆則之由中都爲司空進爲大司寇相定公會齊侯于夾谷孔子曰有文事者必有武備請具左右司馬以從旣會齊有司請奏四方之樂於是旗旄劍戟鼓譟而至孔子趨而進曰吾兩君爲好夷狄之樂何爲於此齊景公心怍麾之齊有司請奏宮中之樂優倡侏儒戲而前孔子趨而進曰匹夫熒惑諸侯者罪當誅請命有司加法焉首足異処景公懼歸語其臣曰魯以君子之道輔其君而子独以夷狄之道敎寡人於是齊人乃歸所侵魯鄆汶陽龜陰之地以謝魯孔子言於定公將墮三都以強公室叔孫氏墮郈季氏墮費孟氏之臣不肯墮成圍之弗克孔子由大司寇攝行相事七日而誅亂政大夫少正卯居三月魯大治齊人聞之懼乃歸女樂於魯季桓子受之不聽政郊又不致膰俎於大夫孔子遂去魯定公卒子哀公立欲以越伐三桓不克歷悼公元公至繆公知尊子思而不能用歷共公康公至平公嘗欲見孟子而不果歷文公至頃公爲楚考烈王所滅魯自周公至頃公凡三十四世孔子名丘字仲尼其先宋人也有正考父者佐宋三命滋益恭其鼎銘云一命而僂再命而傴三命而俯循牆而走亦莫余敢侮饘於是粥於是以餬予口孔氏滅於宋其後適魯有叔梁紇者與顏氏女禱於尼山而生孔子爲兒嬉戲常陳俎豆設禮容長爲季氏吏料量平嘗爲司樴吏畜蕃息適周問禮於老子反而弟子稍益進適齊齊景公將待以季孟之閒孔子反魯定公用之不終適衞將適陳過匡匡人嘗爲陽虎所暴孔子貌類陽虎止之旣免反于衞醜靈公所爲去之過曹適宋與弟子習禮大樹下桓魋伐抜其樹適鄭鄭人曰東門有人其顙似堯其項類皋陶其肩類子產自要以下不及禹三寸纍纍然若喪家之狗適陳又適衞將西見趙簡子至河聞竇鳴犢舜華殺死臨河歎曰美哉水洋洋乎丘之不濟此命也反于衞適陳適蔡如葉反于蔡楚使人聘孔子陳蔡大夫謀曰孔子用於楚則陳蔡危矣相與發徒圍之於野孔子曰詩云匪兕匪虎率彼曠野吾道非邪吾何爲於是子貢曰夫子道至大天下莫能容顏回曰不容何病然後見君子楚昭王興師迎之乃得至楚將封以書社地七百里令尹子西不可孔子反于衞季康子迎歸魯哀公問政終不能用乃序書上自唐虞下至秦繆刪古詩三千爲三百五篇皆絃歌之禮樂自此可述晩而喜易序彖象繋辭說卦文言読易韋編三絶因魯史記作春秋自隱至哀十二公絶筆於獲麟筆則筆削則削子夏之徒不能賛一辭弟子三千人身通六芸者七十有二人年七十三而卒子鯉字伯魚早死孫伋字子思作中庸孟子其門人也名軻魯孟孫之後生於鄒幼被慈母三遷之敎長受業子思之門道旣通游齊梁不用退與萬章之徒難疑答問作七編老子者楚苦県人也李姓名耳字伯陽又曰字耼爲周守蔵吏孔子問焉老子告之曰良賈深蔵若虚君子盛德容貌若愚孔子去謂弟子曰鳥吾知其能飛魚吾知其能游獣吾知其能走走者可以爲網游者可以爲綸飛者可以爲矰至於龍吾不能知其乘風雲而上天也今見老子其猶龍乎老子見周衰去至關關令尹喜曰子將隱矣爲我著書乃著道德五千餘言而去莫知其所終其後有鄭人列禦寇蒙人莊周亦爲老子之學莊周著書侮孔子而誚諸子焉
+# newpar text = 魯姬姓周公子伯禽之所封也周公誨成王王有過則撻伯禽伯禽就封公戒之曰我文王之子武王之弟今王之叔父然我一沐三握髮一飯三吐哺起以待士猶恐失天下賢人子之魯愼無以國驕人太公封於齊五月而報政周公曰何疾也曰吾簡其君臣禮從其俗伯禽至魯三年而報政周公曰何遅也曰變其俗革其禮喪三年而後除之周公曰後世其北面事齊乎夫政不簡不易民不能近平易近民民必歸之周公問太公何以治齊曰尊賢而尙功周公曰後世必有簒弑之臣太公問周公何以治魯曰尊賢而親親太公曰後漸弱矣伯禽十三世而至隱公爲春秋之始隱公之弟曰桓公桓公之子莊公莊公有庶弟三人曰慶父其後爲孟孫氏曰叔牙其後爲叔孫氏曰季友其後爲季孫氏是爲三桓世執國命歷子班閔公僖公文公宣公成公襄公至昭公伐季氏三家共伐之公奔乾侯以卒弟定公立以孔子爲中都宰一年四方皆則之由中都爲司空進爲大司寇相定公會齊侯于夾谷孔子曰有文事者必有武備請具左右司馬以從旣會齊有司請奏四方之樂於是旗旄劍戟鼓譟而至孔子趨而進曰吾兩君爲好夷狄之樂何爲於此齊景公心怍麾之齊有司請奏宮中之樂優倡侏儒戲而前孔子趨而進曰匹夫熒惑諸侯者罪當誅請命有司加法焉首足異処景公懼歸語其臣曰魯以君子之道輔其君而子独以夷狄之道敎寡人於是齊人乃歸所侵魯鄆汶陽龜陰之地以謝魯孔子言於定公將墮三都以強公室叔孫氏墮郈季氏墮費孟氏之臣不肯墮成圍之弗克孔子由大司寇攝行相事七日而誅亂政大夫少正卯居三月魯大治齊人聞之懼乃歸女樂於魯季桓子受之不聽政郊又不致膰俎於大夫孔子遂去魯定公卒子哀公立欲以越伐三桓不克歷悼公元公至繆公知尊子思而不能用歷共公康公至平公嘗欲見孟子而不果歷文公至頃公爲楚考烈王所滅魯自周公至頃公凡三十四世孔子名丘字仲尼其先宋人也有正考父者佐宋三命滋益恭其鼎銘云一命而僂再命而傴三命而俯循牆而走亦莫余敢侮饘於是粥於是以餬予口孔氏滅於宋其後適魯有叔梁紇者與顏氏女禱於尼山而生孔子爲兒嬉戲常陳俎豆設禮容長爲季氏吏料量平嘗爲司樴吏畜蕃息適周問禮於老子反而弟子稍益進適齊齊景公將待以季孟之閒孔子反魯定公用之不終適衞將適陳過匡匡人嘗爲陽虎所暴孔子貌類陽虎止之旣免反于衞醜靈公所爲去之過曹適宋與弟子習禮大樹下桓魋伐抜其樹適鄭鄭人曰東門有人其顙似堯其項類皋陶其肩類子產自要以下不及禹三寸纍纍然若喪家之狗適陳又適衞將西見趙簡子至河聞竇鳴犢舜華殺死臨河歎曰美哉水洋洋乎丘之不濟此命也反于衞適陳適蔡如葉反于蔡楚使人聘孔子陳蔡大夫謀曰孔子用於楚則陳蔡危矣相與發徒圍之於野孔子曰詩云匪兕匪虎率彼曠野吾道非邪吾何爲於是子貢曰夫子道至大天下莫能容顏回曰不容何病然後見君子楚昭王興師迎之乃得至楚將封以書社地七百里令尹子西不可孔子反于衞季康子迎歸魯哀公問政終不能用乃序書上自唐虞下至秦繆刪古詩三千爲三百五篇皆絃歌之禮樂自此可述晩而喜易序彖象繋辭說卦文言讀易韋編三絶因魯史記作春秋自隱至哀十二公絶筆於獲麟筆則筆削則削子夏之徒不能賛一辭弟子三千人身通六芸者七十有二人年七十三而卒子鯉字伯魚早死孫伋字子思作中庸孟子其門人也名軻魯孟孫之後生於鄒幼被慈母三遷之敎長受業子思之門道旣通游齊梁不用退與萬章之徒難疑答問作七編老子者楚苦県人也李姓名耳字伯陽又曰字耼爲周守蔵吏孔子問焉老子告之曰良賈深蔵若虚君子盛德容貌若愚孔子去謂弟子曰鳥吾知其能飛魚吾知其能游獣吾知其能走走者可以爲網游者可以爲綸飛者可以爲矰至於龍吾不能知其乘風雲而上天也今見老子其猶龍乎老子見周衰去至關關令尹喜曰子將隱矣爲我著書乃著道德五千餘言而去莫知其所終其後有鄭人列禦寇蒙人莊周亦爲老子之學莊周著書侮孔子而誚諸子焉
 # sent_id = KR2b0041_007_par6_1-3
 # text = 魯姬姓
 1	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nsubj	_	Gloss=[country-name]|SpaceAfter=No
@@ -20347,8 +20347,8 @@
 6	文言	文言	NOUN	n,名詞,主体,書物	_	2	conj	_	Gloss=[book-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_1130-1131
-# text = 読易
-1	読	讀	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=recite-texts|SpaceAfter=No
+# text = 讀易
+1	讀	讀	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=recite-texts|SpaceAfter=No
 2	易	易	NOUN	n,名詞,主体,書物	_	1	obj	_	Gloss=[book-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par6_1132-1135
@@ -22293,7 +22293,7 @@
 # text = 公置怨而用之
 1	公	公	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=duke|SpaceAfter=No
 2	置	置	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
-3	怨	怨	NOUN	n,名詞,思考,*	_	2	obj	_	Gloss=resentment|SpaceAfter=No
+3	怨	怨	NOUN	n,名詞,思考,思考	_	2	obj	_	Gloss=resentment|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	用	用	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=use|SpaceAfter=No
 6	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	5	obj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -22806,7 +22806,7 @@
 # text = 觀其志
 1	觀	觀	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=view|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	志	志	NOUN	n,名詞,思考,*	_	1	obj	_	Gloss=aim|SpaceAfter=No
+3	志	志	NOUN	n,名詞,思考,思考	_	1	obj	_	Gloss=aim|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par11_429-433
 # text = 常有以自下
@@ -24603,7 +24603,7 @@
 7	破	破	VERB	v,動詞,行為,交流	_	10	acl	_	Gloss=break|SpaceAfter=No
 8	燕	燕	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	7	obj	_	Gloss=[country-name]|SpaceAfter=No
 9	之	之	SCONJ	p,助詞,接続,属格	_	7	mark	_	Gloss='s|SpaceAfter=No
-10	故	故	NOUN	n,名詞,思考,*	_	4	obj	_	Gloss=reason|SpaceAfter=No
+10	故	故	NOUN	n,名詞,思考,思考	_	4	obj	_	Gloss=reason|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par12_1056-1063
 # text = 與諸侯合謀而攻齊
@@ -27852,7 +27852,7 @@
 1	括	括	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	母	母	NOUN	n,名詞,人,関係	_	1	flat	_	Gloss=mother|SpaceAfter=No
 3	問	問	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=ask|SpaceAfter=No
-4	故	故	NOUN	n,名詞,思考,*	_	3	obj	_	Gloss=reason|SpaceAfter=No
+4	故	故	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=reason|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par13_1493-1494
 # text = 奢曰
@@ -28322,7 +28322,7 @@
 2	百	百	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=hundred|SpaceAfter=No
 3	世	世	NOUN	n,名詞,時,*	Case=Tem	5	nmod	_	Gloss=generation|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
-5	怨	怨	NOUN	n,名詞,思考,*	_	0	root	_	Gloss=resentment|SpaceAfter=No
+5	怨	怨	NOUN	n,名詞,思考,思考	_	0	root	_	Gloss=resentment|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par13_1796-1799
 # text = 趙之所羞
@@ -33345,7 +33345,7 @@
 2	伐	伐	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=hew|SpaceAfter=No
 3	晉	晉	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	obj	_	Gloss=[country-name]|SpaceAfter=No
 4	得	得	VERB	v,動詞,行為,得失	_	2	parataxis	_	Gloss=get|SpaceAfter=No
-5	志	志	NOUN	n,名詞,思考,*	_	4	obj	_	Gloss=aim|SpaceAfter=No
+5	志	志	NOUN	n,名詞,思考,思考	_	4	obj	_	Gloss=aim|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_322-325
 # text = 遂覇西戎
@@ -34896,7 +34896,7 @@
 15	故	故	NOUN	n,名詞,時,*	Case=Tem	16	nmod	_	Gloss=former|SpaceAfter=No
 16	人	人	NOUN	n,名詞,人,人	_	18	nmod	_	Gloss=person|SpaceAfter=No
 17	之	之	SCONJ	p,助詞,接続,属格	_	16	case	_	Gloss='s|SpaceAfter=No
-18	意	意	NOUN	n,名詞,思考,*	_	14	obj	_	SpaceAfter=No
+18	意	意	NOUN	n,名詞,思考,思考	_	14	obj	_	SpaceAfter=No
 19	爾	爾	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_1305-1308
@@ -34980,7 +34980,7 @@
 1	雎	雎	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	旣	既	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	3	advmod	_	Gloss=already|SpaceAfter=No
 3	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
-4	志	志	NOUN	n,名詞,思考,*	_	3	obj	_	Gloss=aim|SpaceAfter=No
+4	志	志	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=aim|SpaceAfter=No
 5	于	于	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
 6	秦	秦	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	obl:lmod	_	Gloss=[country-name]|SpaceAfter=No
 
@@ -34998,7 +34998,7 @@
 1	睚	睚	ADV	v,動詞,行為,態度	VerbForm=Conv	4	advmod	_	SpaceAfter=No
 2	眥	眥	VERB	v,動詞,行為,態度	_	1	flat:vv	_	SpaceAfter=No
 3	之	之	SCONJ	p,助詞,接続,属格	_	1	case	_	Gloss='s|SpaceAfter=No
-4	怨	怨	NOUN	n,名詞,思考,*	_	6	nsubj	_	Gloss=resentment|SpaceAfter=No
+4	怨	怨	NOUN	n,名詞,思考,思考	_	6	nsubj	_	Gloss=resentment|SpaceAfter=No
 5	必	必	ADV	v,副詞,判断,確定	_	6	advmod	_	Gloss=necessarily|SpaceAfter=No
 6	報	報	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=report-back|SpaceAfter=No
 
@@ -35785,7 +35785,7 @@
 3	靈	靈	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=numinous|SpaceAfter=No
 4	脩	脩	VERB	v,動詞,描写,形質	Degree=Pos	3	flat:vv	_	SpaceAfter=No
 5	之	之	SCONJ	p,助詞,接続,属格	_	3	mark	_	Gloss='s|SpaceAfter=No
-6	故	故	NOUN	n,名詞,思考,*	_	0	root	_	Gloss=reason|SpaceAfter=No
+6	故	故	NOUN	n,名詞,思考,思考	_	0	root	_	Gloss=reason|SpaceAfter=No
 7	也	也	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
 
 # sent_id = KR4a0001_001_par11_30-30
@@ -36388,7 +36388,7 @@
 2	心	心	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=heart|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 4	抑	抑	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=repress|SpaceAfter=No
-5	志	志	NOUN	n,名詞,思考,*	_	4	obj	_	Gloss=aim|SpaceAfter=No
+5	志	志	NOUN	n,名詞,思考,思考	_	4	obj	_	Gloss=aim|SpaceAfter=No
 6	兮	兮	PART	p,助詞,句末,*	_	1	discourse:sp	_	Gloss=[filler-character]|SpaceAfter=No
 
 # sent_id = KR4a0001_001_par26_7-11
@@ -36560,7 +36560,7 @@
 
 # sent_id = KR4a0001_001_par30_14-20
 # text = 芳與澤其雜糅兮
-1	芳	芳	VERB	v,動詞,描写,形質	Degree=Pos	6	nsubj	_	SpaceAfter=No
+1	芳	芳	VERB	v,動詞,描写,形質	Degree=Pos	6	nsubj	_	Gloss=fragrant|SpaceAfter=No
 2	與	與	ADP	v,前置詞,関係,*	_	3	cc	_	Gloss=associate-with|SpaceAfter=No
 3	澤	澤	VERB	v,動詞,描写,形質	Degree=Pos	1	conj	_	Gloss=moisten|SpaceAfter=No
 4	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
@@ -36613,7 +36613,7 @@
 
 # sent_id = KR4a0001_001_par31_21-23
 # text = 芳菲菲
-1	芳	芳	VERB	v,動詞,描写,形質	Degree=Pos	2	nsubj	_	SpaceAfter=No
+1	芳	芳	VERB	v,動詞,描写,形質	Degree=Pos	2	nsubj	_	Gloss=fragrant|SpaceAfter=No
 2	菲	菲	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	Gloss=insignificant|SpaceAfter=No
 3	菲	菲	VERB	v,動詞,描写,量	Degree=Pos	2	compound:redup	_	Gloss=insignificant|SpaceAfter=No
 
@@ -37996,7 +37996,7 @@
 2	所	所	NOUN	n,名詞,制度,場	Case=Loc	4	nsubj	_	Gloss=place|SpaceAfter=No
 3	獨	獨	ADV	v,動詞,描写,境遇	Degree=Pos|VerbForm=Conv	4	advmod	_	Gloss=alone|SpaceAfter=No
 4	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-5	芳	芳	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	6	amod	_	SpaceAfter=No
+5	芳	芳	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=fragrant|SpaceAfter=No
 6	草	草	NOUN	n,名詞,固定物,樹木	_	4	obj	_	Gloss=grasses|SpaceAfter=No
 7	兮	兮	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[filler-character]|SpaceAfter=No
 
@@ -38192,7 +38192,7 @@
 2	余	余	PRON	n,代名詞,人称,他	Person=1|PronType=Prs	1	obj	_	Gloss=[1PRON]|SpaceAfter=No
 3	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
 4	吉	吉	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	5	amod	_	Gloss=auspicious|SpaceAfter=No
-5	故	故	NOUN	n,名詞,思考,*	_	3	obj	_	Gloss=reason|SpacesAfter=\n
+5	故	故	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=reason|SpacesAfter=\n
 
 # newpar text = 曰勉陞降以上下兮求矩矱之所同湯禹嚴而求合兮摯咎繇而能調
 # sent_id = KR4a0001_001_par70_1-1
@@ -38437,7 +38437,7 @@
 2	昔	昔	NOUN	n,名詞,時,*	Case=Tem	3	nmod	_	Gloss=formerly|SpaceAfter=No
 3	日	日	NOUN	n,名詞,時,*	Case=Tem	6	nmod	_	Gloss=day|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	3	case	_	Gloss='s|SpaceAfter=No
-5	芳	芳	VERB	v,動詞,変化,性質	VerbForm=Part	6	amod	_	SpaceAfter=No
+5	芳	芳	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=fragrant|SpaceAfter=No
 6	草	草	NOUN	n,名詞,固定物,樹木	_	0	root	_	Gloss=grasses|SpaceAfter=No
 7	兮	兮	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[filler-character]|SpaceAfter=No
 
@@ -38457,7 +38457,7 @@
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	3	nsubj	_	Gloss=[3PRON]|SpaceAfter=No
 3	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 4	他	他	PRON	n,代名詞,指示,*	PronType=Dem	5	det	_	Gloss=other|SpaceAfter=No
-5	故	故	NOUN	n,名詞,思考,*	_	3	obj	_	Gloss=reason|SpaceAfter=No
+5	故	故	NOUN	n,名詞,思考,思考	_	3	obj	_	Gloss=reason|SpaceAfter=No
 6	兮	兮	PART	p,助詞,句末,*	_	3	discourse:sp	_	Gloss=[filler-character]|SpaceAfter=No
 
 # sent_id = KR4a0001_001_par76_21-26
@@ -38943,7 +38943,7 @@
 # sent_id = KR4a0001_001_par89_1-6
 # text = 抑志而弭節兮
 1	抑	抑	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=repress|SpaceAfter=No
-2	志	志	NOUN	n,名詞,思考,*	_	1	obj	_	Gloss=aim|SpaceAfter=No
+2	志	志	NOUN	n,名詞,思考,思考	_	1	obj	_	Gloss=aim|SpaceAfter=No
 3	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 4	弭	弭	VERB	v,動詞,行為,動作	_	1	conj	_	SpaceAfter=No
 5	節	節	VERB	v,動詞,描写,態度	Degree=Pos	4	obj	_	Gloss=moderate|SpaceAfter=No
