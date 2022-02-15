@@ -27,9 +27,10 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
     - 十八史略 (except for 春秋戰國 唐)
     - 九歌 天問 九章 卜居 漁父 九辯 and 招魂 from 楚辭
 
-# Reference
+# References
 
 * Koichi Yasuoka: [Universal Dependencies Treebank of the Four Books in Classical Chinese](http://hdl.handle.net/2433/245217), DADH2019: 10th International Conference of Digital Archives and Digital Humanities (December 2019), pp.20-28.
+* Koichi Yasuoka, Christian Wittern, Tomohiko Morioka, Takumi Ikeda, Naoki Yamazaki, Yoshihiro Nikaido, Shingo Suzuki, Shigeki Moro, Kazunori Fujita: [Designing Universal Dependencies for Classical Chinese and Its Application](http://id.nii.ac.jp/1001/00216242/), Journal of Information Processing Society of Japan, Vol.63, No.2 (February 2022), pp.355-363.
 
 # Changelog
 
