@@ -39068,3 +39068,477 @@
 7	所	所	PART	p,助詞,接続,体言化	_	8	mark	_	Gloss=that-which|SpaceAfter=No
 8	居	居	VERB	v,動詞,行為,動作	_	3	ccomp	_	Gloss=sit-down|SpacesAfter=\n
 
+# newdoc id = KR6c0127_001
+# sent_id = KR6c0127_001_title
+# text = 摩訶般若波羅蜜大明呪經
+1	摩訶	摩訶	NOUN	n,名詞,描写,形質	_	7	nmod	_	SpaceAfter=No
+2	般若	般若	NOUN	n,名詞,可搬,成果物	_	1	conj	_	SpaceAfter=No
+3	波羅蜜	波羅蜜	NOUN	n,名詞,描写,形質	_	1	conj	_	SpaceAfter=No
+4	大	大	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=big|SpaceAfter=No
+5	明	明	NOUN	n,名詞,描写,形質	_	7	nmod	_	Gloss=light|SpaceAfter=No
+6	呪	咒	VERB	v,動詞,行為,動作	VerbForm=Part	7	amod	_	Gloss=curse|SpaceAfter=No
+7	經	經	NOUN	n,名詞,制度,儀礼	_	0	root	_	Gloss=norm|SpaceAfter=No
+
+# sent_id = KR6c0127_001_author
+# text = 姚秦天竺三藏鳩摩羅什譯
+1	姚秦	姚秦	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
+2	天竺	天竺	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nmod	_	Gloss=[country-name]|SpaceAfter=No
+3	三	三	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=three|SpaceAfter=No
+4	藏	藏	NOUN	n,名詞,固定物,建造物	Case=Loc	6	nsubj	_	Gloss=storage|SpaceAfter=No
+5	鳩摩羅什	鳩摩羅什	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
+6	譯	譯	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=translate|SpacesAfter=\n
+
+# newpar text = 觀世音菩薩行深般若波羅蜜時照見五陰空度一切苦厄
+# sent_id = KR6c0127_001_par1_1-13
+# text = 觀世音菩薩行深般若波羅蜜時
+1	觀	觀	VERB	v,動詞,行為,動作	_	4	acl	_	Gloss=view|SpaceAfter=No
+2	世	世	NOUN	n,名詞,制度,場	Case=Loc	1	obj	_	Gloss=world|SpaceAfter=No
+3	音	音	NOUN	n,名詞,可搬,伝達	_	4	nmod	_	Gloss=sound|SpaceAfter=No
+4	菩薩	菩薩	NOUN	n,名詞,人,役割	_	5	nsubj	_	Gloss=bodhisattva|SpaceAfter=No
+5	行	行	VERB	v,動詞,行為,動作	_	9	acl	_	Gloss=behave|SpaceAfter=No
+6	深	深	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	7	amod	_	Gloss=deep|SpaceAfter=No
+7	般若	般若	NOUN	n,名詞,可搬,成果物	_	5	obj	_	SpaceAfter=No
+8	波羅蜜	波羅蜜	NOUN	n,名詞,描写,形質	_	7	conj	_	SpaceAfter=No
+9	時	時	NOUN	n,名詞,時,*	Case=Tem	0	root	_	Gloss=time|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par1_14-19
+# text = 照見五陰空度
+1	照	照	ADV	v,動詞,行為,動作	VerbForm=Conv	2	advmod	_	Gloss=shine|SpaceAfter=No
+2	見	見	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=see|SpaceAfter=No
+3	五	五	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=five|SpaceAfter=No
+4	陰	陰	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=shade|SpaceAfter=No
+5	空	空	VERB	v,動詞,描写,形質	Degree=Pos	2	ccomp	_	Gloss=hollow|SpaceAfter=No
+6	度	度	VERB	v,動詞,行為,態度	_	5	flat:vv	_	Gloss=measure|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par1_20-23
+# text = 一切苦厄
+1	一	一	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=one|SpaceAfter=No
+2	切	切	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	3	advmod	_	Gloss=every|SpaceAfter=No
+3	苦	苦	VERB	v,動詞,描写,態度	Degree=Pos	0	root	_	Gloss=bitter|SpaceAfter=No
+4	厄	厄	VERB	v,動詞,描写,境遇	Degree=Pos	3	flat:vv	_	Gloss=in-straits|SpacesAfter=\n
+
+# newpar text = 舍利弗色空故無惱壞相受空故無受相想空故無知相行空故無作相識空故無覺相何以故舍利弗非色異空非空異色色即是空空即是色受想行識亦如是
+# sent_id = KR6c0127_001_par2_1-5
+# text = 舍利弗色空
+1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	3	vocative	_	Gloss=[given-name]|SpaceAfter=No
+2	色	色	NOUN	n,名詞,描写,形質	_	3	nsubj	_	Gloss=colour|SpaceAfter=No
+3	空	空	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=hollow|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_6-12
+# text = 故無惱壞相受空
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	惱	惱	VERB	v,動詞,行為,態度	_	2	obj	_	SpaceAfter=No
+4	壞	壞	VERB	v,動詞,変化,性質	_	3	conj	_	Gloss=collapse|SpaceAfter=No
+5	相	相	NOUN	n,名詞,不可譲,身体	_	3	conj	_	Gloss=appearlance|SpaceAfter=No
+6	受	受	VERB	v,動詞,行為,得失	_	3	conj	_	Gloss=receive|SpaceAfter=No
+7	空	空	VERB	v,動詞,描写,形質	Degree=Pos	3	conj	_	Gloss=hollow|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_13-18
+# text = 故無受相想空
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	受	受	VERB	v,動詞,行為,得失	_	2	obj	_	Gloss=receive|SpaceAfter=No
+4	相	相	NOUN	n,名詞,不可譲,身体	_	3	conj	_	Gloss=appearlance|SpaceAfter=No
+5	想	想	VERB	v,動詞,行為,動作	_	3	conj	_	SpaceAfter=No
+6	空	空	VERB	v,動詞,描写,形質	Degree=Pos	3	conj	_	Gloss=hollow|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_19-24
+# text = 故無知相行空
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	知	知	VERB	v,動詞,行為,動作	_	2	obj	_	Gloss=know|SpaceAfter=No
+4	相	相	NOUN	n,名詞,不可譲,身体	_	3	conj	_	Gloss=appearlance|SpaceAfter=No
+5	行	行	NOUN	n,名詞,行為,*	_	3	conj	_	Gloss=action|SpaceAfter=No
+6	空	空	VERB	v,動詞,描写,形質	Degree=Pos	3	conj	_	Gloss=hollow|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_25-30
+# text = 故無作相識空
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	作	作	VERB	v,動詞,行為,生産	_	2	obj	_	Gloss=make|SpaceAfter=No
+4	相	相	NOUN	n,名詞,不可譲,身体	_	3	conj	_	Gloss=appearlance|SpaceAfter=No
+5	識	識	VERB	v,動詞,行為,動作	_	3	conj	_	Gloss=recognize|SpaceAfter=No
+6	空	空	VERB	v,動詞,描写,形質	Degree=Pos	3	conj	_	Gloss=hollow|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_31-34
+# text = 故無覺相
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	覺	覺	VERB	v,動詞,行為,動作	_	2	obj	_	Gloss=realize|SpaceAfter=No
+4	相	相	NOUN	n,名詞,不可譲,身体	_	3	conj	_	Gloss=appearlance|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_35-37
+# text = 何以故
+1	何	何	PRON	n,代名詞,疑問,*	PronType=Int	2	obl	_	Gloss=what|SpaceAfter=No
+2	以	以	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=use|SpaceAfter=No
+3	故	故	NOUN	n,名詞,思考,*	_	2	obj	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_38-44
+# text = 舍利弗非色異空
+1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	4	vocative	_	Gloss=[given-name]|SpaceAfter=No
+2	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	4	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
+3	色	色	NOUN	n,名詞,描写,形質	_	4	nsubj	_	Gloss=colour|SpaceAfter=No
+4	異	異	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=differ|SpaceAfter=No
+5	空	空	NOUN	n,名詞,描写,形質	_	4	obj	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_45-48
+# text = 非空異色
+1	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	3	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
+2	空	空	NOUN	n,名詞,描写,形質	_	3	nsubj	_	SpaceAfter=No
+3	異	異	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=differ|SpaceAfter=No
+4	色	色	NOUN	n,名詞,描写,形質	_	3	obj	_	Gloss=colour|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_49-52
+# text = 色即是空
+1	色	色	NOUN	n,名詞,描写,形質	_	4	nsubj	_	Gloss=colour|SpaceAfter=No
+2	即	即	ADV	v,副詞,時相,緊接	AdvType=Tim	4	amod	_	Gloss=immediately|SpaceAfter=No
+3	是	是	PRON	n,代名詞,指示,*	PronType=Dem	4	expl	_	Gloss=this|SpaceAfter=No
+4	空	空	NOUN	n,名詞,描写,形質	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_53-56
+# text = 空即是色
+1	空	空	NOUN	n,名詞,描写,形質	_	4	nsubj	_	SpaceAfter=No
+2	即	即	ADV	v,副詞,時相,緊接	AdvType=Tim	4	amod	_	Gloss=immediately|SpaceAfter=No
+3	是	是	PRON	n,代名詞,指示,*	PronType=Dem	4	expl	_	Gloss=this|SpaceAfter=No
+4	色	色	NOUN	n,名詞,描写,形質	_	0	root	_	Gloss=colour|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par2_57-63
+# text = 受想行識亦如是
+1	受	受	VERB	v,動詞,行為,得失	_	6	nsubj	_	Gloss=receive|SpaceAfter=No
+2	想	想	VERB	v,動詞,行為,動作	_	1	conj	_	SpaceAfter=No
+3	行	行	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=behave|SpaceAfter=No
+4	識	識	VERB	v,動詞,行為,動作	_	1	conj	_	Gloss=recognize|SpaceAfter=No
+5	亦	亦	ADV	v,副詞,頻度,重複	_	6	advmod	_	Gloss=also|SpaceAfter=No
+6	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
+7	是	是	PRON	n,代名詞,指示,*	PronType=Dem	6	obj	_	Gloss=this|SpacesAfter=\n
+
+# newpar text = 舍利弗是諸法空相不生不滅不垢不淨不增不減是空法非過去非未來非現在是故空中無色無受想行識無眼耳鼻舌身意無色聲香味觸法無眼界乃至無意識界無無明亦無無明盡乃至無老死無老死盡無苦集滅道無智亦無得
+# sent_id = KR6c0127_001_par3_1-8
+# text = 舍利弗是諸法空相
+1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	6	vocative	_	Gloss=[given-name]|SpaceAfter=No
+2	是	是	PRON	n,代名詞,指示,*	PronType=Dem	4	det	_	Gloss=this|SpaceAfter=No
+3	諸	諸	NOUN	n,名詞,数量,*	_	4	nmod	_	Gloss=[plural]|SpaceAfter=No
+4	法	法	NOUN	n,名詞,制度,儀礼	_	6	nsubj	_	Gloss=law|SpaceAfter=No
+5	空	空	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=hollow|SpaceAfter=No
+6	相	相	NOUN	n,名詞,不可譲,身体	_	0	root	_	Gloss=appearlance|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_9-10
+# text = 不生
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	生	生	VERB	v,動詞,変化,生物	_	0	root	_	Gloss=alive|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_11-12
+# text = 不滅
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	滅	滅	VERB	v,動詞,変化,制度	_	0	root	_	Gloss=extinguish|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_13-14
+# text = 不垢
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	垢	垢	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_15-16
+# text = 不淨
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	淨	淨	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=clean|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_17-18
+# text = 不增
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	增	增	VERB	v,動詞,描写,量	Degree=Pos	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_19-20
+# text = 不減
+1	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	2	advmod	_	Gloss=not|SpaceAfter=No
+2	減	減	VERB	v,動詞,行為,得失	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_21-32
+# text = 是空法非過去非未來非現在
+1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=this|SpaceAfter=No
+2	空	空	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	3	amod	_	Gloss=hollow|SpaceAfter=No
+3	法	法	NOUN	n,名詞,制度,儀礼	_	5	nsubj	_	Gloss=law|SpaceAfter=No
+4	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	5	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
+5	過	過	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=pass|SpaceAfter=No
+6	去	去	VERB	v,動詞,行為,移動	_	5	flat:vv	_	Gloss=go-away|SpaceAfter=No
+7	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	9	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
+8	未	未	ADV	v,副詞,否定,有界	Polarity=Neg	9	advmod	_	Gloss=not-yet|SpaceAfter=No
+9	來	來	VERB	v,動詞,行為,移動	_	5	conj	_	Gloss=come|SpaceAfter=No
+10	非	非	ADV	v,副詞,否定,体言否定	Polarity=Neg	11	advmod	_	Gloss=[negator-of-nouns]|SpaceAfter=No
+11	現	現	VERB	v,動詞,行為,動作	_	5	conj	_	SpaceAfter=No
+12	在	在	VERB	v,動詞,存在,存在	_	11	flat:vv	_	Gloss=be-present|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_33-38
+# text = 是故空中無色
+1	是	是	PRON	n,代名詞,指示,*	PronType=Dem	2	det	_	Gloss=this|SpaceAfter=No
+2	故	故	NOUN	n,名詞,思考,*	_	5	obl	_	SpaceAfter=No
+3	空	空	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=hollow|SpaceAfter=No
+4	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	5	nsubj	_	Gloss=centre|SpaceAfter=No
+5	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+6	色	色	NOUN	n,名詞,描写,形質	_	5	obj	_	Gloss=colour|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_39-43
+# text = 無受想行識
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	受	受	VERB	v,動詞,行為,得失	_	1	obj	_	Gloss=receive|SpaceAfter=No
+3	想	想	VERB	v,動詞,行為,動作	_	2	conj	_	SpaceAfter=No
+4	行	行	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=behave|SpaceAfter=No
+5	識	識	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=recognize|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_44-50
+# text = 無眼耳鼻舌身意
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	眼	眼	NOUN	n,名詞,不可譲,身体	_	1	obj	_	Gloss=eye|SpaceAfter=No
+3	耳	耳	NOUN	n,名詞,不可譲,身体	_	2	conj	_	Gloss=ear|SpaceAfter=No
+4	鼻	鼻	NOUN	n,名詞,不可譲,身体	_	2	conj	_	Gloss=nose|SpaceAfter=No
+5	舌	舌	NOUN	n,名詞,不可譲,身体	_	2	conj	_	Gloss=tongue|SpaceAfter=No
+6	身	身	NOUN	n,名詞,不可譲,身体	_	2	conj	_	Gloss=body|SpaceAfter=No
+7	意	意	NOUN	n,名詞,思考,思考	_	2	conj	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_51-57
+# text = 無色聲香味觸法
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	色	色	NOUN	n,名詞,描写,形質	_	1	obj	_	Gloss=colour|SpaceAfter=No
+3	聲	聲	NOUN	n,名詞,不可譲,身体	_	2	conj	_	Gloss=voice|SpaceAfter=No
+4	香	香	NOUN	n,名詞,描写,形質	_	2	conj	_	Gloss=fragrant|SpaceAfter=No
+5	味	味	NOUN	n,名詞,描写,形質	_	2	conj	_	Gloss=taste|SpaceAfter=No
+6	觸	觸	NOUN	n,名詞,行為,*	_	2	conj	_	SpaceAfter=No
+7	法	法	NOUN	n,名詞,制度,儀礼	_	2	conj	_	Gloss=law|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_58-60
+# text = 無眼界
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	眼	眼	NOUN	n,名詞,不可譲,身体	_	3	nmod	_	Gloss=eye|SpaceAfter=No
+3	界	界	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=boundary|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_61-66
+# text = 乃至無意識界
+1	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
+2	至	至	ADV	v,動詞,行為,移動	VerbForm=Conv	3	advmod	_	Gloss=arrive|SpaceAfter=No
+3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+4	意	意	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=think|SpaceAfter=No
+5	識	識	VERB	v,動詞,行為,動作	VerbForm=Part	6	amod	_	Gloss=recognize|SpaceAfter=No
+6	界	界	NOUN	n,名詞,固定物,関係	Case=Loc	3	conj	_	Gloss=boundary|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_67-69
+# text = 無無明
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Part	3	amod	_	Gloss=not-have|SpaceAfter=No
+3	明	明	NOUN	n,名詞,描写,形質	_	1	obj	_	Gloss=light|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_70-74
+# text = 亦無無明盡
+1	亦	亦	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=also|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Part	4	amod	_	Gloss=not-have|SpaceAfter=No
+4	明	明	NOUN	n,名詞,描写,形質	_	5	nsubj	_	Gloss=light|SpaceAfter=No
+5	盡	盡	VERB	v,動詞,行為,動作	_	2	ccomp	_	Gloss=exhaust|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_75-79
+# text = 乃至無老死
+1	乃	乃	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=then|SpaceAfter=No
+2	至	至	ADV	v,動詞,行為,移動	VerbForm=Conv	3	advmod	_	Gloss=arrive|SpaceAfter=No
+3	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+4	老	老	VERB	v,動詞,変化,生物	_	3	obj	_	Gloss=old|SpaceAfter=No
+5	死	死	VERB	v,動詞,変化,生物	_	4	conj	_	Gloss=die|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_80-83
+# text = 無老死盡
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	老	老	VERB	v,動詞,変化,生物	_	4	nsubj	_	Gloss=old|SpaceAfter=No
+3	死	死	VERB	v,動詞,変化,生物	_	2	conj	_	Gloss=die|SpaceAfter=No
+4	盡	盡	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=exhaust|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_84-88
+# text = 無苦集滅道
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	苦	苦	VERB	v,動詞,描写,態度	Degree=Pos	3	nsubj	_	Gloss=bitter|SpaceAfter=No
+3	集	集	VERB	v,動詞,行為,動作	_	1	ccomp	_	Gloss=gather|SpaceAfter=No
+4	滅	滅	VERB	v,動詞,変化,制度	_	3	parataxis	_	Gloss=extinguish|SpaceAfter=No
+5	道	道	NOUN	n,名詞,制度,儀礼	_	4	obj	_	Gloss=doctrine|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_89-90
+# text = 無智
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	智	智	NOUN	n,名詞,描写,形質	_	1	obj	_	Gloss=wisdom|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par3_91-93
+# text = 亦無得
+1	亦	亦	ADV	v,副詞,頻度,重複	_	2	advmod	_	Gloss=also|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	得	得	VERB	v,動詞,行為,得失	_	2	obj	_	Gloss=get|SpacesAfter=\n
+
+# newpar text = 以無所得故菩薩依般若波羅蜜故心無罣礙無罣礙故無有恐怖離一切顛倒夢想苦惱究竟涅槃三世諸佛依般若波羅蜜故得阿耨多羅三藐三菩提
+# sent_id = KR6c0127_001_par4_1-5
+# text = 以無所得故
+1	以	以	VERB	v,動詞,行為,動作	_	5	acl	_	Gloss=use|SpaceAfter=No
+2	無	無	ADV	v,動詞,存在,存在	Polarity=Neg|VerbForm=Conv	4	advmod	_	Gloss=not-have|SpaceAfter=No
+3	所	所	PART	p,助詞,接続,体言化	_	4	case	_	Gloss=that-which|SpaceAfter=No
+4	得	得	VERB	v,動詞,行為,得失	_	1	ccomp	_	Gloss=get|SpaceAfter=No
+5	故	故	NOUN	n,名詞,思考,*	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_6-14
+# text = 菩薩依般若波羅蜜故
+1	菩薩	菩薩	NOUN	n,名詞,人,役割	_	2	nsubj	_	Gloss=bodhisattva|SpaceAfter=No
+2	依	依	VERB	v,動詞,行為,姿勢	_	5	acl	_	Gloss=lean-on|SpaceAfter=No
+3	般若	般若	NOUN	n,名詞,可搬,成果物	_	2	obj	_	SpaceAfter=No
+4	波羅蜜	波羅蜜	NOUN	n,名詞,描写,形質	_	3	conj	_	SpaceAfter=No
+5	故	故	NOUN	n,名詞,思考,*	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_15-18
+# text = 心無罣礙
+1	心	心	NOUN	n,名詞,不可譲,身体	_	2	nsubj	_	Gloss=heart|SpaceAfter=No
+2	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+3	罣	罣	VERB	v,動詞,行為,交流	_	2	obj	_	SpaceAfter=No
+4	礙	礙	VERB	v,動詞,行為,交流	_	3	flat:vv	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_19-22
+# text = 無罣礙故
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	4	acl	_	Gloss=not-have|SpaceAfter=No
+2	罣	罣	VERB	v,動詞,行為,交流	_	1	obj	_	SpaceAfter=No
+3	礙	礙	VERB	v,動詞,行為,交流	_	2	flat:vv	_	SpaceAfter=No
+4	故	故	NOUN	n,名詞,思考,*	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_23-26
+# text = 無有恐怖
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
+2	有	有	VERB	v,動詞,存在,存在	_	1	ccomp	_	Gloss=have|SpaceAfter=No
+3	恐	恐	VERB	v,動詞,行為,態度	_	2	obj	_	Gloss=fear|SpaceAfter=No
+4	怖	怖	VERB	v,動詞,行為,態度	_	3	flat:vv	_	Gloss=fear|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_27-35
+# text = 離一切顛倒夢想苦惱
+1	離	離	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=leave|SpaceAfter=No
+2	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
+3	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=every|SpaceAfter=No
+4	顛	顚	VERB	v,動詞,行為,動作	VerbForm=Part	6	amod	_	Gloss=tumble|SpaceAfter=No
+5	倒	倒	VERB	v,動詞,描写,態度	Degree=Pos	4	flat:vv	_	SpaceAfter=No
+6	夢	夢	NOUN	n,名詞,可搬,成果物	_	1	obj	_	Gloss=dream|SpaceAfter=No
+7	想	想	NOUN	n,名詞,思考,思考	_	6	flat	_	SpaceAfter=No
+8	苦	苦	VERB	v,動詞,描写,態度	Degree=Pos	6	conj	_	Gloss=bitter|SpaceAfter=No
+9	惱	惱	VERB	v,動詞,行為,態度	_	8	flat:vv	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_36-39
+# text = 究竟涅槃
+1	究	究	VERB	v,動詞,変化,性質	_	0	root	_	SpaceAfter=No
+2	竟	竟	ADV	v,副詞,時相,終局	AdvType=Tim	1	flat:vv	_	Gloss=finally|SpaceAfter=No
+3	涅槃	涅槃	NOUN	n,名詞,描写,形質	_	1	obj	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_40-50
+# text = 三世諸佛依般若波羅蜜故
+1	三	三	NUM	n,数詞,数字,*	_	2	nummod	_	Gloss=three|SpaceAfter=No
+2	世	世	NOUN	n,名詞,時,*	Case=Tem	4	nmod	_	Gloss=generation|SpaceAfter=No
+3	諸	諸	NOUN	n,名詞,数量,*	_	4	nmod	_	Gloss=[plural]|SpaceAfter=No
+4	佛	佛	NOUN	n,名詞,主体,神仏	_	5	nsubj	_	Gloss=Buddha|SpaceAfter=No
+5	依	依	VERB	v,動詞,行為,姿勢	_	8	acl	_	Gloss=lean-on|SpaceAfter=No
+6	般若	般若	NOUN	n,名詞,可搬,成果物	_	5	obj	_	SpaceAfter=No
+7	波羅蜜	波羅蜜	NOUN	n,名詞,描写,形質	_	6	conj	_	SpaceAfter=No
+8	故	故	NOUN	n,名詞,思考,*	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par4_51-60
+# text = 得阿耨多羅三藐三菩提
+1	得	得	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=get|SpaceAfter=No
+2	阿耨多羅	阿耨多羅	NOUN	n,名詞,描写,形質	_	1	obj	_	SpaceAfter=No
+3	三藐	三藐	NOUN	n,名詞,描写,形質	_	2	flat:foreign	_	SpaceAfter=No
+4	三菩提	三菩提	NOUN	n,名詞,描写,形質	_	2	flat:foreign	_	SpacesAfter=\n
+
+# newpar text = 故知般若波羅蜜是大明呪無上明呪無等等明呪能除一切苦真實不虛故說般若波羅蜜呪
+# sent_id = KR6c0127_001_par5_1-2
+# text = 故知
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par5_3-11
+# text = 般若波羅蜜是大明呪
+1	般若	般若	NOUN	n,名詞,可搬,成果物	_	6	nsubj	_	SpaceAfter=No
+2	波羅蜜	波羅蜜	NOUN	n,名詞,描写,形質	_	1	flat	_	SpaceAfter=No
+3	是	是	PRON	n,代名詞,指示,*	PronType=Dem	6	det	_	Gloss=this|SpaceAfter=No
+4	大	大	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=big|SpaceAfter=No
+5	明	明	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	6	advmod	_	Gloss=bright|SpaceAfter=No
+6	呪	咒	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=curse|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par5_12-15
+# text = 無上明呪
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	4	advcl	_	Gloss=not-have|SpaceAfter=No
+2	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	1	obj	_	Gloss=up|SpaceAfter=No
+3	明	明	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	4	advmod	_	Gloss=bright|SpaceAfter=No
+4	呪	咒	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=curse|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par5_16-20
+# text = 無等等明呪
+1	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	5	advcl	_	Gloss=not-have|SpaceAfter=No
+2	等	等	VERB	v,動詞,描写,形質	Degree=Pos	1	obj	_	Gloss=equal|SpaceAfter=No
+3	等	等	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	4	advmod	_	Gloss=equal|SpaceAfter=No
+4	明	明	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=bright|SpaceAfter=No
+5	呪	咒	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=curse|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par5_21-25
+# text = 能除一切苦
+1	能	能	AUX	v,助動詞,可能,*	Mood=Pot	2	aux	_	Gloss=can|SpaceAfter=No
+2	除	除	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=eliminate|SpaceAfter=No
+3	一	一	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=one|SpaceAfter=No
+4	切	切	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	5	advmod	_	Gloss=every|SpaceAfter=No
+5	苦	苦	VERB	v,動詞,描写,態度	Degree=Pos	2	obj	_	Gloss=bitter|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par5_26-29
+# text = 真實不虛
+1	真	眞	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	2	advmod	_	Gloss=real|SpaceAfter=No
+2	實	實	VERB	v,動詞,行為,動作	_	4	nsubj	_	Gloss=fruit|SpaceAfter=No
+3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
+4	虛	虛	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=empty|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par5_30-37
+# text = 故說般若波羅蜜呪
+1	故	故	ADV	v,副詞,判断,確定	_	2	advmod	_	Gloss=therefore|SpaceAfter=No
+2	說	說	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=explain|SpaceAfter=No
+3	般若	般若	NOUN	n,名詞,可搬,成果物	_	5	nsubj	_	SpaceAfter=No
+4	波羅蜜	波羅蜜	NOUN	n,名詞,描写,形質	_	3	flat	_	SpaceAfter=No
+5	呪	咒	VERB	v,動詞,行為,動作	_	2	ccomp	_	Gloss=curse|SpacesAfter=\n
+
+# newpar text = 即說呪曰竭帝竭帝波羅竭帝波羅僧竭帝菩提僧莎呵摩訶般若波羅蜜大明呪經
+# sent_id = KR6c0127_001_par6_1-3
+# text = 即說呪
+1	即	即	ADV	v,副詞,時相,緊接	AdvType=Tim	2	advmod	_	Gloss=immediately|SpaceAfter=No
+2	說	說	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=explain|SpaceAfter=No
+3	呪	咒	VERB	v,動詞,行為,動作	_	2	obj	_	Gloss=curse|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_4-4
+# text = 曰
+1	曰	曰	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=say|SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_5-6
+# text = 竭帝
+1	竭帝	竭帝	NOUN	n,名詞,思考,思考	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_7-8
+# text = 竭帝
+1	竭帝	竭帝	NOUN	n,名詞,思考,思考	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_9-12
+# text = 波羅竭帝
+1	波羅	波羅	NOUN	n,名詞,描写,形質	_	2	nmod	_	SpaceAfter=No
+2	竭帝	竭帝	NOUN	n,名詞,思考,思考	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_13-17
+# text = 波羅僧竭帝
+1	波羅僧	波羅僧	NOUN	n,名詞,描写,形質	_	2	nmod	_	SpaceAfter=No
+2	竭帝	竭帝	NOUN	n,名詞,思考,思考	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_18-22
+# text = 菩提僧莎呵
+1	菩提	菩提	NOUN	n,名詞,描写,形質	_	2	nmod	_	SpaceAfter=No
+2	僧莎呵	僧莎呵	NOUN	n,名詞,思考,思考	_	0	root	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_23-29
+# text = 摩訶般若波羅蜜
+1	摩訶	摩訶	NOUN	n,名詞,描写,形質	_	0	root	_	SpaceAfter=No
+2	般若	般若	NOUN	n,名詞,可搬,成果物	_	1	conj	_	SpaceAfter=No
+3	波羅蜜	波羅蜜	NOUN	n,名詞,描写,形質	_	1	conj	_	SpaceAfter=No
+
+# sent_id = KR6c0127_001_par6_30-33
+# text = 大明呪經
+1	大	大	ADV	v,動詞,描写,量	Degree=Pos|VerbForm=Conv	2	advmod	_	Gloss=big|SpaceAfter=No
+2	明	明	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	3	advmod	_	Gloss=bright|SpaceAfter=No
+3	呪	咒	VERB	v,動詞,行為,動作	VerbForm=Part	4	amod	_	Gloss=curse|SpaceAfter=No
+4	經	經	NOUN	n,名詞,制度,儀礼	_	0	root	_	Gloss=norm|SpacesAfter=\n
+
