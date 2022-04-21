@@ -44057,7 +44057,7 @@
 # newpar text = 長老舍利弗摩訶目乾連摩訶迦葉摩訶迦栴延摩訶拘絺羅離婆多周梨槃陀迦難陀阿難陀羅睺羅憍梵波提賓頭盧頗羅墮迦留陀夷摩訶劫賓那薄俱羅阿㝹樓馱如是等諸大弟子并諸菩薩摩訶薩
 # sent_id = KR6f0082_001_par2_1-80
 # text = 長老舍利弗摩訶目乾連摩訶迦葉摩訶迦栴延摩訶拘絺羅離婆多周梨槃陀迦難陀阿難陀羅睺羅憍梵波提賓頭盧頗羅墮迦留陀夷摩訶劫賓那薄俱羅阿㝹樓馱如是等諸大弟子并諸菩薩摩訶薩
-1	長	長	VERB	v,動詞,描写,量	Degree=Pos	2	conj	_	Gloss=long|SpaceAfter=No
+1	長	長	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	2	amod	_	Gloss=long|SpaceAfter=No
 2	老	老	NOUN	n,名詞,人,人	_	30	nsubj	_	Gloss=aged|SpaceAfter=No
 3	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
 4	摩訶	摩訶	NOUN	n,名詞,描写,態度	_	5	nmod	_	SpaceAfter=No
