@@ -44100,7 +44100,7 @@
 4	子	子	NOUN	n,名詞,人,関係	_	1	flat	_	Gloss=child|SpaceAfter=No
 5	阿逸多	阿逸多	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
 6	菩薩	菩薩	NOUN	n,名詞,主体,神仏	_	5	flat	_	SpaceAfter=No
-7	乾陀訶提	乾陀訶提	PROPN	n,名詞,人,名	NameType=Giv	1	cop	_	Gloss=[given-name]|SpaceAfter=No
+7	乾陀訶提	乾陀訶提	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
 8	菩薩	菩薩	NOUN	n,名詞,主体,神仏	_	7	flat	_	SpaceAfter=No
 9	常精進	常精進	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
 10	菩薩	菩薩	NOUN	n,名詞,主体,神仏	_	9	flat	_	SpaceAfter=No
@@ -44109,7 +44109,7 @@
 13	是	是	PRON	n,代名詞,指示,*	PronType=Dem	12	obj	_	Gloss=this|SpaceAfter=No
 14	等	等	NOUN	n,名詞,数量,*	_	1	conj	_	Gloss=class|SpaceAfter=No
 15	諸	諸	NOUN	n,名詞,数量,*	_	17	nmod	_	Gloss=[plural]|SpaceAfter=No
-16	大	大	VERB	v,動詞,描写,量	Degree=Pos	17	conj	_	Gloss=big|SpaceAfter=No
+16	大	大	VERB	v,動詞,描写,量	Degree=Pos	17	compound	_	Gloss=big|SpaceAfter=No
 17	菩薩	菩薩	NOUN	n,名詞,主体,神仏	_	1	conj	_	SpaceAfter=No
 18	及	及	ADP	v,前置詞,関係,*	_	19	cc	_	Gloss=and|SpaceAfter=No
 19	釋提桓因	釋提桓因	PROPN	n,名詞,人,複合的人名	NameType=Prs	17	conj	_	SpaceAfter=No
@@ -45927,7 +45927,7 @@
 1	釋迦	釋迦	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nmod	_	Gloss=[surname]|SpaceAfter=No
 2	牟尼	牟尼	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
 3	佛	佛	NOUN	n,名詞,主体,神仏	_	11	nsubj	_	Gloss=Buddha|SpaceAfter=No
-4	能	能	AUX	v,助動詞,可能,*	Mood=Pot	5	aux	_	Gloss=can|SpaceAfter=No
+4	能	能	AUX	v,助動詞,可能,*	Mood=Pot	11	aux	_	Gloss=can|SpaceAfter=No
 5	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	11	cop	_	Gloss=be|SpaceAfter=No
 6	甚	甚	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	7	advmod	_	Gloss=extreme|SpaceAfter=No
 7	難	難	VERB	v,動詞,描写,形質	Degree=Pos	11	acl	_	Gloss=difficult|SpaceAfter=No
