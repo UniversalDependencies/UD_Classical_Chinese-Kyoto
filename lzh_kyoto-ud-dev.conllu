@@ -44060,13 +44060,13 @@
 1	長	長	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	2	amod	_	Gloss=long|SpaceAfter=No
 2	老	老	NOUN	n,名詞,人,人	_	30	nsubj	_	Gloss=aged|SpaceAfter=No
 3	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	2	flat	_	Gloss=[given-name]|SpaceAfter=No
-4	摩訶	摩訶	NOUN	n,名詞,描写,態度	_	5	nmod	_	SpaceAfter=No
+4	摩訶	摩訶	NOUN	n,名詞,描写,形質	_	5	nmod	_	SpaceAfter=No
 5	目乾連	目乾連	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
-6	摩訶	摩訶	NOUN	n,名詞,描写,態度	_	7	nmod	_	SpaceAfter=No
+6	摩訶	摩訶	NOUN	n,名詞,描写,形質	_	7	nmod	_	SpaceAfter=No
 7	迦葉	迦葉	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
-8	摩訶	摩訶	NOUN	n,名詞,描写,態度	_	9	nmod	_	SpaceAfter=No
+8	摩訶	摩訶	NOUN	n,名詞,描写,形質	_	9	nmod	_	SpaceAfter=No
 9	迦栴延	迦栴延	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
-10	摩訶	摩訶	NOUN	n,名詞,描写,態度	_	11	nmod	_	SpaceAfter=No
+10	摩訶	摩訶	NOUN	n,名詞,描写,形質	_	11	nmod	_	SpaceAfter=No
 11	拘絺羅	拘絺羅	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
 12	離婆多	離婆多	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
 13	周梨槃陀迦	周梨槃陀迦	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
@@ -44076,7 +44076,7 @@
 17	憍梵波提	憍梵波提	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
 18	賓頭盧頗羅墮	賓頭盧頗羅墮	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
 19	迦留陀夷	迦留陀夷	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
-20	摩訶	摩訶	NOUN	n,名詞,描写,態度	_	21	nmod	_	SpaceAfter=No
+20	摩訶	摩訶	NOUN	n,名詞,描写,形質	_	21	nmod	_	SpaceAfter=No
 21	劫賓那	劫賓那	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
 22	薄俱羅	薄俱羅	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
 23	阿㝹樓馱	阿㝹樓馱	PROPN	n,名詞,人,名	NameType=Giv	2	conj	_	Gloss=[given-name]|SpaceAfter=No
@@ -44262,7 +44262,7 @@
 # text = 又舍利弗極樂國土有七寶池
 1	又	又	ADV	v,副詞,頻度,重複	_	6	advmod	_	Gloss=also|SpaceAfter=No
 2	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	6	vocative	_	Gloss=[given-name]|SpaceAfter=No
-3	極樂	極樂	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	nmod	_	Gloss=[place-name]|SpaceAfter=No
+3	極樂	極樂	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	nmod	_	Gloss=[place-name]|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	5	nmod	_	Gloss=country|SpaceAfter=No
 5	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	6	nsubj	_	Gloss=earth|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
@@ -44380,7 +44380,7 @@
 # sent_id = KR6f0082_001_par9_29-37
 # text = 舍利弗極樂國土成就
 1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	5	vocative	_	Gloss=[given-name]|SpaceAfter=No
-2	極樂	極樂	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	nmod	_	Gloss=[place-name]|SpaceAfter=No
+2	極樂	極樂	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	3	nmod	_	Gloss=[place-name]|SpaceAfter=No
 3	國	國	NOUN	n,名詞,主体,集団	_	4	nmod	_	Gloss=country|SpaceAfter=No
 4	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	5	nsubj	_	Gloss=earth|SpaceAfter=No
 5	成	成	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=complete|SpaceAfter=No
@@ -44475,7 +44475,7 @@
 
 # sent_id = KR6f0082_001_par11_33-36
 # text = 飯食經行
-1	飯	飯	NOUN	n,名詞,可搬,糧食	_	2	obj	_	Gloss=meal|SpaceAfter=No
+1	飯	飯	ADV	v,動詞,行為,飲食	VerbForm=Conv	2	advmod	_	Gloss=eat|SpaceAfter=No
 2	食	食	VERB	v,動詞,行為,飲食	_	0	root	_	Gloss=feed|SpaceAfter=No
 3	經	經	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=warp-yarn|SpaceAfter=No
 4	行	行	VERB	v,動詞,行為,動作	_	2	conj	_	Gloss=behave|SpaceAfter=No
@@ -44602,7 +44602,7 @@
 5	此	此	PRON	n,代名詞,指示,*	PronType=Dem	6	det	_	Gloss=this|SpaceAfter=No
 6	鳥	鳥	NOUN	n,名詞,主体,動物	_	10	nsubj	_	Gloss=bird|SpaceAfter=No
 7	實	實	ADV	v,副詞,程度,極度	AdvType=Deg|Degree=Sup	10	advmod	_	Gloss=truely|SpaceAfter=No
-8	是	是	PRON	n,代名詞,指示,*	PronType=Dem	10	nsubj	_	Gloss=this|SpaceAfter=No
+8	是	是	PRON	n,代名詞,指示,*	PronType=Dem	10	expl	_	Gloss=this|SpaceAfter=No
 9	罪	罪	NOUN	n,名詞,制度,儀礼	_	10	obl	_	Gloss=crime|SpaceAfter=No
 10	報	報	VERB	v,動詞,行為,交流	_	4	ccomp	_	Gloss=report-back|SpaceAfter=No
 11	所	所	PART	p,助詞,接続,体言化	_	12	case	_	Gloss=that-which|SpaceAfter=No
@@ -44655,9 +44655,9 @@
 3	眾	衆	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=numerous|SpaceAfter=No
 4	鳥	鳥	NOUN	n,名詞,主体,動物	_	10	nsubj	_	Gloss=bird|SpaceAfter=No
 5	皆	皆	ADV	v,副詞,範囲,総括	_	10	advmod	_	Gloss=all|SpaceAfter=No
-6	是	是	PRON	n,代名詞,指示,*	PronType=Dem	7	det	_	Gloss=this|SpaceAfter=No
-7	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	10	nsubj	_	SpaceAfter=No
-8	佛	佛	NOUN	n,名詞,人,役割	_	7	flat	_	SpaceAfter=No
+6	是	是	PRON	n,代名詞,指示,*	PronType=Dem	8	det	_	Gloss=this|SpaceAfter=No
+7	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	8	compound	_	SpaceAfter=No
+8	佛	佛	NOUN	n,名詞,人,役割	_	10	nsubj	_	SpaceAfter=No
 9	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	10	aux	_	Gloss=wish|SpaceAfter=No
 10	令	令	VERB	v,動詞,行為,使役	_	18	csubj	_	Gloss=order|SpaceAfter=No
 11	法	法	NOUN	n,名詞,制度,儀礼	_	12	nmod	_	Gloss=law|SpaceAfter=No
@@ -44674,7 +44674,7 @@
 # text = 舍利弗彼佛國土微風吹動
 1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	9	vocative	_	Gloss=[given-name]|SpaceAfter=No
 2	彼	彼	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=that|SpaceAfter=No
-3	佛	佛	NOUN	n,名詞,人,人	_	4	nmod	_	SpaceAfter=No
+3	佛	佛	NOUN	n,名詞,主体,神仏	_	4	nmod	_	Gloss=Buddha|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	5	nmod	_	Gloss=country|SpaceAfter=No
 5	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	9	obl:lmod	_	Gloss=earth|SpaceAfter=No
 6	微	微	VERB	v,動詞,存在,存在	Polarity=Neg|VerbForm=Part	7	amod	_	Gloss=were-it-not-for|SpaceAfter=No
@@ -44820,8 +44820,8 @@
 # sent_id = KR6f0082_001_par16_66-80
 # text = 舍利弗阿彌陀佛成佛已來於今十劫
 1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	10	vocative	_	Gloss=[given-name]|SpaceAfter=No
-2	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	4	nsubj	_	SpaceAfter=No
-3	佛	佛	NOUN	n,名詞,主体,神仏	_	2	flat	_	Gloss=Buddha|SpaceAfter=No
+2	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	3	compound	_	SpaceAfter=No
+3	佛	佛	NOUN	n,名詞,主体,神仏	_	4	nsubj	_	Gloss=Buddha|SpaceAfter=No
 4	成	成	VERB	v,動詞,行為,生産	_	7	csubj	_	Gloss=complete|SpaceAfter=No
 5	佛	佛	NOUN	n,名詞,主体,神仏	_	4	obj	_	Gloss=Buddha|SpaceAfter=No
 6	已	已	ADV	v,副詞,時相,完了	AdvType=Tim|Aspect=Perf	7	advmod	_	Gloss=already|SpaceAfter=No
