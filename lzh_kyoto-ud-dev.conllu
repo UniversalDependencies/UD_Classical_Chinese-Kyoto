@@ -44876,7 +44876,7 @@
 # text = 舍利弗彼佛國土成就如是功德莊嚴
 1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	6	vocative	_	Gloss=[given-name]|SpaceAfter=No
 2	彼	彼	PRON	n,代名詞,指示,*	PronType=Dem	3	det	_	Gloss=that|SpaceAfter=No
-3	佛	佛	NOUN	n,名詞,人,人	_	4	nmod	_	SpaceAfter=No
+3	佛	佛	NOUN	n,名詞,主体,神仏	_	4	nmod	_	Gloss=Buddha|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	5	nmod	_	Gloss=country|SpaceAfter=No
 5	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	6	nsubj	_	Gloss=earth|SpaceAfter=No
 6	成	成	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=complete|SpaceAfter=No
@@ -44893,11 +44893,11 @@
 # text = 又舍利弗極樂國土眾生生者皆是阿鞞跋致
 1	又	又	ADV	v,副詞,頻度,重複	_	12	amod	_	Gloss=also|SpaceAfter=No
 2	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	12	vocative	_	Gloss=[given-name]|SpaceAfter=No
-3	極樂	極樂	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	5	nmod	_	Gloss=[place-name]|SpaceAfter=No
+3	極樂	極樂	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	nmod	_	Gloss=[place-name]|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	5	nmod	_	Gloss=country|SpaceAfter=No
 5	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	8	obl:lmod	_	Gloss=earth|SpaceAfter=No
 6	眾	衆	NOUN	n,名詞,人,役割	_	7	amod	_	Gloss=multitude|SpaceAfter=No
-7	生	生	NOUN	n,名詞,人,人	_	8	nsubj	_	SpaceAfter=No
+7	生	生	NOUN	n,名詞,行為,*	_	8	nsubj	_	Gloss=life|SpaceAfter=No
 8	生	生	VERB	v,動詞,変化,生物	_	9	acl	_	Gloss=alive|SpaceAfter=No
 9	者	者	PART	p,助詞,提示,*	_	12	nsubj	_	Gloss=that-which|SpaceAfter=No
 10	皆	皆	ADV	v,副詞,範囲,総括	_	12	advmod	_	Gloss=all|SpaceAfter=No
@@ -44912,7 +44912,7 @@
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 5	一	一	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=one|SpaceAfter=No
 6	生	生	NOUN	n,名詞,行為,*	_	8	nmod	_	Gloss=life|SpaceAfter=No
-7	補	補	ADV	v,動詞,行為,動作	VerbForm=Conv	8	advmod	_	Gloss=mend|SpaceAfter=No
+7	補	補	VERB	v,動詞,行為,動作	VerbForm=Part	8	amod	_	Gloss=mend|SpaceAfter=No
 8	處	處	NOUN	n,名詞,制度,場	Case=Loc	4	obj	_	SpaceAfter=No
 
 # sent_id = KR6f0082_001_par18_27-30
@@ -44949,7 +44949,7 @@
 # text = 舍利弗眾生聞者應當發願願生彼國
 1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	8	vocative	_	Gloss=[given-name]|SpaceAfter=No
 2	眾	衆	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	3	amod	_	Gloss=numerous|SpaceAfter=No
-3	生	生	NOUN	n,名詞,人,人	_	4	nsubj	_	SpaceAfter=No
+3	生	生	NOUN	n,名詞,行為,*	_	4	nsubj	_	Gloss=life|SpaceAfter=No
 4	聞	聞	VERB	v,動詞,行為,伝達	_	5	acl	_	Gloss=hear|SpaceAfter=No
 5	者	者	PART	p,助詞,提示,*	_	8	nsubj	_	Gloss=that-which|SpaceAfter=No
 6	應	應	AUX	v,助動詞,必要,*	Mood=Nec	8	aux	_	Gloss=ought|SpaceAfter=No
@@ -45018,8 +45018,8 @@
 # text = 聞說阿彌陀佛
 1	聞	聞	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=hear|SpaceAfter=No
 2	說	說	VERB	v,動詞,行為,伝達	_	1	ccomp	_	Gloss=explain|SpaceAfter=No
-3	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	2	obj	_	SpaceAfter=No
-4	佛	佛	NOUN	n,名詞,主体,神仏	_	3	flat	_	Gloss=Buddha|SpaceAfter=No
+3	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	4	compound	_	SpaceAfter=No
+4	佛	佛	NOUN	n,名詞,主体,神仏	_	2	obj	_	Gloss=Buddha|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par19_35-38
 # text = 執持名號
@@ -45089,12 +45089,12 @@
 
 # sent_id = KR6f0082_001_par20_7-18
 # text = 阿彌陀佛與諸聖眾現在其前
-1	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	7	nsubj	_	SpaceAfter=No
-2	佛	佛	NOUN	n,名詞,主体,神仏	_	1	flat	_	Gloss=Buddha|SpaceAfter=No
+1	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	2	compound	_	SpaceAfter=No
+2	佛	佛	NOUN	n,名詞,主体,神仏	_	7	nsubj	_	Gloss=Buddha|SpaceAfter=No
 3	與	與	ADP	v,前置詞,関係,*	_	6	cc	_	Gloss=associate-with|SpaceAfter=No
 4	諸	諸	NOUN	n,名詞,数量,*	_	6	nmod	_	Gloss=[plural]|SpaceAfter=No
 5	聖	聖	NOUN	n,名詞,人,役割	_	6	nmod	_	Gloss=sage|SpaceAfter=No
-6	眾	衆	NOUN	n,名詞,人,役割	_	1	conj	_	Gloss=multitude|SpaceAfter=No
+6	眾	衆	NOUN	n,名詞,人,役割	_	2	conj	_	Gloss=multitude|SpaceAfter=No
 7	現	現	VERB	v,動詞,存在,存在	_	0	root	_	SpaceAfter=No
 8	在	在	VERB	v,動詞,存在,存在	_	7	flat:vv	_	Gloss=be-present|SpaceAfter=No
 9	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	10	det	_	Gloss=[3PRON]|SpaceAfter=No
@@ -45117,8 +45117,8 @@
 2	得	得	ADV	v,動詞,行為,得失	VerbForm=Conv	3	advmod	_	Gloss=get|SpaceAfter=No
 3	往	往	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go|SpaceAfter=No
 4	生	生	VERB	v,動詞,変化,生物	_	3	flat:vv	_	Gloss=alive|SpaceAfter=No
-5	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	9	nmod	_	SpaceAfter=No
-6	佛	佛	NOUN	n,名詞,主体,神仏	_	5	flat	_	Gloss=Buddha|SpaceAfter=No
+5	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	6	compound	_	SpaceAfter=No
+6	佛	佛	NOUN	n,名詞,主体,神仏	_	9	nmod	_	Gloss=Buddha|SpaceAfter=No
 7	極樂	極樂	NOUN	n,名詞,固定物,関係	Case=Loc	8	compound	_	SpaceAfter=No
 8	國	國	NOUN	n,名詞,主体,集団	_	9	nmod	_	Gloss=country|SpaceAfter=No
 9	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	3	obj	_	Gloss=earth|SpaceAfter=No
@@ -45164,11 +45164,11 @@
 2	如	如	ADV	v,動詞,行為,分類	Degree=Equ|VerbForm=Conv	6	advmod	_	Gloss=be-like|SpaceAfter=No
 3	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	6	nsubj	_	Gloss=[1PRON]|SpaceAfter=No
 4	今	今	NOUN	n,名詞,時,*	Case=Tem	5	nmod	_	Gloss=now|SpaceAfter=No
-5	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
+5	者	者	PART	p,助詞,提示,*	_	6	obl	_	Gloss=that-which|SpaceAfter=No
 6	讚	讚	VERB	v,動詞,行為,交流	_	0	root	_	SpaceAfter=No
 7	歎	歎	VERB	v,動詞,行為,態度	_	6	flat:vv	_	Gloss=sigh|SpaceAfter=No
-8	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	15	nmod	_	SpaceAfter=No
-9	佛	佛	NOUN	n,名詞,主体,神仏	_	8	flat	_	Gloss=Buddha|SpaceAfter=No
+8	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	9	compound	_	SpaceAfter=No
+9	佛	佛	NOUN	n,名詞,主体,神仏	_	15	nmod	_	Gloss=Buddha|SpaceAfter=No
 10	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	11	advmod	_	Gloss=not|SpaceAfter=No
 11	可	可	AUX	v,助動詞,可能,*	Mood=Pot	12	aux	_	Gloss=possible|SpaceAfter=No
 12	思	思	VERB	v,動詞,行為,動作	_	15	acl	_	Gloss=think|SpaceAfter=No
@@ -45182,16 +45182,16 @@
 2	方	方	NOUN	n,名詞,固定物,関係	Case=Loc	4	nsubj	_	Gloss=direction|SpaceAfter=No
 3	亦	亦	ADV	v,副詞,頻度,重複	_	4	advmod	_	Gloss=also|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-5	阿閦鞞	阿閦鞞	NOUN	n,名詞,主体,神仏	_	4	obj	_	SpaceAfter=No
-6	佛	佛	NOUN	n,名詞,主体,神仏	_	5	flat	_	Gloss=Buddha|SpaceAfter=No
-7	須彌相	須彌相	NOUN	n,名詞,主体,神仏	_	5	conj	_	SpaceAfter=No
-8	佛	佛	NOUN	n,名詞,主体,神仏	_	7	flat	_	Gloss=Buddha|SpaceAfter=No
-9	大須彌	大須彌	NOUN	n,名詞,主体,神仏	_	5	conj	_	SpaceAfter=No
-10	佛	佛	NOUN	n,名詞,主体,神仏	_	9	flat	_	Gloss=Buddha|SpaceAfter=No
-11	須彌光	須彌光	NOUN	n,名詞,主体,神仏	_	5	conj	_	SpaceAfter=No
-12	佛	佛	NOUN	n,名詞,主体,神仏	_	11	flat	_	Gloss=Buddha|SpaceAfter=No
-13	妙音	妙音	NOUN	n,名詞,主体,神仏	_	5	conj	_	SpaceAfter=No
-14	佛	佛	NOUN	n,名詞,主体,神仏	_	13	flat	_	Gloss=Buddha|SpacesAfter=\n
+5	阿閦鞞	阿閦鞞	NOUN	n,名詞,主体,神仏	_	6	compound	_	SpaceAfter=No
+6	佛	佛	NOUN	n,名詞,主体,神仏	_	4	conj	_	Gloss=Buddha|SpaceAfter=No
+7	須彌相	須彌相	NOUN	n,名詞,主体,神仏	_	8	compound	_	SpaceAfter=No
+8	佛	佛	NOUN	n,名詞,主体,神仏	_	4	conj	_	Gloss=Buddha|SpaceAfter=No
+9	大須彌	大須彌	NOUN	n,名詞,主体,神仏	_	10	compound	_	SpaceAfter=No
+10	佛	佛	NOUN	n,名詞,主体,神仏	_	4	conj	_	Gloss=Buddha|SpaceAfter=No
+11	須彌光	須彌光	NOUN	n,名詞,主体,神仏	_	12	compound	_	SpaceAfter=No
+12	佛	佛	NOUN	n,名詞,主体,神仏	_	4	conj	_	Gloss=Buddha|SpaceAfter=No
+13	妙音	妙音	NOUN	n,名詞,主体,神仏	_	14	compound	_	SpaceAfter=No
+14	佛	佛	NOUN	n,名詞,主体,神仏	_	4	conj	_	Gloss=Buddha|SpacesAfter=\n
 
 # newpar text = 如是等恒河沙數諸佛各於其國出廣長舌相遍覆三千大千世界說誠實言汝等眾生當信是稱讚不可思議功德一切諸佛所護念經
 # sent_id = KR6f0082_001_par22_1-9
@@ -45240,7 +45240,7 @@
 1	汝	汝	PRON	n,代名詞,人称,起格	Person=2|PronType=Prs	4	det	_	Gloss=[2PRON]|SpaceAfter=No
 2	等	等	NOUN	n,名詞,数量,*	_	1	conj	_	Gloss=class|SpaceAfter=No
 3	眾	衆	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=numerous|SpaceAfter=No
-4	生	生	NOUN	n,名詞,人,人	_	6	nsubj	_	SpaceAfter=No
+4	生	生	NOUN	n,名詞,行為,*	_	6	nsubj	_	Gloss=life|SpaceAfter=No
 5	當	當	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=correspond-to|SpaceAfter=No
 6	信	信	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=believe|SpaceAfter=No
 7	是	是	PRON	n,代名詞,指示,*	PronType=Dem	23	det	_	Gloss=this|SpaceAfter=No
@@ -45253,7 +45253,7 @@
 14	功	功	NOUN	n,名詞,可搬,成果物	_	15	compound	_	Gloss=achievement|SpaceAfter=No
 15	德	德	NOUN	n,名詞,描写,態度	_	8	obj	_	Gloss=virtue|SpaceAfter=No
 16	一	一	NUM	n,数詞,数字,*	_	17	nummod	_	Gloss=one|SpaceAfter=No
-17	切	切	ADV	v,副詞,範囲,総括	_	23	amod	_	SpaceAfter=No
+17	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	23	amod	_	Gloss=every|SpaceAfter=No
 18	諸	諸	NOUN	n,名詞,数量,*	_	19	nmod	_	Gloss=[plural]|SpaceAfter=No
 19	佛	佛	NOUN	n,名詞,主体,神仏	_	21	nsubj	_	Gloss=Buddha|SpaceAfter=No
 20	所	所	PART	p,助詞,接続,体言化	_	21	mark	_	Gloss=that-which|SpaceAfter=No
@@ -45270,25 +45270,25 @@
 4	世	世	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=world|SpaceAfter=No
 5	界	界	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=boundary|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-7	日月燈	日月燈	NOUN	n,名詞,主体,神仏	_	6	obj	_	SpaceAfter=No
-8	佛	佛	NOUN	n,名詞,主体,神仏	_	7	flat	_	Gloss=Buddha|SpaceAfter=No
-9	名聞光	名聞光	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-10	佛	佛	NOUN	n,名詞,主体,神仏	_	9	flat	_	Gloss=Buddha|SpaceAfter=No
-11	大焰肩	大焰肩	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-12	佛	佛	NOUN	n,名詞,主体,神仏	_	11	flat	_	Gloss=Buddha|SpaceAfter=No
-13	須彌燈	須彌燈	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-14	佛	佛	NOUN	n,名詞,主体,神仏	_	13	flat	_	Gloss=Buddha|SpaceAfter=No
-15	無量精進	無量精進	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-16	佛	佛	NOUN	n,名詞,主体,神仏	_	15	flat	_	Gloss=Buddha|SpaceAfter=No
+7	日月燈	日月燈	NOUN	n,名詞,主体,神仏	_	8	compound	_	SpaceAfter=No
+8	佛	佛	NOUN	n,名詞,主体,神仏	_	6	obj	_	Gloss=Buddha|SpaceAfter=No
+9	名聞光	名聞光	NOUN	n,名詞,主体,神仏	_	10	compound	_	SpaceAfter=No
+10	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+11	大焰肩	大焰肩	NOUN	n,名詞,主体,神仏	_	12	compound	_	SpaceAfter=No
+12	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+13	須彌燈	須彌燈	NOUN	n,名詞,主体,神仏	_	14	compound	_	SpaceAfter=No
+14	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+15	無量精進	無量精進	NOUN	n,名詞,主体,神仏	_	16	compound	_	SpaceAfter=No
+16	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 17	如	如	VERB	v,動詞,行為,分類	Degree=Equ	19	acl	_	Gloss=be-like|SpaceAfter=No
 18	是	是	PRON	n,代名詞,指示,*	PronType=Dem	17	obj	_	Gloss=this|SpaceAfter=No
 19	等	等	NOUN	n,名詞,数量,*	_	25	nmod	_	Gloss=class|SpaceAfter=No
-20	恒	恆	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	21	compound	_	Gloss=[place-name]|SpaceAfter=No
+20	恒	恆	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	21	amod	_	Gloss=constant|SpaceAfter=No
 21	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	22	nmod	_	Gloss=river|SpaceAfter=No
 22	沙	沙	NOUN	n,名詞,固定物,地形	Case=Loc	23	nmod	_	SpaceAfter=No
 23	數	數	NOUN	n,名詞,数量,*	_	25	nmod	_	Gloss=number|SpaceAfter=No
 24	諸	諸	NOUN	n,名詞,数量,*	_	25	nmod	_	Gloss=[plural]|SpaceAfter=No
-25	佛	佛	NOUN	n,名詞,主体,神仏	_	7	conj	_	Gloss=Buddha|SpaceAfter=No
+25	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par23_39-47
 # text = 各於其國出廣長舌相
@@ -45324,7 +45324,7 @@
 1	汝	汝	PRON	n,代名詞,人称,起格	Person=2|PronType=Prs	4	det	_	Gloss=[2PRON]|SpaceAfter=No
 2	等	等	NOUN	n,名詞,数量,*	_	1	conj	_	Gloss=class|SpaceAfter=No
 3	眾	衆	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	4	amod	_	Gloss=numerous|SpaceAfter=No
-4	生	生	NOUN	n,名詞,人,人	_	6	nsubj	_	SpaceAfter=No
+4	生	生	NOUN	n,名詞,行為,*	_	6	nsubj	_	Gloss=life|SpaceAfter=No
 5	當	當	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=correspond-to|SpaceAfter=No
 6	信	信	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=believe|SpaceAfter=No
 7	是	是	PRON	n,代名詞,指示,*	PronType=Dem	23	det	_	Gloss=this|SpaceAfter=No
@@ -45337,9 +45337,9 @@
 14	功	功	NOUN	n,名詞,可搬,成果物	_	15	compound	_	Gloss=achievement|SpaceAfter=No
 15	德	德	NOUN	n,名詞,描写,態度	_	8	obj	_	Gloss=virtue|SpaceAfter=No
 16	一	一	NUM	n,数詞,数字,*	_	17	nummod	_	Gloss=one|SpaceAfter=No
-17	切	切	ADV	v,副詞,範囲,総括	_	23	amod	_	SpaceAfter=No
+17	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	23	amod	_	Gloss=every|SpaceAfter=No
 18	諸	諸	NOUN	n,名詞,数量,*	_	19	nmod	_	Gloss=[plural]|SpaceAfter=No
-19	佛	佛	NOUN	n,名詞,人,役割	_	21	nsubj	_	SpaceAfter=No
+19	佛	佛	NOUN	n,名詞,主体,神仏	_	21	nsubj	_	Gloss=Buddha|SpaceAfter=No
 20	所	所	PART	p,助詞,接続,体言化	_	21	mark	_	Gloss=that-which|SpaceAfter=No
 21	護	護	VERB	v,動詞,行為,動作	_	23	acl	_	Gloss=protect|SpaceAfter=No
 22	念	念	VERB	v,動詞,行為,動作	_	21	flat:vv	_	Gloss=ponder|SpaceAfter=No
@@ -45354,29 +45354,29 @@
 4	世	世	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=world|SpaceAfter=No
 5	界	界	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=boundary|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-7	無量壽	無量壽	NOUN	n,名詞,主体,神仏	_	6	obj	_	SpaceAfter=No
-8	佛	佛	NOUN	n,名詞,主体,神仏	_	7	flat	_	Gloss=Buddha|SpaceAfter=No
-9	無量相	無量相	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-10	佛	佛	NOUN	n,名詞,主体,神仏	_	9	flat	_	Gloss=Buddha|SpaceAfter=No
-11	無量幢	無量幢	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-12	佛	佛	NOUN	n,名詞,主体,神仏	_	11	flat	_	Gloss=Buddha|SpaceAfter=No
-13	大光	大光	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-14	佛	佛	NOUN	n,名詞,主体,神仏	_	13	flat	_	Gloss=Buddha|SpaceAfter=No
-15	大明	大明	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-16	佛	佛	NOUN	n,名詞,主体,神仏	_	15	flat	_	Gloss=Buddha|SpaceAfter=No
-17	寶相	寶相	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-18	佛	佛	NOUN	n,名詞,主体,神仏	_	17	flat	_	Gloss=Buddha|SpaceAfter=No
-19	淨光	淨光	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-20	佛	佛	NOUN	n,名詞,主体,神仏	_	19	flat	_	Gloss=Buddha|SpaceAfter=No
+7	無量壽	無量壽	NOUN	n,名詞,主体,神仏	_	8	compound	_	SpaceAfter=No
+8	佛	佛	NOUN	n,名詞,主体,神仏	_	6	obj	_	Gloss=Buddha|SpaceAfter=No
+9	無量相	無量相	NOUN	n,名詞,主体,神仏	_	10	compound	_	SpaceAfter=No
+10	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+11	無量幢	無量幢	NOUN	n,名詞,主体,神仏	_	12	compound	_	SpaceAfter=No
+12	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+13	大光	大光	NOUN	n,名詞,主体,神仏	_	14	compound	_	SpaceAfter=No
+14	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+15	大明	大明	NOUN	n,名詞,主体,神仏	_	16	compound	_	SpaceAfter=No
+16	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+17	寶相	寶相	NOUN	n,名詞,主体,神仏	_	18	compound	_	SpaceAfter=No
+18	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+19	淨光	淨光	NOUN	n,名詞,主体,神仏	_	20	compound	_	SpaceAfter=No
+20	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 21	如	如	VERB	v,動詞,行為,分類	Degree=Equ	23	acl	_	Gloss=be-like|SpaceAfter=No
 22	是	是	PRON	n,代名詞,指示,*	PronType=Dem	21	obj	_	Gloss=this|SpaceAfter=No
 23	等	等	NOUN	n,名詞,数量,*	_	29	nmod	_	Gloss=class|SpaceAfter=No
-24	恒	恆	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	25	compound	_	Gloss=[place-name]|SpaceAfter=No
+24	恒	恆	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	25	amod	_	Gloss=constant|SpaceAfter=No
 25	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	26	nmod	_	Gloss=river|SpaceAfter=No
 26	沙	沙	NOUN	n,名詞,固定物,地形	Case=Loc	27	nmod	_	SpaceAfter=No
 27	數	數	NOUN	n,名詞,数量,*	_	29	nmod	_	Gloss=number|SpaceAfter=No
 28	諸	諸	NOUN	n,名詞,数量,*	_	29	nmod	_	Gloss=[plural]|SpaceAfter=No
-29	佛	佛	NOUN	n,名詞,人,役割	_	7	conj	_	SpaceAfter=No
+29	佛	佛	NOUN	n,名詞,人,役割	_	8	conj	_	SpaceAfter=No
 
 # sent_id = KR6f0082_001_par24_42-50
 # text = 各於其國出廣長舌相
@@ -45425,9 +45425,9 @@
 14	功	功	NOUN	n,名詞,可搬,成果物	_	15	compound	_	Gloss=achievement|SpaceAfter=No
 15	德	德	NOUN	n,名詞,描写,態度	_	8	obj	_	Gloss=virtue|SpaceAfter=No
 16	一	一	NUM	n,数詞,数字,*	_	17	nummod	_	Gloss=one|SpaceAfter=No
-17	切	切	ADV	v,副詞,範囲,総括	_	23	amod	_	SpaceAfter=No
+17	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	23	amod	_	Gloss=every|SpaceAfter=No
 18	諸	諸	NOUN	n,名詞,数量,*	_	19	nmod	_	Gloss=[plural]|SpaceAfter=No
-19	佛	佛	NOUN	n,名詞,人,役割	_	21	nsubj	_	SpaceAfter=No
+19	佛	佛	NOUN	n,名詞,主体,神仏	_	21	nsubj	_	Gloss=Buddha|SpaceAfter=No
 20	所	所	PART	p,助詞,接続,体言化	_	21	mark	_	Gloss=that-which|SpaceAfter=No
 21	護	護	VERB	v,動詞,行為,動作	_	23	acl	_	Gloss=protect|SpaceAfter=No
 22	念	念	VERB	v,動詞,行為,動作	_	21	flat:vv	_	Gloss=ponder|SpaceAfter=No
@@ -45442,25 +45442,25 @@
 4	世	世	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=world|SpaceAfter=No
 5	界	界	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=boundary|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-7	焰肩	焰肩	NOUN	n,名詞,主体,神仏	_	6	obj	_	SpaceAfter=No
-8	佛	佛	NOUN	n,名詞,主体,神仏	_	7	flat	_	Gloss=Buddha|SpaceAfter=No
-9	最勝音	最勝音	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-10	佛	佛	NOUN	n,名詞,主体,神仏	_	9	flat	_	Gloss=Buddha|SpaceAfter=No
-11	難沮	難沮	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-12	佛	佛	NOUN	n,名詞,主体,神仏	_	11	flat	_	Gloss=Buddha|SpaceAfter=No
-13	日生	日生	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-14	佛	佛	NOUN	n,名詞,主体,神仏	_	13	flat	_	Gloss=Buddha|SpaceAfter=No
-15	網明	網明	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-16	佛	佛	NOUN	n,名詞,主体,神仏	_	15	flat	_	Gloss=Buddha|SpaceAfter=No
+7	焰肩	焰肩	NOUN	n,名詞,主体,神仏	_	8	compound	_	SpaceAfter=No
+8	佛	佛	NOUN	n,名詞,主体,神仏	_	6	obj	_	Gloss=Buddha|SpaceAfter=No
+9	最勝音	最勝音	NOUN	n,名詞,主体,神仏	_	10	compound	_	SpaceAfter=No
+10	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+11	難沮	難沮	NOUN	n,名詞,主体,神仏	_	12	compound	_	SpaceAfter=No
+12	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+13	日生	日生	NOUN	n,名詞,主体,神仏	_	14	compound	_	SpaceAfter=No
+14	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+15	網明	網明	NOUN	n,名詞,主体,神仏	_	16	compound	_	SpaceAfter=No
+16	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 17	如	如	VERB	v,動詞,行為,分類	Degree=Equ	19	acl	_	Gloss=be-like|SpaceAfter=No
 18	是	是	PRON	n,代名詞,指示,*	PronType=Dem	17	obj	_	Gloss=this|SpaceAfter=No
 19	等	等	NOUN	n,名詞,数量,*	_	25	acl	_	Gloss=class|SpaceAfter=No
-20	恒	恆	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	21	compound	_	Gloss=[place-name]|SpaceAfter=No
+20	恒	恆	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	21	amod	_	Gloss=constant|SpaceAfter=No
 21	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	22	nmod	_	Gloss=river|SpaceAfter=No
 22	沙	沙	NOUN	n,名詞,固定物,地形	Case=Loc	23	nmod	_	SpaceAfter=No
 23	數	數	NOUN	n,名詞,数量,*	_	25	nmod	_	Gloss=number|SpaceAfter=No
 24	諸	諸	NOUN	n,名詞,数量,*	_	25	nmod	_	Gloss=[plural]|SpaceAfter=No
-25	佛	佛	NOUN	n,名詞,主体,神仏	_	7	conj	_	Gloss=Buddha|SpaceAfter=No
+25	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par25_34-42
 # text = 各於其國出廣長舌相
@@ -45509,7 +45509,7 @@
 14	功	功	NOUN	n,名詞,可搬,成果物	_	15	compound	_	Gloss=achievement|SpaceAfter=No
 15	德	德	NOUN	n,名詞,描写,態度	_	8	obj	_	Gloss=virtue|SpaceAfter=No
 16	一	一	NUM	n,数詞,数字,*	_	17	nummod	_	Gloss=one|SpaceAfter=No
-17	切	切	ADV	v,副詞,範囲,総括	_	23	amod	_	SpaceAfter=No
+17	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	23	amod	_	Gloss=every|SpaceAfter=No
 18	諸	諸	NOUN	n,名詞,数量,*	_	19	nmod	_	Gloss=[plural]|SpaceAfter=No
 19	佛	佛	NOUN	n,名詞,主体,神仏	_	21	nsubj	_	Gloss=Buddha|SpaceAfter=No
 20	所	所	PART	p,助詞,接続,体言化	_	21	mark	_	Gloss=that-which|SpaceAfter=No
@@ -45526,27 +45526,27 @@
 4	世	世	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=world|SpaceAfter=No
 5	界	界	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=boundary|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-7	師子	師子	NOUN	n,名詞,主体,動物	_	6	obj	_	SpaceAfter=No
-8	佛	佛	NOUN	n,名詞,主体,神仏	_	7	flat	_	Gloss=Buddha|SpaceAfter=No
-9	名聞	名聞	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-10	佛	佛	NOUN	n,名詞,主体,神仏	_	9	flat	_	Gloss=Buddha|SpaceAfter=No
-11	名光	名光	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-12	佛	佛	NOUN	n,名詞,主体,神仏	_	11	flat	_	Gloss=Buddha|SpaceAfter=No
-13	達摩	達摩	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-14	佛	佛	NOUN	n,名詞,主体,神仏	_	13	flat	_	Gloss=Buddha|SpaceAfter=No
-15	法幢	法幢	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-16	佛	佛	NOUN	n,名詞,主体,神仏	_	15	flat	_	Gloss=Buddha|SpaceAfter=No
-17	持法	持法	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-18	佛	佛	NOUN	n,名詞,主体,神仏	_	17	flat	_	Gloss=Buddha|SpaceAfter=No
+7	師子	師子	NOUN	n,名詞,主体,動物	_	8	compound	_	SpaceAfter=No
+8	佛	佛	NOUN	n,名詞,主体,神仏	_	6	obj	_	Gloss=Buddha|SpaceAfter=No
+9	名聞	名聞	NOUN	n,名詞,主体,神仏	_	10	compound	_	SpaceAfter=No
+10	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+11	名光	名光	NOUN	n,名詞,主体,神仏	_	12	compound	_	SpaceAfter=No
+12	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+13	達摩	達摩	NOUN	n,名詞,主体,神仏	_	14	compound	_	SpaceAfter=No
+14	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+15	法幢	法幢	NOUN	n,名詞,主体,神仏	_	16	compound	_	SpaceAfter=No
+16	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+17	持法	持法	NOUN	n,名詞,主体,神仏	_	18	compound	_	SpaceAfter=No
+18	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 19	如	如	VERB	v,動詞,行為,分類	Degree=Equ	21	acl	_	Gloss=be-like|SpaceAfter=No
 20	是	是	PRON	n,代名詞,指示,*	PronType=Dem	19	obj	_	Gloss=this|SpaceAfter=No
 21	等	等	NOUN	n,名詞,数量,*	_	27	acl	_	Gloss=class|SpaceAfter=No
-22	恒	恆	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	23	compound	_	Gloss=[place-name]|SpaceAfter=No
+22	恒	恆	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	23	amod	_	Gloss=constant|SpaceAfter=No
 23	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	24	nmod	_	Gloss=river|SpaceAfter=No
 24	沙	沙	NOUN	n,名詞,固定物,地形	Case=Loc	25	nmod	_	SpaceAfter=No
 25	數	數	NOUN	n,名詞,数量,*	_	27	nmod	_	Gloss=number|SpaceAfter=No
 26	諸	諸	NOUN	n,名詞,数量,*	_	27	nmod	_	Gloss=[plural]|SpaceAfter=No
-27	佛	佛	NOUN	n,名詞,主体,神仏	_	7	conj	_	Gloss=Buddha|SpaceAfter=No
+27	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par26_36-44
 # text = 各於其國出廣長舌相
@@ -45595,7 +45595,7 @@
 14	功	功	NOUN	n,名詞,可搬,成果物	_	15	compound	_	Gloss=achievement|SpaceAfter=No
 15	德	德	NOUN	n,名詞,描写,態度	_	8	obj	_	Gloss=virtue|SpaceAfter=No
 16	一	一	NUM	n,数詞,数字,*	_	17	nummod	_	Gloss=one|SpaceAfter=No
-17	切	切	ADV	v,副詞,範囲,総括	_	23	amod	_	SpaceAfter=No
+17	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	23	amod	_	Gloss=every|SpaceAfter=No
 18	諸	諸	NOUN	n,名詞,数量,*	_	19	nmod	_	Gloss=[plural]|SpaceAfter=No
 19	佛	佛	NOUN	n,名詞,主体,神仏	_	21	nsubj	_	Gloss=Buddha|SpaceAfter=No
 20	所	所	PART	p,助詞,接続,体言化	_	21	mark	_	Gloss=that-which|SpaceAfter=No
@@ -45612,35 +45612,35 @@
 4	世	世	NOUN	n,名詞,制度,場	Case=Loc	5	nmod	_	Gloss=world|SpaceAfter=No
 5	界	界	NOUN	n,名詞,固定物,関係	Case=Loc	6	nsubj	_	Gloss=boundary|SpaceAfter=No
 6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-7	梵音	梵音	NOUN	n,名詞,主体,神仏	_	6	obj	_	SpaceAfter=No
-8	佛	佛	NOUN	n,名詞,主体,神仏	_	7	flat	_	Gloss=Buddha|SpaceAfter=No
-9	宿王	宿王	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-10	佛	佛	NOUN	n,名詞,主体,神仏	_	9	flat	_	Gloss=Buddha|SpaceAfter=No
-11	香上	香上	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-12	佛	佛	NOUN	n,名詞,主体,神仏	_	11	flat	_	Gloss=Buddha|SpaceAfter=No
-13	香光	香光	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-14	佛	佛	NOUN	n,名詞,主体,神仏	_	13	flat	_	Gloss=Buddha|SpaceAfter=No
-15	大焰肩	大焰肩	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-16	佛	佛	NOUN	n,名詞,主体,神仏	_	15	flat	_	Gloss=Buddha|SpaceAfter=No
-17	雜色寶華嚴身	雜色寶華嚴身	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-18	佛	佛	NOUN	n,名詞,主体,神仏	_	17	flat	_	Gloss=Buddha|SpaceAfter=No
-19	娑羅樹王	娑羅樹王	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-20	佛	佛	NOUN	n,名詞,主体,神仏	_	19	flat	_	Gloss=Buddha|SpaceAfter=No
-21	寶華德	寶華德	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-22	佛	佛	NOUN	n,名詞,主体,神仏	_	21	flat	_	Gloss=Buddha|SpaceAfter=No
-23	見一切義	見一切義	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-24	佛	佛	NOUN	n,名詞,主体,神仏	_	23	flat	_	Gloss=Buddha|SpaceAfter=No
-25	如須彌山	如須彌山	NOUN	n,名詞,主体,神仏	_	7	conj	_	SpaceAfter=No
-26	佛	佛	NOUN	n,名詞,主体,神仏	_	25	flat	_	Gloss=Buddha|SpaceAfter=No
+7	梵音	梵音	NOUN	n,名詞,主体,神仏	_	8	compound	_	SpaceAfter=No
+8	佛	佛	NOUN	n,名詞,主体,神仏	_	6	obj	_	Gloss=Buddha|SpaceAfter=No
+9	宿王	宿王	NOUN	n,名詞,主体,神仏	_	10	compound	_	SpaceAfter=No
+10	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+11	香上	香上	NOUN	n,名詞,主体,神仏	_	12	compound	_	SpaceAfter=No
+12	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+13	香光	香光	NOUN	n,名詞,主体,神仏	_	14	compound	_	SpaceAfter=No
+14	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+15	大焰肩	大焰肩	NOUN	n,名詞,主体,神仏	_	16	compound	_	SpaceAfter=No
+16	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+17	雜色寶華嚴身	雜色寶華嚴身	NOUN	n,名詞,主体,神仏	_	18	compound	_	SpaceAfter=No
+18	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+19	娑羅樹王	娑羅樹王	NOUN	n,名詞,主体,神仏	_	20	compound	_	SpaceAfter=No
+20	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+21	寶華德	寶華德	NOUN	n,名詞,主体,神仏	_	22	compound	_	SpaceAfter=No
+22	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+23	見一切義	見一切義	NOUN	n,名詞,主体,神仏	_	24	compound	_	SpaceAfter=No
+24	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
+25	如須彌山	如須彌山	NOUN	n,名詞,主体,神仏	_	26	compound	_	SpaceAfter=No
+26	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 27	如	如	VERB	v,動詞,行為,分類	Degree=Equ	29	acl	_	Gloss=be-like|SpaceAfter=No
 28	是	是	PRON	n,代名詞,指示,*	PronType=Dem	27	obj	_	Gloss=this|SpaceAfter=No
 29	等	等	NOUN	n,名詞,数量,*	_	35	nmod	_	Gloss=class|SpaceAfter=No
-30	恒	恆	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	31	compound	_	Gloss=[place-name]|SpaceAfter=No
+30	恒	恆	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	31	amod	_	Gloss=constant|SpaceAfter=No
 31	河	河	NOUN	n,名詞,固定物,地形	Case=Loc	32	nmod	_	Gloss=river|SpaceAfter=No
 32	沙	沙	NOUN	n,名詞,固定物,地形	Case=Loc	33	nmod	_	SpaceAfter=No
 33	數	數	NOUN	n,名詞,数量,*	_	35	nmod	_	Gloss=number|SpaceAfter=No
 34	諸	諸	NOUN	n,名詞,数量,*	_	35	nmod	_	Gloss=[plural]|SpaceAfter=No
-35	佛	佛	NOUN	n,名詞,主体,神仏	_	7	conj	_	Gloss=Buddha|SpaceAfter=No
+35	佛	佛	NOUN	n,名詞,主体,神仏	_	8	conj	_	Gloss=Buddha|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par27_60-68
 # text = 各於其國出廣長舌相
@@ -45689,7 +45689,7 @@
 14	功	功	NOUN	n,名詞,可搬,成果物	_	15	compound	_	Gloss=achievement|SpaceAfter=No
 15	德	德	NOUN	n,名詞,描写,態度	_	8	obj	_	Gloss=virtue|SpaceAfter=No
 16	一	一	NUM	n,数詞,数字,*	_	17	nummod	_	Gloss=one|SpaceAfter=No
-17	切	切	ADV	v,副詞,範囲,総括	_	23	amod	_	SpaceAfter=No
+17	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	23	amod	_	Gloss=every|SpaceAfter=No
 18	諸	諸	NOUN	n,名詞,数量,*	_	19	nmod	_	Gloss=[plural]|SpaceAfter=No
 19	佛	佛	NOUN	n,名詞,主体,神仏	_	21	nsubj	_	Gloss=Buddha|SpaceAfter=No
 20	所	所	PART	p,助詞,接続,体言化	_	21	mark	_	Gloss=that-which|SpaceAfter=No
@@ -45714,7 +45714,7 @@
 3	名	名	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=name|SpaceAfter=No
 4	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	12	cop	_	Gloss=be|SpaceAfter=No
 5	一	一	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=one|SpaceAfter=No
-6	切	切	NOUN	n,名詞,描写,形質	_	12	nmod	_	SpaceAfter=No
+6	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	8	amod	_	Gloss=every|SpaceAfter=No
 7	諸	諸	NOUN	n,名詞,数量,*	_	8	nmod	_	Gloss=[plural]|SpaceAfter=No
 8	佛	佛	NOUN	n,名詞,主体,神仏	_	10	nsubj	_	Gloss=Buddha|SpaceAfter=No
 9	所	所	PART	p,助詞,接続,体言化	_	10	mark	_	Gloss=that-which|SpaceAfter=No
@@ -45762,7 +45762,7 @@
 9	皆	皆	ADV	v,副詞,範囲,総括	_	17	advmod	_	Gloss=all|SpaceAfter=No
 10	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	17	cop	_	Gloss=be|SpaceAfter=No
 11	一	一	NUM	n,数詞,数字,*	_	12	nummod	_	Gloss=one|SpaceAfter=No
-12	切	切	ADV	v,副詞,範囲,総括	_	14	amod	_	SpaceAfter=No
+12	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	14	amod	_	Gloss=every|SpaceAfter=No
 13	諸	諸	NOUN	n,名詞,数量,*	_	14	nmod	_	Gloss=[plural]|SpaceAfter=No
 14	佛	佛	NOUN	n,名詞,主体,神仏	_	17	nsubj	_	Gloss=Buddha|SpaceAfter=No
 15	共	共	ADV	v,動詞,行為,交流	VerbForm=Conv	17	advmod	_	Gloss=join-the-hands|SpaceAfter=No
@@ -45821,8 +45821,8 @@
 # text = 欲生阿彌陀佛國者是諸人等皆得不退轉於阿耨多羅三藐三菩提
 1	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	2	aux	_	Gloss=wish|SpaceAfter=No
 2	生	生	VERB	v,動詞,変化,生物	_	6	acl	_	Gloss=alive|SpaceAfter=No
-3	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	5	nmod	_	SpaceAfter=No
-4	佛	佛	NOUN	n,名詞,主体,神仏	_	3	flat	_	Gloss=Buddha|SpaceAfter=No
+3	阿彌陀	阿彌陀	NOUN	n,名詞,主体,神仏	_	4	compound	_	SpaceAfter=No
+4	佛	佛	NOUN	n,名詞,主体,神仏	_	5	nmod	_	Gloss=Buddha|SpaceAfter=No
 5	國	國	NOUN	n,名詞,主体,集団	_	2	obj	_	Gloss=country|SpaceAfter=No
 6	者	者	PART	p,助詞,提示,*	_	12	nsubj	_	Gloss=that-which|SpaceAfter=No
 7	是	是	PRON	n,代名詞,指示,*	PronType=Dem	9	det	_	Gloss=this|SpaceAfter=No
@@ -45976,7 +45976,7 @@
 5	說	說	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=explain|SpaceAfter=No
 6	是	是	PRON	n,代名詞,指示,*	PronType=Dem	14	det	_	Gloss=this|SpaceAfter=No
 7	一	一	NUM	n,数詞,数字,*	_	8	nummod	_	Gloss=one|SpaceAfter=No
-8	切	切	ADV	v,副詞,範囲,総括	_	10	amod	_	SpaceAfter=No
+8	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	10	amod	_	Gloss=every|SpaceAfter=No
 9	世	世	NOUN	n,名詞,制度,場	Case=Loc	10	nmod	_	Gloss=world|SpaceAfter=No
 10	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	12	obl:lmod	_	Gloss=between|SpaceAfter=No
 11	難	難	ADV	v,動詞,描写,形質	Degree=Pos|VerbForm=Conv	12	advmod	_	Gloss=difficult|SpaceAfter=No
@@ -46044,10 +46044,10 @@
 3	諸	諸	NOUN	n,名詞,数量,*	_	4	nmod	_	Gloss=[plural]|SpaceAfter=No
 4	比丘	比丘	NOUN	n,名詞,人,役割	_	1	conj	_	SpaceAfter=No
 5	一	一	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=one|SpaceAfter=No
-6	切	切	ADV	v,副詞,範囲,総括	_	8	amod	_	SpaceAfter=No
+6	切	切	VERB	v,動詞,描写,形質	Degree=Pos|VerbForm=Part	8	amod	_	Gloss=every|SpaceAfter=No
 7	世	世	NOUN	n,名詞,制度,場	Case=Loc	8	nmod	_	Gloss=world|SpaceAfter=No
-8	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	10	obl:lmod	_	Gloss=between|SpaceAfter=No
-9	天	天	NOUN	n,名詞,制度,場	Case=Loc	10	nmod	_	Gloss=heaven|SpaceAfter=No
+8	間	間	NOUN	n,名詞,固定物,関係	Case=Loc	9	obl:lmod	_	Gloss=between|SpaceAfter=No
+9	天	天	NOUN	n,名詞,制度,場	Case=Loc	4	conj	_	Gloss=heaven|SpaceAfter=No
 10	人	人	NOUN	n,名詞,人,人	_	4	conj	_	Gloss=person|SpaceAfter=No
 11	阿修羅	阿修羅	NOUN	n,名詞,人,役割	_	4	conj	_	SpaceAfter=No
 12	等	等	NOUN	n,名詞,数量,*	_	4	conj	_	Gloss=class|SpaceAfter=No
