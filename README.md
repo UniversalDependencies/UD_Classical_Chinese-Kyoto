@@ -37,6 +37,9 @@ This Treebank is taken under the full text of 論語 (Lunyu, [20 volumes](https:
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * `nsubj:outer` and `csubj:outer` supported.
+
 * 2022-05-15 v2.10
   * 摩訶般若波羅蜜大明呪經 added.
   * 金剛般若波羅蜜經 added.
