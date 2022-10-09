@@ -22056,7 +22056,7 @@
 3	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 4	後	後	NOUN	n,名詞,時,*	Case=Tem	9	obl:tmod	_	Gloss=after|SpaceAfter=No
 5	胡公	胡公	PROPN	n,名詞,人,姓氏	NameType=Sur	9	nsubj	_	Gloss=[surname]|SpaceAfter=No
-6	滿	滿	PROPN	n,名詞,人,名	NameType=Giv	5	flat:vv	_	Gloss=[given-name]|SpaceAfter=No
+6	滿	滿	PROPN	n,名詞,人,名	NameType=Giv	5	flat	_	Gloss=[given-name]|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 8	所	所	PART	p,助詞,接続,体言化	_	9	mark	_	Gloss=that-which|SpaceAfter=No
 9	封	封	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=enfief|SpaceAfter=No
@@ -22922,7 +22922,7 @@
 # sent_id = KR2b0041_007_par11_498-504
 # text = 田和受周安王命
 1	田	田	PROPN	n,名詞,人,姓氏	NameType=Sur	3	nsubj	_	Gloss=[surname]|SpaceAfter=No
-2	和	和	PROPN	n,名詞,人,名	NameType=Giv	1	flat:vv	_	Gloss=[given-name]|SpaceAfter=No
+2	和	和	PROPN	n,名詞,人,名	NameType=Giv	1	flat	_	Gloss=[given-name]|SpaceAfter=No
 3	受	受	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=receive|SpaceAfter=No
 4	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	6	nmod	_	Gloss=[country-name]|SpaceAfter=No
 5	安	安	PROPN	n,名詞,人,その他の人名	NameType=Prs	6	compound	_	SpaceAfter=No
@@ -32521,7 +32521,7 @@
 3	手	手	NOUN	n,名詞,不可譲,身体	_	4	nsubj	_	Gloss=hand|SpaceAfter=No
 4	把	把	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hold|SpaceAfter=No
 5	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	6	det	_	Gloss=[3PRON]|SpaceAfter=No
-6	袖	袖	NOUN	n,名詞,可搬,道具	_	4	obj	_	SpaceAfter=No
+6	袖	袖	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=sleeve|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par17_477-481
 # text = 右手揕其胸
@@ -32708,7 +32708,7 @@
 # text = 把王袖揕之
 1	把	把	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hold|SpaceAfter=No
 2	王	王	NOUN	n,名詞,人,役割	_	3	nmod	_	Gloss=king|SpaceAfter=No
-3	袖	袖	NOUN	n,名詞,可搬,道具	_	1	obj	_	SpaceAfter=No
+3	袖	袖	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=sleeve|SpaceAfter=No
 4	揕	揕	VERB	v,動詞,行為,動作	_	1	conj	_	SpaceAfter=No
 5	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	4	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -32724,7 +32724,7 @@
 2	驚	驚	ADV	v,動詞,行為,態度	VerbForm=Conv	3	advmod	_	Gloss=startle|SpaceAfter=No
 3	起	起	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=arise|SpaceAfter=No
 4	絶	絶	VERB	v,動詞,行為,動作	_	3	parataxis	_	Gloss=cut-off|SpaceAfter=No
-5	袖	袖	NOUN	n,名詞,可搬,道具	_	4	obj	_	SpaceAfter=No
+5	袖	袖	NOUN	n,名詞,可搬,道具	_	4	obj	_	Gloss=sleeve|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par17_602-604
 # text = 軻逐之
@@ -34700,7 +34700,7 @@
 1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	代	代	VERB	v,動詞,変化,制度	_	0	root	_	Gloss=substitute|SpaceAfter=No
 3	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	4	cop	_	Gloss=be|SpaceAfter=No
-4	丞	丞	NOUN	n,名詞,人,役割	_	2	parataxis	_	SpaceAfter=No
+4	丞	丞	NOUN	n,名詞,人,役割	_	2	parataxis	_	Gloss=assistant|SpaceAfter=No
 5	相	相	NOUN	n,名詞,人,役割	_	4	conj	_	Gloss=chief-minister|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_1187-1189
@@ -37901,7 +37901,7 @@
 5	與	與	ADP	v,前置詞,関係,*	_	6	case	_	Gloss=associate-with|SpaceAfter=No
 6	此	此	PRON	n,代名詞,指示,*	PronType=Dem	4	obl	_	Gloss=this|SpaceAfter=No
 7	終	終	NOUN	n,名詞,時,*	Case=Tem	4	obj	_	SpaceAfter=No
-8	古	古	NOUN	n,名詞,時,*	Case=Tem	7	flat:vv	_	Gloss=olden-times|SpacesAfter=\n
+8	古	古	NOUN	n,名詞,時,*	Case=Tem	7	conj	_	Gloss=olden-times|SpacesAfter=\n
 
 # newpar text = 索藑茅以筳蓴兮命靈氛為余占之曰兩美其必合兮孰信脩而慕之思九州之博大兮豈唯是其有女
 # sent_id = KR4a0001_001_par63_1-7
