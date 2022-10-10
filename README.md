@@ -29,7 +29,7 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
     - 十八史略 (except for 春秋戰國 唐)
     - 九歌 天問 九章 卜居 漁父 九辯 and 招魂 from 楚辭
     - [唐詩三百首](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR4h0169)
-    - [佛說阿彌陀經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6c0082)
+    - [佛說阿彌陀經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6f0082)
 
 # References
 
