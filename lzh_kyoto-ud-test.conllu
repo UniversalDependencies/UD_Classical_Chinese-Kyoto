@@ -43765,7 +43765,7 @@
 1	公	公	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=duke|SpaceAfter=No
 2	若	若	ADV	v,副詞,判断,推定	_	6	advmod	_	Gloss=if|SpaceAfter=No
 3	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	6	aux	_	Gloss=wish|SpaceAfter=No
-4	為	爲	VERB	v,動詞,行為,生産	_	6	cop	_	Gloss=make|SpaceAfter=No
+4	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	6	cop	_	Gloss=be|SpaceAfter=No
 5	太	太	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=very-great|SpaceAfter=No
 6	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
 
