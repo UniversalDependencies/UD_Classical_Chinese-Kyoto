@@ -42511,7 +42511,7 @@
 1	收	收	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=receive|SpaceAfter=No
 2	周	周	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	3	nmod	_	Gloss=[country-name]|SpaceAfter=No
 3	最	最	PROPN	n,名詞,人,名	NameType=Giv	1	obj	_	Gloss=[given-name]|SpaceAfter=No
-4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
+4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	6	advmod	_	Gloss=use|SpaceAfter=No
 5	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
 6	後	後	NOUN	n,名詞,固定物,関係	Case=Loc	7	nmod	_	Gloss=back|SpaceAfter=No
 7	行	行	NOUN	n,名詞,行為,*	_	1	parataxis	_	Gloss=action|SpaceAfter=No
@@ -43612,9 +43612,9 @@
 6	之	之	SCONJ	p,助詞,接続,属格	_	5	case	_	Gloss='s|SpaceAfter=No
 7	窮	窮	VERB	v,動詞,描写,境遇	Degree=Pos|VerbForm=Part	8	amod	_	Gloss=exhaust|SpaceAfter=No
 8	士	士	NOUN	n,名詞,人,役割	_	15	acl	_	Gloss=officer|SpaceAfter=No
-9	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	12	advmod	_	Gloss=not|SpaceAfter=No
-10	必	必	ADV	v,副詞,判断,確定	_	12	advmod	_	Gloss=necessarily|SpaceAfter=No
-11	且	且	ADV	v,副詞,頻度,重複	_	12	advmod	_	Gloss=and|SpaceAfter=No
+9	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	10	advmod	_	Gloss=not|SpaceAfter=No
+10	必	必	ADV	v,副詞,判断,確定	_	14	advmod	_	Gloss=necessarily|SpaceAfter=No
+11	且	且	ADV	v,副詞,頻度,重複	_	14	advmod	_	Gloss=and|SpaceAfter=No
 12	為	爲	AUX	v,動詞,存在,存在	VerbType=Cop	14	cop	_	Gloss=be|SpaceAfter=No
 13	大	大	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	14	amod	_	Gloss=big|SpaceAfter=No
 14	人	人	NOUN	n,名詞,人,人	_	8	conj	_	Gloss=person|SpaceAfter=No
@@ -43763,8 +43763,8 @@
 # sent_id = KR2e0003_024_par1_80-85
 # text = 公若欲為太子
 1	公	公	NOUN	n,名詞,人,役割	_	6	nsubj	_	Gloss=duke|SpaceAfter=No
-2	若	若	ADV	v,副詞,判断,推定	_	6	amod	_	Gloss=if|SpaceAfter=No
-3	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	4	aux	_	Gloss=wish|SpaceAfter=No
+2	若	若	ADV	v,副詞,判断,推定	_	6	advmod	_	Gloss=if|SpaceAfter=No
+3	欲	欲	AUX	v,助動詞,願望,*	Mood=Des	6	aux	_	Gloss=wish|SpaceAfter=No
 4	為	爲	VERB	v,動詞,行為,生産	_	6	cop	_	Gloss=make|SpaceAfter=No
 5	太	太	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	6	amod	_	Gloss=very-great|SpaceAfter=No
 6	子	子	NOUN	n,名詞,人,関係	_	0	root	_	Gloss=child|SpaceAfter=No
