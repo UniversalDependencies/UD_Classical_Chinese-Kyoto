@@ -4,7 +4,7 @@ Classical Chinese Universal Dependencies Treebank annotated and converted by Ins
 
 # Introduction
 
-This Treebank is taken under the full text of [論語](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0004), [孟子](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0001), [禮記](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1d0052), [十八史略](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/18shilue), [楚辭](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR4a0001), and others. In Classical Chinese we had no spaces or punctuations between words or sentences, so we did not include any spaces or punctuations in Treebank files:
+This Treebank is taken under the full text of [論語](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0004), [孟子](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1h0001), [禮記](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR1d0052), [十八史略](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/18shilue), [楚辭](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR4a0001), [戰國策](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR2e0003), and others. In Classical Chinese we had no spaces or punctuations between words or sentences, so we did not include any spaces or punctuations in Treebank files:
 
 * lzh_kyoto-ud-test.conllu
     - 學而篇第一 為政篇第二 and 八佾篇第三 from 論語
@@ -13,6 +13,7 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
     - 春秋戰國 from 十八史略
     - 離騷 from 楚辭
     - [摩訶般若波羅蜜大明呪經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6c0127)
+    - 東周 from 戰國策
 
 * lzh_kyoto-ud-dev.conllu
     - 顏淵篇第十二 子路篇第十三 and 憲問篇第十四 from 論語
@@ -21,6 +22,7 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
     - 唐 from 十八史略
     - 遠遊 from 楚辭
     - [金剛般若波羅蜜經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6c0023)
+    - 西周 from 戰國策
 
 * lzh_kyoto-ud-train.conllu
     - 論語 (except for 學而篇第一 為政篇第二 八佾篇第三 顏淵篇第十二 子路篇第十三 憲問篇第十四)
@@ -30,6 +32,7 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
     - 九歌 天問 九章 卜居 漁父 九辯 and 招魂 from 楚辭
     - [唐詩三百首](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR4h0169)
     - [佛說阿彌陀經](https://corpus.kanji.zinbun.kyoto-u.ac.jp/gitlab/Kanbun/ud-kanbun/-/tree/master/kanripo/kR6f0082)
+    - 戰國策 (except for 東周 西周)
 
 # References
 
@@ -37,6 +40,9 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 * Koichi Yasuoka, Christian Wittern, Tomohiko Morioka, Takumi Ikeda, Naoki Yamazaki, Yoshihiro Nikaido, Shingo Suzuki, Shigeki Moro, Kazunori Fujita: [Designing Universal Dependencies for Classical Chinese and Its Application](http://id.nii.ac.jp/1001/00216242/), Journal of Information Processing Society of Japan, Vol.63, No.2 (February 2022), pp.355-363.
 
 # Changelog
+
+* 2023-05-15 v2.12
+  * 戰國策 added.
 
 * 2022-11-15 v2.11
   * `nsubj:outer` and `csubj:outer` supported.
