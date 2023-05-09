@@ -1,44 +1,44 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Classical_Chinese-Kyoto:
-commit 9b92f388965834920561868117c5214536a071d1
-Merge: b8a54ee 7a04dbd
+commit 12e142f99c94d1ea6414585211f5f0c4ad367bc9
+Merge: ac32b05 d0aed12
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 310594 of 310594 words (nodes).
-Size: min(0, log((N/1000)**2)) = 11.4769731861558.
+Size: counted 433168 of 433168 words (nodes).
+Size: min(0, log((N/1000)**2)) = 12.1422512870313.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
-Universal POS tags: 13 out of 17 found in the corpus.
+Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 120603 out of 310594 total words have one or more features.
+Features: 171622 out of 433168 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL     116323
-Udapi: found 116323 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 310594 words.
+               TOTAL     158709
+Udapi: found 158709 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 433168 words.
 Genres: found 2 out of 17 known.
-validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-dev.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-dev.conllu
 *** PASSED ***
-validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-test.conllu
 *** PASSED ***
-validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-train.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-train.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.45) = 0.0346153846153846
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
 (weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
-(weight=0.256410256410256) * (score{size}=0.830731020616509) = 0.213007954004233
+(weight=0.256410256410256) * (score{size}=0.878885455306727) = 0.225355244950443
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.688235294117647) = 0.0529411764705882
+(weight=0.0769230769230769) * (score{tags}=0.741176470588235) = 0.0570135746606335
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.499732098963672) * (availability=1) * (validity=1) = 0.499732098963672
+(TOTAL score=0.516151788099927) * (availability=1) * (validity=1) = 0.516151788099927
 STARS = 2.5
-UD_Classical_Chinese-Kyoto	0.499732098963672	2.5
+UD_Classical_Chinese-Kyoto	0.516151788099927	2.5
