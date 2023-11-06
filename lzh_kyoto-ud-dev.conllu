@@ -29918,7 +29918,7 @@
 # sent_id = KR2b0041_016_par7_72-77
 # text = 遣册寶如靈武
 1	遣	遣	VERB	v,動詞,行為,使役	_	0	root	_	Gloss=send|SpaceAfter=No
-2	册	册	NOUN	n,名詞,可搬,伝達	_	1	obj	_	SpaceAfter=No
+2	册	冊	NOUN	n,名詞,可搬,伝達	_	1	obj	_	SpaceAfter=No
 3	寶	寶	NOUN	n,名詞,可搬,道具	_	2	conj	_	Gloss=treasure|SpaceAfter=No
 4	如	如	VERB	v,動詞,行為,分類	Degree=Equ	1	parataxis	_	Gloss=be-like|SpaceAfter=No
 5	靈武	靈武	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	obj	_	Gloss=[place-name]|SpaceAfter=No
@@ -44752,7 +44752,7 @@
 2	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
 3	汝	汝	PRON	n,代名詞,人称,起格	Person=2|PronType=Prs	4	det	_	Gloss=[2PRON]|SpaceAfter=No
 4	意	意	NOUN	n,名詞,思考,思考	_	5	obl	_	SpaceAfter=No
-5	云	雲	VERB	v,動詞,行為,伝達	_	0	root	_	SpaceAfter=No
+5	云	云	VERB	v,動詞,行為,伝達	_	0	root	_	SpaceAfter=No
 6	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	obj	_	Gloss=what|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par16_9-16
@@ -45704,7 +45704,7 @@
 2	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
 3	汝	汝	PRON	n,代名詞,人称,起格	Person=2|PronType=Prs	4	det	_	Gloss=[2PRON]|SpaceAfter=No
 4	意	意	VERB	v,動詞,行為,動作	_	5	nsubj	_	Gloss=think|SpaceAfter=No
-5	云	雲	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	SpaceAfter=No
+5	云	云	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	SpaceAfter=No
 6	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	obj	_	Gloss=what|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par28_9-20

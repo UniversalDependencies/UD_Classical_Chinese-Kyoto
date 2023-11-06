@@ -41,6 +41,9 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * bug fix for `fixed`
+
 * 2023-05-15 v2.12
   * 戰國策 added.
 

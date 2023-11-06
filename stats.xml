@@ -24,11 +24,11 @@
     <tag name="NUM">8133</tag><!-- 三, 一, 五, 二, 百, 四, 萬, 千, 十, 九 -->
     <tag name="PART">21383</tag><!-- 也, 者, 所, 矣, 兮, 乎, 焉, 夫, 哉, 已 -->
     <tag name="PRON">20798</tag><!-- 之, 其, 是, 此, 何, 吾, 自, 我, 子, 或 -->
-    <tag name="PROPN">45766</tag><!-- 秦, 齊, 魏, 楚, 趙, 韓, 周, 燕, 張, 李 -->
+    <tag name="PROPN">45765</tag><!-- 秦, 齊, 魏, 楚, 趙, 韓, 周, 燕, 張, 李 -->
     <tag name="PUNCT">5</tag><!-- “ -->
     <tag name="SCONJ">9150</tag><!-- 之, 兮, 移 -->
     <tag name="SYM">1364</tag><!-- ○, □, 井, 刀, 劉, 卯, 金, 項 -->
-    <tag name="VERB">137359</tag><!-- 曰, 以, 有, 大, 無, 爲, 謂, 使, 如, 得 -->
+    <tag name="VERB">137360</tag><!-- 曰, 以, 有, 大, 無, 爲, 謂, 使, 如, 得 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="35">
@@ -36,16 +36,16 @@
     <feat name="AdvType" value="Deg" upos="ADV">210</feat><!-- 實, 最, 聊, 頗, 滋, 良, 粗, 愼, 已, 酷 -->
     <feat name="AdvType" value="Tim" upos="ADV">6435</feat><!-- 則, 乃, 將, 遂, 已, 嘗, 既, 旣, 常, 即 -->
     <feat name="Aspect" value="Perf" upos="ADV">811</feat><!-- 已, 既, 旣, 訖 -->
-    <feat name="Case" value="Loc" upos="NOUN,PROPN">42762</feat><!-- 秦, 天, 下, 齊, 上, 魏, 楚, 趙, 地, 中 -->
+    <feat name="Case" value="Loc" upos="NOUN,PROPN">42761</feat><!-- 秦, 天, 下, 齊, 上, 魏, 楚, 趙, 地, 中 -->
     <feat name="Case" value="Tem" upos="NOUN">8850</feat><!-- 年, 今, 日, 後, 時, 月, 古, 初, 世, 夜 -->
     <feat name="Degree" value="Cmp" upos="ADV">25</feat><!-- 滋, 良, 動, 愈, 益, 差, 浸, 質 -->
     <feat name="Degree" value="Equ" upos="ADP,ADV,VERB">1901</feat><!-- 如, 若, 猶, 奈, 柰, 區, 云, 亞, 如來, 如耳 -->
-    <feat name="Degree" value="Pos" upos="ADV,NOUN,VERB">26910</feat><!-- 大, 太, 然, 善, 重, 明, 小, 寡, 多, 同 -->
+    <feat name="Degree" value="Pos" upos="ADV,NOUN,VERB">26911</feat><!-- 大, 太, 然, 善, 重, 明, 小, 寡, 多, 同 -->
     <feat name="Degree" value="Sup" upos="ADV">154</feat><!-- 實, 最, 頗, 愼, 已, 酷, 了, 報, 寔, 慎 -->
     <feat name="Mood" value="Des" upos="AUX">1505</feat><!-- 欲, 敢, 肯 -->
     <feat name="Mood" value="Nec" upos="AUX">176</feat><!-- 宜, 應, 須, 儀 -->
     <feat name="Mood" value="Pot" upos="AUX">2949</feat><!-- 可, 能, 足, 得, 堪 -->
-    <feat name="NameType" value="Geo" upos="PROPN">5816</feat><!-- 長安, 邯鄲, 洛陽, 宜陽, 江, 漢, 晉陽, 郢, 沛, 山東 -->
+    <feat name="NameType" value="Geo" upos="PROPN">5815</feat><!-- 長安, 邯鄲, 洛陽, 宜陽, 江, 漢, 晉陽, 郢, 沛, 山東 -->
     <feat name="NameType" value="Giv" upos="PROPN">15455</feat><!-- 儀, 舜, 須菩提, 堯, 秦, 禹, 湯, 衍, 光, 茂 -->
     <feat name="NameType" value="Nat" upos="PROPN">13277</feat><!-- 秦, 齊, 魏, 楚, 趙, 韓, 燕, 周, 宋, 晉 -->
     <feat name="NameType" value="Prs" upos="PROPN">3517</feat><!-- 孔子, 孟子, 文, 武, 曾子, 昭, 宣, 惠, 太, 桓 -->
@@ -91,8 +91,8 @@
     <dep name="discourse:sp">12965</dep>
     <dep name="dislocated">269</dep>
     <dep name="expl">423</dep>
-    <dep name="fixed">765</dep>
-    <dep name="flat">11500</dep>
+    <dep name="fixed">764</dep>
+    <dep name="flat">11501</dep>
     <dep name="flat:foreign">64</dep>
     <dep name="flat:vv">5759</dep>
     <dep name="iobj">1252</dep>
