@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Classical_Chinese-Kyoto:
-commit 12e142f99c94d1ea6414585211f5f0c4ad367bc9
-Merge: ac32b05 d0aed12
+commit e13360b83121d935589beb3d1ab4ec0d3763b903
+Merge: ccf72a4 aa1232a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 433168 of 433168 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1422512870313.
@@ -20,15 +20,41 @@ Features: source of annotation (from README) factor is 0.9.
 Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL     158709
-Udapi: found 158709 bugs.
+               TOTAL     157239
+Udapi: found 157239 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 433168 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-dev.conllu
+[Line 3003 Sent KR1h0004_013_par20_59-61 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '硜 * 然'
+[Line 3414 Sent KR1h0004_013_par28_15-22 Node 5]: [L3 Warning fixed-gap] Gaps in fixed expression [5, 7] '怡 * 如'
+[Line 5409 Sent KR1h0004_014_par39_26-30 Node 3]: [L3 Warning fixed-gap] Gaps in fixed expression [3, 5] '硜 * 乎'
+[Line 15828 Sent KR1d0052_043_par2_797-801 Node 3]: [L3 Warning fixed-gap] Gaps in fixed expression [3, 5] '休 * 焉'
+[Line 41128 Sent KR2b0041_016_par19_57-65 Node 7]: [L3 Warning fixed-gap] Gaps in fixed expression [7, 9] '忻 * 焉'
+Warnings: 5
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-test.conllu
+[Line 2408 Sent KR1h0004_003_par14_8-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '郁 * 乎'
+[Line 7154 Sent KR1h0001_002_par1_277-286 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] '欣 * 然'
+[Line 7216 Sent KR1h0001_002_par1_321-330 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] '欣 * 然'
+[Line 12450 Sent KR1d0052_032_par8_147-153 Node 4]: [L3 Warning fixed-gap] Gaps in fixed expression [4, 6] '慥 * 爾'
+[Line 12785 Sent KR1d0052_032_par10_41-43 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '洋 * 乎'
+[Line 15516 Sent KR1d0052_032_par25_7-9 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '洋 * 乎'
+[Line 19977 Sent KR2b0041_007_par6_906-908 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '纍 * 然'
+[Line 20044 Sent KR2b0041_007_par6_942-944 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '洋 * 乎'
+Warnings: 8
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-train.conllu
+[Line 3841 Sent KR1h0004_007_par4_5-8 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '申 * 如'
+[Line 3848 Sent KR1h0004_007_par4_9-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '夭 * 如'
+[Line 5909 Sent KR1h0004_008_par15_3-16 Node 8]: [L3 Warning fixed-gap] Gaps in fixed expression [8, 10] '洋 * 乎'
+[Line 5980 Sent KR1h0004_008_par18_3-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '巍 * 乎'
+[Line 6016 Sent KR1h0004_008_par19_10-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '巍 * 乎'
+[Line 6036 Sent KR1h0004_008_par19_21-23 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '蕩 * 乎'
+[Line 6050 Sent KR1h0004_008_par19_29-31 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '巍 * 乎'
+[Line 6611 Sent KR1h0004_009_par8_17-20 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '空 * 如'
+[Line 6727 Sent KR1h0004_009_par11_23-30 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] '循 * 然'
+...suppressing further errors regarding Warning
+Warnings: 92
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.45) = 0.0346153846153846
