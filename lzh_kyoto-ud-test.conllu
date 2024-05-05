@@ -26888,7 +26888,7 @@
 # sent_id = KR2b0041_007_par13_861-868
 # text = 車騎輜重擬於王者
 1	車	車	NOUN	n,名詞,可搬,乗り物	_	3	nsubj	_	Gloss=cart|SpaceAfter=No
-2	騎	騎	NOUN	n,名詞,人,役割	_	1	conj	_	SpaceAfter=No
+2	騎	騎	NOUN	n,名詞,人,役割	_	1	conj	_	Gloss=horseman|SpaceAfter=No
 3	輜	輜	VERB	v,動詞,行為,動作	_	5	csubj	_	SpaceAfter=No
 4	重	重	VERB	v,動詞,描写,量	Degree=Pos	3	flat:vv	_	Gloss=heavy|SpaceAfter=No
 5	擬	擬	VERB	v,動詞,行為,動作	_	0	root	_	SpaceAfter=No
@@ -27104,7 +27104,7 @@
 6	胡	胡	NOUN	n,名詞,主体,集団	_	7	obl	_	Gloss=horse-riding-nomads|SpaceAfter=No
 7	服	服	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=submit|SpaceAfter=No
 8	招	招	VERB	v,動詞,行為,動作	_	7	parataxis	_	Gloss=invite|SpaceAfter=No
-9	騎	騎	NOUN	n,名詞,人,役割	_	10	nmod	_	SpaceAfter=No
+9	騎	騎	NOUN	n,名詞,人,役割	_	10	nmod	_	Gloss=horseman|SpaceAfter=No
 10	射	射	NOUN	n,名詞,人,役割	_	8	obj	_	Gloss=shooter|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par13_1010-1012
@@ -34747,7 +34747,7 @@
 2	叔	叔	NOUN	n,名詞,人,関係	_	4	nsubj	_	Gloss=father's-younger-brother|SpaceAfter=No
 3	固	固	ADV	v,副詞,判断,確定	_	4	advmod	_	Gloss=certainly|SpaceAfter=No
 4	無	無	VERB	v,動詞,存在,存在	Polarity=Neg	0	root	_	Gloss=not-have|SpaceAfter=No
-5	恙	恙	VERB	v,動詞,行為,態度	_	4	obj	_	SpaceAfter=No
+5	恙	恙	VERB	v,動詞,行為,態度	_	4	obj	_	Gloss=sick|SpaceAfter=No
 6	乎	乎	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par18_1213-1214

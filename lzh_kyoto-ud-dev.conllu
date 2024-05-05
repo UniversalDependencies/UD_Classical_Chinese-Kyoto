@@ -19306,7 +19306,7 @@
 8	十	十	NUM	n,数詞,数字,*	_	11	nummod	_	Gloss=ten|SpaceAfter=No
 9	餘	餘	NOUN	n,名詞,数量,*	_	8	conj	_	Gloss=surplus|SpaceAfter=No
 10	萬	萬	NUM	n,数詞,数字,*	_	8	conj	_	Gloss=ten-thousand|SpaceAfter=No
-11	騎	騎	NOUN	n,名詞,人,役割	_	7	obj	_	SpaceAfter=No
+11	騎	騎	NOUN	n,名詞,人,役割	_	7	obj	_	Gloss=horseman|SpaceAfter=No
 12	入	入	VERB	v,動詞,行為,移動	_	7	parataxis	_	Gloss=enter|SpaceAfter=No
 13	寇	寇	NOUN	n,名詞,人,役割	_	12	obj	_	Gloss=robber|SpaceAfter=No
 
@@ -19329,7 +19329,7 @@
 5	玄齡	玄齡	PROPN	n,名詞,人,名	NameType=Giv	4	flat	_	Gloss=[given-name]|SpaceAfter=No
 6	等	等	NOUN	n,名詞,数量,*	_	4	conj	_	Gloss=class|SpaceAfter=No
 7	六	六	NUM	n,数詞,数字,*	_	8	nummod	_	Gloss=six|SpaceAfter=No
-8	騎	騎	NOUN	n,名詞,人,役割	_	10	obl	_	SpaceAfter=No
+8	騎	騎	NOUN	n,名詞,人,役割	_	10	obl	_	Gloss=horseman|SpaceAfter=No
 9	徑	徑	ADV	v,副詞,時相,緊接	AdvType=Tim	10	advmod	_	SpaceAfter=No
 10	詣	詣	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=come-to|SpaceAfter=No
 11	渭水	渭水	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	12	nmod	_	Gloss=[place-name]|SpaceAfter=No
@@ -21763,7 +21763,7 @@
 4	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
 5	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	7	cop	_	Gloss=be|SpaceAfter=No
 6	越	越	VERB	v,動詞,行為,動作	VerbForm=Part	7	amod	_	Gloss=cross-over|SpaceAfter=No
-7	騎	騎	NOUN	n,名詞,人,役割	_	0	root	_	SpaceAfter=No
+7	騎	騎	NOUN	n,名詞,人,役割	_	0	root	_	Gloss=horseman|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_1961-1965
 # text = 其餘爲步兵
@@ -26903,7 +26903,7 @@
 6	勇	勇	VERB	v,動詞,描写,態度	Degree=Pos	5	flat:vv	_	Gloss=brave|SpaceAfter=No
 7	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	9	cop	_	Gloss=be|SpaceAfter=No
 8	百	百	NUM	n,数詞,数字,*	_	9	nummod	_	Gloss=hundred|SpaceAfter=No
-9	騎	騎	NOUN	n,名詞,人,役割	_	4	parataxis	_	SpaceAfter=No
+9	騎	騎	NOUN	n,名詞,人,役割	_	4	parataxis	_	Gloss=horseman|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_37-42
 # text = 武后增爲千騎
@@ -26929,7 +26929,7 @@
 3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	iobj	_	Gloss=[3PRON]|SpaceAfter=No
 5	萬	萬	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=ten-thousand|SpaceAfter=No
-6	騎	騎	NOUN	n,名詞,人,役割	_	3	obj	_	SpaceAfter=No
+6	騎	騎	NOUN	n,名詞,人,役割	_	3	obj	_	Gloss=horseman|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_54-57
 # text = 置使領之
@@ -27683,7 +27683,7 @@
 8	衞	衞	NOUN	n,名詞,主体,機関	_	4	obj	_	SpaceAfter=No
 9	爲	爲	AUX	v,動詞,存在,存在	VerbType=Cop	11	cop	_	Gloss=be|SpaceAfter=No
 10	彍	彍	VERB	v,動詞,行為,動作	VerbForm=Part	11	amod	_	SpaceAfter=No
-11	騎	騎	NOUN	n,名詞,人,役割	_	4	parataxis	_	SpaceAfter=No
+11	騎	騎	NOUN	n,名詞,人,役割	_	4	parataxis	_	Gloss=horseman|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par6_543-543
 # text = ○
@@ -29233,7 +29233,7 @@
 # sent_id = KR2b0041_016_par6_1583-1586
 # text = 步騎精銳
 1	步	步	NOUN	n,名詞,人,役割	_	3	nsubj	_	SpaceAfter=No
-2	騎	騎	NOUN	n,名詞,人,役割	_	1	conj	_	SpaceAfter=No
+2	騎	騎	NOUN	n,名詞,人,役割	_	1	conj	_	Gloss=horseman|SpaceAfter=No
 3	精	精	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=fine-and-pure|SpaceAfter=No
 4	銳	銳	VERB	v,動詞,描写,形質	Degree=Pos	3	flat:vv	_	Gloss=sharp|SpaceAfter=No
 
@@ -31642,7 +31642,7 @@
 1	子儀	子儀	PROPN	n,名詞,人,名	NameType=Giv	5	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	與	與	ADP	v,前置詞,関係,*	_	4	case	_	Gloss=associate-with|SpaceAfter=No
 3	數	數	NOUN	n,名詞,数量,*	_	4	nmod	_	Gloss=number|SpaceAfter=No
-4	騎	騎	NOUN	n,名詞,人,役割	_	5	obj	_	SpaceAfter=No
+4	騎	騎	NOUN	n,名詞,人,役割	_	5	obj	_	Gloss=horseman|SpaceAfter=No
 5	出	出	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=go-out|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_405-408
@@ -32160,7 +32160,7 @@
 1	止	止	ADV	v,副詞,範囲,限定	_	2	advmod	_	SpaceAfter=No
 2	存	存	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=exist|SpaceAfter=No
 3	十	十	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=ten|SpaceAfter=No
-4	騎	騎	NOUN	n,名詞,人,役割	_	2	obj	_	SpaceAfter=No
+4	騎	騎	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=horseman|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par8_744-749
 # text = 綰相三月而卒
@@ -44752,7 +44752,7 @@
 2	於	於	ADP	v,前置詞,基盤,*	_	4	case	_	Gloss=at|SpaceAfter=No
 3	汝	汝	PRON	n,代名詞,人称,起格	Person=2|PronType=Prs	4	det	_	Gloss=[2PRON]|SpaceAfter=No
 4	意	意	NOUN	n,名詞,思考,思考	_	5	obl	_	SpaceAfter=No
-5	云	云	VERB	v,動詞,行為,伝達	_	0	root	_	SpaceAfter=No
+5	云	云	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=says-so|SpaceAfter=No
 6	何	何	PRON	n,代名詞,疑問,*	PronType=Int	5	obj	_	Gloss=what|SpaceAfter=No
 
 # sent_id = KR6f0082_001_par16_9-16
