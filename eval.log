@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Classical_Chinese-Kyoto:
-commit 605ec56bfaa0ba78087737d2a7cf3046c893fd33
-Merge: 19f6aa6 f95c716
+commit a7bcc6291893896c0e593dd12636ebd2f6abde3f
+Merge: db7cdd1 005d00b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 433168 of 433168 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1422512870313.
@@ -17,11 +17,11 @@ Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
 Features: 171622 out of 433168 total words have one or more features.
 Features: source of annotation (from README) factor is 0.9.
-Universal relations: 32 out of 37 found in the corpus.
+Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL     157239
-Udapi: found 157239 bugs.
+               TOTAL     157237
+Udapi: found 157237 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 433168 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-dev.conllu
@@ -64,7 +64,7 @@ Warnings: 12
 [Line 6727 Sent KR1h0004_009_par11_23-30 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] '循 * 然'
 [Line 7615 Sent KR1h0004_010_par1_6-9 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '恂 * 如'
 ...suppressing further errors regarding Warning
-Warnings: 208
+Warnings: 209
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.45) = 0.0346153846153846
@@ -74,7 +74,7 @@ Validity: 1
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.741176470588235) = 0.0570135746606335
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.516151788099927) * (availability=1) * (validity=1) = 0.516151788099927
+(weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
+(TOTAL score=0.518230790178929) * (availability=1) * (validity=1) = 0.518230790178929
 STARS = 2.5
-UD_Classical_Chinese-Kyoto	0.516151788099927	2.5
+UD_Classical_Chinese-Kyoto	0.518230790178929	2.5
