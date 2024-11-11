@@ -69,30 +69,31 @@
     <feat name="Voice" value="Pass" upos="AUX">97</feat><!-- 被, 見 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="42">
+  <deps unique="43">
     <dep name="acl">4866</dep>
     <dep name="advcl">4486</dep>
     <dep name="advmod">43318</dep>
-    <dep name="amod">14373</dep>
+    <dep name="amod">14372</dep>
+    <dep name="appos">1</dep>
     <dep name="aux">4527</dep>
     <dep name="case">16902</dep>
-    <dep name="cc">5947</dep>
-    <dep name="ccomp">6775</dep>
-    <dep name="clf">2070</dep>
+    <dep name="cc">5948</dep>
+    <dep name="ccomp">6776</dep>
+    <dep name="clf">2069</dep>
     <dep name="compound">5352</dep>
     <dep name="compound:redup">634</dep>
-    <dep name="conj">18335</dep>
+    <dep name="conj">18336</dep>
     <dep name="cop">2790</dep>
     <dep name="csubj">2981</dep>
     <dep name="csubj:outer">62</dep>
     <dep name="csubj:pass">1</dep>
-    <dep name="det">5372</dep>
+    <dep name="det">5371</dep>
     <dep name="discourse">825</dep>
     <dep name="discourse:sp">12965</dep>
     <dep name="dislocated">269</dep>
     <dep name="expl">423</dep>
     <dep name="fixed">764</dep>
-    <dep name="flat">11501</dep>
+    <dep name="flat">11499</dep>
     <dep name="flat:foreign">64</dep>
     <dep name="flat:vv">5759</dep>
     <dep name="iobj">1252</dep>
@@ -104,7 +105,7 @@
     <dep name="nsubj:pass">17</dep>
     <dep name="nummod">5420</dep>
     <dep name="obj">59136</dep>
-    <dep name="obl">5607</dep>
+    <dep name="obl">5608</dep>
     <dep name="obl:lmod">5019</dep>
     <dep name="obl:tmod">4186</dep>
     <dep name="orphan">2</dep>
