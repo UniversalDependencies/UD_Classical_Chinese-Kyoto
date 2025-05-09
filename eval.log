@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Classical_Chinese-Kyoto:
-commit a7bcc6291893896c0e593dd12636ebd2f6abde3f
-Merge: db7cdd1 005d00b
+commit c32426535f4863cb4b8eae9a59c68fc6b0225f42
+Merge: dbf956f 779e363
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 433168 of 433168 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1422512870313.
@@ -20,61 +20,61 @@ Features: source of annotation (from README) factor is 0.9.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL     157237
-Udapi: found 157237 bugs.
+               TOTAL     132445
+Udapi: found 132445 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 433168 words.
-Genres: found 2 out of 17 known.
+Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-dev.conllu
+[Line 940 Sent KR1h0004_012_par12_3-13 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 1033 Sent KR1h0004_012_par15_11-17 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 1907 Sent KR1h0004_013_par3_41-51 Node 8]: [L3 Warning fixed-without-extpos] Fixed expression '闕 如' does not have the 'ExtPos' feature
+[Line 2397 Sent KR1h0004_013_par11_9-16 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2544 Sent KR1h0004_013_par15_4-10 Node 4]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2564 Sent KR1h0004_013_par15_17-25 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2638 Sent KR1h0004_013_par15_65-73 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3003 Sent KR1h0004_013_par20_59-61 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '硜 然' does not have the 'ExtPos' feature
 [Line 3003 Sent KR1h0004_013_par20_59-61 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '硜 * 然'
-[Line 3414 Sent KR1h0004_013_par28_15-22 Node 5]: [L3 Warning fixed-gap] Gaps in fixed expression [5, 7] '怡 * 如'
-[Line 5409 Sent KR1h0004_014_par39_26-30 Node 3]: [L3 Warning fixed-gap] Gaps in fixed expression [3, 5] '硜 * 乎'
-[Line 15828 Sent KR1d0052_043_par2_797-801 Node 3]: [L3 Warning fixed-gap] Gaps in fixed expression [3, 5] '休 * 焉'
-[Line 41128 Sent KR2b0041_016_par19_57-65 Node 7]: [L3 Warning fixed-gap] Gaps in fixed expression [7, 9] '忻 * 焉'
-[Line 45782 Sent KR6f0082_001_par28_62-76 Node 8]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 45781 Sent KR6f0082_001_par28_62-76 Node 7]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 45839 Sent KR6f0082_001_par29_16-42 Node 18]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 45838 Sent KR6f0082_001_par29_16-42 Node 17]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 45968 Sent KR6f0082_001_par30_72-81 Node 3]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 3017 Sent KR1h0004_013_par20_65-71 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 13
+Warnings: 73
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-test.conllu
+[Line 1238 Sent KR1h0004_002_par9_18-21 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression '足 以' does not have the 'ExtPos' feature
+[Line 1306 Sent KR1h0004_002_par11_8-12 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2408 Sent KR1h0004_003_par14_8-12 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '郁 乎' does not have the 'ExtPos' feature
 [Line 2408 Sent KR1h0004_003_par14_8-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '郁 * 乎'
-[Line 7154 Sent KR1h0001_002_par1_277-286 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] '欣 * 然'
-[Line 7216 Sent KR1h0001_002_par1_321-330 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] '欣 * 然'
-[Line 12450 Sent KR1d0052_032_par8_147-153 Node 4]: [L3 Warning fixed-gap] Gaps in fixed expression [4, 6] '慥 * 爾'
-[Line 12785 Sent KR1d0052_032_par10_41-43 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '洋 * 乎'
-[Line 15516 Sent KR1d0052_032_par25_7-9 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '洋 * 乎'
-[Line 19977 Sent KR2b0041_007_par6_906-908 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '纍 * 然'
-[Line 20044 Sent KR2b0041_007_par6_942-944 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '洋 * 乎'
-[Line 39442 Sent KR6c0127_001_par4_51-60 Node 3]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 39441 Sent KR6c0127_001_par4_51-60 Node 2]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 2858 Sent KR1h0004_003_par23_15-17 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '翕 如' does not have the 'ExtPos' feature
+[Line 2869 Sent KR1h0004_003_par23_20-22 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '純 如' does not have the 'ExtPos' feature
+[Line 2875 Sent KR1h0004_003_par23_23-25 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '皦 如' does not have the 'ExtPos' feature
+[Line 2881 Sent KR1h0004_003_par23_26-28 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '繹 如' does not have the 'ExtPos' feature
+[Line 3073 Sent KR1h0001_001_par1_16-23 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression '有 以' does not have the 'ExtPos' feature
+[Line 3641 Sent KR1h0001_001_par3_77-80 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '填 然' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 12
+Warnings: 103
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-train.conllu
+[Line 180 Sent KR1h0004_004_par5_43-46 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '惡 乎' does not have the 'ExtPos' feature
+[Line 2030 Sent KR1h0004_005_par22_16-19 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '斐 然' does not have the 'ExtPos' feature
+[Line 3271 Sent KR1h0004_006_par21_7-11 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3287 Sent KR1h0004_006_par21_16-21 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3546 Sent KR1h0004_006_par27_13-19 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3841 Sent KR1h0004_007_par4_5-8 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '申 如' does not have the 'ExtPos' feature
 [Line 3841 Sent KR1h0004_007_par4_5-8 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '申 * 如'
+[Line 3848 Sent KR1h0004_007_par4_9-12 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression '夭 如' does not have the 'ExtPos' feature
 [Line 3848 Sent KR1h0004_007_par4_9-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '夭 * 如'
-[Line 5909 Sent KR1h0004_008_par15_3-16 Node 8]: [L3 Warning fixed-gap] Gaps in fixed expression [8, 10] '洋 * 乎'
-[Line 5980 Sent KR1h0004_008_par18_3-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '巍 * 乎'
-[Line 6016 Sent KR1h0004_008_par19_10-12 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '巍 * 乎'
-[Line 6036 Sent KR1h0004_008_par19_21-23 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '蕩 * 乎'
-[Line 6050 Sent KR1h0004_008_par19_29-31 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '巍 * 乎'
-[Line 6611 Sent KR1h0004_009_par8_17-20 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '空 * 如'
-[Line 6727 Sent KR1h0004_009_par11_23-30 Node 2]: [L3 Warning fixed-gap] Gaps in fixed expression [2, 4] '循 * 然'
-[Line 7615 Sent KR1h0004_010_par1_6-9 Node 1]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '恂 * 如'
+[Line 4348 Sent KR1h0004_007_par17_11-17 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
 ...suppressing further errors regarding Warning
-Warnings: 209
+Warnings: 821
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.45) = 0.0346153846153846
-(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
 (weight=0.0769230769230769) * (score{lemmas}=0.9) = 0.0692307692307692
 (weight=0.256410256410256) * (score{size}=0.878885455306727) = 0.225355244950443
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.741176470588235) = 0.0570135746606335
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.891891891891892) = 0.0686070686070686
-(TOTAL score=0.518230790178929) * (availability=1) * (validity=1) = 0.518230790178929
+(TOTAL score=0.517728024970282) * (availability=1) * (validity=1) = 0.517728024970282
 STARS = 2.5
-UD_Classical_Chinese-Kyoto	0.518230790178929	2.5
+UD_Classical_Chinese-Kyoto	0.517728024970282	2.5
