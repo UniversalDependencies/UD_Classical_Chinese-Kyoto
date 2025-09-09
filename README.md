@@ -89,6 +89,7 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 Data available since: UD v2.4
 License: PD
 Includes text: yes
+Parallel: no
 Genre: nonfiction poetry
 Lemmas: converted with corrections
 UPOS: converted with corrections
