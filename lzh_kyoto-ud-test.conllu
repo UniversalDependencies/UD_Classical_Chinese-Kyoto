@@ -18023,7 +18023,7 @@
 
 # sent_id = KR2b0041_007_par2_514-518
 # text = 自謂陶朱公
-1	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	2	obj	_	Gloss=self|SpaceAfter=No
+1	自	自	PRON	n,代名詞,人称,他	PronType=Prs|Reflex=Yes	2	obl	_	Gloss=self|SpaceAfter=No
 2	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 3	陶朱	陶朱	PROPN	n,名詞,人,その他の人名	NameType=Prs	4	compound	_	SpaceAfter=No
 4	公	公	NOUN	n,名詞,人,役割	_	2	obj	_	Gloss=duke|SpaceAfter=No
