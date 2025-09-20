@@ -8086,12 +8086,12 @@
 
 # sent_id = KR1h0001_011_par9_96-101
 # text = 惟弈秋之為聽
-1	惟	惟	ADV	v,副詞,範囲,限定	_	5	advmod	_	Gloss=only|SpaceAfter=No
+1	惟	惟	ADV	v,副詞,範囲,限定	_	6	advmod	_	Gloss=only|SpaceAfter=No
 2	弈	弈	NOUN	n,名詞,可搬,道具	_	3	nmod	_	Gloss=board-game|SpaceAfter=No
 3	秋	秋	PROPN	n,名詞,人,名	NameType=Giv	5	obj	_	Gloss=[given-name]|SpaceAfter=No
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	5	expl	_	Gloss=[3PRON]|SpaceAfter=No
-5	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
-6	聽	聽	VERB	v,動詞,行為,伝達	_	5	obj	_	Gloss=listen|SpaceAfter=No
+5	為	爲	VERB	v,動詞,行為,生産	_	6	ccomp	_	Gloss=make|SpaceAfter=No
+6	聽	聽	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=listen|SpaceAfter=No
 
 # sent_id = KR1h0001_011_par9_102-106
 # text = 一人雖聽之
@@ -15504,7 +15504,7 @@
 
 # sent_id = KR1d0052_043_par2_590-596
 # text = 此之謂民之父母
-1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	obj	_	Gloss=this|SpaceAfter=No
+1	此	此	PRON	n,代名詞,指示,*	PronType=Dem	3	nsubj	_	Gloss=this|SpaceAfter=No
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	3	expl	_	Gloss=[3PRON]|SpaceAfter=No
 3	謂	謂	VERB	v,動詞,行為,伝達	_	0	root	_	Gloss=speak-to|SpaceAfter=No
 4	民	民	NOUN	n,名詞,人,人	_	6	nmod	_	Gloss=people|SpaceAfter=No
@@ -18735,7 +18735,7 @@
 # text = 及是世民召徵
 1	及	及	VERB	v,動詞,行為,移動	_	4	advcl	_	Gloss=reach|SpaceAfter=No
 2	是	是	PRON	n,代名詞,指示,*	PronType=Dem	1	obj	_	Gloss=this|SpaceAfter=No
-3	世民	世民	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
+3	世民	世民	PROPN	n,名詞,人,名	NameType=Giv	4	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 4	召	召	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=summon|SpaceAfter=No
 5	徵	徵	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
 
@@ -22065,7 +22065,7 @@
 1	升	升	VERB	v,動詞,行為,動作	_	4	acl	_	Gloss=rise|SpaceAfter=No
 2	講	講	VERB	v,動詞,行為,交流	VerbForm=Part	3	amod	_	Gloss=discuss|SpaceAfter=No
 3	筵	筵	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=bamboo-mat|SpaceAfter=No
-4	者	者	PART	p,助詞,提示,*	_	5	obj	_	Gloss=that-which|SpaceAfter=No
+4	者	者	PART	p,助詞,提示,*	_	5	nsubj	_	Gloss=that-which|SpaceAfter=No
 5	至	至	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=arrive|SpaceAfter=No
 6	八千	八千	NUM	n,数詞,数,*	_	5	obj	_	SpaceAfter=No
 7	餘	餘	NOUN	n,名詞,数量,*	_	6	conj	_	Gloss=surplus|SpaceAfter=No
@@ -28668,7 +28668,7 @@
 # text = 上賜妃浴兒金銀錢
 1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	2	nsubj	_	Gloss=up|SpaceAfter=No
 2	賜	賜	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=bestow|SpaceAfter=No
-3	妃	妃	NOUN	n,名詞,人,関係	_	2	obj	_	Gloss=princely-consort|SpaceAfter=No
+3	妃	妃	NOUN	n,名詞,人,関係	_	2	iobj	_	Gloss=princely-consort|SpaceAfter=No
 4	浴	浴	VERB	v,動詞,行為,動作	VerbForm=Part	5	amod	_	Gloss=bathe|SpaceAfter=No
 5	兒	兒	NOUN	n,名詞,人,人	_	6	acl	_	Gloss=child|SpaceAfter=No
 6	金	金	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=metal|SpaceAfter=No
@@ -39000,7 +39000,7 @@
 
 # sent_id = KR2b0041_016_par16_229-236
 # text = 上處分本州事驚人
-1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=up|SpaceAfter=No
+1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	2	nsubj	_	Gloss=up|SpaceAfter=No
 2	處	處	VERB	v,動詞,行為,設置	_	0	root	_	Gloss=place|SpaceAfter=No
 3	分	分	VERB	v,動詞,行為,設置	_	2	flat:vv	_	Gloss=divide|SpaceAfter=No
 4	本	本	NOUN	n,名詞,描写,形質	_	5	nmod	_	Gloss=base|SpaceAfter=No
@@ -47368,7 +47368,7 @@
 
 # sent_id = KR2e0003_032_par1_256-259
 # text = 而與高都
-1	而	而	CCONJ	p,助詞,接続,並列	_	2	obj	_	Gloss=and|SpaceAfter=No
+1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	與	與	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=participate|SpaceAfter=No
 3	高都	高都	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	obj	_	Gloss=[place-name]|SpaceAfter=No
 
