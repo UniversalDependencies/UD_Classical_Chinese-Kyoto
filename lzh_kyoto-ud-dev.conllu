@@ -25795,7 +25795,7 @@
 # sent_id = KR2b0041_016_par4_987-997
 # text = 吾藥籠中物何可一日無也
 1	吾	吾	PRON	n,代名詞,人称,起格	Person=1|PronType=Prs	5	det	_	Gloss=[1PRON]|SpaceAfter=No
-2	藥	藥	NOUN	n,名詞,可搬,道具	_	3	obl	_	Gloss=medicine|SpaceAfter=No
+2	藥	藥	NOUN	n,名詞,可搬,道具	_	3	nmod	_	Gloss=medicine|SpaceAfter=No
 3	籠	籠	NOUN	n,名詞,可搬,道具	_	4	nmod	_	SpaceAfter=No
 4	中	中	NOUN	n,名詞,固定物,関係	Case=Loc	5	nmod	_	Gloss=centre|SpaceAfter=No
 5	物	物	NOUN	n,名詞,可搬,道具	_	10	nsubj	_	Gloss=thing|SpaceAfter=No
