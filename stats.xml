@@ -5,8 +5,8 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>86239</sentences><tokens>433168</tokens><words>433168</words><fused>0</fused></total>
-    <train><sentences>74609</sentences><tokens>374559</tokens><words>374559</words><fused>0</fused></train>
+    <total><sentences>86239</sentences><tokens>433169</tokens><words>433169</words><fused>0</fused></total>
+    <train><sentences>74609</sentences><tokens>374560</tokens><words>374560</words><fused>0</fused></train>
     <dev><sentences>6102</sentences><tokens>31043</tokens><words>31043</words><fused>0</fused></dev>
     <test><sentences>5528</sentences><tokens>27566</tokens><words>27566</words><fused>0</fused></test>
   </size>
@@ -16,19 +16,19 @@
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
     <tag name="ADP">8650</tag><!-- 於, 與, 爲, 于, 自, 乎, 及, 由, 從, 有 -->
-    <tag name="ADV">42224</tag><!-- 不, 以, 則, 必, 皆, 故, 乃, 非, 亦, 未 -->
+    <tag name="ADV">42227</tag><!-- 不, 以, 則, 必, 皆, 故, 乃, 非, 亦, 未 -->
     <tag name="AUX">7517</tag><!-- 爲, 可, 能, 欲, 敢, 足, 得, 宜, 應, 被 -->
     <tag name="CCONJ">7623</tag><!-- 而, 以, 扁, 若 -->
     <tag name="INTJ">131</tag><!-- 嗟, 羌, 呼, 噫, 於, 嗚, 嘻, 蹇, 咨, 謇 -->
     <tag name="NOUN">123065</tag><!-- 王, 人, 子, 君, 天, 國, 下, 臣, 公, 上 -->
     <tag name="NUM">8133</tag><!-- 三, 一, 五, 二, 百, 四, 萬, 千, 十, 九 -->
     <tag name="PART">21383</tag><!-- 也, 者, 所, 矣, 兮, 乎, 焉, 夫, 哉, 已 -->
-    <tag name="PRON">20798</tag><!-- 之, 其, 是, 此, 何, 吾, 自, 我, 子, 或 -->
+    <tag name="PRON">20797</tag><!-- 之, 其, 是, 此, 何, 吾, 自, 我, 子, 或 -->
     <tag name="PROPN">45765</tag><!-- 秦, 齊, 魏, 楚, 趙, 韓, 周, 燕, 張, 李 -->
     <tag name="PUNCT">5</tag><!-- “ -->
-    <tag name="SCONJ">9150</tag><!-- 之, 兮, 移 -->
+    <tag name="SCONJ">9151</tag><!-- 之, 兮, 移 -->
     <tag name="SYM">1364</tag><!-- ○, □, 井, 刀, 劉, 卯, 金, 項 -->
-    <tag name="VERB">137360</tag><!-- 曰, 以, 有, 大, 無, 爲, 謂, 使, 如, 得 -->
+    <tag name="VERB">137358</tag><!-- 曰, 以, 有, 大, 無, 爲, 謂, 使, 如, 得 -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="35">
@@ -54,64 +54,64 @@
     <feat name="NumType" value="Ord" upos="NUM">141</feat><!-- 丁, 己, 庚申, 戊, 甲, 甲子, 己卯, 戊寅, 辛, 丁丑 -->
     <feat name="Person" value="1" upos="PRON">1916</feat><!-- 吾, 我, 予, 余, 朕, 僕, 言 -->
     <feat name="Person" value="2" upos="PRON">737</feat><!-- 子, 爾, 汝, 女, 而, 若 -->
-    <feat name="Person" value="3" upos="PRON">11102</feat><!-- 之, 其, 厥 -->
+    <feat name="Person" value="3" upos="PRON">11101</feat><!-- 之, 其, 厥 -->
     <feat name="Polarity" value="Neg" upos="ADV,VERB">14405</feat><!-- 不, 無, 非, 未, 弗, 莫, 毋, 勿, 微, 靡 -->
     <feat name="PronType" value="Dem" upos="PRON">4197</feat><!-- 是, 此, 彼, 斯, 某, 他, 夫, 焉, 惟, 茲 -->
     <feat name="PronType" value="Int" upos="PRON">1362</feat><!-- 何, 孰, 誰, 奚, 曷, 害, 瑕, 甚 -->
-    <feat name="PronType" value="Prs" upos="PRON">15239</feat><!-- 之, 其, 吾, 自, 我, 子, 或, 己, 諸, 予 -->
+    <feat name="PronType" value="Prs" upos="PRON">15238</feat><!-- 之, 其, 吾, 自, 我, 子, 或, 己, 諸, 予 -->
     <feat name="Reflex" value="Yes" upos="PRON">1041</feat><!-- 自, 己 -->
     <feat name="Tense" value="Fut" upos="ADV">630</feat><!-- 將, 且, 預, 倡, 更, 鄉 -->
     <feat name="Tense" value="Past" upos="ADV">402</feat><!-- 嘗, 曾, 曩, 向, 鄉 -->
     <feat name="Tense" value="Pres" upos="ADV">94</feat><!-- 方, 甫, 屬 -->
-    <feat name="VerbForm" value="Conv" upos="ADV">13475</feat><!-- 以, 大, 無, 然, 因, 獨, 始, 凡, 甚, 當 -->
+    <feat name="VerbForm" value="Conv" upos="ADV">13478</feat><!-- 以, 大, 無, 然, 因, 獨, 始, 凡, 甚, 當 -->
     <feat name="VerbForm" value="Part" upos="VERB">12996</feat><!-- 大, 太, 寡, 皇, 小, 主, 長, 明, 庶, 有 -->
     <feat name="VerbType" value="Cop" upos="AUX">2790</feat><!-- 為, 爲, 是 -->
     <feat name="Voice" value="Pass" upos="AUX">97</feat><!-- 被, 見 -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="43">
-    <dep name="acl">4866</dep>
-    <dep name="advcl">4486</dep>
-    <dep name="advmod">43318</dep>
-    <dep name="amod">14372</dep>
+    <dep name="acl">4870</dep>
+    <dep name="advcl">4488</dep>
+    <dep name="advmod">43326</dep>
+    <dep name="amod">14370</dep>
     <dep name="appos">1</dep>
-    <dep name="aux">4527</dep>
+    <dep name="aux">4528</dep>
     <dep name="case">16902</dep>
     <dep name="cc">5948</dep>
-    <dep name="ccomp">6776</dep>
+    <dep name="ccomp">6777</dep>
     <dep name="clf">2069</dep>
     <dep name="compound">5352</dep>
     <dep name="compound:redup">634</dep>
-    <dep name="conj">18336</dep>
+    <dep name="conj">18344</dep>
     <dep name="cop">2790</dep>
-    <dep name="csubj">2981</dep>
-    <dep name="csubj:outer">62</dep>
+    <dep name="csubj">2975</dep>
+    <dep name="csubj:outer">63</dep>
     <dep name="csubj:pass">1</dep>
     <dep name="det">5370</dep>
-    <dep name="discourse">825</dep>
-    <dep name="discourse:sp">12965</dep>
-    <dep name="dislocated">269</dep>
-    <dep name="expl">423</dep>
+    <dep name="discourse">826</dep>
+    <dep name="discourse:sp">12966</dep>
+    <dep name="dislocated">268</dep>
+    <dep name="expl">425</dep>
     <dep name="fixed">764</dep>
     <dep name="flat">11499</dep>
     <dep name="flat:foreign">64</dep>
     <dep name="flat:vv">5759</dep>
-    <dep name="iobj">1252</dep>
+    <dep name="iobj">1249</dep>
     <dep name="list">116</dep>
-    <dep name="mark">2779</dep>
-    <dep name="nmod">30099</dep>
-    <dep name="nsubj">50565</dep>
-    <dep name="nsubj:outer">1414</dep>
+    <dep name="mark">2780</dep>
+    <dep name="nmod">30100</dep>
+    <dep name="nsubj">50591</dep>
+    <dep name="nsubj:outer">1412</dep>
     <dep name="nsubj:pass">17</dep>
     <dep name="nummod">5420</dep>
-    <dep name="obj">59136</dep>
-    <dep name="obl">5608</dep>
-    <dep name="obl:lmod">5019</dep>
-    <dep name="obl:tmod">4186</dep>
-    <dep name="orphan">2</dep>
-    <dep name="parataxis">8444</dep>
+    <dep name="obj">59053</dep>
+    <dep name="obl">5645</dep>
+    <dep name="obl:lmod">5020</dep>
+    <dep name="obl:tmod">4187</dep>
+    <dep name="orphan">6</dep>
+    <dep name="parataxis">8442</dep>
     <dep name="root">86239</dep>
-    <dep name="vocative">202</dep>
-    <dep name="xcomp">1311</dep>
+    <dep name="vocative">201</dep>
+    <dep name="xcomp">1312</dep>
   </deps>
 </treebank>

@@ -41,6 +41,9 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * bug fix for `obj`.
+
 * 2025-05-15 v2.16
   * bug fix and Gloss addition.
 
@@ -89,6 +92,7 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 Data available since: UD v2.4
 License: PD
 Includes text: yes
+Parallel: no
 Genre: nonfiction poetry
 Lemmas: converted with corrections
 UPOS: converted with corrections
