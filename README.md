@@ -41,6 +41,9 @@ This Treebank is taken under the full text of [論語](https://corpus.kanji.zinb
 
 # Changelog
 
+* 2026-05-25 v2.18
+  * bug fix and Gloss addtion.
+
 * 2025-11-15 v2.17
   * bug fix for `obj`.
 
