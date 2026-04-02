@@ -20151,7 +20151,7 @@
 2	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	1	iobj	_	Gloss=[3PRON]|SpaceAfter=No
 3	五	五	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=five|SpaceAfter=No
 4	花	花	NOUN	n,名詞,固定物,樹木	_	6	nmod	_	Gloss=flower|SpaceAfter=No
-5	判	判	VERB	v,動詞,行為,役割	VerbForm=Part	6	amod	_	SpaceAfter=No
+5	判	判	VERB	v,動詞,行為,役割	VerbForm=Part	6	amod	_	Gloss=judge|SpaceAfter=No
 6	事	事	NOUN	n,名詞,可搬,成果物	_	1	obj	_	Gloss=affair|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_903-912
@@ -21826,7 +21826,7 @@
 2	宿	宿	VERB	v,動詞,行為,動作	_	4	acl	_	Gloss=stay|SpaceAfter=No
 3	衞	衞	VERB	v,動詞,行為,動作	_	2	flat:vv	_	Gloss=guard|SpaceAfter=No
 4	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
-5	番	番	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	SpaceAfter=No
+5	番	番	NOUN	n,名詞,時,*	Case=Tem	6	obl:tmod	_	Gloss=turn|SpaceAfter=No
 6	上	上	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=rise|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2004-2010
@@ -21837,7 +21837,7 @@
 4	遠	遠	VERB	v,動詞,描写,量	Degree=Pos	3	obj	_	Gloss=distant|SpaceAfter=No
 5	近	近	VERB	v,動詞,描写,形質	Degree=Pos	4	conj	_	Gloss=near|SpaceAfter=No
 6	給	給	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=provide|SpaceAfter=No
-7	番	番	NOUN	n,名詞,時,*	Case=Tem	6	obj	_	SpaceAfter=No
+7	番	番	NOUN	n,名詞,時,*	Case=Tem	6	obj	_	Gloss=turn|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par2_2011-2012
 # text = 遠疎
@@ -27654,7 +27654,7 @@
 # sent_id = KR2b0041_016_par6_520-523
 # text = 更番上下
 1	更	更	VERB	v,動詞,行為,動作	_	3	csubj	_	Gloss=replace|SpaceAfter=No
-2	番	番	NOUN	n,名詞,時,*	Case=Tem	1	obj	_	SpaceAfter=No
+2	番	番	NOUN	n,名詞,時,*	Case=Tem	1	obj	_	Gloss=turn|SpaceAfter=No
 3	上	上	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=rise|SpaceAfter=No
 4	下	下	VERB	v,動詞,行為,動作	_	3	flat:vv	_	Gloss=go-down|SpaceAfter=No
 
@@ -28105,7 +28105,7 @@
 5	鑑	鑒	NOUN	n,名詞,可搬,道具	_	6	nmod	_	Gloss=mirror|SpaceAfter=No
 6	錄	錄	NOUN	n,名詞,主体,書物	_	1	obj	_	Gloss=[book-name]|SpaceAfter=No
 7	五	五	NUM	n,数詞,数字,*	_	6	nummod	_	Gloss=five|SpaceAfter=No
-8	卷	卷	NOUN	n,名詞,可搬,伝達	_	7	clf	_	SpaceAfter=No
+8	卷	卷	NOUN	n,名詞,可搬,伝達	_	7	clf	_	Gloss=volume|SpaceAfter=No
 9	上	上	VERB	v,動詞,行為,得失	_	1	parataxis	_	Gloss=rise|SpaceAfter=No
 10	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	9	obj	_	Gloss=[3PRON]|SpaceAfter=No
 
@@ -31882,7 +31882,7 @@
 # text = 大曆初判國子監
 1	大曆	大曆	NOUN	n,名詞,時,*	Case=Tem	2	nmod	_	Gloss=[era-name]|SpaceAfter=No
 2	初	初	NOUN	n,名詞,時,*	Case=Tem	3	obl:tmod	_	Gloss=at-the-beginning|SpaceAfter=No
-3	判	判	VERB	v,動詞,行為,役割	_	0	root	_	SpaceAfter=No
+3	判	判	VERB	v,動詞,行為,役割	_	0	root	_	Gloss=judge|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	5	nmod	_	Gloss=country|SpaceAfter=No
 5	子	子	NOUN	n,名詞,人,人	_	6	nmod	_	Gloss=master|SpaceAfter=No
 6	監	監	NOUN	n,名詞,人,役割	_	3	obj	_	SpaceAfter=No
@@ -34161,7 +34161,7 @@
 2	執	執	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hold|SpaceAfter=No
 3	瑊	瑊	PROPN	n,名詞,人,名	NameType=Giv	2	obj	_	Gloss=[given-name]|SpaceAfter=No
 4	以	以	ADV	v,動詞,行為,動作	VerbForm=Conv	5	advmod	_	Gloss=use|SpaceAfter=No
-5	賣	賣	VERB	v,動詞,行為,得失	_	2	parataxis	_	SpaceAfter=No
+5	賣	賣	VERB	v,動詞,行為,得失	_	2	parataxis	_	Gloss=sell|SpaceAfter=No
 6	燧	燧	NOUN	n,名詞,可搬,道具	_	5	obj	_	Gloss=device-for-making-fire|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par9_1233-1236
@@ -34460,7 +34460,7 @@
 # text = 至是判度支裴延齡譖贄
 1	至	至	VERB	v,動詞,行為,移動	_	8	advcl	_	Gloss=arrive|SpaceAfter=No
 2	是	是	PRON	n,代名詞,指示,*	PronType=Dem	1	obj	_	Gloss=this|SpaceAfter=No
-3	判	判	VERB	v,動詞,行為,役割	_	5	acl	_	SpaceAfter=No
+3	判	判	VERB	v,動詞,行為,役割	_	5	acl	_	Gloss=judge|SpaceAfter=No
 4	度	度	NOUN	n,名詞,制度,儀礼	_	3	obj	_	Gloss=degree|SpaceAfter=No
 5	支	支	NOUN	n,名詞,可搬,道具	_	8	nsubj	_	Gloss=branch|SpaceAfter=No
 6	裴	裴	PROPN	n,名詞,人,姓氏	NameType=Sur	5	flat	_	Gloss=[surname]|SpaceAfter=No
@@ -39427,7 +39427,7 @@
 1	上	上	NOUN	n,名詞,固定物,関係	Case=Loc	2	nsubj	_	Gloss=up|SpaceAfter=No
 2	閉	閉	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=shut|SpaceAfter=No
 3	目	目	NOUN	n,名詞,不可譲,身体	_	2	obj	_	Gloss=eye|SpaceAfter=No
-4	搖	搖	VERB	v,動詞,行為,動作	_	2	parataxis	_	SpaceAfter=No
+4	搖	搖	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=shake|SpaceAfter=No
 5	首	首	NOUN	n,名詞,不可譲,身体	_	4	obj	_	Gloss=head|SpaceAfter=No
 
 # sent_id = KR2b0041_016_par16_490-490
@@ -44630,7 +44630,7 @@
 # text = 舍利弗其佛國土尚無三惡道之名
 1	舍利弗	舍利弗	PROPN	n,名詞,人,名	NameType=Giv	7	vocative	_	Gloss=[given-name]|SpaceAfter=No
 2	其	其	PRON	n,代名詞,人称,起格	Person=3|PronType=Prs	5	det	_	Gloss=[3PRON]|SpaceAfter=No
-3	佛	佛	NOUN	n,名詞,人,人	_	4	nmod	_	SpaceAfter=No
+3	佛	佛	NOUN	n,名詞,主体,神仏	_	4	nmod	_	Gloss=Buddha|SpaceAfter=No
 4	國	國	NOUN	n,名詞,主体,集団	_	5	nmod	_	Gloss=country|SpaceAfter=No
 5	土	土	NOUN	n,名詞,固定物,地形	Case=Loc	7	nsubj	_	Gloss=earth|SpaceAfter=No
 6	尚	尙	ADV	v,動詞,行為,態度	VerbForm=Conv	7	advmod	_	Gloss=esteem|SpaceAfter=No
@@ -44981,7 +44981,7 @@
 9	俱	俱	ADV	v,副詞,範囲,共同	_	10	advmod	_	Gloss=together|SpaceAfter=No
 10	會	會	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=come-together|SpaceAfter=No
 11	一	一	NUM	n,数詞,数字,*	_	12	nummod	_	Gloss=one|SpaceAfter=No
-12	處	處	NOUN	n,名詞,固定物,関係	Case=Loc	10	obj	_	SpacesAfter=\n
+12	處	處	NOUN	n,名詞,固定物,関係	Case=Loc	10	obj	_	Gloss=place|SpacesAfter=\n
 
 # newpar text = 舍利弗不可以少善根福德因緣得生彼國舍利弗若有善男子善女人聞說阿彌陀佛執持名號若一日若二日若三日若四日若五日若六日若七日一心不亂
 # sent_id = KR6f0082_001_par19_1-17
@@ -48207,7 +48207,7 @@
 1	折	折	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=break|SpaceAfter=No
 2	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
 3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	賣	賣	VERB	v,動詞,行為,得失	_	1	conj	_	SpaceAfter=No
+4	賣	賣	VERB	v,動詞,行為,得失	_	1	conj	_	Gloss=sell|SpaceAfter=No
 
 # sent_id = KR2e0003_037_par1_64-65
 # text = 將死
