@@ -20379,7 +20379,7 @@
 # sent_id = KR2b0041_007_par6_1150-1154
 # text = 絶筆於獲麟
 1	絶	絶	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=cut-off|SpaceAfter=No
-2	筆	筆	NOUN	n,名詞,可搬,道具	_	4	nsubj	_	SpaceAfter=No
+2	筆	筆	NOUN	n,名詞,可搬,道具	_	4	nsubj	_	Gloss=writing-brush|SpaceAfter=No
 3	於	於	ADP	v,前置詞,基盤,*	_	4	mark	_	Gloss=at|SpaceAfter=No
 4	獲	獲	VERB	v,動詞,行為,得失	_	1	ccomp	_	Gloss=catch|SpaceAfter=No
 5	麟	麟	NOUN	n,名詞,主体,動物	_	4	obj	_	Gloss=[fabulous-animal]|SpaceAfter=No
@@ -24673,7 +24673,7 @@
 1	而	而	CCONJ	p,助詞,接続,並列	_	2	advmod	_	Gloss=and|SpaceAfter=No
 2	失	失	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=lose|SpaceAfter=No
 3	王	王	NOUN	n,名詞,人,役割	_	4	nmod	_	Gloss=king|SpaceAfter=No
-4	処	處	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	SpaceAfter=No
+4	処	處	NOUN	n,名詞,固定物,関係	Case=Loc	2	obj	_	Gloss=place|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par12_1104-1106
 # text = 其母曰
@@ -24734,7 +24734,7 @@
 1	汝	汝	PRON	n,代名詞,人称,起格	Person=2|PronType=Prs	3	nsubj	_	Gloss=[2PRON]|SpaceAfter=No
 2	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	3	advmod	_	Gloss=not|SpaceAfter=No
 3	知	知	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=know|SpaceAfter=No
-4	処	處	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	SpaceAfter=No
+4	処	處	NOUN	n,名詞,固定物,関係	Case=Loc	3	obj	_	Gloss=place|SpaceAfter=No
 
 # sent_id = KR2b0041_007_par12_1141-1145
 # text = 汝尙何歸焉
@@ -36800,7 +36800,7 @@
 # sent_id = KR4a0001_001_par35_8-13
 # text = 喟憑心而歷茲
 1	喟	喟	ADV	v,動詞,行為,態度	VerbForm=Conv	2	advmod	_	Gloss=sigh|SpaceAfter=No
-2	憑	憑	VERB	v,動詞,行為,態度	_	0	root	_	SpaceAfter=No
+2	憑	憑	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=rely-on|SpaceAfter=No
 3	心	心	NOUN	n,名詞,不可譲,身体	_	2	obj	_	Gloss=heart|SpaceAfter=No
 4	而	而	CCONJ	p,助詞,接続,並列	_	5	cc	_	Gloss=and|SpaceAfter=No
 5	歷	歷	VERB	v,動詞,行為,役割	_	2	conj	_	Gloss=pass-through-in-order|SpaceAfter=No
@@ -42922,7 +42922,7 @@
 3	趙	趙	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	conj	_	Gloss=[country-name]|SpaceAfter=No
 4	之	之	SCONJ	p,助詞,接続,属格	_	2	case	_	Gloss='s|SpaceAfter=No
 5	相	相	ADV	v,副詞,範囲,共同	_	6	advmod	_	Gloss=each-other|SpaceAfter=No
-6	賣	賣	VERB	v,動詞,行為,得失	_	0	root	_	SpaceAfter=No
+6	賣	賣	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=sell|SpaceAfter=No
 7	乎	乎	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 
 # sent_id = KR2e0003_019_par1_79-85
@@ -42950,7 +42950,7 @@
 3	趙	趙	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	2	conj	_	Gloss=[country-name]|SpaceAfter=No
 4	必	必	ADV	v,副詞,判断,確定	_	6	advmod	_	Gloss=necessarily|SpaceAfter=No
 5	相	相	ADV	v,副詞,範囲,共同	_	6	advmod	_	Gloss=each-other|SpaceAfter=No
-6	賣	賣	VERB	v,動詞,行為,得失	_	0	root	_	SpaceAfter=No
+6	賣	賣	VERB	v,動詞,行為,得失	_	0	root	_	Gloss=sell|SpaceAfter=No
 
 # sent_id = KR2e0003_019_par1_97-101
 # text = 以合於王也
@@ -43530,7 +43530,7 @@
 2	於	於	ADP	v,前置詞,基盤,*	_	5	case	_	Gloss=at|SpaceAfter=No
 3	多	多	VERB	v,動詞,描写,量	Degree=Pos	5	acl	_	Gloss=many|SpaceAfter=No
 4	鳥	鳥	NOUN	n,名詞,主体,動物	_	3	obj	_	Gloss=bird|SpaceAfter=No
-5	處	處	NOUN	n,名詞,固定物,関係	Case=Loc	1	obl	_	SpaceAfter=No
+5	處	處	NOUN	n,名詞,固定物,関係	Case=Loc	1	obl	_	Gloss=place|SpaceAfter=No
 
 # sent_id = KR2e0003_023_par1_57-61
 # text = 則又駭鳥矣
@@ -43919,7 +43919,7 @@
 5	東	東	NOUN	n,名詞,固定物,関係	Case=Loc	6	nmod	_	Gloss=east|SpaceAfter=No
 6	方	方	NOUN	n,名詞,固定物,関係	Case=Loc	8	nmod	_	Gloss=direction|SpaceAfter=No
 7	之	之	SCONJ	p,助詞,接続,属格	_	6	case	_	Gloss='s|SpaceAfter=No
-8	處	處	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	SpaceAfter=No
+8	處	處	NOUN	n,名詞,固定物,関係	Case=Loc	4	obj	_	Gloss=place|SpaceAfter=No
 
 # sent_id = KR2e0003_025_par1_56-59
 # text = 秦必重公
