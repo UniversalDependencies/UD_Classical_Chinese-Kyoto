@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Classical_Chinese-Kyoto:
-commit 6b5f6173bc19b141cccb9edfc5a7f0d03fcadfaa
-Merge: 9a16f5c 10a0fb7
+commit 6c2cff3cd4bd434788c94af5ae36c0e29e3d82fa
+Merge: 59415ac 2f5ff2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'lzh_kyoto'
@@ -25,46 +25,69 @@ Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-dev.conllu
-[Line 940 Sent KR1h0004_012_par12_3-13]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 1033 Sent KR1h0004_012_par15_11-17]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 1907 Sent KR1h0004_013_par3_41-51]: [L3 Warning fixed-without-extpos] Fixed expression '闕 如' does not have the 'ExtPos' feature
-[Line 2397 Sent KR1h0004_013_par11_9-16]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 2544 Sent KR1h0004_013_par15_4-10]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 2564 Sent KR1h0004_013_par15_17-25]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 2638 Sent KR1h0004_013_par15_65-73]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 3003 Sent KR1h0004_013_par20_59-61]: [L3 Warning fixed-without-extpos] Fixed expression '硜 然' does not have the 'ExtPos' feature
-[Line 3003 Sent KR1h0004_013_par20_59-61]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '硜 * 然'
-[Line 3017 Sent KR1h0004_013_par20_65-71]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
+[Line 940 Sent KR1h0004_012_par12_3-13]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 1033 Sent KR1h0004_012_par15_11-17]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 1907 Sent KR1h0004_013_par3_41-51]: [L3 WARNING fixed-without-extpos] Fixed expression '闕 如' does not have the 'ExtPos' feature
+[Line 2397 Sent KR1h0004_013_par11_9-16]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2544 Sent KR1h0004_013_par15_4-10]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2564 Sent KR1h0004_013_par15_17-25]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2638 Sent KR1h0004_013_par15_65-73]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3003 Sent KR1h0004_013_par20_59-61]: [L3 WARNING fixed-without-extpos] Fixed expression '硜 然' does not have the 'ExtPos' feature
+[Line 3003 Sent KR1h0004_013_par20_59-61]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] '硜 * 然'
+[Line 3017 Sent KR1h0004_013_par20_65-71]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 45782 Sent KR6f0082_001_par28_62-76]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 45781 Sent KR6f0082_001_par28_62-76]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 45839 Sent KR6f0082_001_par29_16-42]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 45838 Sent KR6f0082_001_par29_16-42]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 45968 Sent KR6f0082_001_par30_72-81]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 45967 Sent KR6f0082_001_par30_72-81]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 46008 Sent KR6f0082_001_par31_16-25]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 46007 Sent KR6f0082_001_par31_16-25]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 Warnings: 73
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-test.conllu
-[Line 1238 Sent KR1h0004_002_par9_18-21]: [L3 Warning fixed-without-extpos] Fixed expression '足 以' does not have the 'ExtPos' feature
-[Line 1306 Sent KR1h0004_002_par11_8-12]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 2408 Sent KR1h0004_003_par14_8-12]: [L3 Warning fixed-without-extpos] Fixed expression '郁 乎' does not have the 'ExtPos' feature
-[Line 2408 Sent KR1h0004_003_par14_8-12]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '郁 * 乎'
-[Line 2858 Sent KR1h0004_003_par23_15-17]: [L3 Warning fixed-without-extpos] Fixed expression '翕 如' does not have the 'ExtPos' feature
-[Line 2869 Sent KR1h0004_003_par23_20-22]: [L3 Warning fixed-without-extpos] Fixed expression '純 如' does not have the 'ExtPos' feature
-[Line 2875 Sent KR1h0004_003_par23_23-25]: [L3 Warning fixed-without-extpos] Fixed expression '皦 如' does not have the 'ExtPos' feature
-[Line 2881 Sent KR1h0004_003_par23_26-28]: [L3 Warning fixed-without-extpos] Fixed expression '繹 如' does not have the 'ExtPos' feature
-[Line 3073 Sent KR1h0001_001_par1_16-23]: [L3 Warning fixed-without-extpos] Fixed expression '有 以' does not have the 'ExtPos' feature
-[Line 3641 Sent KR1h0001_001_par3_77-80]: [L3 Warning fixed-without-extpos] Fixed expression '填 然' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
+[Line 1238 Sent KR1h0004_002_par9_18-21]: [L3 WARNING fixed-without-extpos] Fixed expression '足 以' does not have the 'ExtPos' feature
+[Line 1306 Sent KR1h0004_002_par11_8-12]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 2408 Sent KR1h0004_003_par14_8-12]: [L3 WARNING fixed-without-extpos] Fixed expression '郁 乎' does not have the 'ExtPos' feature
+[Line 2408 Sent KR1h0004_003_par14_8-12]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] '郁 * 乎'
+[Line 2858 Sent KR1h0004_003_par23_15-17]: [L3 WARNING fixed-without-extpos] Fixed expression '翕 如' does not have the 'ExtPos' feature
+[Line 2869 Sent KR1h0004_003_par23_20-22]: [L3 WARNING fixed-without-extpos] Fixed expression '純 如' does not have the 'ExtPos' feature
+[Line 2875 Sent KR1h0004_003_par23_23-25]: [L3 WARNING fixed-without-extpos] Fixed expression '皦 如' does not have the 'ExtPos' feature
+[Line 2881 Sent KR1h0004_003_par23_26-28]: [L3 WARNING fixed-without-extpos] Fixed expression '繹 如' does not have the 'ExtPos' feature
+[Line 3073 Sent KR1h0001_001_par1_16-23]: [L3 WARNING fixed-without-extpos] Fixed expression '有 以' does not have the 'ExtPos' feature
+[Line 3641 Sent KR1h0001_001_par3_77-80]: [L3 WARNING fixed-without-extpos] Fixed expression '填 然' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 39442 Sent KR6c0127_001_par4_51-60]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 39441 Sent KR6c0127_001_par4_51-60]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 39443 Sent KR6c0127_001_par4_51-60]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 39441 Sent KR6c0127_001_par4_51-60]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
 Warnings: 103
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang lzh --max-err=10 UD_Classical_Chinese-Kyoto/lzh_kyoto-ud-train.conllu
-[Line 180 Sent KR1h0004_004_par5_43-46]: [L3 Warning fixed-without-extpos] Fixed expression '惡 乎' does not have the 'ExtPos' feature
-[Line 2030 Sent KR1h0004_005_par22_16-19]: [L3 Warning fixed-without-extpos] Fixed expression '斐 然' does not have the 'ExtPos' feature
-[Line 3271 Sent KR1h0004_006_par21_7-11]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 3287 Sent KR1h0004_006_par21_16-21]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 3546 Sent KR1h0004_006_par27_13-19]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-[Line 3841 Sent KR1h0004_007_par4_5-8]: [L3 Warning fixed-without-extpos] Fixed expression '申 如' does not have the 'ExtPos' feature
-[Line 3841 Sent KR1h0004_007_par4_5-8]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '申 * 如'
-[Line 3848 Sent KR1h0004_007_par4_9-12]: [L3 Warning fixed-without-extpos] Fixed expression '夭 如' does not have the 'ExtPos' feature
-[Line 3848 Sent KR1h0004_007_par4_9-12]: [L3 Warning fixed-gap] Gaps in fixed expression [1, 3] '夭 * 如'
-[Line 4348 Sent KR1h0004_007_par17_11-17]: [L3 Warning fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
-...suppressing further errors regarding Warning
-Warnings: 826
+[Line 180 Sent KR1h0004_004_par5_43-46]: [L3 WARNING fixed-without-extpos] Fixed expression '惡 乎' does not have the 'ExtPos' feature
+[Line 2030 Sent KR1h0004_005_par22_16-19]: [L3 WARNING fixed-without-extpos] Fixed expression '斐 然' does not have the 'ExtPos' feature
+[Line 3271 Sent KR1h0004_006_par21_7-11]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3287 Sent KR1h0004_006_par21_16-21]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3546 Sent KR1h0004_006_par27_13-19]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+[Line 3841 Sent KR1h0004_007_par4_5-8]: [L3 WARNING fixed-without-extpos] Fixed expression '申 如' does not have the 'ExtPos' feature
+[Line 3841 Sent KR1h0004_007_par4_5-8]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] '申 * 如'
+[Line 3848 Sent KR1h0004_007_par4_9-12]: [L3 WARNING fixed-without-extpos] Fixed expression '夭 如' does not have the 'ExtPos' feature
+[Line 3848 Sent KR1h0004_007_par4_9-12]: [L3 WARNING fixed-gap] Gaps in fixed expression [1, 3] '夭 * 如'
+[Line 4348 Sent KR1h0004_007_par17_11-17]: [L3 WARNING fixed-without-extpos] Fixed expression '可 以' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+[Line 411556 Sent KR6c0023_001_par2_49-67]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 411555 Sent KR6c0023_001_par2_49-67]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 411557 Sent KR6c0023_001_par2_49-67]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 411555 Sent KR6c0023_001_par2_49-67]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 411640 Sent KR6c0023_001_par2_113-129]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 411639 Sent KR6c0023_001_par2_113-129]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 411641 Sent KR6c0023_001_par2_113-129]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 411639 Sent KR6c0023_001_par2_113-129]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 412401 Sent KR6c0023_001_par7_8-20]: [L3 WARNING flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+[Line 412400 Sent KR6c0023_001_par7_8-20]: [L3 WARNING flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
+...suppressing further messages regarding WARNING/MORPHO
+Warnings: 821
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.45) = 0.05
