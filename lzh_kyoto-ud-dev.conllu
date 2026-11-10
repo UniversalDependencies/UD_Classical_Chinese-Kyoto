@@ -35981,7 +35981,7 @@
 5	法	法	NOUN	n,名詞,制度,儀礼	_	6	nmod	_	Gloss=law|SpaceAfter=No
 6	門	門	NOUN	n,名詞,固定物,建造物	Case=Loc	7	nmod	_	Gloss=gate|SpaceAfter=No
 7	寺	寺	NOUN	n,名詞,主体,機関	_	8	nmod	_	Gloss=Buddhist-temple|SpaceAfter=No
-8	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	11	nmod	_	SpaceAfter=No
+8	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	11	nmod	_	Gloss=pagoda|SpaceAfter=No
 9	佛	佛	NOUN	n,名詞,人,役割	_	11	nmod	_	SpaceAfter=No
 10	指	指	NOUN	n,名詞,不可譲,身体	_	11	nmod	_	Gloss=finger|SpaceAfter=No
 11	骨	骨	NOUN	n,名詞,不可譲,身体	_	3	obj	_	Gloss=bone|SpaceAfter=No

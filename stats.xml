@@ -10,7 +10,7 @@
     <dev><sentences>6102</sentences><tokens>31043</tokens><words>31043</words><fused>0</fused></dev>
     <test><sentences>5528</sentences><tokens>27566</tokens><words>27566</words><fused>0</fused></test>
   </size>
-  <lemmas unique="9641" /><!-- 之, 不, 而, 也, 以, 曰, 爲, 王, 者, 其, 人, 於, 有, 子, 大 -->
+  <lemmas unique="9640" /><!-- 之, 不, 而, 也, 以, 曰, 爲, 王, 者, 其, 人, 於, 有, 子, 大 -->
   <forms unique="9776" /><!-- 之, 不, 而, 也, 以, 曰, 王, 者, 其, 人, 於, 有, 子, 為, 大 -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->

@@ -259553,7 +259553,7 @@
 1	卓	卓	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj	_	Gloss=[given-name]|SpaceAfter=No
 2	手	手	NOUN	n,名詞,不可譲,身体	_	3	obl	_	Gloss=hand|SpaceAfter=No
 3	戟	戟	NOUN	n,名詞,可搬,道具	_	0	root	_	Gloss=lance|SpaceAfter=No
-4	擲	擲	VERB	v,動詞,行為,動作	_	3	parataxis	_	SpaceAfter=No
+4	擲	擲	VERB	v,動詞,行為,動作	_	3	parataxis	_	Gloss=throw|SpaceAfter=No
 5	布	布	PROPN	n,名詞,人,名	NameType=Giv	4	obj	_	Gloss=[given-name]|SpaceAfter=No
 
 # sent_id = KR2b0041_010_par12_163-166
@@ -310087,7 +310087,7 @@
 1	開	開	VERB	v,動詞,行為,動作	_	3	acl	_	Gloss=open|SpaceAfter=No
 2	寶	寶	NOUN	n,名詞,可搬,道具	_	1	obj	_	Gloss=treasure|SpaceAfter=No
 3	寺	寺	NOUN	n,名詞,主体,機関	_	4	nmod	_	Gloss=Buddhist-temple|SpaceAfter=No
-4	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	5	nsubj	_	SpaceAfter=No
+4	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	5	nsubj	_	Gloss=pagoda|SpaceAfter=No
 5	成	成	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=complete|SpaceAfter=No
 
 # sent_id = KR2b0041_018_par2_848-851
@@ -380537,7 +380537,7 @@
 # newpar text = 塔勢如湧出孤高聳天宮登臨出世界磴道盤虛空突兀壓神州崢嶸如鬼工四角礙白日七層摩蒼穹下窺指高鳥俯聽聞驚風連山若波濤奔湊如朝東青槐夾馳道宮館何玲瓏秋色從西來蒼然滿關中五陵北原上萬古青濛濛淨理了可悟勝因夙所宗誓將挂冠去覺道資無窮
 # sent_id = KR4h0169_025_par1_1-5
 # text = 塔勢如湧出
-1	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	2	nmod	_	SpaceAfter=No
+1	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	2	nmod	_	Gloss=pagoda|SpaceAfter=No
 2	勢	勢	NOUN	n,名詞,行為,*	_	3	nsubj	_	Gloss=power|SpaceAfter=No
 3	如	如	VERB	v,動詞,行為,分類	Degree=Equ	0	root	_	Gloss=be-like|SpaceAfter=No
 4	湧	湧	VERB	v,動詞,行為,動作	_	3	obj	_	SpaceAfter=No
@@ -387650,7 +387650,7 @@
 # text = 石廩騰擲堆祝融
 1	石廩	石廩	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	2	nsubj	_	Gloss=[place-name]|SpaceAfter=No
 2	騰	騰	VERB	v,動詞,行為,移動	_	0	root	_	Gloss=rise|SpaceAfter=No
-3	擲	擲	VERB	v,動詞,行為,動作	_	2	flat:vv	_	SpaceAfter=No
+3	擲	擲	VERB	v,動詞,行為,動作	_	2	flat:vv	_	Gloss=throw|SpaceAfter=No
 4	堆	堆	VERB	v,動詞,描写,量	Degree=Pos	2	parataxis	_	SpaceAfter=No
 5	祝融	祝融	PROPN	n,名詞,固定物,地名	Case=Loc|NameType=Geo	4	obj	_	Gloss=[place-name]|SpaceAfter=No
 
@@ -387738,11 +387738,11 @@
 # text = 手持盃珓導我擲
 1	手	手	NOUN	n,名詞,不可譲,身体	_	2	nsubj	_	Gloss=hand|SpaceAfter=No
 2	持	持	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=hold|SpaceAfter=No
-3	盃	盃	NOUN	n,名詞,可搬,道具	_	2	obj	_	SpaceAfter=No
+3	盃	杯	NOUN	n,名詞,可搬,道具	_	2	obj	_	Gloss=cup|SpaceAfter=No
 4	珓	珓	NOUN	n,名詞,可搬,道具	_	3	conj	_	SpaceAfter=No
 5	導	導	VERB	v,動詞,行為,動作	_	2	parataxis	_	Gloss=lead|SpaceAfter=No
 6	我	我	PRON	n,代名詞,人称,止格	Person=1|PronType=Prs	5	obj	_	Gloss=[1PRON]|SpaceAfter=No
-7	擲	擲	VERB	v,動詞,行為,動作	_	5	parataxis	_	SpaceAfter=No
+7	擲	擲	VERB	v,動詞,行為,動作	_	5	parataxis	_	Gloss=throw|SpaceAfter=No
 
 # sent_id = KR4h0169_068_par1_162-168
 # text = 云此最吉餘難同
@@ -413427,7 +413427,7 @@
 13	養	養	VERB	v,動詞,行為,動作	_	12	flat:vv	_	Gloss=support|SpaceAfter=No
 14	如	如	VERB	v,動詞,行為,分類	Degree=Equ	19	csubj	_	Gloss=be-like|SpaceAfter=No
 15	佛	佛	NOUN	n,名詞,人,役割	_	16	nmod	_	SpaceAfter=No
-16	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	17	nmod	_	SpaceAfter=No
+16	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	17	nmod	_	Gloss=pagoda|SpaceAfter=No
 17	廟	廟	NOUN	n,名詞,固定物,建造物	Case=Loc	14	obj	_	Gloss=ancestral-temple|SpaceAfter=No
 18	何	何	ADV	v,副詞,疑問,原因	AdvType=Cau	19	advmod	_	Gloss=what|SpaceAfter=No
 19	況	況	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=compare|SpaceAfter=No
@@ -414868,7 +414868,7 @@
 3	則	則	ADV	v,副詞,時相,緊接	AdvType=Tim	4	advmod	_	Gloss=then|SpaceAfter=No
 4	為	爲	VERB	v,動詞,行為,生産	_	0	root	_	Gloss=make|SpaceAfter=No
 5	是	是	PRON	n,代名詞,指示,*	PronType=Dem	4	iobj	_	Gloss=this|SpaceAfter=No
-6	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	4	obj	_	SpaceAfter=No
+6	塔	塔	NOUN	n,名詞,固定物,建造物	Case=Loc	4	obj	_	Gloss=pagoda|SpaceAfter=No
 
 # sent_id = KR6c0023_001_par30_33-40
 # text = 皆應恭敬作禮圍繞
@@ -529566,7 +529566,7 @@
 # text = 盡一盃
 1	盡	盡	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=exhaust|SpaceAfter=No
 2	一	一	NUM	n,数詞,数字,*	_	3	nummod	_	Gloss=one|SpaceAfter=No
-3	盃	盃	NOUN	n,名詞,度量衡,*	NounType=Clf	1	obj	_	SpaceAfter=No
+3	盃	杯	NOUN	n,名詞,度量衡,*	NounType=Clf	1	obj	_	Gloss=cup|SpaceAfter=No
 
 # sent_id = KR2e0003_290_par1_38-43
 # text = 文侯謂覩師贊
